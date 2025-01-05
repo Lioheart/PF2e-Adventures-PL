@@ -1,0 +1,15 @@
+{
+  "id": "lang-pf2e-adventures",
+  "title": "Polskie Przygody PF2e",
+  "version": "vDev",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "src/translator.js"
+  ],
+  "url": "Filled in by the release workflow",
+  "manifest":"Filled in by the release workflow",
+  "download": "Filled in by the release workflow"
+}
