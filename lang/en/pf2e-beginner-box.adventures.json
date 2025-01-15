@@ -627,13 +627,36 @@
             },
             "scenes": {
                 "Floor 1": {
-                    "name": "Floor 1"
+                    "name": "Floor 1",
+                    "notes": {
+                        "01: Hungry Rats": "01: Hungry Rats",
+                        "02. Drop into Darkness": "02. Drop into Darkness",
+                        "03. The Spider's Web": "03. The Spider's Web",
+                        "04. The Barricade": "04. The Barricade",
+                        "05. Forgotten Crypt": "05. Forgotten Crypt",
+                        "06. Forgotten Shrine": "06. Forgotten Shrine",
+                        "07. Abandoned Storeroom": "07. Abandoned Storeroom",
+                        "08. Trapped Hallway": "08. Trapped Hallway",
+                        "09. Gold Puzzle": "09. Gold Puzzle",
+                        "10. Abadar's Vault": "10. Abadar's Vault",
+                        "11. Kobolds and Traps": "11. Kobolds and Traps"
+                    }
                 },
                 "Floor 1 (Original)": {
                     "name": "Floor 1 (Original)"
                 },
                 "Floor 2": {
-                    "name": "Floor 2"
+                    "name": "Floor 2",
+                    "notes": {
+                        "12. Kobold Lookouts": "12. Kobold Lookouts",
+                        "13. Soggy Crossroads": "13. Soggy Crossroads",
+                        "14. Elements of Chaos": "14. Elements of Chaos",
+                        "15. Xulgath Cave": "15. Xulgath Cave",
+                        "16. Mermaid Fountain": "16. Mermaid Fountain",
+                        "17. Kobold Warren": "17. Kobold Warren",
+                        "18. Dragonkeeper": "18. Dragonkeeper",
+                        "19. Mushroom Grotto": "19. Mushroom Grotto"
+                    }
                 },
                 "Floor 2 (Original)": {
                     "name": "Floor 2 (Original)"
@@ -642,7 +665,25 @@
                     "name": "Landing"
                 },
                 "Otari": {
-                    "name": "Otari"
+                    "name": "Otari",
+                    "notes": {
+                        "The Giant's Wheel": "The Giant's Wheel",
+                        "Loading Flume": "Loading Flume",
+                        "Stone Ring Pond": "Stone Ring Pond",
+                        "Wrin's Wonders": "Wrin's Wonders",
+                        "Gallentine Deliveries": "Gallentine Deliveries",
+                        "Blades for Glades": "Blades for Glades",
+                        "Odd Stories": "Odd Stories",
+                        "Otari Garrison": "Otari Garrison",
+                        "Crow's Casks": "Crow's Casks",
+                        "Crook's Nook": "Crook's Nook",
+                        "Otari Market": "Otari Market",
+                        "Otari Fishery": "Otari Fishery",
+                        "Ruins of the Thirsty Alpaca": "Ruins of the Thirsty Alpaca",
+                        "The Rowdy Rockfish": "The Rowdy Rockfish",
+                        "Dawnflower Library": "Dawnflower Library",
+                        "Otari Graveyard": "Otari Graveyard"
+                    }
                 }
             },
             "macros": {
