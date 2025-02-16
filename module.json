@@ -6,10 +6,9 @@
     "minimum": "12",
     "verified": "12"
   },
-  "esmodules": [
-    "src/translator.js"
-  ],
+  "esmodules": ["src/translator.js"],
+  "styles": ["styles.css"],
   "url": "Filled in by the release workflow",
-  "manifest":"Filled in by the release workflow",
+  "manifest": "Filled in by the release workflow",
   "download": "Filled in by the release workflow"
 }
