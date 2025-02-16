@@ -7,7 +7,7 @@
     "verified": "12"
   },
   "esmodules": ["src/translator.js"],
-  "styles": ["styles.css"],
+  "styles": ["static/styles/styles.css"],
   "url": "Filled in by the release workflow",
   "manifest": "Filled in by the release workflow",
   "download": "Filled in by the release workflow"
