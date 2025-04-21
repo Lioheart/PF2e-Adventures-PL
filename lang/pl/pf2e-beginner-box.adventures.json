@@ -752,6 +752,7 @@
             "playlists": {
                 "Exploration Loops": {
                     "name": "Pętle eksploracyjne",
+                    "description": "Seria zapętlonej scenerii do eksploracji pierwszego piętra.",
                     "sounds": {
                         "Crypt Drone Loop": {
                             "name": "Pętla Krypty"
@@ -766,9 +767,11 @@
                 },
                 "Floor 1 Exploration Ambience": {
                     "name": "Piętro 1 Atmosfera eksploracji",
+                    "description": "Wstępnie zmiksowane pojedyncze utwory do eksploracji",
                     "sounds": {
                         "Deeds Done In Darkness": {
-                            "name": "Czyny dokonane w ciemności"
+                            "name": "Czyny dokonane w ciemności",
+                            "description": "Delikatne, okresowe instrumentacje wywołujące uczucie przekradania się przez niebezpieczne terytorium"
                         }
                     }
                 },
@@ -776,12 +779,14 @@
                     "name": "Piętro 2 Atmosfera eksploracji",
                     "sounds": {
                         "Drones In The Deep": {
-                            "name": "Zanurzanie się w głębinach"
+                            "name": "Zanurzanie się w głębinach",
+                            "description": "Głębokie, rezonujące harmoniczne i słabe instrumentarium."
                         }
                     }
                 },
                 "Floor 2 Mermaid Fountain": {
                     "name": "Piętro 2 Fontanna Syreny",
+                    "description": "To tylko fontanna, nie ma się czym martwić.",
                     "sounds": {
                         "The Mermaid Fountain Basin Loop": {
                             "name": "Pętla basenu fontanny syreny"
@@ -796,6 +801,7 @@
                 },
                 "Floor 2 Soggy Crossroads": {
                     "name": "Piętro 2 Podmokłe Rozdroże",
+                    "description": "Mieszanka atmosfery pokrywająca rozmokły obszar skrzyżowania na piętrze 2.",
                     "sounds": {
                         "Watery Grave": {
                             "name": "Wodny grób"
@@ -807,6 +813,7 @@
                 },
                 "Otari Fishery": {
                     "name": "Łowisko Otari",
+                    "description": "Kryty przybytek wypełniony gwarnym tłumem pijących hazardzistów i rybaków.",
                     "sounds": {
                         "Otari Fishery": {
                             "name": "Łowisko Otari"
@@ -815,6 +822,7 @@
                 },
                 "Otari Wharf": {
                     "name": "Nabrzeże Otari",
+                    "description": "Dźwięki nadmorskiego miasteczka.",
                     "sounds": {
                         "Otari Seaside": {
                             "name": "Nadmorskie Otari"
@@ -823,6 +831,7 @@
                 },
                 "Soundboard Loops": {
                     "name": "Pętle Soundboard",
+                    "description": "Kolekcja powtarzających się pętli, które mogą być odtwarzane indywidualnie w celu rozszerzenia innych list odtwarzania.",
                     "sounds": {
                         "Zolgran Plotting": {
                             "name": "Spisek Zolgrany"
@@ -852,6 +861,7 @@
                 },
                 "Barricades": {
                     "name": "Barykady",
+                    "description": "Para dźwięków do burzenia barykad",
                     "sounds": {
                         "Disassembling Barricade": {
                             "name": "Rozkładanie barykady"
@@ -860,7 +870,8 @@
                             "name": "Roztrzaskująca się barykada"
                         },
                         "Breaking The Stone Wall": {
-                            "name": "Przełamywanie kamiennej ściany"
+                            "name": "Przełamywanie kamiennej ściany",
+                            "description": "Wyraźny dźwięk walącej się kamiennej ściany."
                         },
                         "Moving the Barrels": {
                             "name": "Przesuwanie beczek"
@@ -869,6 +880,7 @@
                 },
                 "Dragon Soundboard": {
                     "name": "Soundboard Smoka",
+                    "description": "Dźwięki używane podczas spotkania z Młodym Zielonym Smokiem",
                     "sounds": {
                         "Wyrmling Growl Distant 01": {
                             "name": "Odległy pomruk Smoka 01"
@@ -906,7 +918,8 @@
                     "name": "Szczur żużlowy",
                     "sounds": {
                         "The Rat's On Fire": {
-                            "name": "Szczur w ogniu"
+                            "name": "Szczur w ogniu",
+                            "description": "Brzmi to prawie tak, jakby szczur właśnie eksplodował ze szklanej kuli pełnej ognia."
                         }
                     }
                 }
@@ -914,9 +927,7 @@
             "actors": {
                 "Cinder Rat": {
                     "name": "Żużlowy Szczur",
-                    "tokenName": {
-                        "name": "Żużlowy Szczur"
-                    },
+                    "tokenName": "Żużlowy Szczur",
                     "publicNotes": "<p>Żywiołaki ognia są destrukcyjnymi manifestacjami Planu Ognia. Czasami przychodzą na świat w potężnych miejscach gorąca i płomieni, gdzie tworzą się wiry żywiołów, takich jak wulkany.</p>\n<p>Żużlowe szczury to ogromne gryzonie stworzone z tlącego się węgla drzewnego i żywiołu ognia. Z ich płonących ciał nieustannie wydobywają się szkodliwe opary. Podobnie jak szczury lądowe, żużlowe szczury szukają odosobnionych nor i mogą szybko rozmnażać się, jeśli nie są kontrolowane.</p>",
                     "items": {
                         "Jaws": {
@@ -934,9 +945,7 @@
                 },
                 "Giant Rat": {
                     "name": "Olbrzymi Szczur",
-                    "tokenName": {
-                        "name": "Olbrzymi Szczur"
-                    },
+                    "tokenName": "Olbrzymi Szczur",
                     "publicNotes": "<p>Olbrzymie szczury to ogromne wersje zwykłych szkodników. Zwykle występują w dużych ilościach, ale ponieważ nie mogą zmieścić się w zakamarkach, w których zwykle chowają się zwykłe szczury, są znacznie łatwiejsze do zlokalizowania i wytępienia. W rzeczywistości znalezienie i zabicie olbrzymiego szczura jest rytuałem przejścia dla wielu poszukiwaczy przygód. Takie zadania szybko stają się męczące, więc wielu weteranów zleca eksterminację nowym poszukiwaczom przygód.</p>\n<p>Olbrzymie szczury żyją głównie w kanałach, gdzie mogą zbierać śmieci z ulic powyżej, ale niektóre rodziny olbrzymich szczurów żyją w bardziej odległych miejscach, takich jak wilgotne jaskinie, lasy lub wzgórza. Szczury są niezwykle zdolne do przetrwania i można je znaleźć niemal na całym świecie, choć preferują umiarkowany lub ciepły klimat, a nie zimne regiony.</p>\n<p>Chociaż samo ich ugryzienie nie jest śmiertelne, z wyjątkiem bardzo słabych osób, niektóre olbrzymie szczury przenoszą niebezpieczną chorobę powszechną wśród gryzoni na całym świecie - zarazę bardziej niż zdolną do spustoszenia wiejskich społeczności. Szczury są jedynie nosicielami, bez ryzyka, że same zapadną na tę chorobę.</p>",
                     "items": {
                         "Jaws": {
@@ -946,9 +955,7 @@
                 },
                 "Giant Spider": {
                     "name": "Olbrzymi Pająk",
-                    "tokenName": {
-                        "name": "Olbrzymi Pająk"
-                    },
+                    "tokenName": "Olbrzymi Pająk",
                     "publicNotes": "<p>Niewiele codziennych szkodników budzi tyle strachu, co niesławny pająk. Olbrzymie pająki różnią się wielkością. Wersje wielkości człowieka, czasami nazywane pająkami myśliwskimi, są najczęstszym typem olbrzymiego pająka, choć nie największym.</p>",
                     "items": {
                         "Fangs": {
@@ -973,9 +980,7 @@
                 },
                 "Horned Dragon (Juvenile, BB)": {
                     "name": "Smok Rogaty (Młodociany, ZN)",
-                    "tokenName": {
-                        "name": "Smok Rogaty (Młodociany)"
-                    },
+                    "tokenName": "Smok Rogaty (Młodociany)",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -1009,9 +1014,7 @@
                 },
                 "Kobold Scout": {
                     "name": "Kobold Zwiadowca",
-                    "tokenName": {
-                        "name": "Kobold Zwiadowca"
-                    },
+                    "tokenName": "Kobold Zwiadowca",
                     "publicNotes": "<p>Większość koboldów napotkanych poza dobrze bronionymi legowiskami to koboldy zwiadowcze, wyszkolone do polowań i podchodów. Ich zadaniem jest przynoszenie żywności i cennych towarów z powrotem do społeczności. Koboldy z konieczności potrafią współpracować i często organizują zasadzki lub ataki typu \"uderz i uciekaj\", które pozwalają im wyrządzić jak największe szkody bez narażania się na większe ryzyko.</p>",
                     "items": {
                         "Shortsword": {
@@ -1024,9 +1027,7 @@
                 },
                 "Kobold Trapmaster": {
                     "name": "Kobold Mistrz Pułapek",
-                    "tokenName": {
-                        "name": "Kobold Mistrz Pułapek"
-                    },
+                    "tokenName": "Kobold Mistrz Pułapek",
                     "publicNotes": "<p>Koboldowi mistrzowie pułapek są mistrzami w tworzeniu i wdrażaniu podstępnych pułapek w legowiskach koboldów i są powszechnie szanowani wśród swojego gatunku.</p>",
                     "items": {
                         "Shortsword": {
@@ -1047,9 +1048,7 @@
                 },
                 "Kobold Warrior": {
                     "name": "Kobold Wojownik",
-                    "tokenName": {
-                        "name": "Kobold Wojownik"
-                    },
+                    "tokenName": "Kobold Wojownik",
                     "publicNotes": "<p>Typowy kobold trenuje z prostą bronią. Koboldy są zdolne do wyprowadzania podstępnych ataków na niczego niepodejrzewających wrogów, ale równie szybko uciekają w bezpieczne miejsce, jeśli ich grupa nie przewyższa liczebnie wrogów co najmniej dwa do jednego.</p>\n<p>Koboldy wierzą w pragmatyzm, a pokonany kobold woli się poddać niż stawić czoła śmierci. Można nawet porzucić swoich koboldów i oddać się w służbę zwycięzcy, jeśli alternatywą jest przedwczesna śmierć.</p>",
                     "items": {
                         "Spear": {
@@ -1059,9 +1058,7 @@
                 },
                 "Skeleton Guard": {
                     "name": "Strażnik Szkielet",
-                    "tokenName": {
-                        "name": "Strażnik Szkielet"
-                    },
+                    "tokenName": "Strażnik Szkielet",
                     "publicNotes": "<p>Szkielety, stworzone z kości połączonych nekromancją, często nawiedzają stare lochy i patrolują zapomniane cmentarze. Wielu mistrzów zła woli trzymać wiecznie czujnych nieumarłych jako sługusów, aby uniknąć kosztów związanych z karmieniem i zaspokajaniem psychologicznych potrzeb żywych strażników.</p>\n<p>Zwykli szkieletowi strażnicy pozostają najpopularniejszymi szkieletowymi pupilami. Szkielety te są bezmyślne, co oznacza, że nie są w stanie rozumować, ale mogą wykonywać swoje podstawowe obowiązki polegające na pilnowaniu i atakowaniu intruzów. Grupa kilku szkieletów broniących tego samego miejsca zazwyczaj składa się z wojowników walczących wręcz i łuczników, którzy strzelają strzałami z daleka.</p>",
                     "items": {
                         "Scimitar": {
@@ -1077,9 +1074,7 @@
                 },
                 "Xulgath Warrior (BB)": {
                     "name": "Xulgath Wojownik (ZN)",
-                    "tokenName": {
-                        "name": "Xulgath Wojownik"
-                    },
+                    "tokenName": "Xulgath Wojownik",
                     "publicNotes": "<p>Reptiliańskie humanoidy żyjące pod ziemią, xulgathowie (znani jako troglodyci wielu mieszkańcom powierzchni) atakują intruzów na swoim terytorium na pierwszy rzut oka. Żyją w rodzinnych społecznościach, walcząc o przetrwanie z rywalizującymi grupami i innymi agresywnymi mieszkańcami podziemi. Od czasu do czasu napadają na osady na powierzchni, zwykle na rozkaz okrutnych, żądnych krwi przywódców. Typowy xulgath ma matowoszare, ciemnoszare lub popielate łuski z długim ogonem i kościstymi wypukłościami wzdłuż kręgosłupa.</p>",
                     "items": {
                         "Club": {
@@ -1102,9 +1097,7 @@
                 },
                 "Kobold Boss Zolgran (BB)": {
                     "name": "Szefowa Koboldów Zolgran (ZN)",
-                    "tokenName": {
-                        "name": "Szefowa Koboldów Zolgran"
-                    },
+                    "tokenName": "Szefowa Koboldów Zolgran",
                     "items": {
                         "Wizard Spells": {
                             "name": "Zaklęcia Czarodzieja"
@@ -1128,9 +1121,7 @@
                 },
                 "Zombie Shambler": {
                     "name": "Zombie Szwędacz",
-                    "tokenName": {
-                        "name": "Zombie Szwędacz"
-                    },
+                    "tokenName": "Zombie Szwędacz",
                     "publicNotes": "<p>Jedynym pragnieniem zombie jest pożeranie żywych. Nieprzemyślane i zawsze szokujące zwiastuny śmierci, zombie zatrzymują się tylko wtedy, gdy zostaną zniszczone. Wśród żywych trupów, zombie są najczęściej wykorzystywane jako mięso armatnie, osłabiając obronę, zanim potężniejsi nieumarli zadadzą zabójczy cios. Zombie nie potrafią myśleć samodzielnie, ale mogą być dowodzone przez innych sprzymierzonych nieumarłych i potężnych nekromantów.</p>",
                     "items": {
                         "Fist": {
@@ -1148,9 +1139,7 @@
                 },
                 "Central Spears (BB)": {
                     "name": "Centralne Włócznie (ZN)",
-                    "tokenName": {
-                        "name": "Centralne Włócznie"
-                    },
+                    "tokenName": "Centralne Włócznie",
                     "items": {
                         "Spear Barrage": {
                             "name": "Zapora z Włóczni",
@@ -1163,9 +1152,7 @@
                 },
                 "Falling Ceiling (BB)": {
                     "name": "Spadający Sufit (ZN)",
-                    "tokenName": {
-                        "name": "Spadający Sufit"
-                    },
+                    "tokenName": "Spadający Sufit",
                     "items": {
                         "Falling Stones": {
                             "name": "Spadające Kamienie",
@@ -1178,9 +1165,7 @@
                 },
                 "Mermaid Fountain (BB)": {
                     "name": "Fontanna Syreny (ZN)",
-                    "tokenName": {
-                        "name": "Fontanna Syreny"
-                    },
+                    "tokenName": "Fontanna Syreny",
                     "items": {
                         "Spray": {
                             "name": "Pryśnięcie"
@@ -1189,15 +1174,12 @@
                 },
                 "Spike Trap": {
                     "name": "Pułapka z Kolcami",
-                    "tokenName": {
-                        "name": "Pułapka z Kolcami"
-                    }
+                    "tokenName": "Pułapka z Kolcami",
+                    "description": "<p>Po rozmieszczeniu tej pułapki w danym polu, zadaje ona [[/r 2d8[piercing]]] obrażeń kłutych każdemu, kto wejdzie na to pole, z @Check[type:reflex|dc:17|basic:true] rzutem obronnym.</p>"
                 },
                 "Ezren": {
                     "name": "Ezren",
-                    "tokenName": {
-                        "name": "Ezren"
-                    },
+                    "tokenName": "Ezren",
                     "items": {
                         "Academia Lore": {
                             "name": "Wiedza Akademicka"
@@ -1209,9 +1191,7 @@
                 },
                 "Kyra": {
                     "name": "Kyra",
-                    "tokenName": {
-                        "name": "Kyra"
-                    },
+                    "tokenName": "Kyra",
                     "items": {
                         "Scribing Lore": {
                             "name": "Wiedza o Piśmiennictwie"
@@ -1230,9 +1210,7 @@
                 },
                 "Merisiel": {
                     "name": "Merisiel",
-                    "tokenName": {
-                        "name": "Merisiel"
-                    },
+                    "tokenName": "Merisiel",
                     "items": {
                         "Underworld Lore": {
                             "name": "Wiedza o Półświatku"
@@ -1241,9 +1219,7 @@
                 },
                 "Valeros": {
                     "name": "Valeros",
-                    "tokenName": {
-                        "name": "Valeros"
-                    },
+                    "tokenName": "Valeros",
                     "items": {
                         "Farming Lore": {
                             "name": "Wiedza o Rolnictwie"
@@ -1256,21 +1232,15 @@
                 },
                 "Abadar's Vault": {
                     "name": "Skarbiec Abadara",
-                    "tokenName": {
-                        "name": "Skarbiec Abadara"
-                    }
+                    "tokenName": "Skarbiec Abadara"
                 },
                 "Abandoned Storeroom": {
                     "name": "Opuszczony magazyn",
-                    "tokenName": {
-                        "name": "Opuszczony magazyn"
-                    }
+                    "tokenName": "Opuszczony magazyn"
                 },
                 "Dragon's Lair": {
                     "name": "Smocze legowisko",
-                    "tokenName": {
-                        "name": "Smocze legowisko"
-                    },
+                    "tokenName": "Smocze legowisko",
                     "items": {
                         "Emerald": {
                             "name": "Szmaragd"
@@ -1279,15 +1249,11 @@
                 },
                 "Forgotten Crypt": {
                     "name": "Zapomniana krypta",
-                    "tokenName": {
-                        "name": "Zapomniana krypta"
-                    }
+                    "tokenName": "Zapomniana krypta"
                 },
                 "Kobold Loot": {
                     "name": "Łup Koboldów",
-                    "tokenName": {
-                        "name": "Łup Koboldów"
-                    },
+                    "tokenName": "Łup Koboldów",
                     "items": {
                         "Crystal Decanter of Sour Wine": {
                             "name": "Kryształowa karafka z kwaśnym winem"
@@ -1296,21 +1262,15 @@
                 },
                 "Mermaid Fountain": {
                     "name": "Fontanna Syreny",
-                    "tokenName": {
-                        "name": "Fontanna Syreny"
-                    }
+                    "tokenName": "Fontanna Syreny"
                 },
                 "Spider's Lair": {
                     "name": "Legowisko pająka",
-                    "tokenName": {
-                        "name": "Legowisko pająka"
-                    }
+                    "tokenName": "Legowisko pająka"
                 },
                 "Zolgran's Treasure": {
                     "name": "Skarb Zolgrany",
-                    "tokenName": {
-                        "name": "Skarb Zolgrany"
-                    },
+                    "tokenName": "Skarb Zolgrany",
                     "items": {
                         "Old Map of a Strange-Looking Dungeon": {
                             "name": "Stara mapa dziwnie wyglądającego lochu"
@@ -1322,9 +1282,7 @@
                 },
                 "Small Bag": {
                     "name": "Mała torba",
-                    "tokenName": {
-                        "name": "Mała torba"
-                    }
+                    "tokenName": "Mała torba"
                 }
             },
             "description": "<p>„Menace under Otari” ma na celu nauczenie nowych Mistrzów Gry i graczy, jak grać w Pathfindera przy użyciu Foundry VTT. Każda sekcja przygody będzie uczyć nowych koncepcji i wprowadzać funkcje programu, dodając coraz więcej do gry. W międzyczasie pozostali gracze mają do dyspozycji bohatera, w którego mogą się wcielić, ucząc się, jak korzystać ze swoich umiejętności i jak odnieść sukces w niebezpiecznym świecie, który odkrywają.</p>"
