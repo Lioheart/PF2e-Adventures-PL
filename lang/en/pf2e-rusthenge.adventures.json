@@ -917,9 +917,7 @@
             "actors": {
                 "Sydri": {
                     "name": "Sydri",
-                    "tokenName": {
-                        "name": "Sydri"
-                    },
+                    "tokenName": "Sydri",
                     "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
                     "items": {
                         "Occult Innate Spells": {
@@ -943,21 +941,15 @@
                 },
                 "South Roof Barrel": {
                     "name": "South Roof Barrel",
-                    "tokenName": {
-                        "name": "Roof Barrels"
-                    }
+                    "tokenName": "Roof Barrels"
                 },
                 "Wall": {
                     "name": "Wall",
-                    "tokenName": {
-                        "name": "Wall"
-                    }
+                    "tokenName": "Wall"
                 },
                 "Rustsworn Cultist": {
                     "name": "Rustsworn Cultist",
-                    "tokenName": {
-                        "name": "Rustsworn Cultist"
-                    },
+                    "tokenName": "Rustsworn Cultist",
                     "publicNotes": "<p>Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning their leader, they devote themselves to achieving their most perfect spiritual form.</p><hr /><p>Those initiated into the hidden truths and forbidden secrets of the world are forever transformed-or so they claim. To the cynical, a mystic is nothing more than a charlatan or zealot. Others profess to sense an aura around such luminaries and treat them with reverence, lest they offend some harbinger of unspeakable doom.</p>",
                     "items": {
                         "Dagger": {
@@ -974,9 +966,7 @@
                 },
                 "Zombie Shambler": {
                     "name": "Zombie Shambler",
-                    "tokenName": {
-                        "name": "Zombie Shambler"
-                    },
+                    "tokenName": "Zombie Shambler",
                     "publicNotes": "<p>A zombie shambler is a slow-moving horror dangerous in larger groups.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>",
                     "items": {
                         "Fist": {
@@ -994,15 +984,11 @@
                 },
                 "Summoning Chamber": {
                     "name": "Summoning Chamber",
-                    "tokenName": {
-                        "name": "Summoning Chamber"
-                    }
+                    "tokenName": "Summoning Chamber"
                 },
                 "Rustsworn Initiate": {
                     "name": "Rustsworn Initiate",
-                    "tokenName": {
-                        "name": "Rustsworn Initiate"
-                    },
+                    "tokenName": "Rustsworn Initiate",
                     "items": {
                         "Dagger": {
                             "name": "Dagger"
@@ -1015,9 +1001,7 @@
                 },
                 "Haniver": {
                     "name": "Haniver",
-                    "tokenName": {
-                        "name": "Haniver"
-                    },
+                    "tokenName": "Haniver",
                     "publicNotes": "<p>Hanivers are the most benign type of gremlin-capricious fey who skim the waves on rubbery fin-wings. Though they don't actively sabotage their environment, sailors bemoan these gremlins' grasping fingers. Hanivers' incessant curiosity compels them to examine any object that draws their attention. Such treasures might include an overturned fruit basket, a sack of coins, or a shark's gleaming teeth (often still in the shark's mouth, to the fey's regret). Should hanivers like what they find, they steal it, making them a bane to fishers and dockworkers everywhere.</p><hr /><p>Gremlins arose long ago in the First World, living embodiments of nature's ability to wear away, erode, and decompose. On the Material Plane, their encounters with mortal civilizations twisted them into creatures devoted to chaos, sabotage, and traps, each variety specializing in a particular brand of mayhem.</p>",
                     "items": {
                         "Primal Innate Spells": {
@@ -1034,9 +1018,7 @@
                 },
                 "Vanda": {
                     "name": "Vanda",
-                    "tokenName": {
-                        "name": "Vanda"
-                    },
+                    "tokenName": "Vanda",
                     "items": {
                         "Greatsword": {
                             "name": "Greatsword"
@@ -1048,9 +1030,7 @@
                 },
                 "Envyspawn": {
                     "name": "Envyspawn",
-                    "tokenName": {
-                        "name": "Envyspawn"
-                    },
+                    "tokenName": "Envyspawn",
                     "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>",
                     "items": {
                         "Jaws": {
@@ -1074,9 +1054,8 @@
                 },
                 "Rusted Door": {
                     "name": "Rusted Door",
-                    "tokenName": {
-                        "name": "Rusted Door"
-                    },
+                    "tokenName": "Rusted Door",
+                    "description": "<p>Shards of rust extend from the door and crumble away to cling to the flesh and clothes of anyone who attempts to open or damage the door.</p>",
                     "items": {
                         "Inflict Rust Creep": {
                             "name": "Inflict Rust Creep",
@@ -1086,9 +1065,7 @@
                 },
                 "Severed Head": {
                     "name": "Severed Head",
-                    "tokenName": {
-                        "name": "Severed Head"
-                    },
+                    "tokenName": "Severed Head",
                     "publicNotes": "<p>The most common beheaded appears simply as a rotting head, barely preserved by the magic that created it.</p><hr /><p>Beheaded are the reanimated heads of decapitation victims. These mindless undead fly through the air or roll around to attack their prey.</p>",
                     "items": {
                         "Jaws": {
@@ -1106,15 +1083,11 @@
                 },
                 "Janis' Reward": {
                     "name": "Janis' Reward",
-                    "tokenName": {
-                        "name": "Janis' Reward"
-                    }
+                    "tokenName": "Janis' Reward"
                 },
                 "Azomi": {
                     "name": "Azomi",
-                    "tokenName": {
-                        "name": "Azomi"
-                    },
+                    "tokenName": "Azomi",
                     "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>",
                     "items": {
                         "Jaws": {
@@ -1138,9 +1111,7 @@
                 },
                 "Dero Stalker": {
                     "name": "Dero Stalker",
-                    "tokenName": {
-                        "name": "Dero Stalker"
-                    },
+                    "tokenName": "Dero Stalker",
                     "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
                     "items": {
                         "Occult Innate Spells": {
@@ -1164,9 +1135,7 @@
                 },
                 "Boggard Scout": {
                     "name": "Boggard Scout",
-                    "tokenName": {
-                        "name": "Boggard Scout"
-                    },
+                    "tokenName": "Boggard Scout",
                     "publicNotes": "<p>Often tasked with patrolling the borders of their lands, boggard scouts learn to speak another language (typically Common) to make it easier to issue threats and insults toward trespassers.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
                     "items": {
                         "Morningstar": {
@@ -1194,9 +1163,7 @@
                 },
                 "Elder Ordwi": {
                     "name": "Elder Ordwi",
-                    "tokenName": {
-                        "name": "Elder Ordwi"
-                    },
+                    "tokenName": "Elder Ordwi",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -1219,15 +1186,11 @@
                 },
                 "Sand": {
                     "name": "Sand",
-                    "tokenName": {
-                        "name": "Sand"
-                    }
+                    "tokenName": "Sand"
                 },
                 "Theiltemar": {
                     "name": "Theiltemar",
-                    "tokenName": {
-                        "name": "Theiltemar"
-                    },
+                    "tokenName": "Theiltemar",
                     "publicNotes": "<p>Among the ranks of the dead, none are so numerous, nor so varied, as the skeleton. While most are almost entirely made from bone, some maintain a few scraps of flesh to aid them in movement, such as wing membranes.</p>",
                     "items": {
                         "Divine Spontaneous Spells": {
@@ -1248,15 +1211,11 @@
                 },
                 "Fishing Hut": {
                     "name": "Fishing Hut",
-                    "tokenName": {
-                        "name": "Fishing Hut"
-                    }
+                    "tokenName": "Fishing Hut"
                 },
                 "Quarters": {
                     "name": "Quarters",
-                    "tokenName": {
-                        "name": "Quarters"
-                    },
+                    "tokenName": "Quarters",
                     "items": {
                         "Ancient Coins and Curiosities": {
                             "name": "Ancient Coins and Curiosities"
@@ -1265,9 +1224,8 @@
                 },
                 "Rusty Spike Launcher": {
                     "name": "Rusty Spike Launcher",
-                    "tokenName": {
-                        "name": "Rusty Spike Launcher"
-                    },
+                    "tokenName": "Rusty Spike Launcher",
+                    "description": "<p>As the large rusty door swings open, a mass of rusty spikes appear out of nowhere in the open doorway and launch violently into the room.</p>",
                     "items": {
                         "Launch Spikes": {
                             "name": "Launch Spikes",
@@ -1277,9 +1235,8 @@
                 },
                 "Rusty Floor Spikes": {
                     "name": "Rusty Floor Spikes",
-                    "tokenName": {
-                        "name": "Rusty Floor Spikes"
-                    },
+                    "tokenName": "Rusty Floor Spikes",
+                    "description": "<p>Pressure plates on the floor near the north door cause rusty spikes to lance up out of the floor in area <strong>C3</strong>.</p>",
                     "items": {
                         "Spring Up": {
                             "name": "Spring Up",
@@ -1296,9 +1253,7 @@
                 },
                 "Gurga": {
                     "name": "Gurga",
-                    "tokenName": {
-                        "name": "Gurga"
-                    },
+                    "tokenName": "Gurga",
                     "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
                     "items": {
                         "Primal Prepared Spells": {
@@ -1334,9 +1289,7 @@
                 },
                 "Vlorian Cythnigot": {
                     "name": "Vlorian Cythnigot",
-                    "tokenName": {
-                        "name": "Vlorian Cythnigot"
-                    },
+                    "tokenName": "Vlorian Cythnigot",
                     "publicNotes": "<p>The cythnigot is a foul fungal parasite that grows and thrives in the corpses of small creatures. It wears these bodies like a suit, but also adjusts and tailors the fleshy covering to suit its needs, and the body ends up looking as alien as anything else spawned from the Abyssal depths. The cythnigot's most identifying feature is the long stalk of fungal material that extends from creature's body, ending in a surprisingly strong set of fanged jaws.</p>",
                     "languagesDetails": "telepathy (touch only)",
                     "items": {
@@ -1358,9 +1311,7 @@
                 },
                 "Esipil": {
                     "name": "Esipil",
-                    "tokenName": {
-                        "name": "Esipil"
-                    },
+                    "tokenName": "Esipil",
                     "publicNotes": "<p>Among the least of the sahkils, esipils delight in spreading fears and uncertainty among people who live with animals that could turn on them. They generally appear to their prey as some benign creature such as a domesticated dog or cat, but once they gain trust and get their victims close, they transform into a terrifying creature that looks part dog and part worm with tendrils of viscera that the creature uses as both a tongue and a weapon.</p><p>Of all the sahkils, esipils are most likely to ingratiate themselves with mortals, sometimes serving powerful spellcasters and other times simply living among unsuspecting victims, biding their time until they strike.</p><hr /><p>Ages ago, when this cycle of the multiverse was still adolescent, a cabal of psychopomps who already felt bored and restrained in their role of ushering souls to their ultimate resting place rebelled against their station. It was this corruption of the cycle of souls that spawned the first sahkils.</p><p>Ambivalent to the prescribed order of the multiverse and spiteful of mortals, sahkils delight in spreading fear and unease to all beings, clogging up the metaphysical cycle with anxiety-ridden mortals too scared to achieve their potential. These fiends have drastically changed from their dedicated psychopomp predecessors. They are creatures of spite and torment, fear and disgust. They exploit the most common and rare fears for their own perverse satisfaction, and they want nothing more than to frighten mortals and make them quetion their reason for existence.</p><p>Most sahkils lurk on the Ethereal Plane, but they frequently invade the Material Plane to torment mortals and spread terror. They use their innate ability to slip between the veils of the Ethereal and Material effortlessly, often stalking their targets for days or weeks before enacting their devious plots.</p>",
                     "languagesDetails": "telepathy (touch)",
                     "items": {
@@ -1385,9 +1336,7 @@
                 },
                 "Starving Werebat": {
                     "name": "Starving Werebat",
-                    "tokenName": {
-                        "name": "Werebat"
-                    },
+                    "tokenName": "Werebat",
                     "publicNotes": "<p>Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate with elaborate social ceremonies and bloody hazing. The curse of the werebat gives them a strong urge to prey upon on weaker, lonely creatures. True werebats are often unusually tall and thin, with angular features. In combat, werebats favor their unarmed attacks because they can't fly while wielding weapons in their wings.</p><hr /><p>Werecreatures are humanoids who transform into animals and animal-humanoid hybrids under the light of the full moon. The fate of these shapechanging creatures derives from an ancient primal curse that they can, in turn, transmit through their own bites. The stat blocks in this section reflect werecreatures in their hybrid forms.</p>",
                     "languagesDetails": "bat empathy",
                     "items": {
@@ -1412,27 +1361,19 @@
                 },
                 "East Guard Station": {
                     "name": "East Guard Station",
-                    "tokenName": {
-                        "name": "East Guard Station"
-                    }
+                    "tokenName": "East Guard Station"
                 },
                 "East Weapon Racks": {
                     "name": "East Weapon Racks",
-                    "tokenName": {
-                        "name": "Weapon Racks"
-                    }
+                    "tokenName": "Weapon Racks"
                 },
                 "Anvil": {
                     "name": "Anvil",
-                    "tokenName": {
-                        "name": "Anvil"
-                    }
+                    "tokenName": "Anvil"
                 },
                 "Navigational Logs": {
                     "name": "Navigational Logs",
-                    "tokenName": {
-                        "name": "Navigational Logs"
-                    },
+                    "tokenName": "Navigational Logs",
                     "items": {
                         "Navigational Logs": {
                             "name": "Navigational Logs",
@@ -1442,35 +1383,25 @@
                 },
                 "Ship’s Payroll": {
                     "name": "Ship’s Payroll",
-                    "tokenName": {
-                        "name": "Ship’s Payroll"
-                    }
+                    "tokenName": "Ship’s Payroll"
                 },
                 "Iron-Bound Chest": {
                     "name": "Iron-Bound Chest",
-                    "tokenName": {
-                        "name": "Iron-Bound Chest"
-                    }
+                    "tokenName": "Iron-Bound Chest"
                 },
                 "Elder Vandous": {
                     "name": "Elder Vandous",
-                    "tokenName": {
-                        "name": "Elder Vandous"
-                    },
+                    "tokenName": "Elder Vandous",
                     "privateNotes": "<p>Is the oldest of the village elders, a record keeper and historian<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Elder Anlorgog": {
                     "name": "Elder Anlorgog",
-                    "tokenName": {
-                        "name": "Elder Anlorgog"
-                    },
+                    "tokenName": "Elder Anlorgog",
                     "privateNotes": "<p>Helps direct village fishing efforts<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Statue": {
                     "name": "Statue",
-                    "tokenName": {
-                        "name": "Statue"
-                    },
+                    "tokenName": "Statue",
                     "items": {
                         "Eye Garnets": {
                             "name": "Eye Garnets"
@@ -1479,9 +1410,7 @@
                 },
                 "Akata": {
                     "name": "Akata",
-                    "tokenName": {
-                        "name": "Akata"
-                    },
+                    "tokenName": "Akata",
                     "publicNotes": "<p>An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses.</p><p>When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal-the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse-now a void zombie-which shambles about of its own accord.</p>",
                     "items": {
                         "Jaws": {
@@ -1511,9 +1440,7 @@
                 },
                 "Glutu": {
                     "name": "Glutu",
-                    "tokenName": {
-                        "name": "Glutu"
-                    },
+                    "tokenName": "Glutu",
                     "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
                     "items": {
                         "Divine Prepared Spells": {
@@ -1545,9 +1472,7 @@
                 },
                 "Rusted Animated Armor": {
                     "name": "Rusted Animated Armor",
-                    "tokenName": {
-                        "name": "Rusted Animated Armor"
-                    },
+                    "tokenName": "Rusted Animated Armor",
                     "publicNotes": "<p>Suits of animated armor see use both as guardians and as training partners in high-end martial academies able to afford the extravagance. They are most often found in wizard laboratories and ancient dungeons.</p><hr /><p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>",
                     "items": {
                         "Glaive": {
@@ -1564,21 +1489,15 @@
                 },
                 "Research Lab": {
                     "name": "Research Lab",
-                    "tokenName": {
-                        "name": "Research Lab"
-                    }
+                    "tokenName": "Research Lab"
                 },
                 "Waterproof Leather Bag": {
                     "name": "Waterproof Leather Bag",
-                    "tokenName": {
-                        "name": "Waterproof Leather Bag"
-                    }
+                    "tokenName": "Waterproof Leather Bag"
                 },
                 "Meitremar": {
                     "name": "Meitremar",
-                    "tokenName": {
-                        "name": "Meitremar"
-                    },
+                    "tokenName": "Meitremar",
                     "items": {
                         "Divine Spontaneous Spells": {
                             "name": "Divine Spontaneous Spells"
@@ -1604,9 +1523,7 @@
                 },
                 "Secure Storage": {
                     "name": "Secure Storage",
-                    "tokenName": {
-                        "name": "Secure Storage"
-                    },
+                    "tokenName": "Secure Storage",
                     "items": {
                         "Unopened Pony Keg of Akvavit": {
                             "name": "Unopened Pony Keg of Akvavit",
@@ -1616,15 +1533,11 @@
                 },
                 "Shelves": {
                     "name": "Shelves",
-                    "tokenName": {
-                        "name": "Shelves"
-                    }
+                    "tokenName": "Shelves"
                 },
                 "Void Zombie": {
                     "name": "Void Zombie",
-                    "tokenName": {
-                        "name": "Void Zombie"
-                    },
+                    "tokenName": "Void Zombie",
                     "publicNotes": "<p>A void zombie arises when a humanoid dies from an akata's void death affliction. This walking corpse is animated by a larval akata attached to the deceased creature's brain, using a grotesque feeding tendril that emerges from the corpse's mouth to drink blood from its victims.</p><p>A void zombie typically exists for only a few months before it collapses and the larval akata crawls free from the motionless shell. When it feels the natural end of its unlife approaching, a void zombie finds a secluded place to vomit forth the nearly mature akata larva, then withers away. The disgorged larva metamorphizes into a full-grown akata several hours later, usually eating the corpse as its first meal.</p><p>The name \"void zombie\" is something of a misnomer; though still compelled by necromantic energies, a void zombie is a host in the life cycle of a parasitic alien, not a mindless, reanimated corpse (despite their similar appearances). The fact that a typical void zombie shares the neutral alignment of the larval akata within, rather than the intrinsically evil nature of other zombies, has caused some scholars to push to reclassify them under other names. Suggestions have included \"void dead,\" \"akata spawn,\" or \"bloodwalker,\" but the visceral and compelling commonplace name has proven difficult to shed.</p><p>The driving force behind a void zombie's violence rises from the ravenous hunger of the alien parasite that serves as the channel for its animating negative energies. Necromancers have tried often to duplicate the void zombie, but without a larval akata hosted within, the result is simply a zombie with missing jaws or, at best, one that moves faster than normal. Others have compared a captive void zombie to a captive yellow musk thrall in an attempt to discover a potential link between the two- after all, both are animated bodies controlled by a parasitic outside force. Strangely, a void zombie becomes particularly violent when encountering a yellow musk thrall, making direct comparisons of the two creatures particularly difficult, or even dangerous. The fact that a void zombie, unlike a yellow musk thrall, is actually undead may hold some clues as to the source of this strange behavior.</p>",
                     "items": {
                         "Fist": {
@@ -1645,9 +1558,7 @@
                 },
                 "Gorumite Acolyte": {
                     "name": "Gorumite Acolyte",
-                    "tokenName": {
-                        "name": "Gorumite Acolyte"
-                    },
+                    "tokenName": "Gorumite Acolyte",
                     "publicNotes": "<p>Underling clerics are still learning the tenets of their faith and answer to a superior priest. Their days are spent in devotion and learning, sequestered in temples.</p><hr /><p>Religions inspire devout individuals to uphold their tenets. Many of these devotees seek to bring respite and hope, but others have darker motives.</p>",
                     "items": {
                         "Divine Prepared Spells": {
@@ -1666,15 +1577,11 @@
                 },
                 "Rusty Ingots": {
                     "name": "Rusty Ingots",
-                    "tokenName": {
-                        "name": "Rusty Ingots"
-                    }
+                    "tokenName": "Rusty Ingots"
                 },
                 "Giant Centipede": {
                     "name": "Giant Centipede",
-                    "tokenName": {
-                        "name": "Giant Centipede"
-                    },
+                    "tokenName": "Giant Centipede",
                     "publicNotes": "<p>Most giant centipedes nest in small groups but hunt alone when they seek out food. Attempts to domesticate giant centipedes for use as guardians or pets generally end poorly, but some tribes of goblins, kobolds, and mitflits have developed effective methods of utilizing these vermin as guardians. Other tribes and some humanoid societies roast and eat centipedes, often with pungent peppers as a savory delicacy, although care must be taken in preparing the meal to avoid tainting the flesh with the creature's venom.</p><hr /><p>Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.</p>",
                     "items": {
                         "Mandibles": {
@@ -1688,15 +1595,12 @@
                 },
                 "Skeletal Remains": {
                     "name": "Skeletal Remains",
-                    "tokenName": {
-                        "name": "Skeletal Remains"
-                    }
+                    "tokenName": "Skeletal Remains"
                 },
                 "Ancient Apparatus": {
                     "name": "Ancient Apparatus",
-                    "tokenName": {
-                        "name": "Ancient Apparatus"
-                    },
+                    "tokenName": "Ancient Apparatus",
+                    "description": "<p>A complex device made of multicolored metal that resembles a combination of grinding gears, spider-like legs, and twitching blades, from which emits a constant soft ticking sound. All of the metal in the device appears to be rusted or corroded.</p>",
                     "items": {
                         "Spin Up": {
                             "name": "Spin Up",
@@ -1713,9 +1617,7 @@
                 },
                 "Captain Perrios’s Head": {
                     "name": "Captain Perrios’s Head",
-                    "tokenName": {
-                        "name": "Captain Perrios’s Head"
-                    },
+                    "tokenName": "Captain Perrios’s Head",
                     "items": {
                         "Fine Captain's Hat": {
                             "name": "Fine Captain's Hat",
@@ -1725,9 +1627,7 @@
                 },
                 "Rust Zombie": {
                     "name": "Rust Zombie",
-                    "tokenName": {
-                        "name": "Rust Zombie"
-                    },
+                    "tokenName": "Rust Zombie",
                     "publicNotes": "<p>Plague zombies are infested with hideous contagions.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>",
                     "items": {
                         "Fist": {
@@ -1749,21 +1649,15 @@
                 },
                 "Workshop": {
                     "name": "Workshop",
-                    "tokenName": {
-                        "name": "Workshop"
-                    }
+                    "tokenName": "Workshop"
                 },
                 "Rusty Mannequin": {
                     "name": "Rusty Mannequin",
-                    "tokenName": {
-                        "name": "Rusty Mannequin"
-                    }
+                    "tokenName": "Rusty Mannequin"
                 },
                 "Trygve": {
                     "name": "Trygve",
-                    "tokenName": {
-                        "name": "Trygve"
-                    },
+                    "tokenName": "Trygve",
                     "items": {
                         "Key": {
                             "name": "Key"
@@ -1782,9 +1676,7 @@
                 },
                 "Primordial Envy": {
                     "name": "Primordial Envy",
-                    "tokenName": {
-                        "name": "Primordial Envy"
-                    },
+                    "tokenName": "Primordial Envy",
                     "publicNotes": "<p>The primordial envy is most often found in underground ruins within Edasseril. It hungers for magic, leaching it from any source it can come into contact with. This hunger can be exploited by clever adventurers who bait it with powerful destructive magics. A primordial envy is one of the most defensive sin oozes, and it tends to layer abjuration spells over itself to both increase its resilience and empower its attacks.</p><hr /><p>Thassilon's ruins contain numerous sources of raw magical power that have been lost or forgotten. As many of these sources are steeped in sinful soul energy used by the runelords to enhance their power, some of these sources go \"sour,\" forming into a sinsludge—a mucky effluvium that develops into a barely rudimentary consciousness based on the emotion behind the sin.</p><h2>Other Sinsludges</h2><p>The primordial envy is the least dangerous sinsludge. The glistening pride's shimmering visage lures victims, then curses them with an inflated and competitive ego that tends to get them killed. The crusted sloth leaves victims wallowing in lethargy until they starve, while the shimmering greed imprisons would-be treasure seekers within shells of precious metal. The slithering lust's sweet scents enthrall victims with their deepest desires, distracting them as it feeds. But the most terrible of the sinsludges are the ravenous wrath, which uses blasts of devastating energy to feed, and the rancid gluttony, which consumes souls and leaves bodies behind as lethal undead.</p>",
                     "items": {
                         "Pseudopod": {
@@ -1806,9 +1698,7 @@
                 },
                 "Droxur": {
                     "name": "Droxur",
-                    "tokenName": {
-                        "name": "Droxur"
-                    },
+                    "tokenName": "Droxur",
                     "publicNotes": "<p>Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as such. An abrikandilu forms from the souls mortals who were vandals, misanthropes, or defacers of artwork, particularly if their destructive actions stemmed from feelings of powerful envy.</p><p>An abrikandilu loathes only one thing more than beauty: their own visage. The mere sight of their face-reflected in a mirror, a shield, or even a pool of water- can send a wrecker demon into a rage. Many demon slayers leverage tactic to their advantage, venturing into battle with polished steel shields and cold iron blades at the ready.</p><hr /><p>Mortal souls that have been twisted and corrupted by sin sometimes arise in the afterlife as demons. These powerful and destructive fiends seek to spread their particular sin to warp more souls, thereby bolstering their numbers and continuing the cycle.</p>",
                     "languagesDetails": "telepathy 100 feet",
                     "items": {
@@ -1840,16 +1730,12 @@
                 },
                 "Elder Johedia": {
                     "name": "Elder Johedia",
-                    "tokenName": {
-                        "name": "Elder Johedia"
-                    },
+                    "tokenName": "Elder Johedia",
                     "privateNotes": "<p>Serves as the primary healer of Osprey Cove<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Reefclaw": {
                     "name": "Reefclaw",
-                    "tokenName": {
-                        "name": "Reefclaw"
-                    },
+                    "tokenName": "Reefclaw",
                     "publicNotes": "<p>Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. As one might expect from its name, a reefclaw's oversized claws are powerful weapons with their vicelike grip and the ability to inject potent venom into unfortunate prey.</p><p>While reefclaws can't speak, they are intelligent enough to understand the local language of humanoids near their hunting grounds. The creatures sometimes listen to conversations, either to gain intelligence on the best place to ambush aquatic or land-dwelling prey, or merely for entertainment value-reefclaws are particularly fond of listening to people with high-pitched voices. Reefclaws are usually solitary hunters, but small swarms of female reefclaws have been known to gather around a single male for mating purposes or together for the communal raising of their broods. In the latter case, the females will perform widespread hunts in order to bring back a large enough bounty to feed their young. Such hunting parties are extremely dangerous-they've been known to tip over small flshing boats and attack those who fall overboard.</p><p>Once a reefclaw has decided upon a course of action, it follows through even if doing so spells its own end. More than one reefclaw survivor has said that the creature released its bone-crushing grasp only after its brains were leaking from its broken skull, and even then the reefclaw was able to perform a terrible last slash as part of its dying breath. During mating season, female reefclaws are often a little more pragmatic and release their prey before endangering themselves and their offspring.</p><p>Despite their intelligence and the accompanying moral quandaries, reefclaws frequently find their way onto the dinner plates of land-dwelling hunters such as humans and hobgoblins. According to those who have a taste for reefclaw flesh, the meat is either delectably sweet or slightly tangy (in the case of warm-water reefclaws). Most civilized people who know of reefclaws' intellect find the act of eating them distasteful, but this does not dissuade unscrupulous nobles in coastal regions, for whom reefclaw meat is a delicacy well worth the expense. Likewise, fisherfolk whose focus is on the bottom line of their ledgers are more than willing to hunt the dangerous creatures-or, even better, hire out the task to naive adventurers.</p>",
                     "languagesDetails": "(can't speak any language)",
                     "items": {
@@ -1868,15 +1754,11 @@
                 },
                 "Beacon Shot Barrel": {
                     "name": "Beacon Shot Barrel",
-                    "tokenName": {
-                        "name": "Beacon Shot Barrel"
-                    }
+                    "tokenName": "Beacon Shot Barrel"
                 },
                 "Vloriak": {
                     "name": "Vloriak",
-                    "tokenName": {
-                        "name": "Vloriak"
-                    },
+                    "tokenName": "Vloriak",
                     "publicNotes": "<p>Vloriaks rise from the sinful souls of those whose acts of sabotage resulted in despair and terror, and they delight in the destruction of mortal artifice. Often called despoiler demons, vloriaks were the followers of Xar-Azmak. Their numbers have dwindled over the eons since the Lord of Rust's death; those that exist now are scattered throughout the Abyss. Their chitinous bodies and faceted eyes give them an insectile appearance.</p><h2>Vlorian Influence</h2><p>Vloriaks hail from the otherworldly realm of Vlorus, and as such carry within themselves the potential for decay and rusting ruin. Other creatures that dwell in Vlorus—particularly fiends who rise to power there—can gain similar powers over rust as well. The Vlorian cythnigot encountered earlier in this adventure is an example, but fiends of any type can become infested with unique rust-themed abilities if they hail from this otherworldly realm.</p>",
                     "languagesDetails": "telepathy 100 feet",
                     "items": {
@@ -1913,9 +1795,7 @@
                 },
                 "Ostovite": {
                     "name": "Ostovite",
-                    "tokenName": {
-                        "name": "Ostovite"
-                    },
+                    "tokenName": "Ostovite",
                     "publicNotes": "<p>Skittering scavenger vermin common throughout the Abyss, ostovites roam battlefields to harvest flesh and bones. After the ostovites dissolve and slurp up the flesh for sustenance, they craft the bones into elaborate shells they refer to as \"bone chariots.\"</p><p>These bone chariots move under the ostovites' command and serve as an important marker of rank in ostovite nests. To the tiny ostovites, bigger is better, and building large skeletal conveyances is the only way for them to increase their standing in life. Although they feel deeply inferior to creatures larger than themselves, this fear can be overwhelmed by the ostovites' visceral desire to harvest those creatures' bones to increase their own status. When confronted with a particularly massive skeleton, ostovites generally fight among themselves and end up splitting the haul. However, there are rare instances of the selfish creatures working together to puppeteer a much larger bone chariot.</p><p>Ostovites' faint understanding of anatomy results in bone chariots that look more like a nightmarish attempt at art than any creature the bones were pulled from. Some powerful fiends and their admirers collect this strange art by bribing ostovites with skeletons or finding ways to kill ostovites without disrupting the chariot around them.</p><p>Despite ostovites' origins in the Abyss, they are neither demons nor qlippoth. Without the protection of the major fiends, they find their homes in nooks and crannies along the corners of their home plane. Though they have no innate ability to cross the planar boundaries, flaws in the Abyss's fabric often lead them to worlds across the planes. Ostovites that have thus migrated are often much happier. Away from demonic abuse, they usually can be found near mortal crypts and battlefields. On the Material Plane, they rarely have to face any threats other than the undead, clerics of Pharasma, and families of the deceased.</p>",
                     "items": {
                         "Mandibles": {
@@ -1936,15 +1816,11 @@
                 },
                 "West Guard Station": {
                     "name": "West Guard Station",
-                    "tokenName": {
-                        "name": "West Guard Station"
-                    }
+                    "tokenName": "West Guard Station"
                 },
                 "Fallen Acolyte": {
                     "name": "Fallen Acolyte",
-                    "tokenName": {
-                        "name": "Fallen Acolyte"
-                    },
+                    "tokenName": "Fallen Acolyte",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -1956,9 +1832,7 @@
                 },
                 "Clockwork Serpent Spy": {
                     "name": "Clockwork Serpent Spy",
-                    "tokenName": {
-                        "name": "Clockwork Serpent Spy"
-                    },
+                    "tokenName": "Clockwork Serpent Spy",
                     "publicNotes": "<p>Engineers, technologists, and mechanically gifted wizards employ clockwork spies-tiny, spiderlike constructs capable of recording and playing back audio-to surreptitiously surveil their enemies or steal secrets from competitors. Their spindly bodies and delicate components make them unsuitable for combat; in fact, most builders construct clockwork spies with a self-destruct mechanism to ensure the spies' meddling can't be traced back to them.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
                     "items": {
                         "Sharpened Gear": {
@@ -1984,15 +1858,11 @@
                 },
                 "West Arrows": {
                     "name": "West Arrows",
-                    "tokenName": {
-                        "name": "Arrows"
-                    }
+                    "tokenName": "Arrows"
                 },
                 "Zaiox": {
                     "name": "Zaiox",
-                    "tokenName": {
-                        "name": "Zaiox"
-                    },
+                    "tokenName": "Zaiox",
                     "publicNotes": "<p>Dero magisters are leaders among dero society. They perform the bulk of the cruel operations and memory-altering procedures inflicted upon their victims.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
                     "items": {
                         "Occult Spontaneous Spells": {
@@ -2016,9 +1886,7 @@
                 },
                 "Knurr Ragnulf": {
                     "name": "Knurr Ragnulf",
-                    "tokenName": {
-                        "name": "Knurr Ragnulf"
-                    },
+                    "tokenName": "Knurr Ragnulf",
                     "items": {
                         "Warhammer": {
                             "name": "Warhammer"
@@ -2031,9 +1899,7 @@
                 },
                 "Mushrooms": {
                     "name": "Mushrooms",
-                    "tokenName": {
-                        "name": "Mushrooms"
-                    },
+                    "tokenName": "Mushrooms",
                     "items": {
                         "Raw Materials for Crafting Cytillesh Drug Doses or Cytillesh Oil": {
                             "name": "Raw Materials for Crafting Cytillesh Drug Doses or Cytillesh Oil"
@@ -2042,9 +1908,7 @@
                 },
                 "Dretch": {
                     "name": "Dretch",
-                    "tokenName": {
-                        "name": "Dretch"
-                    },
+                    "tokenName": "Dretch",
                     "publicNotes": "<p>Among the lowest and least powerful of all demons, dretches are just as vicious and cruel as their more powerful brethren. They happily vent their frustrations on anything weaker than themselves.</p><p>Born from the souls of the slothful, these demons appear vaguely humanoid in appearance with awkward limbs and slack lumps of skin hanging from their frames. Supposedly, a single slothful soul of sufficient depravity and strength can spawn an entire horde of these creatures. However, as weaker demons, their lot in life is to suffer at the hands of more powerful Abyssal predators, and only a tiny number of dretches ever manage to become something more. For this reason, dretches are quite accommodating when summoned by mortals. They're usually content to work under conditions few other outsiders would accept, although they'll still gladly turn on even the kindest of masters who show even the slightest hint of weakness.</p><hr /><p>Mortal souls that have been twisted and corrupted by sin sometimes arise in the afterlife as demons. These powerful and destructive fiends seek to spread their particular sin to warp more souls, thereby bolstering their numbers and continuing the cycle.</p>",
                     "languagesDetails": "telepathy 100 feet",
                     "items": {
@@ -2080,9 +1944,7 @@
                 },
                 "Crystals": {
                     "name": "Crystals",
-                    "tokenName": {
-                        "name": "Crystals"
-                    },
+                    "tokenName": "Crystals",
                     "items": {
                         "Noqual Crystals": {
                             "name": "Noqual Crystals"
@@ -2091,9 +1953,7 @@
                 },
                 "Janis": {
                     "name": "Janis",
-                    "tokenName": {
-                        "name": "Janis"
-                    },
+                    "tokenName": "Janis",
                     "publicNotes": "<p>A navigator uses celestial bodies and shipping lanes to determine routes. For noncombat tasks involving navigation or sailing, the navigator is a 4th-level challenge.</p><hr /><p>Adventurers may need passage on a swift vessel, or they might face danger from raiders at sea or in coastal settlements.</p>",
                     "items": {
                         "Scroll Case with Ship's Charts": {
@@ -2117,15 +1977,12 @@
                 },
                 "Southern Cabinets": {
                     "name": "Southern Cabinets",
-                    "tokenName": {
-                        "name": "Southern Cabinets"
-                    }
+                    "tokenName": "Southern Cabinets"
                 },
                 "Rusted Cage Trap": {
                     "name": "Rusted Cage Trap",
-                    "tokenName": {
-                        "name": "Rusted Cage Trap"
-                    },
+                    "tokenName": "Rusted Cage Trap",
+                    "description": "<p>A rusty cage embedded in the ceiling drops down with a clang to try to entrap a creature that steps onto the pressure plate in the middle of the room.</p>",
                     "items": {
                         "Slam Down": {
                             "name": "Slam Down",
@@ -2135,15 +1992,11 @@
                 },
                 "North Roof Barrel": {
                     "name": "North Roof Barrel",
-                    "tokenName": {
-                        "name": "Roof Barrels"
-                    }
+                    "tokenName": "Roof Barrels"
                 },
                 "Gnork": {
                     "name": "Gnork",
-                    "tokenName": {
-                        "name": "Gnork"
-                    },
+                    "tokenName": "Gnork",
                     "publicNotes": "<p>Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
                     "items": {
                         "Club": {
@@ -2171,9 +2024,8 @@
                 },
                 "Spiky Pit Trap": {
                     "name": "Spiky Pit Trap",
-                    "tokenName": {
-                        "name": "Spiky Pit Trap"
-                    },
+                    "tokenName": "Spiky Pit Trap",
+                    "description": "<p>A piece of hide covered with a layer of dirt and gravel is suspended over a 20-foot pit filled with spikes.</p>",
                     "items": {
                         "Pitfall": {
                             "name": "Pitfall",
@@ -2186,40 +2038,28 @@
                 },
                 "Desk": {
                     "name": "Desk",
-                    "tokenName": {
-                        "name": "Desk"
-                    }
+                    "tokenName": "Desk"
                 },
                 "Secret Lab": {
                     "name": "Secret Lab",
-                    "tokenName": {
-                        "name": "Secret Lab"
-                    }
+                    "tokenName": "Secret Lab"
                 },
                 "Corpses": {
                     "name": "Corpses",
-                    "tokenName": {
-                        "name": "Corpses"
-                    }
+                    "tokenName": "Corpses"
                 },
                 "West Weapon Racks": {
                     "name": "West Weapon Racks",
-                    "tokenName": {
-                        "name": "Weapon Racks"
-                    }
+                    "tokenName": "Weapon Racks"
                 },
                 "Elder Bo-Mel": {
                     "name": "Elder Bo-Mel",
-                    "tokenName": {
-                        "name": "Elder Bo-Mel"
-                    },
+                    "tokenName": "Elder Bo-Mel",
                     "privateNotes": "<p>Helps direct village farming and construction efforts<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Clockwork Belimarius": {
                     "name": "Clockwork Belimarius",
-                    "tokenName": {
-                        "name": "Clockwork Belimarius"
-                    },
+                    "tokenName": "Clockwork Belimarius",
                     "publicNotes": "<p>A clockwork mage is a lethal blend of magic and machinery. Each of these clockworks is imbued with an arcane stone at its core that powers spells through the wand embedded in its chest.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
                     "items": {
                         "Arcane Innate Spells": {
@@ -2248,9 +2088,7 @@
                 },
                 "Ida": {
                     "name": "Ida",
-                    "tokenName": {
-                        "name": "Ida"
-                    },
+                    "tokenName": "Ida",
                     "publicNotes": "<p>These hardy mountain dwellers surpass their lowlander cousins in stubbornness and agility. Rosethorn rams sport distinctive, twisted horns that measure up to 4 feet in length and bear thorny growths, which they use to damage enemies in combat and strip the bark from trees during harsh winters when other food is scarce.</p><p>Though hardly a domesticated species, rosethorn rams' shaggy outer coats cover fine hair that makes a yarn prized for both its softness and rarity. Their milk also provides nourishment during severe seasons.</p><hr /><p>Rams are sturdy, stubborn herd animals suited to rugged terrain and cold weather. Regardless of their territory, all share a stubborn nature and surefootedness, navigating uncertain terrain with ease and weathering all seasons in scattered herds.</p>",
                     "items": {
                         "Hoof": {
@@ -2275,15 +2113,11 @@
                 },
                 "Treasure Pile": {
                     "name": "Treasure Pile",
-                    "tokenName": {
-                        "name": "Treasure Pile"
-                    }
+                    "tokenName": "Treasure Pile"
                 },
                 "Dero Strangler": {
                     "name": "Dero Strangler",
-                    "tokenName": {
-                        "name": "Dero Strangler"
-                    },
+                    "tokenName": "Dero Strangler",
                     "publicNotes": "<p>Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
                     "items": {
                         "Occult Innate Spells": {
@@ -2307,9 +2141,8 @@
                 },
                 "Rushing Waters": {
                     "name": "Rushing Waters",
-                    "tokenName": {
-                        "name": "Rushing Waters"
-                    },
+                    "tokenName": "Rushing Waters",
+                    "description": "<p>Rivulets of water begin to run from the circle of stones to gather in a growing puddle at the center.</p>",
                     "items": {
                         "Spherical Deluge": {
                             "name": "Spherical Deluge",
@@ -2319,15 +2152,11 @@
                 },
                 "Small Coffer": {
                     "name": "Small Coffer",
-                    "tokenName": {
-                        "name": "Small Coffer"
-                    }
+                    "tokenName": "Small Coffer"
                 },
                 "Skeleton Guard": {
                     "name": "Skeleton Guard",
-                    "tokenName": {
-                        "name": "Skeleton Guard"
-                    },
+                    "tokenName": "Skeleton Guard",
                     "publicNotes": "<p>The most common skeletal minions are mere guardians.</p><hr /><p>Made from bones held together by foul necromancy, skeletons are among the most common types of undead, found haunting old dungeons and forgotten cemeteries.</p>",
                     "items": {
                         "Scimitar": {
@@ -2343,15 +2172,11 @@
                 },
                 "Barrel": {
                     "name": "Barrel",
-                    "tokenName": {
-                        "name": "Barrel"
-                    }
+                    "tokenName": "Barrel"
                 },
                 "Deck Hand": {
                     "name": "Deck Hand",
-                    "tokenName": {
-                        "name": "Deck Hand"
-                    },
+                    "tokenName": "Deck Hand",
                     "publicNotes": "<p>Working to load and unload cargo from ships, dockhands are considered unruly, but many stay focused and work hard until the job is done. Some do celebrate the end of their work day with rowdy drinking.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
                     "items": {
                         "Empty Bottle": {
@@ -2378,15 +2203,11 @@
                 },
                 "Ingot Storage": {
                     "name": "Ingot Storage",
-                    "tokenName": {
-                        "name": "Ingot Storage"
-                    }
+                    "tokenName": "Ingot Storage"
                 },
                 "Swordfish’s Log": {
                     "name": "Swordfish’s Log",
-                    "tokenName": {
-                        "name": "Swordfish’s Log"
-                    },
+                    "tokenName": "Swordfish’s Log",
                     "items": {
                         "Swordfish’s Log": {
                             "name": "Swordfish’s Log",
@@ -2396,9 +2217,7 @@
                 },
                 "Yeth Hound": {
                     "name": "Yeth Hound",
-                    "tokenName": {
-                        "name": "Yeth Hound"
-                    },
+                    "tokenName": "Yeth Hound",
                     "publicNotes": "<p>Wicked canine creatures who live for the thrill of the hunt, yeth hounds often serve evil masters as guardians and trackers. Yeth hounds resemble lean, sleek dogs with overlarge ears and narrow paws that can tread on air as easily as the ground. Despite their canine appearance, yeth hounds are remarkably intelligent, although they rarely display this intelligence except when devising intricate tactics to ensnare their quarry. Their eerie bays echo across the countryside when they are engaged in a hunt, and they particularly enjoy baying to frighten and disorient intelligent creatures. Yeth hound packs can number as many as a dozen members, each working in uncanny communion with its packmates to corner and kill their prey. Yeth hounds like to drag their victims back to their lairs to eat at their leisure, so these lairs often contain discarded treasures from the hounds' previous meals.</p><p>Yeth hounds despise two things: sunlight and other canines. They hunt only at night if they can, often breaking off their hunt at dawn to retreat to a subterranean lair or den, no matter how close they had come to catching their prey. Yeth hounds usually attack wargs, wolves, and similar creatures on sight, working to drive larger or more powerful canines from their hunting areas when then can't simply overpower and kill them.</p><p>Evil rangers, bestial demons, and wicked cults are frequently gifted yeth hound servants by fiendish patrons. Such hounds often serve as spies and are quick to turn against those who fail to advance the patrons' wicked aims. The cult of Lamashtu, in particular, is fond of using yeth hounds as temple guardians.</p>",
                     "items": {
                         "Divine Innate Spells": {
@@ -2419,9 +2238,7 @@
                 },
                 "Small Bedroom": {
                     "name": "Small Bedroom",
-                    "tokenName": {
-                        "name": "Small Bedroom"
-                    },
+                    "tokenName": "Small Bedroom",
                     "items": {
                         "Meitremar's Journal": {
                             "name": "Meitremar's Journal",
@@ -2435,9 +2252,7 @@
                 },
                 "Derrol's Gift": {
                     "name": "Derrol's Gift",
-                    "tokenName": {
-                        "name": "Derrol's Gift"
-                    },
+                    "tokenName": "Derrol's Gift",
                     "items": {
                         "Tiny Brass Key set with Small Gemstones": {
                             "name": "Tiny Brass Key set with Small Gemstones"
@@ -2446,21 +2261,15 @@
                 },
                 "Mannequin": {
                     "name": "Mannequin",
-                    "tokenName": {
-                        "name": "Mannequin"
-                    }
+                    "tokenName": "Mannequin"
                 },
                 "Wooden Post": {
                     "name": "Wooden Post",
-                    "tokenName": {
-                        "name": "Wooden Post"
-                    }
+                    "tokenName": "Wooden Post"
                 },
                 "Junior Barracks": {
                     "name": "Junior Barracks",
-                    "tokenName": {
-                        "name": "Junior Barracks"
-                    },
+                    "tokenName": "Junior Barracks",
                     "items": {
                         "Azomi’s Porcelain Mask": {
                             "name": "Azomi’s Porcelain Mask"
@@ -2469,15 +2278,11 @@
                 },
                 "Footlockers": {
                     "name": "Footlockers",
-                    "tokenName": {
-                        "name": "Footlockers"
-                    }
+                    "tokenName": "Footlockers"
                 },
                 "Larva": {
                     "name": "Larva",
-                    "tokenName": {
-                        "name": "Larva"
-                    },
+                    "tokenName": "Larva",
                     "publicNotes": "<p>When a mortal dies, their soul travels to the Boneyard in the Outer Planes where they are judged by Pharasma, the goddess of the dead. Once they have been judged, their soul is sent on to their final reward or punishment in the afterlife, and in the process is transformed into a creature known as a petitioner. This process grants the soul a new body, one whose shape is the result of the prevailing philosophical forces of the plane to which it is sent. The petitioner's memories from their life are typically wiped nearly clean, allowing them to retain only a few hazy fragments akin to half-remembered dreams. Regardless of the petitioner's size, power, or nature in life, they're a Medium creature in their afterlife.</p><p>Existence as a petitioner can last for eons, but this state is not necessarily eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes themselves can further change the petitioner's nature by transforming them into raw quintessence, spiritual essence that is then used to expand a plane's physical manifestation, or by transforming the petitioner into a new form of supernatural life such as a celestial, monitor, or fiend. Should a petitioner die, their body breaks down in a process akin to decay, their nature reverting back to the quintessence or elements that make up their plane. This represents the true end of a soul's journey: their associated life essence travels back to the heart of the Great Beyond to be recycled into the Positive Energy plane, fueling the creation of entirely new souls.</p><p>The larvae appear as maggot-like grubs with the face the petitioners had in life.</p>",
                     "items": {
                         "Jaws": {
@@ -2494,27 +2299,19 @@
                 },
                 "Bottle of “Carpenden”": {
                     "name": "Bottle of “Carpenden”",
-                    "tokenName": {
-                        "name": "Bottle of “Carpenden”"
-                    }
+                    "tokenName": "Bottle of “Carpenden”"
                 },
                 "Magical Storage": {
                     "name": "Magical Storage",
-                    "tokenName": {
-                        "name": "Magical Storage"
-                    }
+                    "tokenName": "Magical Storage"
                 },
                 "East Arrows": {
                     "name": "East Arrows",
-                    "tokenName": {
-                        "name": "Arrows"
-                    }
+                    "tokenName": "Arrows"
                 },
                 "Ordwi": {
                     "name": "Ordwi",
-                    "tokenName": {
-                        "name": "Ordwi"
-                    },
+                    "tokenName": "Ordwi",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -2537,9 +2334,7 @@
                 },
                 "Deadly Fungus Leshy": {
                     "name": "Deadly Fungus Leshy",
-                    "tokenName": {
-                        "name": "Deadly Fungus Leshy"
-                    },
+                    "tokenName": "Deadly Fungus Leshy",
                     "publicNotes": "<p>Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works.</p><hr /><p>Leshys are intelligent plant creatures that guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic-typically a druid-combines a nature spirit with a body carefully grown from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>",
                     "languagesDetails": "speak with plants (fungi only)",
                     "items": {

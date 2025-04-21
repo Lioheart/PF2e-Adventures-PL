@@ -752,6 +752,7 @@
             "playlists": {
                 "Exploration Loops": {
                     "name": "Exploration Loops",
+                    "description": "A series of looping ambience for exploring the first floor.",
                     "sounds": {
                         "Crypt Drone Loop": {
                             "name": "Crypt Drone Loop"
@@ -766,9 +767,11 @@
                 },
                 "Floor 1 Exploration Ambience": {
                     "name": "Floor 1 Exploration Ambience",
+                    "description": "Pre-mixed individual tracks for exploration",
                     "sounds": {
                         "Deeds Done In Darkness": {
-                            "name": "Deeds Done In Darkness"
+                            "name": "Deeds Done In Darkness",
+                            "description": "Soft, periodic instrumentation to evoke a feeling of sneaking through dangerous territory"
                         }
                     }
                 },
@@ -776,12 +779,14 @@
                     "name": "Floor 2 Exploration Ambience",
                     "sounds": {
                         "Drones In The Deep": {
-                            "name": "Drones In The Deep"
+                            "name": "Drones In The Deep",
+                            "description": "Deep, resonant harmonics and faint instrumentation."
                         }
                     }
                 },
                 "Floor 2 Mermaid Fountain": {
                     "name": "Floor 2 Mermaid Fountain",
+                    "description": "It's just a fountain, nothing to worry about.",
                     "sounds": {
                         "The Mermaid Fountain Basin Loop": {
                             "name": "The Mermaid Fountain Basin Loop"
@@ -796,6 +801,7 @@
                 },
                 "Floor 2 Soggy Crossroads": {
                     "name": "Floor 2 Soggy Crossroads",
+                    "description": "A mix of ambience to cover the soggy crossroads region of Floor 2.",
                     "sounds": {
                         "Watery Grave": {
                             "name": "Watery Grave"
@@ -807,6 +813,7 @@
                 },
                 "Otari Fishery": {
                     "name": "Otari Fishery",
+                    "description": "An indoor locale filled with a bustling crowd of drinking gamblers and fisherfolk.",
                     "sounds": {
                         "Otari Fishery": {
                             "name": "Otari Fishery"
@@ -815,6 +822,7 @@
                 },
                 "Otari Wharf": {
                     "name": "Otari Wharf",
+                    "description": "The sounds of a seaside town.",
                     "sounds": {
                         "Otari Seaside": {
                             "name": "Otari Seaside"
@@ -823,6 +831,7 @@
                 },
                 "Soundboard Loops": {
                     "name": "Soundboard Loops",
+                    "description": "A collection of repeating loops to be played individually to augment other playlists.",
                     "sounds": {
                         "Zolgran Plotting": {
                             "name": "Zolgran Plotting"
@@ -852,6 +861,7 @@
                 },
                 "Barricades": {
                     "name": "Barricades",
+                    "description": "A pair of sounds for tearing down the barricades",
                     "sounds": {
                         "Disassembling Barricade": {
                             "name": "Disassembling Barricade"
@@ -860,7 +870,8 @@
                             "name": "Shattering Barricade"
                         },
                         "Breaking The Stone Wall": {
-                            "name": "Breaking The Stone Wall"
+                            "name": "Breaking The Stone Wall",
+                            "description": "The conspicuous sound of a stone wall collapsing."
                         },
                         "Moving the Barrels": {
                             "name": "Moving the Barrels"
@@ -869,6 +880,7 @@
                 },
                 "Dragon Soundboard": {
                     "name": "Dragon Soundboard",
+                    "description": "Sounds used for the encounter with the Green Dragon Wyrmling",
                     "sounds": {
                         "Wyrmling Growl Distant 01": {
                             "name": "Wyrmling Growl Distant 01"
@@ -906,7 +918,8 @@
                     "name": "The Cinder Rat",
                     "sounds": {
                         "The Rat's On Fire": {
-                            "name": "The Rat's On Fire"
+                            "name": "The Rat's On Fire",
+                            "description": "It almost sounds as if a rat just exploded out of a glass orb full of fire."
                         }
                     }
                 }
@@ -914,9 +927,7 @@
             "actors": {
                 "Cinder Rat": {
                     "name": "Cinder Rat",
-                    "tokenName": {
-                        "name": "Cinder Rat"
-                    },
+                    "tokenName": "Cinder Rat",
                     "publicNotes": "<p>Fire elementals are destructive manifestations of the Plane of Fire. They sometimes come to the world in powerful places of heat and flame where elemental vortexes form, such as in volcanoes.</p><p>Cinder rats are oversized rodents made of smoldering charcoal and elemental fire. Noxious fumes continually bellow from their flaming flesh. Much like terrestrial rats, cinder rats seek out secluded dens and can quickly multiply in number if left unchecked.</p>",
                     "items": {
                         "Jaws": {
@@ -934,9 +945,7 @@
                 },
                 "Giant Rat": {
                     "name": "Giant Rat",
-                    "tokenName": {
-                        "name": "Giant Rat"
-                    },
+                    "tokenName": "Giant Rat",
                     "publicNotes": "<p>Giant rats are enormous versions of the common vermin. They're typically found in abundant numbers, but since they can't fit in the nooks where ordinary rats typically hide, they're much easier to locate and exterminate. In fact, finding and slaying a giant rat is a rite of passage for many an adventurer. Such tasks get tiresome quickly, so many veterans subcontract extermination to new adventurers.</p><p>Giant rats mostly live in sewers where they can scavenge from the streets above, but some families of giant rats live in more remote locations, such as dank caves, forests, or hills. Rats are incredibly adept survivors and can be found nearly anywhere in the world, though they tend to favor temperate or warm climates as opposed to cold regions.</p><p>Although their bite alone isn't lethal except to the very weak, some giant rats carry a dangerous disease common to rodents around the world-a pestilence more than capable of ravaging rural communities. The rats are merely carriers with no risk of succumbing to the disease themselves.</p>",
                     "items": {
                         "Jaws": {
@@ -946,9 +955,7 @@
                 },
                 "Giant Spider": {
                     "name": "Giant Spider",
-                    "tokenName": {
-                        "name": "Giant Spider"
-                    },
+                    "tokenName": "Giant Spider",
                     "publicNotes": "<p>Few everyday vermin inspire as much dread as the infamous spider. Giant spiders vary in size. The human-sized versions, sometimes called hunting spiders, are the most common type of giant spider, though not the largest.</p>",
                     "items": {
                         "Fangs": {
@@ -973,9 +980,7 @@
                 },
                 "Horned Dragon (Juvenile, BB)": {
                     "name": "Horned Dragon (Juvenile, BB)",
-                    "tokenName": {
-                        "name": "Horned Dragon (Juvenile)"
-                    },
+                    "tokenName": "Horned Dragon (Juvenile)",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1009,9 +1014,7 @@
                 },
                 "Kobold Scout": {
                     "name": "Kobold Scout",
-                    "tokenName": {
-                        "name": "Kobold Scout"
-                    },
+                    "tokenName": "Kobold Scout",
                     "publicNotes": "<p>Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, trained for stalking and the hunt. They're charged with bringing food and valuable goods back to the community. Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without putting themselves at much risk.</p>",
                     "items": {
                         "Shortsword": {
@@ -1024,9 +1027,7 @@
                 },
                 "Kobold Trapmaster": {
                     "name": "Kobold Trapmaster",
-                    "tokenName": {
-                        "name": "Kobold Trapmaster"
-                    },
+                    "tokenName": "Kobold Trapmaster",
                     "publicNotes": "<p>Kobold trapmasters are the masterminds behind crafting and implementing wily traps in kobold lairs, and are widely respected among their kind.</p>",
                     "items": {
                         "Shortsword": {
@@ -1047,9 +1048,7 @@
                 },
                 "Kobold Warrior": {
                     "name": "Kobold Warrior",
-                    "tokenName": {
-                        "name": "Kobold Warrior"
-                    },
+                    "tokenName": "Kobold Warrior",
                     "publicNotes": "<p>A typical kobold trains with simple weaponry. Kobolds are capable of landing sneaky strikes against unsuspecting foes, but they're just as quick to scamper off to safety if their group wouldn't outnumber their enemies by at least two to one.</p><p>Kobolds believe in pragmatism, and a defeated kobold would rather surrender than face death. One might even abandon their kobold kin and concede to serve the victor if the alternative is an untimely demise.</p>",
                     "items": {
                         "Spear": {
@@ -1059,9 +1058,7 @@
                 },
                 "Skeleton Guard": {
                     "name": "Skeleton Guard",
-                    "tokenName": {
-                        "name": "Skeleton Guard"
-                    },
+                    "tokenName": "Skeleton Guard",
                     "publicNotes": "<p>Made from bones held together by foul necromancy, skeletons can often be found haunting old dungeons and patrolling forgotten cemeteries. Many evil masterminds prefer to keep eternally vigilant undead as minions to avoid the upkeep required to feed and satisfy the psychological needs of living guardians.</p><p>Simple skeleton guards remain the most common skeletal minions. These skeletons are mindless, meaning they can't truly reason but can execute their basic guard duties of watching out for and attacking intruders. A group of several skeletons defending the same location usually consists of melee fighters and archers who shoot arrows from afar.</p>",
                     "items": {
                         "Scimitar": {
@@ -1077,9 +1074,7 @@
                 },
                 "Xulgath Warrior (BB)": {
                     "name": "Xulgath Warrior (BB)",
-                    "tokenName": {
-                        "name": "Xulgath Warrior"
-                    },
+                    "tokenName": "Xulgath Warrior",
                     "publicNotes": "<p>Reptilian humanoids living underground, xulgaths (known as troglodytes to many surface dwellers) attack intruders in their territory on sight. They live in familial communities, battling rival groups and other aggressive underground inhabitants to survive. They occasionally raid surface settlements, usually at the behest of cruel, bloodthirsty leaders. A typical xulgath has dull gray, dark gray, or ashen scales with a long tail and bony protrusions down the length of their spine.</p>",
                     "items": {
                         "Club": {
@@ -1102,9 +1097,7 @@
                 },
                 "Kobold Boss Zolgran (BB)": {
                     "name": "Kobold Boss Zolgran (BB)",
-                    "tokenName": {
-                        "name": "Kobold Boss Zolgran"
-                    },
+                    "tokenName": "Kobold Boss Zolgran",
                     "items": {
                         "Wizard Spells": {
                             "name": "Wizard Spells"
@@ -1128,9 +1121,7 @@
                 },
                 "Zombie Shambler": {
                     "name": "Zombie Shambler",
-                    "tokenName": {
-                        "name": "Zombie Shambler"
-                    },
+                    "tokenName": "Zombie Shambler",
                     "publicNotes": "<p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed. Among the living dead, zombies are most often used as fodder, wearing down defenses before more powerful undead arrive to deal the killing blow. Zombies can't truly think for themselves, but they can be commanded by other allied undead and powerful necromancers.</p>",
                     "items": {
                         "Fist": {
@@ -1148,9 +1139,7 @@
                 },
                 "Central Spears (BB)": {
                     "name": "Central Spears (BB)",
-                    "tokenName": {
-                        "name": "Central Spears"
-                    },
+                    "tokenName": "Central Spears",
                     "items": {
                         "Spear Barrage": {
                             "name": "Spear Barrage",
@@ -1163,9 +1152,7 @@
                 },
                 "Falling Ceiling (BB)": {
                     "name": "Falling Ceiling (BB)",
-                    "tokenName": {
-                        "name": "Falling Ceiling"
-                    },
+                    "tokenName": "Falling Ceiling",
                     "items": {
                         "Falling Stones": {
                             "name": "Falling Stones",
@@ -1178,9 +1165,7 @@
                 },
                 "Mermaid Fountain (BB)": {
                     "name": "Mermaid Fountain (BB)",
-                    "tokenName": {
-                        "name": "Mermaid Fountain"
-                    },
+                    "tokenName": "Mermaid Fountain",
                     "items": {
                         "Spray": {
                             "name": "Spray"
@@ -1189,15 +1174,12 @@
                 },
                 "Spike Trap": {
                     "name": "Spike Trap",
-                    "tokenName": {
-                        "name": "Spike Trap"
-                    }
+                    "tokenName": "Spike Trap",
+                    "description": "<p>Once this trap is deployed in a square, it deals [[/r 2d8 #piercing]] piercing damage to anyone who steps on that square, with a @Check[type:reflex|dc:17|basic:true] saving throw.</p>"
                 },
                 "Ezren": {
                     "name": "Ezren",
-                    "tokenName": {
-                        "name": "Ezren"
-                    },
+                    "tokenName": "Ezren",
                     "items": {
                         "Academia Lore": {
                             "name": "Academia Lore"
@@ -1209,9 +1191,7 @@
                 },
                 "Kyra": {
                     "name": "Kyra",
-                    "tokenName": {
-                        "name": "Kyra"
-                    },
+                    "tokenName": "Kyra",
                     "items": {
                         "Scribing Lore": {
                             "name": "Scribing Lore"
@@ -1230,9 +1210,7 @@
                 },
                 "Merisiel": {
                     "name": "Merisiel",
-                    "tokenName": {
-                        "name": "Merisiel"
-                    },
+                    "tokenName": "Merisiel",
                     "items": {
                         "Underworld Lore": {
                             "name": "Underworld Lore"
@@ -1241,9 +1219,7 @@
                 },
                 "Valeros": {
                     "name": "Valeros",
-                    "tokenName": {
-                        "name": "Valeros"
-                    },
+                    "tokenName": "Valeros",
                     "items": {
                         "Farming Lore": {
                             "name": "Farming Lore"
@@ -1256,21 +1232,15 @@
                 },
                 "Abadar's Vault": {
                     "name": "Abadar's Vault",
-                    "tokenName": {
-                        "name": "Abadar's Vault"
-                    }
+                    "tokenName": "Abadar's Vault"
                 },
                 "Abandoned Storeroom": {
                     "name": "Abandoned Storeroom",
-                    "tokenName": {
-                        "name": "Abandoned Storeroom"
-                    }
+                    "tokenName": "Abandoned Storeroom"
                 },
                 "Dragon's Lair": {
                     "name": "Dragon's Lair",
-                    "tokenName": {
-                        "name": "Dragon's Lair"
-                    },
+                    "tokenName": "Dragon's Lair",
                     "items": {
                         "Emerald": {
                             "name": "Emerald"
@@ -1279,15 +1249,11 @@
                 },
                 "Forgotten Crypt": {
                     "name": "Forgotten Crypt",
-                    "tokenName": {
-                        "name": "Forgotten Crypt"
-                    }
+                    "tokenName": "Forgotten Crypt"
                 },
                 "Kobold Loot": {
                     "name": "Kobold Loot",
-                    "tokenName": {
-                        "name": "Kobold Loot"
-                    },
+                    "tokenName": "Kobold Loot",
                     "items": {
                         "Crystal Decanter of Sour Wine": {
                             "name": "Crystal Decanter of Sour Wine"
@@ -1296,21 +1262,15 @@
                 },
                 "Mermaid Fountain": {
                     "name": "Mermaid Fountain",
-                    "tokenName": {
-                        "name": "Mermaid Fountain"
-                    }
+                    "tokenName": "Mermaid Fountain"
                 },
                 "Spider's Lair": {
                     "name": "Spider's Lair",
-                    "tokenName": {
-                        "name": "Spider's Lair"
-                    }
+                    "tokenName": "Spider's Lair"
                 },
                 "Zolgran's Treasure": {
                     "name": "Zolgran's Treasure",
-                    "tokenName": {
-                        "name": "Zolgran's Treasure"
-                    },
+                    "tokenName": "Zolgran's Treasure",
                     "items": {
                         "Old Map of a Strange-Looking Dungeon": {
                             "name": "Old Map of a Strange-Looking Dungeon"
@@ -1322,9 +1282,7 @@
                 },
                 "Small Bag": {
                     "name": "Small Bag",
-                    "tokenName": {
-                        "name": "Small Bag"
-                    }
+                    "tokenName": "Small Bag"
                 }
             },
             "description": "<p>\"Menace under Otari\" is designed to teach new Game Masters and players how to play Pathfinder using Foundry VTT. Each section of the adventure will teach new concepts and introduce features of the program, adding more and more to the game. Meanwhile, the other players each have an entire hero to roleplay as, learning how to use their abilities and how to succeed in the dangerous world that they find themselves exploring.</p>"
