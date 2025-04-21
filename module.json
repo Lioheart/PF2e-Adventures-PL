@@ -7,8 +7,19 @@
     "minimum": "12",
     "verified": "12"
   },
-  "esmodules": ["src/translator.js"],
-  "styles": ["static/styles/styles.css"],
+  "esmodules": [
+    "src/translator.js",
+    "src/fix-token-names.js"
+  ],
+  "styles": ["static/styles/styles.css"],  "relationships": {
+    "requires": [
+      {
+        "id": "lang-pl-pf2e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
   "url": "Filled in by the release workflow",
   "manifest": "Filled in by the release workflow",
   "download": "Filled in by the release workflow"
