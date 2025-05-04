@@ -926,62 +926,9 @@
                 }
             },
             "actors": {
-                "Cinder Rat": {
-                    "name": "Cinder Rat",
-                    "tokenName": "Cinder Rat",
-                    "publicNotes": "<p>Fire elementals are destructive manifestations of the Plane of Fire. They sometimes come to the world in powerful places of heat and flame where elemental vortexes form, such as in volcanoes.</p><p>Cinder rats are oversized rodents made of smoldering charcoal and elemental fire. Noxious fumes continually bellow from their flaming flesh. Much like terrestrial rats, cinder rats seek out secluded dens and can quickly multiply in number if left unchecked.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Smoke Vision": {
-                            "name": "Smoke Vision",
-                            "description": "<p>The cinder rat ignores the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] condition from smoke.</p>"
-                        },
-                        "Fetid Fumes": {
-                            "name": "Fetid Fumes",
-                            "description": "<p>A cloud of smoke surrounds the cinder rat. All creatures within @Template[emanation|distance:5]{5 feet}, including the cinder rat, gain the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] condition from this smoke. A creature that comes within 5 feet of the cinder rat or begins its turn within 5 feet must succeed at a @Check[fortitude|dc:22] save or take a -1 status penalty to all checks and DCs for 1 round <em>(Use @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18])</em>.</p>"
-                        }
-                    }
-                },
-                "Giant Rat": {
-                    "name": "Giant Rat",
-                    "tokenName": "Giant Rat",
-                    "publicNotes": "<p>Giant rats are enormous versions of the common vermin. They're typically found in abundant numbers, but since they can't fit in the nooks where ordinary rats typically hide, they're much easier to locate and exterminate. In fact, finding and slaying a giant rat is a rite of passage for many an adventurer. Such tasks get tiresome quickly, so many veterans subcontract extermination to new adventurers.</p><p>Giant rats mostly live in sewers where they can scavenge from the streets above, but some families of giant rats live in more remote locations, such as dank caves, forests, or hills. Rats are incredibly adept survivors and can be found nearly anywhere in the world, though they tend to favor temperate or warm climates as opposed to cold regions.</p><p>Although their bite alone isn't lethal except to the very weak, some giant rats carry a dangerous disease common to rodents around the world-a pestilence more than capable of ravaging rural communities. The rats are merely carriers with no risk of succumbing to the disease themselves.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        }
-                    }
-                },
-                "Giant Spider": {
-                    "name": "Giant Spider",
-                    "tokenName": "Giant Spider",
-                    "publicNotes": "<p>Few everyday vermin inspire as much dread as the infamous spider. Giant spiders vary in size. The human-sized versions, sometimes called hunting spiders, are the most common type of giant spider, though not the largest.</p>",
-                    "items": {
-                        "Fangs": {
-                            "name": "Fangs"
-                        },
-                        "Web": {
-                            "name": "Web"
-                        },
-                        "Descend on a Web": {
-                            "name": "Descend on a Web",
-                            "description": "<p>The giant spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature can Strike the web, which has AC 20 and 8 HP. If the web is reduced to 0 HP, the spider falls.</p>"
-                        },
-                        "Giant Spider Venom": {
-                            "name": "Giant Spider Venom",
-                            "description": "<p>A target damaged by the spider's fangs must succeed at a @Check[fortitude|dc:16] save or take @Damage[1d10[poison]] damage and gain the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] condition for 1 round.</p>"
-                        },
-                        "Web Trap": {
-                            "name": "Web Trap",
-                            "description": "<p>A creature hit by the giant spider's web Strike gets stuck to the nearest surface. It can't move until it successfully @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9] (DC 17).</p>"
-                        }
-                    }
-                },
-                "Horned Dragon (Juvenile, BB)": {
-                    "name": "Horned Dragon (Juvenile, BB)",
-                    "tokenName": "Horned Dragon (Juvenile)",
+                "Juvenile Horned Dragon": {
+                    "name": "Juvenile Horned Dragon",
+                    "tokenName": "Juvenile Horned Dragon",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1009,20 +956,7 @@
                         },
                         "Poison Breath": {
                             "name": "Poison Breath",
-                            "description": "<p>The dragon breathes a toxic cloud that deals @Damage[5d6[poison]] damage in a @Template[cone|distance:30]. Each creature in the area must attempt a @Check[reflex|dc:21|basic] save.</p><p>The dragon can't use their Poison Breath again for [[/br 1d4 #Recharge Poison Breath]]{1d4 rounds}.</p>"
-                        }
-                    }
-                },
-                "Kobold Scout": {
-                    "name": "Kobold Scout",
-                    "tokenName": "Kobold Scout",
-                    "publicNotes": "<p>Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, trained for stalking and the hunt. They're charged with bringing food and valuable goods back to the community. Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without putting themselves at much risk.</p>",
-                    "items": {
-                        "Shortsword": {
-                            "name": "Shortsword"
-                        },
-                        "Crossbow": {
-                            "name": "Crossbow"
+                            "description": "<p>The dragon breathes a toxic cloud that deals @Damage[5d6[poison]] damage in a @Template[cone|distance:30]. Each creature in the area must attempt a @Check[reflex|dc:21|basic] save.</p><p>The dragon can't use their Poison Breath again for [[/gmr 1d4 #Recharge Poison Breath]]{1d4 rounds}.</p>"
                         }
                     }
                 },
@@ -1047,57 +981,8 @@
                         }
                     }
                 },
-                "Kobold Warrior": {
-                    "name": "Kobold Warrior",
-                    "tokenName": "Kobold Warrior",
-                    "publicNotes": "<p>A typical kobold trains with simple weaponry. Kobolds are capable of landing sneaky strikes against unsuspecting foes, but they're just as quick to scamper off to safety if their group wouldn't outnumber their enemies by at least two to one.</p><p>Kobolds believe in pragmatism, and a defeated kobold would rather surrender than face death. One might even abandon their kobold kin and concede to serve the victor if the alternative is an untimely demise.</p>",
-                    "items": {
-                        "Spear": {
-                            "name": "Spear"
-                        }
-                    }
-                },
-                "Skeleton Guard": {
-                    "name": "Skeleton Guard",
-                    "tokenName": "Skeleton Guard",
-                    "publicNotes": "<p>Made from bones held together by foul necromancy, skeletons can often be found haunting old dungeons and patrolling forgotten cemeteries. Many evil masterminds prefer to keep eternally vigilant undead as minions to avoid the upkeep required to feed and satisfy the psychological needs of living guardians.</p><p>Simple skeleton guards remain the most common skeletal minions. These skeletons are mindless, meaning they can't truly reason but can execute their basic guard duties of watching out for and attacking intruders. A group of several skeletons defending the same location usually consists of melee fighters and archers who shoot arrows from afar.</p>",
-                    "items": {
-                        "Scimitar": {
-                            "name": "Scimitar"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Shortbow": {
-                            "name": "Shortbow"
-                        }
-                    }
-                },
-                "Xulgath Warrior (BB)": {
-                    "name": "Xulgath Warrior (BB)",
-                    "tokenName": "Xulgath Warrior",
-                    "publicNotes": "<p>Reptilian humanoids living underground, xulgaths (known as troglodytes to many surface dwellers) attack intruders in their territory on sight. They live in familial communities, battling rival groups and other aggressive underground inhabitants to survive. They occasionally raid surface settlements, usually at the behest of cruel, bloodthirsty leaders. A typical xulgath has dull gray, dark gray, or ashen scales with a long tail and bony protrusions down the length of their spine.</p>",
-                    "items": {
-                        "Club": {
-                            "name": "Club"
-                        },
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Javelin": {
-                            "name": "Javelin"
-                        },
-                        "Stench": {
-                            "name": "Stench",
-                            "description": "<p>A creature that comes within @Template[emanation|distance:30] of the xulgath and can smell the xulgath must attempt a @Check[fortitude|dc:16] save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute <em>(Use @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18])</em>.</p>"
-                        }
-                    }
-                },
-                "Kobold Boss Zolgran (BB)": {
-                    "name": "Kobold Boss Zolgran (BB)",
+                "Kobold Boss Zolgran": {
+                    "name": "Kobold Boss Zolgran",
                     "tokenName": "Kobold Boss Zolgran",
                     "items": {
                         "Wizard Spells": {
@@ -1120,26 +1005,8 @@
                         }
                     }
                 },
-                "Zombie Shambler": {
-                    "name": "Zombie Shambler",
-                    "tokenName": "Zombie Shambler",
-                    "publicNotes": "<p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed. Among the living dead, zombies are most often used as fodder, wearing down defenses before more powerful undead arrive to deal the killing blow. Zombies can't truly think for themselves, but they can be commanded by other allied undead and powerful necromancers.</p>",
-                    "items": {
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Jaws": {
-                            "name": "Jaws",
-                            "description": "<p><strong>Requirements</strong> The zombie has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
-                        },
-                        "Slow": {
-                            "name": "Slow",
-                            "description": "<p>A zombie has only 2 actions on its turn, and it can't use reactions.</p>"
-                        }
-                    }
-                },
-                "Central Spears (BB)": {
-                    "name": "Central Spears (BB)",
+                "Central Spears": {
+                    "name": "Central Spears",
                     "tokenName": "Central Spears",
                     "items": {
                         "Spear Barrage": {
@@ -1151,8 +1018,8 @@
                         }
                     }
                 },
-                "Falling Ceiling (BB)": {
-                    "name": "Falling Ceiling (BB)",
+                "Falling Ceiling": {
+                    "name": "Falling Ceiling",
                     "tokenName": "Falling Ceiling",
                     "items": {
                         "Falling Stones": {
@@ -1164,14 +1031,9 @@
                         }
                     }
                 },
-                "Mermaid Fountain (BB)": {
-                    "name": "Mermaid Fountain (BB)",
-                    "tokenName": "Mermaid Fountain",
-                    "items": {
-                        "Spray": {
-                            "name": "Spray"
-                        }
-                    }
+                "Mermaid Fountain": {
+                    "name": "Mermaid Fountain",
+                    "tokenName": "Mermaid Fountain"
                 },
                 "Spike Trap": {
                     "name": "Spike Trap",
@@ -1261,10 +1123,6 @@
                         }
                     }
                 },
-                "Mermaid Fountain": {
-                    "name": "Mermaid Fountain",
-                    "tokenName": "Mermaid Fountain"
-                },
                 "Spider's Lair": {
                     "name": "Spider's Lair",
                     "tokenName": "Spider's Lair"
@@ -1284,6 +1142,139 @@
                 "Small Bag": {
                     "name": "Small Bag",
                     "tokenName": "Small Bag"
+                },
+                "Cinder Rat": {
+                    "name": "Cinder Rat",
+                    "tokenName": "Cinder Rat",
+                    "publicNotes": "<p>Fire elementals are destructive manifestations of the Plane of Fire. They sometimes come to the world in powerful places of heat and flame where elemental vortexes form, such as in volcanoes.</p><p>Cinder rats are oversized rodents made of smoldering charcoal and elemental fire. Noxious fumes continually bellow from their flaming flesh. Much like terrestrial rats, cinder rats seek out secluded dens and can quickly multiply in number if left unchecked.</p>",
+                    "items": {
+                        "Jaws": {
+                            "name": "Jaws"
+                        },
+                        "Smoke Vision": {
+                            "name": "Smoke Vision",
+                            "description": "<p>The cinder rat ignores the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] condition from smoke.</p>"
+                        },
+                        "Fetid Fumes": {
+                            "name": "Fetid Fumes",
+                            "description": "<p>A cloud of smoke surrounds the cinder rat. All creatures within @Template[emanation|distance:5]{5 feet}, including the cinder rat, gain the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] condition from this smoke. A creature that comes within 5 feet of the cinder rat or begins its turn within 5 feet must succeed at a @Check[fortitude|dc:22] save or take a -1 status penalty to all checks and DCs for 1 round <em>(Use @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18])</em>.</p>"
+                        }
+                    }
+                },
+                "Giant Rat": {
+                    "name": "Giant Rat",
+                    "tokenName": "Giant Rat",
+                    "publicNotes": "<p>Giant rats are enormous versions of the common vermin. They're typically found in abundant numbers, but since they can't fit in the nooks where ordinary rats typically hide, they're much easier to locate and exterminate. In fact, finding and slaying a giant rat is a rite of passage for many an adventurer. Such tasks get tiresome quickly, so many veterans subcontract extermination to new adventurers.</p><p>Giant rats mostly live in sewers where they can scavenge from the streets above, but some families of giant rats live in more remote locations, such as dank caves, forests, or hills. Rats are incredibly adept survivors and can be found nearly anywhere in the world, though they tend to favor temperate or warm climates as opposed to cold regions.</p><p>Although their bite alone isn't lethal except to the very weak, some giant rats carry a dangerous disease common to rodents around the world-a pestilence more than capable of ravaging rural communities. The rats are merely carriers with no risk of succumbing to the disease themselves.</p>",
+                    "items": {
+                        "Jaws": {
+                            "name": "Jaws"
+                        }
+                    }
+                },
+                "Giant Spider": {
+                    "name": "Giant Spider",
+                    "tokenName": "Giant Spider",
+                    "publicNotes": "<p>Few everyday vermin inspire as much dread as the infamous spider. Giant spiders vary in size. The human-sized versions, sometimes called hunting spiders, are the most common type of giant spider, though not the largest.</p>",
+                    "items": {
+                        "Fangs": {
+                            "name": "Fangs"
+                        },
+                        "Web": {
+                            "name": "Web"
+                        },
+                        "Descend on a Web": {
+                            "name": "Descend on a Web",
+                            "description": "<p>The giant spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature can Strike the web, which has AC 20 and 8 HP. If the web is reduced to 0 HP, the spider falls.</p>"
+                        },
+                        "Giant Spider Venom": {
+                            "name": "Giant Spider Venom",
+                            "description": "<p>A target damaged by the spider's fangs must succeed at a @Check[fortitude|dc:16] save or take @Damage[1d10[poison]] damage and gain the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] condition for 1 round.</p>"
+                        },
+                        "Web Trap": {
+                            "name": "Web Trap",
+                            "description": "<p>A creature hit by the giant spider's web Strike gets stuck to the nearest surface. It can't move until it successfully @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9] (DC 17).</p>"
+                        }
+                    }
+                },
+                "Kobold Scout": {
+                    "name": "Kobold Scout",
+                    "tokenName": "Kobold Scout",
+                    "publicNotes": "<p>Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, trained for stalking and the hunt. They're charged with bringing food and valuable goods back to the community. Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without putting themselves at much risk.</p>",
+                    "items": {
+                        "Shortsword": {
+                            "name": "Shortsword"
+                        },
+                        "Crossbow": {
+                            "name": "Crossbow"
+                        }
+                    }
+                },
+                "Kobold Warrior": {
+                    "name": "Kobold Warrior",
+                    "tokenName": "Kobold Warrior",
+                    "publicNotes": "<p>A typical kobold trains with simple weaponry. Kobolds are capable of landing sneaky strikes against unsuspecting foes, but they're just as quick to scamper off to safety if their group wouldn't outnumber their enemies by at least two to one.</p><p>Kobolds believe in pragmatism, and a defeated kobold would rather surrender than face death. One might even abandon their kobold kin and concede to serve the victor if the alternative is an untimely demise.</p>",
+                    "items": {
+                        "Spear": {
+                            "name": "Spear"
+                        }
+                    }
+                },
+                "Skeleton Guard": {
+                    "name": "Skeleton Guard",
+                    "tokenName": "Skeleton Guard",
+                    "publicNotes": "<p>Made from bones held together by foul necromancy, skeletons can often be found haunting old dungeons and patrolling forgotten cemeteries. Many evil masterminds prefer to keep eternally vigilant undead as minions to avoid the upkeep required to feed and satisfy the psychological needs of living guardians.</p><p>Simple skeleton guards remain the most common skeletal minions. These skeletons are mindless, meaning they can't truly reason but can execute their basic guard duties of watching out for and attacking intruders. A group of several skeletons defending the same location usually consists of melee fighters and archers who shoot arrows from afar.</p>",
+                    "items": {
+                        "Scimitar": {
+                            "name": "Scimitar"
+                        },
+                        "Claw": {
+                            "name": "Claw"
+                        },
+                        "Shortbow": {
+                            "name": "Shortbow"
+                        }
+                    }
+                },
+                "Xulgath Warrior": {
+                    "name": "Xulgath Warrior",
+                    "tokenName": "Xulgath Warrior",
+                    "publicNotes": "<p>Reptilian humanoids living underground, xulgaths (known as troglodytes to many surface dwellers) attack intruders in their territory on sight. They live in familial communities, battling rival groups and other aggressive underground inhabitants to survive. They occasionally raid surface settlements, usually at the behest of cruel, bloodthirsty leaders. A typical xulgath has dull gray, dark gray, or ashen scales with a long tail and bony protrusions down the length of their spine.</p>",
+                    "items": {
+                        "Club": {
+                            "name": "Club"
+                        },
+                        "Jaws": {
+                            "name": "Jaws"
+                        },
+                        "Claw": {
+                            "name": "Claw"
+                        },
+                        "Javelin": {
+                            "name": "Javelin"
+                        },
+                        "Stench": {
+                            "name": "Stench",
+                            "description": "<p>A creature that comes within @Template[emanation|distance:30] of the xulgath and can smell the xulgath must attempt a @Check[fortitude|dc:16] save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute <em>(Use @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18])</em>.</p>"
+                        }
+                    }
+                },
+                "Zombie Shambler": {
+                    "name": "Zombie Shambler",
+                    "tokenName": "Zombie Shambler",
+                    "publicNotes": "<p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed. Among the living dead, zombies are most often used as fodder, wearing down defenses before more powerful undead arrive to deal the killing blow. Zombies can't truly think for themselves, but they can be commanded by other allied undead and powerful necromancers.</p>",
+                    "items": {
+                        "Fist": {
+                            "name": "Fist"
+                        },
+                        "Jaws": {
+                            "name": "Jaws",
+                            "description": "<p><strong>Requirements</strong> The zombie has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
+                        },
+                        "Slow": {
+                            "name": "Slow",
+                            "description": "<p>A zombie has only 2 actions on its turn, and it can't use reactions.</p>"
+                        }
+                    }
                 }
             }
         },
