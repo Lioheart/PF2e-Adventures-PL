@@ -3,6 +3,7 @@
     "entries": {
         "Season of Ghosts - The Summer That Never Was": {
             "name": "Season of Ghosts - Lato, którego nigdy nie było",
+            "description": "<p><strong>Rozpoczyna się ścieżka przygodowa Season of Ghosts!</strong><br /></p><p>Straszliwa klątwa spada na miasteczko Willowshore! Położona w nawiedzonym Shenmen w sercu rozległego kontynentu Tian Xia, ta kampania o tematyce horroru stawia bohaterów w obliczu nadprzyrodzonych zagrożeń i surowych realiów nadchodzącej zimy, gdy cały kontakt ze światem zewnętrznym zostaje odcięty przez tajemniczą ścianę mgły. Jakie diabelskie zagrożenie może kryć się za klątwą Willowshore i czy można je powstrzymać, zanim wszyscy w mieście zginą? Ścieżka przygód Season of Ghosts to czteroczęściowa seria powiązanych ze sobą przygód, które tworzą kompletną kampanię Pathfindera dla postaci na poziomach od 1. do 12.</p><p>W przygodzie otwierającej kampanię bohaterowie budzą się zdezorientowani i samotni na leśnej polanie po wzięciu udziału w tradycyjnym festiwalu w ostatni dzień wiosny. Wkrótce odkrywają, że ich rodzinne miasto Willowshore zostało najechane przez potwory i uległo złowrogiemu zaklęciu. Jednak pokonanie potworów to tylko pierwszy krok do odkrycia przerażającej natury nadprzyrodzonej klątwy, która opanowała krainę, a wraz z upływem dni lata nękanego deszczem, ponura rzeczywistość, z którą muszą zmierzyć się mieszkańcy Willowshore, będzie wymagała prawdziwych bohaterów!</p>",
             "folders": {
                 "The Summer That Never Was": "Lato, którego nigdy nie było",
                 "Chapter 4: The Wall of Ghosts": "Rozdział 4: Ściana duchów",
@@ -387,7 +388,7 @@
                         },
                         "Wall of Ghosts": {
                             "name": "Ściana duchów",
-                            "text": "<h2 class=\"no-toc\" data-split-here=\"Wall of Ghosts\">Ściana duchów</h2> <p> Najbardziej wysunięte na zachód krańce krajobrazu umysłu leżą poza nieprzeniknionym polem nieprzezroczystej białej mgły, która przecina region, tworząc pionową ścianę, która wydaje się wznosić 50 stóp w powietrze. Od czasu do czasu przez mgłę przebijają się zniekształcone kształty czegoś, co wygląda jak cicho krzyczące humanoidalne duchy, jakby uwięzione we mgle. Postacie, które potrafią latać i próbują wznieść się ponad ścianę, odkrywają, że mogą spojrzeć dalej na zachód na widok zalesionych gór, ale każda próba zbliżenia się na odległość mniejszą niż 10 stóp od położenia ściany poniżej powoduje, że przed nimi pojawia się więcej mgły. To jest Ściana Duchów - bariera obronna, która powstała bezpośrednio ze złowrogiej mocy Kugaptee, aby chronić podejście do jego grobu. </p> <img class=\"float-right\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/art/pzo90196 wall of ghosts.webp\" alt=\"Distorted shapes ripple through the mist\" title=\"Wall of Ghosts\" style=\"shape-outside:url('modules/pf2e-ap196-the-summer-that-never-was/assets/art/pzo90196 wall of ghosts.webp')\" /> <p> Usunięcie Ściany Duchów jest ważną częścią następnej przygody. Póki co, każdy gracz, który spróbuje wejść do Ściany Duchów, nie tylko zostanie zawrócony i powróci do miejsca, w którym wszedł (w taki sam sposób, jak gdyby przekroczył granicę umysłu w innym miejscu), ale także będzie narażony na przytłaczające poczucie strachu i przerażenia, gdy duchy w ścianie przepłyną przez niego, skażając jego umysł przerażeniem i uczuciem przytłaczającej, zbliżającej się zagłady. Dotknięci bohaterowie muszą wykonać @Check[will|dc:24] rzut obronny. W przypadku porażki otrzymują @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Przestraszony 1} po wyjściu ze Ściany Duchów w miejscu, w którym zaczęli, a w przypadku krytycznej porażki otrzymują @Compendium[pf2e. conditionitems.TBSHQspnbcqxsmjL]{Przestraszony 3} i @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Uciekający} tak długo, jak pozostają przestraszeni. </p> <p> Więcej szczegółów na temat Ściany Duchów i tego, co znajduje się poza nią, można znaleźć w „Niech opadną liście”, drugiej przygodzie Sezonu Duchów. </p>"
+                            "text": "<h2 class=\"no-toc\" data-split-here=\"Wall of Ghosts\">Ściana duchów</h2> <p> Najbardziej wysunięte na zachód krańce krajobrazu umysłu leżą poza nieprzeniknionym polem nieprzezroczystej białej mgły, która przecina region, tworząc pionową ścianę, która wydaje się wznosić 50 stóp w powietrze. Od czasu do czasu przez mgłę przebijają się zniekształcone kształty czegoś, co wygląda jak cicho krzyczące humanoidalne duchy, jakby uwięzione we mgle. Postacie, które potrafią latać i próbują wznieść się ponad ścianę, odkrywają, że mogą spojrzeć dalej na zachód na widok zalesionych gór, ale każda próba zbliżenia się na odległość mniejszą niż 10 stóp od położenia ściany poniżej powoduje, że przed nimi pojawia się więcej mgły. To jest Ściana Duchów - bariera obronna, która powstała bezpośrednio ze złowrogiej mocy Kugaptee, aby chronić podejście do jego grobu. </p> <img class=\"float-right\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/art/pzo90196 wall of ghosts.webp\" alt=\"Distorted shapes ripple through the mist\" title=\"Wall of Ghosts\" style=\"shape-outside:url('modules/pf2e-ap196-the-summer-that-never-was/assets/art/pzo90196 wall of ghosts.webp')\" /> <p> Usunięcie Ściany Duchów jest ważną częścią następnej przygody. Póki co, każdy gracz, który spróbuje wejść do Ściany Duchów, nie tylko zostanie zawrócony i powróci do miejsca, w którym wszedł (w taki sam sposób, jak gdyby przekroczył granicę umysłu w innym miejscu), ale także będzie narażony na przytłaczające poczucie strachu i przerażenia, gdy duchy w ścianie przepłyną przez niego, skażając jego umysł przerażeniem i uczuciem przytłaczającej, zbliżającej się zagłady. Dotknięci bohaterowie muszą wykonać @Check[will|dc:24] rzut obronny. W przypadku porażki otrzymują @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Przestraszony 1} po wyjściu ze Ściany Duchów w miejscu, w którym zaczęli, a w przypadku krytycznej porażki otrzymują @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Przestraszony 3} i @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Uciekający} tak długo, jak pozostają przestraszeni. </p> <p> Więcej szczegółów na temat Ściany Duchów i tego, co znajduje się poza nią, można znaleźć w „Niech opadną liście”, drugiej przygodzie Sezonu Duchów. </p>"
                         },
                         "Opportunities": {
                             "name": "Możliwości",
@@ -3348,7 +3349,15 @@
                 },
                 "Shallow Grave": {
                     "name": "Płytki grób",
-                    "tokenName": "Płytki grób"
+                    "tokenName": "Płytki grób",
+                    "items": {
+                        "Stone of Weight": {
+                            "name": "Kamień Wagi",
+                            "description": "<p>Ten mały kamień, znany również jako kamień ładunkowy, wygląda na niemagiczny i ma piękny połysk, sprawiając wrażenie, że może być cennym lub godnym uwagi przedmiotem lub magicznym kamieniem. Kiedy nosisz kamień przy sobie przez 1 minutę, jego klątwa aktywuje się: rozmiar kamienia nie zmienia się, ale jego waga nagle wzrasta do 5 Mas. Ta dodatkowa waga nie powoduje, że kamień zadaje więcej obrażeń, jeśli zostanie rzucony lub użyty jako broń. Pojawia się ponownie w twoim ekwipunku w ciągu 1 minuty, jeśli go wyrzucisz, i nie może zostać zniszczony ani wyrzucony na stałe, ani nawet umieszczony w pojemniku, który zmniejszyłby lub zanegował jego masę (np. w torbie), dopóki nie zostanie poddany zaklęciu zdejmującemu klątwę lub podobnemu efektowi magicznemu. Gdy klątwa aktywuje się po raz pierwszy, kamień łączy się z tobą.</p>",
+                            "unidentified": "Czerwony Płaszcz",
+                            "unidentified_desc": "<p>W grobach leży czerwony płaszcz.</p>"
+                        }
+                    }
                 },
                 "Phantom Raven": {
                     "name": "Widmowy Kruk",
@@ -3859,15 +3868,16 @@
                     "name": "Wisiorek okultystyczny",
                     "tokenName": "Wisiorek okultystyczny"
                 }
-            },
-            "description": "<p><strong>Rozpoczyna się ścieżka przygodowa Season of Ghosts!</strong><br /></p><p>Straszliwa klątwa spada na miasteczko Willowshore! Położona w nawiedzonym Shenmen w sercu rozległego kontynentu Tian Xia, ta kampania o tematyce horroru stawia bohaterów w obliczu nadprzyrodzonych zagrożeń i surowych realiów nadchodzącej zimy, gdy cały kontakt ze światem zewnętrznym zostaje odcięty przez tajemniczą ścianę mgły. Jakie diabelskie zagrożenie może kryć się za klątwą Willowshore i czy można je powstrzymać, zanim wszyscy w mieście zginą? Ścieżka przygód Season of Ghosts to czteroczęściowa seria powiązanych ze sobą przygód, które tworzą kompletną kampanię Pathfindera dla postaci na poziomach od 1. do 12.</p><p>W przygodzie otwierającej kampanię bohaterowie budzą się zdezorientowani i samotni na leśnej polanie po wzięciu udziału w tradycyjnym festiwalu w ostatni dzień wiosny. Wkrótce odkrywają, że ich rodzinne miasto Willowshore zostało najechane przez potwory i uległo złowrogiemu zaklęciu. Jednak pokonanie potworów to tylko pierwszy krok do odkrycia przerażającej natury nadprzyrodzonej klątwy, która opanowała krainę, a wraz z upływem dni lata nękanego deszczem, ponura rzeczywistość, z którą muszą zmierzyć się mieszkańcy Willowshore, będzie wymagała prawdziwych bohaterów!</p>"
+            }
         }
     },
     "mapping": {
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
-            "languagesDetails": "system.details.languages.details"
+            "languagesDetails": "system.details.languages.details",
+            "unidentified": "system.identification.unidentified.name",
+            "unidentified_desc": "system.identification.unidentified.data.description.value"
         },
         "gmNote": "system.description.gm"
     }
