@@ -4,6 +4,7 @@
         "Menace Under Otari": {
             "name": "Zagrożenie pod Otari",
             "caption": "Walcząc z bohaterami, koboldy przechwalają się swoim potężnym pochodzeniem i wspólną mocą.",
+            "description": "<p>„Menace under Otari” ma na celu nauczenie nowych Mistrzów Gry i graczy, jak grać w Pathfindera przy użyciu Foundry VTT. Każda sekcja przygody będzie uczyć nowych koncepcji i wprowadzać funkcje programu, dodając coraz więcej do gry. W międzyczasie pozostali gracze mają do dyspozycji bohatera, w którego mogą się wcielić, ucząc się, jak korzystać ze swoich umiejętności i jak odnieść sukces w niebezpiecznym świecie, który odkrywają.</p>",
             "folders": {
                 "Beginner's Guide": "Przewodnik dla początkujących",
                 "Menace Under Otari": "Zagrożenie pod Otari",
@@ -925,62 +926,9 @@
                 }
             },
             "actors": {
-                "Cinder Rat": {
-                    "name": "Żużlowy Szczur",
-                    "tokenName": "Żużlowy Szczur",
-                    "publicNotes": "<p>Żywiołaki ognia są destrukcyjnymi manifestacjami Planu Ognia. Czasami przychodzą na świat w potężnych miejscach gorąca i płomieni, gdzie tworzą się wiry żywiołów, takich jak wulkany.</p>\n<p>Żużlowe szczury to ogromne gryzonie stworzone z tlącego się węgla drzewnego i żywiołu ognia. Z ich płonących ciał nieustannie wydobywają się szkodliwe opary. Podobnie jak szczury lądowe, żużlowe szczury szukają odosobnionych nor i mogą szybko rozmnażać się, jeśli nie są kontrolowane.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Szczęki"
-                        },
-                        "Smoke Vision": {
-                            "name": "Widzenie przez Dym",
-                            "description": "<p>Żużlowy szczur ignoruje stan @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] od dymu.</p>"
-                        },
-                        "Fetid Fumes": {
-                            "name": "Cuchnące Opary",
-                            "description": "<p>Chmura dymu otacza żużlowego szczura. Wszystkie stworzenia wewnątrz obszaru @Template[emanation|distance:5]{5 stóp}, w tym żużlowy szczur, zyskują @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Zasłonięcie} od tego dymu. Istota, która zbliży się na odległość mniejszą niż 5 stóp od szczura żużlowego lub rozpocznie swoją turę w odległości mniejszej niż 5 stóp, musi odnieść sukces w rzucie obronnym @Check[fortitude|dc:22] lub otrzymać karę -1 do wszystkich testów i ST na 1 rundę <em>(Użycie @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1})</em>.</p>"
-                        }
-                    }
-                },
-                "Giant Rat": {
-                    "name": "Olbrzymi Szczur",
-                    "tokenName": "Olbrzymi Szczur",
-                    "publicNotes": "<p>Olbrzymie szczury to ogromne wersje zwykłych szkodników. Zwykle występują w dużych ilościach, ale ponieważ nie mogą zmieścić się w zakamarkach, w których zwykle chowają się zwykłe szczury, są znacznie łatwiejsze do zlokalizowania i wytępienia. W rzeczywistości znalezienie i zabicie olbrzymiego szczura jest rytuałem przejścia dla wielu poszukiwaczy przygód. Takie zadania szybko stają się męczące, więc wielu weteranów zleca eksterminację nowym poszukiwaczom przygód.</p>\n<p>Olbrzymie szczury żyją głównie w kanałach, gdzie mogą zbierać śmieci z ulic powyżej, ale niektóre rodziny olbrzymich szczurów żyją w bardziej odległych miejscach, takich jak wilgotne jaskinie, lasy lub wzgórza. Szczury są niezwykle zdolne do przetrwania i można je znaleźć niemal na całym świecie, choć preferują umiarkowany lub ciepły klimat, a nie zimne regiony.</p>\n<p>Chociaż samo ich ugryzienie nie jest śmiertelne, z wyjątkiem bardzo słabych osób, niektóre olbrzymie szczury przenoszą niebezpieczną chorobę powszechną wśród gryzoni na całym świecie - zarazę bardziej niż zdolną do spustoszenia wiejskich społeczności. Szczury są jedynie nosicielami, bez ryzyka, że same zapadną na tę chorobę.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Szczęki"
-                        }
-                    }
-                },
-                "Giant Spider": {
-                    "name": "Olbrzymi Pająk",
-                    "tokenName": "Olbrzymi Pająk",
-                    "publicNotes": "<p>Niewiele codziennych szkodników budzi tyle strachu, co niesławny pająk. Olbrzymie pająki różnią się wielkością. Wersje wielkości człowieka, czasami nazywane pająkami myśliwskimi, są najczęstszym typem olbrzymiego pająka, choć nie największym.</p>",
-                    "items": {
-                        "Fangs": {
-                            "name": "Kły"
-                        },
-                        "Web": {
-                            "name": "Pajęczyna"
-                        },
-                        "Descend on a Web": {
-                            "name": "Opuszczanie się po sieci",
-                            "description": "<p>Olbrzymi pająk porusza się prosto w dół do 40 stóp, zawieszony na linie pajęczyny. Może zawisnąć na pajęczynie lub zsunąć się z niej. Odległość, na jaką pająk opuszcza się na pajęczynie, nie liczy się do obrażeń od upadku. Stworzenie może zaatakować sieć, która ma KP 20 i 8 PW. Jeśli PW pajęczyny spadnie do 0, pająk spada.</p>"
-                        },
-                        "Giant Spider Venom": {
-                            "name": "Jad Olbrzymiego Pająka",
-                            "description": "<p>Cel zraniony przez kły pająka musi odnieść sukces w rzucie obronnym na @Check[fortitude|dc:16] lub otrzyma @Damage[1d10[poison]] obrażeń i zyska stan @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] na 1 rundę.</p>"
-                        },
-                        "Web Trap": {
-                            "name": "Pułapka z pajęczyny",
-                            "description": "<p>Istota trafiona Atakiem pajęczyny olbrzymiego pająka przykleja się do najbliższej powierzchni. Nie może się poruszać, dopóki nie @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Uwolni się} (ST 17).</p>"
-                        }
-                    }
-                },
-                "Horned Dragon (Juvenile, BB)": {
-                    "name": "Smok Rogaty (Młodociany, ZN)",
-                    "tokenName": "Smok Rogaty (Młodociany)",
+                "Juvenile Horned Dragon": {
+                    "name": "Młody Rogaty Smok",
+                    "tokenName": "Młody Rogaty Smok",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -1008,20 +956,7 @@
                         },
                         "Poison Breath": {
                             "name": "Trujące Zionięcie",
-                            "description": "<p>Smok zionie toksyczną chmurą, która zadaje @Damage[5d6[poison]] obrażeń w @Template[cone|distance:30]. Każda istota na tym obszarze musi wykonać rzut obronny @Check[reflex|dc:21|basic].</p>\n<p>Smok nie może ponownie użyć Trującego Zionięcia przez [[/br 1d4 #Recharge Trujące Zionięcie]]{1k4 rund}.</p>"
-                        }
-                    }
-                },
-                "Kobold Scout": {
-                    "name": "Kobold Zwiadowca",
-                    "tokenName": "Kobold Zwiadowca",
-                    "publicNotes": "<p>Większość koboldów napotkanych poza dobrze bronionymi legowiskami to koboldy zwiadowcze, wyszkolone do polowań i podchodów. Ich zadaniem jest przynoszenie żywności i cennych towarów z powrotem do społeczności. Koboldy z konieczności potrafią współpracować i często organizują zasadzki lub ataki typu \"uderz i uciekaj\", które pozwalają im wyrządzić jak największe szkody bez narażania się na większe ryzyko.</p>",
-                    "items": {
-                        "Shortsword": {
-                            "name": "Krótki miecz"
-                        },
-                        "Crossbow": {
-                            "name": "Kusza"
+                            "description": "<p>Smok zionie toksyczną chmurą, która zadaje @Damage[5d6[poison]] obrażeń w @Template[cone|distance:30]. Każda istota na tym obszarze musi wykonać rzut obronny @Check[reflex|dc:21|basic].</p>\n<p>Smok nie może ponownie użyć Trującego Zionięcia przez [[/gmr 1d4 #Recharge Trujące Zionięcie]]{1k4 rund}.</p>"
                         }
                     }
                 },
@@ -1046,57 +981,8 @@
                         }
                     }
                 },
-                "Kobold Warrior": {
-                    "name": "Kobold Wojownik",
-                    "tokenName": "Kobold Wojownik",
-                    "publicNotes": "<p>Typowy kobold trenuje z prostą bronią. Koboldy są zdolne do wyprowadzania podstępnych ataków na niczego niepodejrzewających wrogów, ale równie szybko uciekają w bezpieczne miejsce, jeśli ich grupa nie przewyższa liczebnie wrogów co najmniej dwa do jednego.</p>\n<p>Koboldy wierzą w pragmatyzm, a pokonany kobold woli się poddać niż stawić czoła śmierci. Można nawet porzucić swoich koboldów i oddać się w służbę zwycięzcy, jeśli alternatywą jest przedwczesna śmierć.</p>",
-                    "items": {
-                        "Spear": {
-                            "name": "Włócznia"
-                        }
-                    }
-                },
-                "Skeleton Guard": {
-                    "name": "Strażnik Szkielet",
-                    "tokenName": "Strażnik Szkielet",
-                    "publicNotes": "<p>Szkielety, stworzone z kości połączonych nekromancją, często nawiedzają stare lochy i patrolują zapomniane cmentarze. Wielu mistrzów zła woli trzymać wiecznie czujnych nieumarłych jako sługusów, aby uniknąć kosztów związanych z karmieniem i zaspokajaniem psychologicznych potrzeb żywych strażników.</p>\n<p>Zwykli szkieletowi strażnicy pozostają najpopularniejszymi szkieletowymi pupilami. Szkielety te są bezmyślne, co oznacza, że nie są w stanie rozumować, ale mogą wykonywać swoje podstawowe obowiązki polegające na pilnowaniu i atakowaniu intruzów. Grupa kilku szkieletów broniących tego samego miejsca zazwyczaj składa się z wojowników walczących wręcz i łuczników, którzy strzelają strzałami z daleka.</p>",
-                    "items": {
-                        "Scimitar": {
-                            "name": "Bułat"
-                        },
-                        "Claw": {
-                            "name": "Pazur"
-                        },
-                        "Shortbow": {
-                            "name": "Krótki Łuk"
-                        }
-                    }
-                },
-                "Xulgath Warrior (BB)": {
-                    "name": "Xulgath Wojownik (ZN)",
-                    "tokenName": "Xulgath Wojownik",
-                    "publicNotes": "<p>Reptiliańskie humanoidy żyjące pod ziemią, xulgathowie (znani jako troglodyci wielu mieszkańcom powierzchni) atakują intruzów na swoim terytorium na pierwszy rzut oka. Żyją w rodzinnych społecznościach, walcząc o przetrwanie z rywalizującymi grupami i innymi agresywnymi mieszkańcami podziemi. Od czasu do czasu napadają na osady na powierzchni, zwykle na rozkaz okrutnych, żądnych krwi przywódców. Typowy xulgath ma matowoszare, ciemnoszare lub popielate łuski z długim ogonem i kościstymi wypukłościami wzdłuż kręgosłupa.</p>",
-                    "items": {
-                        "Club": {
-                            "name": "Maczuga"
-                        },
-                        "Jaws": {
-                            "name": "Szczęki"
-                        },
-                        "Claw": {
-                            "name": "Pazur"
-                        },
-                        "Javelin": {
-                            "name": "Oszczep"
-                        },
-                        "Stench": {
-                            "name": "Smród",
-                            "description": "<p>Istota, która pojawia się wewnątrz obszaru @Template[emanation|distance:30] wokół xulgatha i może wyczuć zapach xulgatha, musi wykonać rzut obronny na @Check[fortitude|dc:16]. W przypadku porażki, istota otrzymuje karę -1 do wszystkich testów i współczynników ST, dopóki nie wykona akcji wymiotowania. Istota, której uda się wykonać rzut obronny, nie jest narażona na działanie smrodu xulgathów przez 1 minutę <em>(Użyj @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1})</em>.</p>"
-                        }
-                    }
-                },
-                "Kobold Boss Zolgran (BB)": {
-                    "name": "Szefowa Koboldów Zolgran (ZN)",
+                "Kobold Boss Zolgran": {
+                    "name": "Szefowa Koboldów Zolgran",
                     "tokenName": "Szefowa Koboldów Zolgran",
                     "items": {
                         "Wizard Spells": {
@@ -1119,26 +1005,8 @@
                         }
                     }
                 },
-                "Zombie Shambler": {
-                    "name": "Zombie Szwędacz",
-                    "tokenName": "Zombie Szwędacz",
-                    "publicNotes": "<p>Jedynym pragnieniem zombie jest pożeranie żywych. Nieprzemyślane i zawsze szokujące zwiastuny śmierci, zombie zatrzymują się tylko wtedy, gdy zostaną zniszczone. Wśród żywych trupów, zombie są najczęściej wykorzystywane jako mięso armatnie, osłabiając obronę, zanim potężniejsi nieumarli zadadzą zabójczy cios. Zombie nie potrafią myśleć samodzielnie, ale mogą być dowodzone przez innych sprzymierzonych nieumarłych i potężnych nekromantów.</p>",
-                    "items": {
-                        "Fist": {
-                            "name": "Pięść"
-                        },
-                        "Jaws": {
-                            "name": "Szczęki",
-                            "description": "<p><strong>Wymagania</strong> Zombie ma stworzenie @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] lub @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
-                        },
-                        "Slow": {
-                            "name": "Spowolnienie",
-                            "description": "<p>Zombie ma tylko 2 akcje w swojej turze i nie może używać reakcji.</p>"
-                        }
-                    }
-                },
-                "Central Spears (BB)": {
-                    "name": "Centralne Włócznie (ZN)",
+                "Central Spears": {
+                    "name": "Centralne Włócznie",
                     "tokenName": "Centralne Włócznie",
                     "items": {
                         "Spear Barrage": {
@@ -1150,8 +1018,8 @@
                         }
                     }
                 },
-                "Falling Ceiling (BB)": {
-                    "name": "Spadający Sufit (ZN)",
+                "Falling Ceiling": {
+                    "name": "Spadający Sufit",
                     "tokenName": "Spadający Sufit",
                     "items": {
                         "Falling Stones": {
@@ -1163,14 +1031,9 @@
                         }
                     }
                 },
-                "Mermaid Fountain (BB)": {
-                    "name": "Fontanna Syreny (ZN)",
-                    "tokenName": "Fontanna Syreny",
-                    "items": {
-                        "Spray": {
-                            "name": "Pryśnięcie"
-                        }
-                    }
+                "Mermaid Fountain": {
+                    "name": "Fontanna Syreny",
+                    "tokenName": "Fontanna Syreny"
                 },
                 "Spike Trap": {
                     "name": "Pułapka z Kolcami",
@@ -1260,10 +1123,6 @@
                         }
                     }
                 },
-                "Mermaid Fountain": {
-                    "name": "Fontanna Syreny",
-                    "tokenName": "Fontanna Syreny"
-                },
                 "Spider's Lair": {
                     "name": "Legowisko pająka",
                     "tokenName": "Legowisko pająka"
@@ -1283,13 +1142,146 @@
                 "Small Bag": {
                     "name": "Mała torba",
                     "tokenName": "Mała torba"
+                },
+                "Cinder Rat": {
+                    "name": "Żużlowy Szczur",
+                    "tokenName": "Żużlowy Szczur",
+                    "publicNotes": "<p>Żywiołaki ognia są destrukcyjnymi manifestacjami Planu Ognia. Czasami przychodzą na świat w potężnych miejscach gorąca i płomieni, gdzie tworzą się wiry żywiołów, takich jak wulkany.</p>\n<p>Żużlowe szczury to ogromne gryzonie stworzone z tlącego się węgla drzewnego i żywiołu ognia. Z ich płonących ciał nieustannie wydobywają się szkodliwe opary. Podobnie jak szczury lądowe, żużlowe szczury szukają odosobnionych nor i mogą szybko rozmnażać się, jeśli nie są kontrolowane.</p>",
+                    "items": {
+                        "Jaws": {
+                            "name": "Szczęki"
+                        },
+                        "Smoke Vision": {
+                            "name": "Widzenie przez Dym",
+                            "description": "<p>Żużlowy szczur ignoruje stan @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] od dymu.</p>"
+                        },
+                        "Fetid Fumes": {
+                            "name": "Cuchnące Opary",
+                            "description": "<p>Chmura dymu otacza żużlowego szczura. Wszystkie stworzenia wewnątrz obszaru @Template[emanation|distance:5]{5 stóp}, w tym żużlowy szczur, zyskują @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Zasłonięcie} od tego dymu. Istota, która zbliży się na odległość mniejszą niż 5 stóp od szczura żużlowego lub rozpocznie swoją turę w odległości mniejszej niż 5 stóp, musi odnieść sukces w rzucie obronnym @Check[fortitude|dc:22] lub otrzymać karę -1 do wszystkich testów i ST na 1 rundę <em>(Użycie @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1})</em>.</p>"
+                        }
+                    }
+                },
+                "Giant Rat": {
+                    "name": "Olbrzymi Szczur",
+                    "tokenName": "Olbrzymi Szczur",
+                    "publicNotes": "<p>Olbrzymie szczury to ogromne wersje zwykłych szkodników. Zwykle występują w dużych ilościach, ale ponieważ nie mogą zmieścić się w zakamarkach, w których zwykle chowają się zwykłe szczury, są znacznie łatwiejsze do zlokalizowania i wytępienia. W rzeczywistości znalezienie i zabicie olbrzymiego szczura jest rytuałem przejścia dla wielu poszukiwaczy przygód. Takie zadania szybko stają się męczące, więc wielu weteranów zleca eksterminację nowym poszukiwaczom przygód.</p>\n<p>Olbrzymie szczury żyją głównie w kanałach, gdzie mogą zbierać śmieci z ulic powyżej, ale niektóre rodziny olbrzymich szczurów żyją w bardziej odległych miejscach, takich jak wilgotne jaskinie, lasy lub wzgórza. Szczury są niezwykle zdolne do przetrwania i można je znaleźć niemal na całym świecie, choć preferują umiarkowany lub ciepły klimat, a nie zimne regiony.</p>\n<p>Chociaż samo ich ugryzienie nie jest śmiertelne, z wyjątkiem bardzo słabych osób, niektóre olbrzymie szczury przenoszą niebezpieczną chorobę powszechną wśród gryzoni na całym świecie - zarazę bardziej niż zdolną do spustoszenia wiejskich społeczności. Szczury są jedynie nosicielami, bez ryzyka, że same zapadną na tę chorobę.</p>",
+                    "items": {
+                        "Jaws": {
+                            "name": "Szczęki"
+                        }
+                    }
+                },
+                "Giant Spider": {
+                    "name": "Olbrzymi Pająk",
+                    "tokenName": "Olbrzymi Pająk",
+                    "publicNotes": "<p>Niewiele codziennych szkodników budzi tyle strachu, co niesławny pająk. Olbrzymie pająki różnią się wielkością. Wersje wielkości człowieka, czasami nazywane pająkami myśliwskimi, są najczęstszym typem olbrzymiego pająka, choć nie największym.</p>",
+                    "items": {
+                        "Fangs": {
+                            "name": "Kły"
+                        },
+                        "Web": {
+                            "name": "Pajęczyna"
+                        },
+                        "Descend on a Web": {
+                            "name": "Opuszczanie się po sieci",
+                            "description": "<p>Olbrzymi pająk porusza się prosto w dół do 40 stóp, zawieszony na linie pajęczyny. Może zawisnąć na pajęczynie lub zsunąć się z niej. Odległość, na jaką pająk opuszcza się na pajęczynie, nie liczy się do obrażeń od upadku. Stworzenie może zaatakować sieć, która ma KP 20 i 8 PW. Jeśli PW pajęczyny spadnie do 0, pająk spada.</p>"
+                        },
+                        "Giant Spider Venom": {
+                            "name": "Jad Olbrzymiego Pająka",
+                            "description": "<p>Cel zraniony przez kły pająka musi odnieść sukces w rzucie obronnym na @Check[fortitude|dc:16] lub otrzyma @Damage[1d10[poison]] obrażeń i zyska stan @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] na 1 rundę.</p>"
+                        },
+                        "Web Trap": {
+                            "name": "Pułapka z pajęczyny",
+                            "description": "<p>Istota trafiona Atakiem pajęczyny olbrzymiego pająka przykleja się do najbliższej powierzchni. Nie może się poruszać, dopóki nie @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Uwolni się} (ST 17).</p>"
+                        }
+                    }
+                },
+                "Kobold Scout": {
+                    "name": "Kobold Zwiadowca",
+                    "tokenName": "Kobold Zwiadowca",
+                    "publicNotes": "<p>Większość koboldów napotkanych poza dobrze bronionymi legowiskami to koboldy zwiadowcze, wyszkolone do polowań i podchodów. Ich zadaniem jest przynoszenie żywności i cennych towarów z powrotem do społeczności. Koboldy z konieczności potrafią współpracować i często organizują zasadzki lub ataki typu \"uderz i uciekaj\", które pozwalają im wyrządzić jak największe szkody bez narażania się na większe ryzyko.</p>",
+                    "items": {
+                        "Shortsword": {
+                            "name": "Krótki miecz"
+                        },
+                        "Crossbow": {
+                            "name": "Kusza"
+                        }
+                    }
+                },
+                "Kobold Warrior": {
+                    "name": "Kobold Wojownik",
+                    "tokenName": "Kobold Wojownik",
+                    "publicNotes": "<p>Typowy kobold trenuje z prostą bronią. Koboldy są zdolne do wyprowadzania podstępnych ataków na niczego niepodejrzewających wrogów, ale równie szybko uciekają w bezpieczne miejsce, jeśli ich grupa nie przewyższa liczebnie wrogów co najmniej dwa do jednego.</p>\n<p>Koboldy wierzą w pragmatyzm, a pokonany kobold woli się poddać niż stawić czoła śmierci. Można nawet porzucić swoich koboldów i oddać się w służbę zwycięzcy, jeśli alternatywą jest przedwczesna śmierć.</p>",
+                    "items": {
+                        "Spear": {
+                            "name": "Włócznia"
+                        }
+                    }
+                },
+                "Skeleton Guard": {
+                    "name": "Strażnik Szkielet",
+                    "tokenName": "Strażnik Szkielet",
+                    "publicNotes": "<p>Szkielety, stworzone z kości połączonych nekromancją, często nawiedzają stare lochy i patrolują zapomniane cmentarze. Wielu mistrzów zła woli trzymać wiecznie czujnych nieumarłych jako sługusów, aby uniknąć kosztów związanych z karmieniem i zaspokajaniem psychologicznych potrzeb żywych strażników.</p>\n<p>Zwykli szkieletowi strażnicy pozostają najpopularniejszymi szkieletowymi pupilami. Szkielety te są bezmyślne, co oznacza, że nie są w stanie rozumować, ale mogą wykonywać swoje podstawowe obowiązki polegające na pilnowaniu i atakowaniu intruzów. Grupa kilku szkieletów broniących tego samego miejsca zazwyczaj składa się z wojowników walczących wręcz i łuczników, którzy strzelają strzałami z daleka.</p>",
+                    "items": {
+                        "Scimitar": {
+                            "name": "Bułat"
+                        },
+                        "Claw": {
+                            "name": "Pazur"
+                        },
+                        "Shortbow": {
+                            "name": "Krótki Łuk"
+                        }
+                    }
+                },
+                "Xulgath Warrior": {
+                    "name": "Xulgath Wojownik",
+                    "tokenName": "Xulgath Wojownik",
+                    "publicNotes": "<p>Reptiliańskie humanoidy żyjące pod ziemią, xulgathowie (znani jako troglodyci wielu mieszkańcom powierzchni) atakują intruzów na swoim terytorium na pierwszy rzut oka. Żyją w rodzinnych społecznościach, walcząc o przetrwanie z rywalizującymi grupami i innymi agresywnymi mieszkańcami podziemi. Od czasu do czasu napadają na osady na powierzchni, zwykle na rozkaz okrutnych, żądnych krwi przywódców. Typowy xulgath ma matowoszare, ciemnoszare lub popielate łuski z długim ogonem i kościstymi wypukłościami wzdłuż kręgosłupa.</p>",
+                    "items": {
+                        "Club": {
+                            "name": "Maczuga"
+                        },
+                        "Jaws": {
+                            "name": "Szczęki"
+                        },
+                        "Claw": {
+                            "name": "Pazur"
+                        },
+                        "Javelin": {
+                            "name": "Oszczep"
+                        },
+                        "Stench": {
+                            "name": "Smród",
+                            "description": "<p>Istota, która pojawia się wewnątrz obszaru @Template[emanation|distance:30] wokół xulgatha i może wyczuć zapach xulgatha, musi wykonać rzut obronny na @Check[fortitude|dc:16]. W przypadku porażki, istota otrzymuje karę -1 do wszystkich testów i współczynników ST, dopóki nie wykona akcji wymiotowania. Istota, której uda się wykonać rzut obronny, nie jest narażona na działanie smrodu xulgathów przez 1 minutę <em>(Użyj @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1})</em>.</p>"
+                        }
+                    }
+                },
+                "Zombie Shambler": {
+                    "name": "Zombie Szwędacz",
+                    "tokenName": "Zombie Szwędacz",
+                    "publicNotes": "<p>Jedynym pragnieniem zombie jest pożeranie żywych. Nieprzemyślane i zawsze szokujące zwiastuny śmierci, zombie zatrzymują się tylko wtedy, gdy zostaną zniszczone. Wśród żywych trupów, zombie są najczęściej wykorzystywane jako mięso armatnie, osłabiając obronę, zanim potężniejsi nieumarli zadadzą zabójczy cios. Zombie nie potrafią myśleć samodzielnie, ale mogą być dowodzone przez innych sprzymierzonych nieumarłych i potężnych nekromantów.</p>",
+                    "items": {
+                        "Fist": {
+                            "name": "Pięść"
+                        },
+                        "Jaws": {
+                            "name": "Szczęki",
+                            "description": "<p><strong>Wymagania</strong> Zombie ma stworzenie @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] lub @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
+                        },
+                        "Slow": {
+                            "name": "Spowolnienie",
+                            "description": "<p>Zombie ma tylko 2 akcje w swojej turze i nie może używać reakcji.</p>"
+                        }
+                    }
                 }
-            },
-            "description": "<p>„Menace under Otari” ma na celu nauczenie nowych Mistrzów Gry i graczy, jak grać w Pathfindera przy użyciu Foundry VTT. Każda sekcja przygody będzie uczyć nowych koncepcji i wprowadzać funkcje programu, dodając coraz więcej do gry. W międzyczasie pozostali gracze mają do dyspozycji bohatera, w którego mogą się wcielić, ucząc się, jak korzystać ze swoich umiejętności i jak odnieść sukces w niebezpiecznym świecie, który odkrywają.</p>"
+            }
         },
         "Pirate King's Plunder": {
             "name": "Łup Króla Piratów",
             "caption": "Nie trzeba długo czekać, aby znaleźć wejście do ciemnej i tajemniczej jaskini.",
+            "description": "<p>Łup Króla Piratów to prosta przygodówka, która nie wymaga MG i może zostać ukończona przez jednego gracza.</p><p>W przygodzie \"Łup Króla Piratów\" nie będziesz przechodzić przez fabułę, czytając dzienniki w porządku chronologicznym. Zamiast tego, na końcu każdego wpisu zostaniesz postawiony przed wyborem. Decyzje, które podejmiesz, doprowadzą cię do innych wpisów, które możesz śledzić po prostu klikając przez połączone wpisy w dzienniku. Dla wygody dołączyliśmy pomocny wpis do dziennika, aby śledzić swoje notatki i umożliwić wygodne rzucanie kośćmi do ataków i statystyk.</p>",
             "folders": {
                 "Pirate King's Plunder": "Łup Króla Piratów"
             },
@@ -1416,8 +1408,7 @@
                         }
                     }
                 }
-            },
-            "description": "<p>Łup Króla Piratów to prosta przygodówka, która nie wymaga MG i może zostać ukończona przez jednego gracza.</p><p>W przygodzie \"Łup Króla Piratów\" nie będziesz przechodzić przez fabułę, czytając dzienniki w porządku chronologicznym. Zamiast tego, na końcu każdego wpisu zostaniesz postawiony przed wyborem. Decyzje, które podejmiesz, doprowadzą cię do innych wpisów, które możesz śledzić po prostu klikając przez połączone wpisy w dzienniku. Dla wygody dołączyliśmy pomocny wpis do dziennika, aby śledzić swoje notatki i umożliwić wygodne rzucanie kośćmi do ataków i statystyk.</p>"
+            }
         }
     },
     "mapping": {
