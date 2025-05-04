@@ -3,6 +3,7 @@
     "entries": {
         "Rusthenge": {
             "name": "Rusthenge",
+            "description": "<p>The ruins of Rusthenge have stood silent vigil over the southern coastline of Chakikoth Isle for eons, dating back to the era of the runelords of ancient Thassilon. The town of Iron Harbor was built in Rusthenge's shadow, but now that New Thassilon has risen from the depths of the distant past, the old ruins are coming under unexpected scrutiny. Something sinister is afoot in Rusthenge, and it falls to a brand new band of adventurers to learn the truth of the ancient evil that stirs deep within its long-abandoned halls! This adventure also includes new items and character backgrounds, as well as a pair of new monsters tied to the region's notorious history.</p>",
             "folders": {
                 "Rusthenge": "Rusthenge",
                 "Original Maps": "Original Maps",
@@ -918,26 +919,7 @@
                 "Sydri": {
                     "name": "Sydri",
                     "tokenName": "Sydri",
-                    "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
-                    "items": {
-                        "Occult Innate Spells": {
-                            "name": "Occult Innate Spells"
-                        },
-                        "Aklys": {
-                            "name": "Aklys"
-                        },
-                        "Hand Crossbow": {
-                            "name": "Hand Crossbow"
-                        },
-                        "Nimble Dodge": {
-                            "name": "Nimble Dodge",
-                            "description": "<p><strong>Requirements</strong> The dero stalker is not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7].</p><p><strong>Trigger</strong> A creature targets the dero with an attack and the dero can see the attacker.</p><hr /><p><strong>Effect</strong> The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
-                        },
-                        "Vulnerable to Sunlight": {
-                            "name": "Vulnerable to Sunlight",
-                            "description": "<p>A dero stalker takes [[/r {4}]]{4 damage} for every hour they're exposed to sunlight.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
                 },
                 "South Roof Barrel": {
                     "name": "South Roof Barrel",
@@ -950,37 +932,12 @@
                 "Rustsworn Cultist": {
                     "name": "Rustsworn Cultist",
                     "tokenName": "Rustsworn Cultist",
-                    "publicNotes": "<p>Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning their leader, they devote themselves to achieving their most perfect spiritual form.</p><hr /><p>Those initiated into the hidden truths and forbidden secrets of the world are forever transformed-or so they claim. To the cynical, a mystic is nothing more than a charlatan or zealot. Others profess to sense an aura around such luminaries and treat them with reverence, lest they offend some harbinger of unspeakable doom.</p>",
-                    "items": {
-                        "Dagger": {
-                            "name": "Dagger"
-                        },
-                        "Fanatical Frenzy": {
-                            "name": "Fanatical Frenzy",
-                            "description": "<p><strong>Requirements</strong> The cultist has taken damage and is neither @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw] nor already in a frenzy</p><hr /><p><strong>Effect</strong> The cultist flies into a frenzy that lasts 1 minute. While frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a -2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw].</p><p>@UUID[Compendium.pf2e.bestiary-effects.Item.3Wtzyb0ZgkaC7vHY]</p>"
-                        },
-                        "Cult Lore (applies to cultist's own cult)": {
-                            "name": "Cult Lore (applies to cultist's own cult)"
-                        }
-                    }
+                    "publicNotes": "<p>Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning their leader, they devote themselves to achieving their most perfect spiritual form.</p><hr /><p>Those initiated into the hidden truths and forbidden secrets of the world are forever transformed-or so they claim. To the cynical, a mystic is nothing more than a charlatan or zealot. Others profess to sense an aura around such luminaries and treat them with reverence, lest they offend some harbinger of unspeakable doom.</p>"
                 },
                 "Zombie Shambler": {
                     "name": "Zombie Shambler",
                     "tokenName": "Zombie Shambler",
-                    "publicNotes": "<p>A zombie shambler is a slow-moving horror dangerous in larger groups.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>",
-                    "items": {
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Jaws": {
-                            "name": "Jaws",
-                            "description": "<p><strong>Requirements</strong> The zombie has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
-                        },
-                        "Slow": {
-                            "name": "Slow",
-                            "description": "<p>A zombie is permanently @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] and can't use reactions.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>A zombie shambler is a slow-moving horror dangerous in larger groups.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>"
                 },
                 "Summoning Chamber": {
                     "name": "Summoning Chamber",
@@ -988,98 +945,31 @@
                 },
                 "Rustsworn Initiate": {
                     "name": "Rustsworn Initiate",
-                    "tokenName": "Rustsworn Initiate",
-                    "items": {
-                        "Dagger": {
-                            "name": "Dagger"
-                        },
-                        "Gang Up": {
-                            "name": "Gang Up",
-                            "description": "<p>An enemy is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] against the Rustsworn initiate's melee attacks due to flanking as long as that enemy is within both their reach and their ally's reach.</p>"
-                        }
-                    }
+                    "tokenName": "Rustsworn Initiate"
                 },
                 "Haniver": {
                     "name": "Haniver",
                     "tokenName": "Haniver",
-                    "publicNotes": "<p>Hanivers are the most benign type of gremlin-capricious fey who skim the waves on rubbery fin-wings. Though they don't actively sabotage their environment, sailors bemoan these gremlins' grasping fingers. Hanivers' incessant curiosity compels them to examine any object that draws their attention. Such treasures might include an overturned fruit basket, a sack of coins, or a shark's gleaming teeth (often still in the shark's mouth, to the fey's regret). Should hanivers like what they find, they steal it, making them a bane to fishers and dockworkers everywhere.</p><hr /><p>Gremlins arose long ago in the First World, living embodiments of nature's ability to wear away, erode, and decompose. On the Material Plane, their encounters with mortal civilizations twisted them into creatures devoted to chaos, sabotage, and traps, each variety specializing in a particular brand of mayhem.</p>",
-                    "items": {
-                        "Primal Innate Spells": {
-                            "name": "Primal Innate Spells"
-                        },
-                        "Bite": {
-                            "name": "Bite"
-                        },
-                        "Rearrange Possessions": {
-                            "name": "Rearrange Possessions",
-                            "description": "<p><span class=\"action-glyph\">1</span> or <span class=\"action-glyph\">2</span></p><p>The haniver attempts to @UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k] a small object off a target's person. If they succeed, they also rifle through and rearrange the contents of the target's pockets, pouches, and other containers.</p><p>The next time the target attempts to draw a weapon or retrieve a worn item, doing so requires two Interact actions instead of one.</p><p>The haniver can Steal an object that's closely guarded using this action without the -5 penalty, though not objects that would be extremely noticeable or time-consuming to remove.</p><p>They can spend 2 actions instead of 1 to use this ability to Steal from a creature in combat or otherwise on guard.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Hanivers are the most benign type of gremlin-capricious fey who skim the waves on rubbery fin-wings. Though they don't actively sabotage their environment, sailors bemoan these gremlins' grasping fingers. Hanivers' incessant curiosity compels them to examine any object that draws their attention. Such treasures might include an overturned fruit basket, a sack of coins, or a shark's gleaming teeth (often still in the shark's mouth, to the fey's regret). Should hanivers like what they find, they steal it, making them a bane to fishers and dockworkers everywhere.</p><hr /><p>Gremlins arose long ago in the First World, living embodiments of nature's ability to wear away, erode, and decompose. On the Material Plane, their encounters with mortal civilizations twisted them into creatures devoted to chaos, sabotage, and traps, each variety specializing in a particular brand of mayhem.</p>"
                 },
                 "Vanda": {
                     "name": "Vanda",
-                    "tokenName": "Vanda",
-                    "items": {
-                        "Greatsword": {
-                            "name": "Greatsword"
-                        },
-                        "Warfare Lore": {
-                            "name": "Warfare Lore"
-                        }
-                    }
+                    "tokenName": "Vanda"
                 },
                 "Envyspawn": {
                     "name": "Envyspawn",
                     "tokenName": "Envyspawn",
-                    "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Halberd": {
-                            "name": "Halberd"
-                        },
-                        "Sin Scent (Imprecise) 30 feet": {
-                            "name": "Sin Scent (Imprecise) 30 feet",
-                            "description": "<p>A sinspawn can smell creatures that reflect its sin, as the scent ability. The GM determines which creatures are appropriately sinful.</p>"
-                        },
-                        "Sinful Bite": {
-                            "name": "Sinful Bite",
-                            "description": "<p>A creature hit by the jaws of a sinspawn must attempt a @Check[type:will|dc:18] save as it is assailed by sinful thoughts.</p><hr /><p><strong>Critical Success</strong> Unaffected</p><p><strong>Success</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]</p><p><strong>Failure</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]</p><p><strong>Critical Failure</strong> sickened 2 plus @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] for 1 minute</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>"
                 },
                 "Rusted Door": {
                     "name": "Rusted Door",
                     "tokenName": "Rusted Door",
-                    "description": "<p>Shards of rust extend from the door and crumble away to cling to the flesh and clothes of anyone who attempts to open or damage the door.</p>",
-                    "items": {
-                        "Inflict Rust Creep": {
-                            "name": "Inflict Rust Creep",
-                            "description": "<p><strong>Trigger</strong> A non-worshipper of Xar-Azmak attempts to open the door or causes damage to it with a melee Strike</p><hr /><p><strong>Effect</strong> The triggering creature is exposed to rust creep as tendrils of rust-red energy seem to slither out of the rusty patches on the door to rasp strangely gently against exposed skin.</p><hr /><p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:15|traits:disease,divine,transmutation]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        }
-                    }
+                    "description": "<p>Shards of rust extend from the door and crumble away to cling to the flesh and clothes of anyone who attempts to open or damage the door.</p>"
                 },
                 "Severed Head": {
                     "name": "Severed Head",
                     "tokenName": "Severed Head",
-                    "publicNotes": "<p>The most common beheaded appears simply as a rotting head, barely preserved by the magic that created it.</p><hr /><p>Beheaded are the reanimated heads of decapitation victims. These mindless undead fly through the air or roll around to attack their prey.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Gnash": {
-                            "name": "Gnash",
-                            "description": "<p><strong>Requirements</strong> The beheaded's previous action was a jaws Strike that dealt damage to its target.</p><hr /><p><strong>Effect</strong> The severed head makes a second jaws Strike as it violently shakes itself, trying to rip away a mouthful of flesh. On a success, the target takes an additional 1d4 slashing damage and 1 persistent bleed damage and is exposed to rust creep.</p>"
-                        },
-                        "Rust Creep": {
-                            "name": "Rust Creep",
-                            "description": "<p>These undead inflict rust creep with their jaws Strikes. A creature damaged by a jaws Strike or a Gnash from one of these severed heads must succeed at a DC 15 Fortitude save or contract rust creep.</p><p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><hr /><p><strong>Rustcreep</strong></p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:15]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        }
-                    }
+                    "publicNotes": "<p>The most common beheaded appears simply as a rotting head, barely preserved by the magic that created it.</p><hr /><p>Beheaded are the reanimated heads of decapitation victims. These mindless undead fly through the air or roll around to attack their prey.</p>"
                 },
                 "Janis' Reward": {
                     "name": "Janis' Reward",
@@ -1088,101 +978,21 @@
                 "Azomi": {
                     "name": "Azomi",
                     "tokenName": "Azomi",
-                    "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Halberd": {
-                            "name": "Halberd"
-                        },
-                        "Sin Scent (Imprecise) 30 feet": {
-                            "name": "Sin Scent (Imprecise) 30 feet",
-                            "description": "<p>A sinspawn can smell creatures that reflect its sin, as the scent ability. The GM determines which creatures are appropriately sinful.</p>"
-                        },
-                        "Sinful Bite": {
-                            "name": "Sinful Bite",
-                            "description": "<p>A creature hit by the jaws of a sinspawn must attempt a @Check[type:will|dc:18] save as it is assailed by sinful thoughts.</p><hr /><p><strong>Critical Success</strong> Unaffected</p><p><strong>Success</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]</p><p><strong>Failure</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]</p><p><strong>Critical Failure</strong> sickened 2 plus @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] for 1 minute</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>"
                 },
                 "Dero Stalker": {
                     "name": "Dero Stalker",
                     "tokenName": "Dero Stalker",
-                    "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
-                    "items": {
-                        "Occult Innate Spells": {
-                            "name": "Occult Innate Spells"
-                        },
-                        "Aklys": {
-                            "name": "Aklys"
-                        },
-                        "Hand Crossbow": {
-                            "name": "Hand Crossbow"
-                        },
-                        "Nimble Dodge": {
-                            "name": "Nimble Dodge",
-                            "description": "<p><strong>Requirements</strong> The dero stalker is not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7].</p><p><strong>Trigger</strong> A creature targets the dero with an attack and the dero can see the attacker.</p><hr /><p><strong>Effect</strong> The dero dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
-                        },
-                        "Vulnerable to Sunlight": {
-                            "name": "Vulnerable to Sunlight",
-                            "description": "<p>A dero stalker takes [[/r {4}]]{4 damage} for every hour they're exposed to sunlight.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
                 },
                 "Boggard Scout": {
                     "name": "Boggard Scout",
                     "tokenName": "Boggard Scout",
-                    "publicNotes": "<p>Often tasked with patrolling the borders of their lands, boggard scouts learn to speak another language (typically Common) to make it easier to issue threats and insults toward trespassers.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
-                    "items": {
-                        "Morningstar": {
-                            "name": "Morningstar"
-                        },
-                        "Tongue": {
-                            "name": "Tongue"
-                        },
-                        "Sling": {
-                            "name": "Sling"
-                        },
-                        "Swamp Stride": {
-                            "name": "Swamp Stride",
-                            "description": "<p>A boggard scout ignores difficult terrain caused by swamp terrain features.</p>"
-                        },
-                        "Terrifying Croak": {
-                            "name": "Terrifying Croak",
-                            "description": "<p>The boggard scout unleashes a terrifying croak. Any non-boggard within @Template[type:emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] unless they succeed at a @Check[type:will|dc:17] save.</p><p>Those who critically succeed are temporarily immune for 1 minute.</p>"
-                        },
-                        "Tongue Grab": {
-                            "name": "Tongue Grab",
-                            "description": "<p>If the boggard scout hits a creature with its tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] by the boggard. Unlike with a normal grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe], but it can't move beyond the reach of the boggard's tongue.</p><p>A creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Often tasked with patrolling the borders of their lands, boggard scouts learn to speak another language (typically Common) to make it easier to issue threats and insults toward trespassers.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
                 },
                 "Elder Ordwi": {
                     "name": "Elder Ordwi",
-                    "tokenName": "Elder Ordwi",
-                    "items": {
-                        "Divine Prepared Spells": {
-                            "name": "Divine Prepared Spells"
-                        },
-                        "Divine Focus Spells": {
-                            "name": "Divine Focus Spells"
-                        },
-                        "Rapier": {
-                            "name": "Rapier"
-                        },
-                        "Divine Font": {
-                            "name": "Divine Font",
-                            "description": "<p><em>@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]</em></p>"
-                        },
-                        "Healing Hands": {
-                            "name": "Healing Hands",
-                            "description": "<p>When Ordwi casts heal, she rolls 1d10s instead of d8s.</p>"
-                        }
-                    }
+                    "tokenName": "Elder Ordwi"
                 },
                 "Sand": {
                     "name": "Sand",
@@ -1191,23 +1001,7 @@
                 "Theiltemar": {
                     "name": "Theiltemar",
                     "tokenName": "Theiltemar",
-                    "publicNotes": "<p>Among the ranks of the dead, none are so numerous, nor so varied, as the skeleton. While most are almost entirely made from bone, some maintain a few scraps of flesh to aid them in movement, such as wing membranes.</p>",
-                    "items": {
-                        "Divine Spontaneous Spells": {
-                            "name": "Divine Spontaneous Spells"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Rusting Death": {
-                            "name": "Rusting Death",
-                            "description": "<p>When Theiltemar is destroyed, his bones explode as the necromantic energy holding him together is released. This shreds his rusted chain mail as well, flinging rusty shards of jagged metal in all directions. Adjacent creatures take @Damage[2d6[piercing]] damage (@Check[type:reflex|dc:21|basic:true] save) and are exposed to rust creep. As his remains settled to the floor, the wall of force blocking area <strong>F14</strong> flickers and fades.</p>"
-                        },
-                        "Rust Creep": {
-                            "name": "Rust Creep",
-                            "description": "<p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:15]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Among the ranks of the dead, none are so numerous, nor so varied, as the skeleton. While most are almost entirely made from bone, some maintain a few scraps of flesh to aid them in movement, such as wing membranes.</p>"
                 },
                 "Fishing Hut": {
                     "name": "Fishing Hut",
@@ -1225,139 +1019,35 @@
                 "Rusty Spike Launcher": {
                     "name": "Rusty Spike Launcher",
                     "tokenName": "Rusty Spike Launcher",
-                    "description": "<p>As the large rusty door swings open, a mass of rusty spikes appear out of nowhere in the open doorway and launch violently into the room.</p>",
-                    "items": {
-                        "Launch Spikes": {
-                            "name": "Launch Spikes",
-                            "description": "<p><strong>Trigger</strong> a creature opens the door without uttering a prayer to Xar-Azmak first</p><hr /><p><strong>Effect</strong> A mass of rusty spikes appears in the open doorway and then fire into area <strong>E1</strong>. The rusty spikes curve through the air to seek targets—all creatures in area <strong>E1</strong> must attempt a @Check[type:reflex|dc:20|traits:damaging-effect] save.</p><hr /><p><strong>Critical Success</strong> The creature avoids the spikes and takes no damage.</p><p><strong>Success</strong> A spike grazes the creature, inflicting @Damage[2d10[piercing]] damage.</p><p><strong>Failure</strong> A spike impales the creature, inflicting @Damage[(2d10+13)[piercing]] damage.</p><p><strong>Critical Failure</strong> As failure, but the spike also exposes the creature to tetanus.</p>"
-                        }
-                    }
+                    "description": "<p>As the large rusty door swings open, a mass of rusty spikes appear out of nowhere in the open doorway and launch violently into the room.</p>"
                 },
                 "Rusty Floor Spikes": {
                     "name": "Rusty Floor Spikes",
                     "tokenName": "Rusty Floor Spikes",
-                    "description": "<p>Pressure plates on the floor near the north door cause rusty spikes to lance up out of the floor in area <strong>C3</strong>.</p>",
-                    "items": {
-                        "Spring Up": {
-                            "name": "Spring Up",
-                            "description": "<p><strong>Trigger</strong> A creature steps on the pressure plate</p><hr /><p><strong>Effect</strong> The spikes spring up, Striking all creatures in the hallway. The floor becomes greater difficult terrain.</p>"
-                        },
-                        "Rusty Spike": {
-                            "name": "Rusty Spike"
-                        },
-                        "Tetanus": {
-                            "name": "Tetanus",
-                            "description": "<p>An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:14]</p><p><strong>Onset</strong> 10 days</p><p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm] (1 week)</p><p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm] and can't speak (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF] with spasms (1 day)</p><p><strong>Stage 4</strong> death</p>"
-                        }
-                    }
+                    "description": "<p>Pressure plates on the floor near the north door cause rusty spikes to lance up out of the floor in area <strong>C3</strong>.</p>"
                 },
                 "Gurga": {
                     "name": "Gurga",
                     "tokenName": "Gurga",
-                    "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
-                    "items": {
-                        "Primal Prepared Spells": {
-                            "name": "Primal Prepared Spells"
-                        },
-                        "Staff": {
-                            "name": "Staff"
-                        },
-                        "Tongue": {
-                            "name": "Tongue"
-                        },
-                        "Destructive Croak": {
-                            "name": "Destructive Croak",
-                            "description": "<p>The swampseer utters a powerful croak that deals @Damage[4d6[sonic]] damage to any non-boggard within a @Template[type:emanation|distance:15] (@Check[type:fortitude|dc:19|basic:true] save).</p><p>Any creature with the @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] condition takes additional sonic damage equal to twice the value of their frightened condition.</p><p>The boggard can't use Destructive Croak again for [[/br 1d4 #Recharge Destructive Croak]]{1d4 rounds}</p>"
-                        },
-                        "Drowning Drone": {
-                            "name": "Drowning Drone",
-                            "description": "<p><strong>Trigger</strong> The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an auditory or sonic effect.</p><hr /><p><strong>Effect</strong> The swampseer releases a croak that drowns out other sound. It rolls a @Check[type:performance] check. It and boggard allies in the area can use the higher result of the swampseer's Performance check or their saves to resolve the effects against the auditory or sonic effect.</p>"
-                        },
-                        "Swamp Stride": {
-                            "name": "Swamp Stride",
-                            "description": "<p>A boggard swampseer ignores difficult terrain caused by swamp terrain features.</p>"
-                        },
-                        "Terrifying Croak": {
-                            "name": "Terrifying Croak",
-                            "description": "<p>The boggard swampseer unleashes a terrifying croak. Any non-boggard within @Template[type:emanation|distance:30] becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] unless they succeed at a @Check[type:will|dc:19] save.</p><p>Those who critically succeed are temporarily immune for 1 minute.</p>"
-                        },
-                        "Tongue Grab": {
-                            "name": "Tongue Grab",
-                            "description": "<p>If the boggard swampseer hits a creature with its tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] by the boggard. Unlike with a normal grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe], but it can't move beyond the reach of the boggard's tongue.</p><p>A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
                 },
                 "Vlorian Cythnigot": {
                     "name": "Vlorian Cythnigot",
                     "tokenName": "Vlorian Cythnigot",
                     "publicNotes": "<p>The cythnigot is a foul fungal parasite that grows and thrives in the corpses of small creatures. It wears these bodies like a suit, but also adjusts and tailors the fleshy covering to suit its needs, and the body ends up looking as alien as anything else spawned from the Abyssal depths. The cythnigot's most identifying feature is the long stalk of fungal material that extends from creature's body, ending in a surprisingly strong set of fanged jaws.</p>",
-                    "languagesDetails": "telepathy (touch only)",
-                    "items": {
-                        "Occult Innate Spells": {
-                            "name": "Occult Innate Spells"
-                        },
-                        "Bite": {
-                            "name": "Bite"
-                        },
-                        "Rust Creep": {
-                            "name": "Rust Creep",
-                            "description": "<p>A creature bitten by the Vlorian cythnigot becomes afflicted by rust creep, but with a DC 20 Fortitude save.</p><hr /><p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:20|traits:divine,transmutation]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        },
-                        "Sickening Display": {
-                            "name": "Sickening Display",
-                            "description": "<p>The cythnigot presents its awful appearance fully, and creatures in a @Template[type:emanation|distance:10] must attempt a @Check[type:will|dc:20] save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p><p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] until its next turn.</p><p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18], and is off-guard for as long as it's sickened.</p><p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] and is off-guard for as long as it's sickened.</p>"
-                        }
-                    }
+                    "languagesDetails": "telepathy (touch only)"
                 },
                 "Esipil": {
                     "name": "Esipil",
                     "tokenName": "Esipil",
                     "publicNotes": "<p>Among the least of the sahkils, esipils delight in spreading fears and uncertainty among people who live with animals that could turn on them. They generally appear to their prey as some benign creature such as a domesticated dog or cat, but once they gain trust and get their victims close, they transform into a terrifying creature that looks part dog and part worm with tendrils of viscera that the creature uses as both a tongue and a weapon.</p><p>Of all the sahkils, esipils are most likely to ingratiate themselves with mortals, sometimes serving powerful spellcasters and other times simply living among unsuspecting victims, biding their time until they strike.</p><hr /><p>Ages ago, when this cycle of the multiverse was still adolescent, a cabal of psychopomps who already felt bored and restrained in their role of ushering souls to their ultimate resting place rebelled against their station. It was this corruption of the cycle of souls that spawned the first sahkils.</p><p>Ambivalent to the prescribed order of the multiverse and spiteful of mortals, sahkils delight in spreading fear and unease to all beings, clogging up the metaphysical cycle with anxiety-ridden mortals too scared to achieve their potential. These fiends have drastically changed from their dedicated psychopomp predecessors. They are creatures of spite and torment, fear and disgust. They exploit the most common and rare fears for their own perverse satisfaction, and they want nothing more than to frighten mortals and make them quetion their reason for existence.</p><p>Most sahkils lurk on the Ethereal Plane, but they frequently invade the Material Plane to torment mortals and spread terror. They use their innate ability to slip between the veils of the Ethereal and Material effortlessly, often stalking their targets for days or weeks before enacting their devious plots.</p>",
-                    "languagesDetails": "telepathy (touch)",
-                    "items": {
-                        "Divine Innate Spells": {
-                            "name": "Divine Innate Spells"
-                        },
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Easy to Call": {
-                            "name": "Easy to Call",
-                            "description": "<p>A esipil's level is considered 2 lower for the purpose of being conjured by the <em>@UUID[Compendium.pf2e.spells-srd.Item.2ykmAVKrsAWcazcC]</em> ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.</p>"
-                        },
-                        "Skip Between": {
-                            "name": "Skip Between",
-                            "description": "<p>The esipil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of <em>@UUID[Compendium.pf2e.spells-srd.Item.D2nPKbIS67m9199U]</em> except that the effect has an unlimited duration and can be Dismissed.</p><p>A summoned esipil can't use Skip Between.</p>"
-                        }
-                    }
+                    "languagesDetails": "telepathy (touch)"
                 },
                 "Starving Werebat": {
                     "name": "Starving Werebat",
                     "tokenName": "Werebat",
                     "publicNotes": "<p>Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate with elaborate social ceremonies and bloody hazing. The curse of the werebat gives them a strong urge to prey upon on weaker, lonely creatures. True werebats are often unusually tall and thin, with angular features. In combat, werebats favor their unarmed attacks because they can't fly while wielding weapons in their wings.</p><hr /><p>Werecreatures are humanoids who transform into animals and animal-humanoid hybrids under the light of the full moon. The fate of these shapechanging creatures derives from an ancient primal curse that they can, in turn, transmit through their own bites. The stat blocks in this section reflect werecreatures in their hybrid forms.</p>",
-                    "languagesDetails": "bat empathy",
-                    "items": {
-                        "Fangs": {
-                            "name": "Fangs"
-                        },
-                        "Wing": {
-                            "name": "Wing"
-                        },
-                        "Dagger": {
-                            "name": "Dagger"
-                        },
-                        "Bat Empathy": {
-                            "name": "Bat Empathy",
-                            "description": "<p>A werebat can communicate with bats.</p>"
-                        },
-                        "Wing Thrash": {
-                            "name": "Wing Thrash",
-                            "description": "<p><strong>Trigger</strong> An adjacent enemy damages the werebat</p><hr /><p><strong>Effect</strong> The werebat makes one or two wing Strikes, each against a different adjacent creature.</p>"
-                        }
-                    }
+                    "languagesDetails": "bat empathy"
                 },
                 "East Guard Station": {
                     "name": "East Guard Station",
@@ -1411,81 +1101,17 @@
                 "Akata": {
                     "name": "Akata",
                     "tokenName": "Akata",
-                    "publicNotes": "<p>An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses.</p><p>When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal-the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse-now a void zombie-which shambles about of its own accord.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Hibernation": {
-                            "name": "Hibernation",
-                            "description": "<p>After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink.</p><p>While inside the cocoon, the akata gains @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.sebk9XseMCRkDqRg] 30 feet.</p><p>The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in [[/br 1d4 #minutes]]{1d4 minutes}.</p>"
-                        },
-                        "No Hearing": {
-                            "name": "No Hearing",
-                            "description": "<p>An akata has no auditory senses. It is immune to auditory effects, automatically critically fails Perception checks that require it to hear, and takes a -2 status penalty to Perception checks (but not initiative rolls) that involve sound but also rely on other senses.</p>"
-                        },
-                        "No Breath": {
-                            "name": "No Breath",
-                            "description": "<p>An akata doesn't breathe and is immune to effects that require breathing (such as an inhaled poison).</p>"
-                        },
-                        "Salt Water Vulnerability": {
-                            "name": "Salt Water Vulnerability",
-                            "description": "<p>Salt water acts as an extremely strong acid to an akata. Full immersion in salt water deals @Damage[4d6[acid]] damage per round.</p>"
-                        },
-                        "Void Death": {
-                            "name": "Void Death",
-                            "description": "<p>An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:17]</p><p><strong>Stage 1</strong> carrier with no ill effect 1 (1 day)</p><p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR] (1 day)</p><p><strong>Stage 3</strong> as stage 2 (1 day)</p><p><strong>Stage 4</strong> drained 2 and @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw] (1 day)</p><p><strong>Stage 5</strong> as stage 4 (1 day)</p><p><strong>Stage 6</strong> dead and corpse rises as a void zombie in [[/br 2d4 #hours]]{2d4 hours}</p>"
-                        }
-                    }
+                    "publicNotes": "<p>An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses.</p><p>When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal-the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse-now a void zombie-which shambles about of its own accord.</p>"
                 },
                 "Glutu": {
                     "name": "Glutu",
                     "tokenName": "Glutu",
-                    "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
-                    "items": {
-                        "Divine Prepared Spells": {
-                            "name": "Divine Prepared Spells"
-                        },
-                        "Whip": {
-                            "name": "Whip"
-                        },
-                        "Tongue": {
-                            "name": "Tongue"
-                        },
-                        "Drowning Drone": {
-                            "name": "Drowning Drone",
-                            "description": "<p><strong>Trigger</strong> The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an auditory or sonic effect.</p><hr /><p><strong>Effect</strong> The swampseer releases a croak that drowns out other sound. It rolls a @Check[type:performance] check. It and boggard allies in the area can use the higher result of the swampseer's Performance check or their saves to resolve the effects against the auditory or sonic effect.</p>"
-                        },
-                        "Swamp Stride": {
-                            "name": "Swamp Stride",
-                            "description": "<p>A boggard swampseer ignores difficult terrain caused by swamp terrain features.</p>"
-                        },
-                        "Terrifying Croak": {
-                            "name": "Terrifying Croak",
-                            "description": "<p>The boggard swampseer unleashes a terrifying croak. Any non-boggard within @Template[type:emanation|distance:30] becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] unless they succeed at a @Check[type:will|dc:19] save.</p><p>Those who critically succeed are temporarily immune for 1 minute.</p>"
-                        },
-                        "Tongue Grab": {
-                            "name": "Tongue Grab",
-                            "description": "<p>If the boggard swampseer hits a creature with its tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] by the boggard. Unlike with a normal grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe], but it can't move beyond the reach of the boggard's tongue.</p><p>A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
                 },
                 "Rusted Animated Armor": {
                     "name": "Rusted Animated Armor",
                     "tokenName": "Rusted Animated Armor",
-                    "publicNotes": "<p>Suits of animated armor see use both as guardians and as training partners in high-end martial academies able to afford the extravagance. They are most often found in wizard laboratories and ancient dungeons.</p><hr /><p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>",
-                    "items": {
-                        "Glaive": {
-                            "name": "Glaive"
-                        },
-                        "Gauntlet": {
-                            "name": "Gauntlet"
-                        },
-                        "Construct Armor (Hardness 9)": {
-                            "name": "Construct Armor (Hardness 9)",
-                            "description": "<p>Like normal objects, an animated armor has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated armor is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 13.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Suits of animated armor see use both as guardians and as training partners in high-end martial academies able to afford the extravagance. They are most often found in wizard laboratories and ancient dungeons.</p><hr /><p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
                 },
                 "Research Lab": {
                     "name": "Research Lab",
@@ -1499,25 +1125,8 @@
                     "name": "Meitremar",
                     "tokenName": "Meitremar",
                     "items": {
-                        "Divine Spontaneous Spells": {
-                            "name": "Divine Spontaneous Spells"
-                        },
-                        "Demonic Bloodline Spells": {
-                            "name": "Demonic Bloodline Spells"
-                        },
                         "Key": {
                             "name": "Key"
-                        },
-                        "Pick": {
-                            "name": "Pick"
-                        },
-                        "Reach Spell": {
-                            "name": "Reach Spell",
-                            "description": "<p>If Meitremar's next action this turn is to Cast a Spell that has a range, he increases that spell's range by 30 feet (or increases the range of a touch spell to 30 feet).</p>"
-                        },
-                        "Signature Spell": {
-                            "name": "Signature Spell",
-                            "description": "<p>Meitremar can heighten <em>@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]</em> spells freely.</p>"
                         }
                     }
                 },
@@ -1538,42 +1147,12 @@
                 "Void Zombie": {
                     "name": "Void Zombie",
                     "tokenName": "Void Zombie",
-                    "publicNotes": "<p>A void zombie arises when a humanoid dies from an akata's void death affliction. This walking corpse is animated by a larval akata attached to the deceased creature's brain, using a grotesque feeding tendril that emerges from the corpse's mouth to drink blood from its victims.</p><p>A void zombie typically exists for only a few months before it collapses and the larval akata crawls free from the motionless shell. When it feels the natural end of its unlife approaching, a void zombie finds a secluded place to vomit forth the nearly mature akata larva, then withers away. The disgorged larva metamorphizes into a full-grown akata several hours later, usually eating the corpse as its first meal.</p><p>The name \"void zombie\" is something of a misnomer; though still compelled by necromantic energies, a void zombie is a host in the life cycle of a parasitic alien, not a mindless, reanimated corpse (despite their similar appearances). The fact that a typical void zombie shares the neutral alignment of the larval akata within, rather than the intrinsically evil nature of other zombies, has caused some scholars to push to reclassify them under other names. Suggestions have included \"void dead,\" \"akata spawn,\" or \"bloodwalker,\" but the visceral and compelling commonplace name has proven difficult to shed.</p><p>The driving force behind a void zombie's violence rises from the ravenous hunger of the alien parasite that serves as the channel for its animating negative energies. Necromancers have tried often to duplicate the void zombie, but without a larval akata hosted within, the result is simply a zombie with missing jaws or, at best, one that moves faster than normal. Others have compared a captive void zombie to a captive yellow musk thrall in an attempt to discover a potential link between the two- after all, both are animated bodies controlled by a parasitic outside force. Strangely, a void zombie becomes particularly violent when encountering a yellow musk thrall, making direct comparisons of the two creatures particularly difficult, or even dangerous. The fact that a void zombie, unlike a yellow musk thrall, is actually undead may hold some clues as to the source of this strange behavior.</p>",
-                    "items": {
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Feeding Tendril": {
-                            "name": "Feeding Tendril"
-                        },
-                        "Salt Water Vulnerability": {
-                            "name": "Salt Water Vulnerability",
-                            "description": "<p>Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals @Damage[4d6[acid]] damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] until the end of its next turn.</p>"
-                        },
-                        "Feed on Blood": {
-                            "name": "Feed on Blood",
-                            "description": "<p><strong>Requirements</strong> The void zombie's previous action was a successful feeding tendril Strike against the target creature</p><hr /><p><strong>Effect</strong> The void zombie uses its feeding tendril to drain blood from the creature struck. The void zombie regains 4 Hit Points, and the creature is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR] until it receives healing of any kind or amount.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>A void zombie arises when a humanoid dies from an akata's void death affliction. This walking corpse is animated by a larval akata attached to the deceased creature's brain, using a grotesque feeding tendril that emerges from the corpse's mouth to drink blood from its victims.</p><p>A void zombie typically exists for only a few months before it collapses and the larval akata crawls free from the motionless shell. When it feels the natural end of its unlife approaching, a void zombie finds a secluded place to vomit forth the nearly mature akata larva, then withers away. The disgorged larva metamorphizes into a full-grown akata several hours later, usually eating the corpse as its first meal.</p><p>The name \"void zombie\" is something of a misnomer; though still compelled by necromantic energies, a void zombie is a host in the life cycle of a parasitic alien, not a mindless, reanimated corpse (despite their similar appearances). The fact that a typical void zombie shares the neutral alignment of the larval akata within, rather than the intrinsically evil nature of other zombies, has caused some scholars to push to reclassify them under other names. Suggestions have included \"void dead,\" \"akata spawn,\" or \"bloodwalker,\" but the visceral and compelling commonplace name has proven difficult to shed.</p><p>The driving force behind a void zombie's violence rises from the ravenous hunger of the alien parasite that serves as the channel for its animating negative energies. Necromancers have tried often to duplicate the void zombie, but without a larval akata hosted within, the result is simply a zombie with missing jaws or, at best, one that moves faster than normal. Others have compared a captive void zombie to a captive yellow musk thrall in an attempt to discover a potential link between the two- after all, both are animated bodies controlled by a parasitic outside force. Strangely, a void zombie becomes particularly violent when encountering a yellow musk thrall, making direct comparisons of the two creatures particularly difficult, or even dangerous. The fact that a void zombie, unlike a yellow musk thrall, is actually undead may hold some clues as to the source of this strange behavior.</p>"
                 },
                 "Gorumite Acolyte": {
                     "name": "Gorumite Acolyte",
                     "tokenName": "Gorumite Acolyte",
-                    "publicNotes": "<p>Underling clerics are still learning the tenets of their faith and answer to a superior priest. Their days are spent in devotion and learning, sequestered in temples.</p><hr /><p>Religions inspire devout individuals to uphold their tenets. Many of these devotees seek to bring respite and hope, but others have darker motives.</p>",
-                    "items": {
-                        "Divine Prepared Spells": {
-                            "name": "Divine Prepared Spells"
-                        },
-                        "Cleric Domain Spells": {
-                            "name": "Cleric Domain Spells"
-                        },
-                        "Staff": {
-                            "name": "Staff"
-                        },
-                        "Crossbow": {
-                            "name": "Crossbow"
-                        }
-                    }
+                    "publicNotes": "<p>Underling clerics are still learning the tenets of their faith and answer to a superior priest. Their days are spent in devotion and learning, sequestered in temples.</p><hr /><p>Religions inspire devout individuals to uphold their tenets. Many of these devotees seek to bring respite and hope, but others have darker motives.</p>"
                 },
                 "Rusty Ingots": {
                     "name": "Rusty Ingots",
@@ -1582,16 +1161,7 @@
                 "Giant Centipede": {
                     "name": "Giant Centipede",
                     "tokenName": "Giant Centipede",
-                    "publicNotes": "<p>Most giant centipedes nest in small groups but hunt alone when they seek out food. Attempts to domesticate giant centipedes for use as guardians or pets generally end poorly, but some tribes of goblins, kobolds, and mitflits have developed effective methods of utilizing these vermin as guardians. Other tribes and some humanoid societies roast and eat centipedes, often with pungent peppers as a savory delicacy, although care must be taken in preparing the meal to avoid tainting the flesh with the creature's venom.</p><hr /><p>Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.</p>",
-                    "items": {
-                        "Mandibles": {
-                            "name": "Mandibles"
-                        },
-                        "Giant Centipede Venom": {
-                            "name": "Giant Centipede Venom",
-                            "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:14]</p><hr /><p><strong>Maximum Duration</strong> 6 rounds</p><p><strong>Stage 1</strong> @Damage[1d6[poison]] damage (1 round)</p><p><strong>Stage 2</strong> @Damage[1d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] (1 round)</p><p><strong>Stage 3</strong> @Damage[1d12[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm], and off-guard (1 round)</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Most giant centipedes nest in small groups but hunt alone when they seek out food. Attempts to domesticate giant centipedes for use as guardians or pets generally end poorly, but some tribes of goblins, kobolds, and mitflits have developed effective methods of utilizing these vermin as guardians. Other tribes and some humanoid societies roast and eat centipedes, often with pungent peppers as a savory delicacy, although care must be taken in preparing the meal to avoid tainting the flesh with the creature's venom.</p><hr /><p>Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.</p>"
                 },
                 "Skeletal Remains": {
                     "name": "Skeletal Remains",
@@ -1600,20 +1170,7 @@
                 "Ancient Apparatus": {
                     "name": "Ancient Apparatus",
                     "tokenName": "Ancient Apparatus",
-                    "description": "<p>A complex device made of multicolored metal that resembles a combination of grinding gears, spider-like legs, and twitching blades, from which emits a constant soft ticking sound. All of the metal in the device appears to be rusted or corroded.</p>",
-                    "items": {
-                        "Spin Up": {
-                            "name": "Spin Up",
-                            "description": "<p><strong>Trigger</strong> The ancient apparatus takes damage or an attempt to disable it fails</p><hr /><p><strong>Effect</strong> The ancient apparatus begins to grind and churn faster. Its soft ticking whirs up to a discordant buzzing sound, and the entire thing begins to glow with an unsettling rust-colored light. All living creatures in area <strong>D3</strong> experience the unsettling taste of rust in their mouths and must succeed on a @Check[type:fortitude|dc:18] save to avoid becoming @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]. The ancient apparatus then rolls initiative.</p>"
-                        },
-                        "Rusty Light Beam": {
-                            "name": "Rusty Light Beam"
-                        },
-                        "Rust Creep": {
-                            "name": "Rust Creep",
-                            "description": "<p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:15]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        }
-                    }
+                    "description": "<p>A complex device made of multicolored metal that resembles a combination of grinding gears, spider-like legs, and twitching blades, from which emits a constant soft ticking sound. All of the metal in the device appears to be rusted or corroded.</p>"
                 },
                 "Captain Perrios’s Head": {
                     "name": "Captain Perrios’s Head",
@@ -1628,24 +1185,7 @@
                 "Rust Zombie": {
                     "name": "Rust Zombie",
                     "tokenName": "Rust Zombie",
-                    "publicNotes": "<p>Plague zombies are infested with hideous contagions.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>",
-                    "items": {
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Jaws": {
-                            "name": "Jaws",
-                            "description": "<p><strong>Requirements</strong> The zombie has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM].</p>"
-                        },
-                        "Slow": {
-                            "name": "Slow",
-                            "description": "<p>A zombie is permanently @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] and can't use reactions.</p>"
-                        },
-                        "Rust Creep": {
-                            "name": "Rust Creep",
-                            "description": "<p>Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:15]</p><p><strong>Stage 1</strong> –1 status penalty to Athletics checks (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 day)</p><p><strong>Stage 4</strong> enfeebled 1 and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg], plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf] (1 day)</p><p><strong>Stage 6</strong> unconscious (1 day)</p><p><strong>Stage 7</strong> death</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Plague zombies are infested with hideous contagions.</p><hr /><p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>"
                 },
                 "Workshop": {
                     "name": "Workshop",
@@ -1661,72 +1201,19 @@
                     "items": {
                         "Key": {
                             "name": "Key"
-                        },
-                        "Light Hammer": {
-                            "name": "Light Hammer"
-                        },
-                        "Smith's Fury": {
-                            "name": "Smith's Fury",
-                            "description": "<p>Trygve deals an additional 1d6 bludgeoning damage on a critical hit when he Strikes with his light hammer.</p>"
-                        },
-                        "Smithing Lore": {
-                            "name": "Smithing Lore"
                         }
                     }
                 },
                 "Primordial Envy": {
                     "name": "Primordial Envy",
                     "tokenName": "Primordial Envy",
-                    "publicNotes": "<p>The primordial envy is most often found in underground ruins within Edasseril. It hungers for magic, leaching it from any source it can come into contact with. This hunger can be exploited by clever adventurers who bait it with powerful destructive magics. A primordial envy is one of the most defensive sin oozes, and it tends to layer abjuration spells over itself to both increase its resilience and empower its attacks.</p><hr /><p>Thassilon's ruins contain numerous sources of raw magical power that have been lost or forgotten. As many of these sources are steeped in sinful soul energy used by the runelords to enhance their power, some of these sources go \"sour,\" forming into a sinsludge—a mucky effluvium that develops into a barely rudimentary consciousness based on the emotion behind the sin.</p><h2>Other Sinsludges</h2><p>The primordial envy is the least dangerous sinsludge. The glistening pride's shimmering visage lures victims, then curses them with an inflated and competitive ego that tends to get them killed. The crusted sloth leaves victims wallowing in lethargy until they starve, while the shimmering greed imprisons would-be treasure seekers within shells of precious metal. The slithering lust's sweet scents enthrall victims with their deepest desires, distracting them as it feeds. But the most terrible of the sinsludges are the ravenous wrath, which uses blasts of devastating energy to feed, and the rancid gluttony, which consumes souls and leaves bodies behind as lethal undead.</p>",
-                    "items": {
-                        "Pseudopod": {
-                            "name": "Pseudopod"
-                        },
-                        "Magic Sense": {
-                            "name": "Magic Sense",
-                            "description": "<p>A primordial envy can detect magical auras, items, and spellcasters within 30 feet.</p>"
-                        },
-                        "Confiscate Spell": {
-                            "name": "Confiscate Spell",
-                            "description": "<p><strong>Trigger</strong> A creature within 30 feet that the primordial envy can sense Casts a Spell</p><hr /><p><strong>Effect</strong> The primordial envy's surface shimmers with a kaleidoscope of color that shines out to illuminate the triggering creature. The primordial envy attempts to counter the spell, with a counteract modifier of [[/r 1d20+12 #Counteract]]{+12}. On a success, the spell is countered and the primordial envy gains [[/br 2d6 #Temp HP]] temporary Hit Points.</p>"
-                        },
-                        "Spell Drain": {
-                            "name": "Spell Drain",
-                            "description": "<p>The primordial envy attempts to drain magic from a spellcasting creature that it has @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]. The spellcasting creature must attempt a @Check[type:will|dc:20] save.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected and is temporarily immune to Spell Drain for 24 hours.</p><p><strong>Success</strong> The creature takes @Damage[1d6[mental]] damage.</p><p><strong>Failure</strong> The creature takes @Damage[2d6[mental]] damage and becomes @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg] for 1 hour.</p><p><strong>Critical Failure</strong> As failure, but one of the creature's uncast spells or unused spell slots is lost, as if they had cast it. The spell or slot lost is one of the highest-level spells the creature can cast, determined randomly if multiple prepared spells are available. If a cantrip is drained, the spellcaster loses access to that cantrip for 10 minutes. The primordial envy becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl] 1 for 1 round, and can use the extra action to Stride or Strike.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>The primordial envy is most often found in underground ruins within Edasseril. It hungers for magic, leaching it from any source it can come into contact with. This hunger can be exploited by clever adventurers who bait it with powerful destructive magics. A primordial envy is one of the most defensive sin oozes, and it tends to layer abjuration spells over itself to both increase its resilience and empower its attacks.</p><hr /><p>Thassilon's ruins contain numerous sources of raw magical power that have been lost or forgotten. As many of these sources are steeped in sinful soul energy used by the runelords to enhance their power, some of these sources go \"sour,\" forming into a sinsludge—a mucky effluvium that develops into a barely rudimentary consciousness based on the emotion behind the sin.</p><h2>Other Sinsludges</h2><p>The primordial envy is the least dangerous sinsludge. The glistening pride's shimmering visage lures victims, then curses them with an inflated and competitive ego that tends to get them killed. The crusted sloth leaves victims wallowing in lethargy until they starve, while the shimmering greed imprisons would-be treasure seekers within shells of precious metal. The slithering lust's sweet scents enthrall victims with their deepest desires, distracting them as it feeds. But the most terrible of the sinsludges are the ravenous wrath, which uses blasts of devastating energy to feed, and the rancid gluttony, which consumes souls and leaves bodies behind as lethal undead.</p>"
                 },
                 "Droxur": {
                     "name": "Droxur",
                     "tokenName": "Droxur",
                     "publicNotes": "<p>Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as such. An abrikandilu forms from the souls mortals who were vandals, misanthropes, or defacers of artwork, particularly if their destructive actions stemmed from feelings of powerful envy.</p><p>An abrikandilu loathes only one thing more than beauty: their own visage. The mere sight of their face-reflected in a mirror, a shield, or even a pool of water- can send a wrecker demon into a rage. Many demon slayers leverage tactic to their advantage, venturing into battle with polished steel shields and cold iron blades at the ready.</p><hr /><p>Mortal souls that have been twisted and corrupted by sin sometimes arise in the afterlife as demons. These powerful and destructive fiends seek to spread their particular sin to warp more souls, thereby bolstering their numbers and continuing the cycle.</p>",
-                    "languagesDetails": "telepathy 100 feet",
-                    "items": {
-                        "Divine Innate Spells": {
-                            "name": "Divine Innate Spells"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Hurled Debris": {
-                            "name": "Hurled Debris"
-                        },
-                        "Hatred of Mirrors": {
-                            "name": "Hatred of Mirrors",
-                            "description": "<p>An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a -2 penalty to Will saves against Intimidation checks.</p><p>An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes @Damage[1d6[mental]] damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck).</p>"
-                        },
-                        "Mutilating Bite": {
-                            "name": "Mutilating Bite",
-                            "description": "<p>When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a @Check[type:fortitude|dc:21] save or become physically mutilated.</p><p>The creature then takes a -1 status penalty to Charisma-based checks. This penalty is cumulative up to -3 and remains even if the wounds are healed.</p><p>The penalty is reduced by 1 every 24 hours until it reaches 0.</p><p>@UUID[Compendium.pf2e.bestiary-effects.Item.LgZx5xotO08JzhVc]</p>"
-                        },
-                        "Wreck": {
-                            "name": "Wreck",
-                            "description": "<p>The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC.</p><p>If both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance.</p><p>These Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes.</p>"
-                        }
-                    }
+                    "languagesDetails": "telepathy 100 feet"
                 },
                 "Elder Johedia": {
                     "name": "Elder Johedia",
@@ -1737,20 +1224,7 @@
                     "name": "Reefclaw",
                     "tokenName": "Reefclaw",
                     "publicNotes": "<p>Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. As one might expect from its name, a reefclaw's oversized claws are powerful weapons with their vicelike grip and the ability to inject potent venom into unfortunate prey.</p><p>While reefclaws can't speak, they are intelligent enough to understand the local language of humanoids near their hunting grounds. The creatures sometimes listen to conversations, either to gain intelligence on the best place to ambush aquatic or land-dwelling prey, or merely for entertainment value-reefclaws are particularly fond of listening to people with high-pitched voices. Reefclaws are usually solitary hunters, but small swarms of female reefclaws have been known to gather around a single male for mating purposes or together for the communal raising of their broods. In the latter case, the females will perform widespread hunts in order to bring back a large enough bounty to feed their young. Such hunting parties are extremely dangerous-they've been known to tip over small flshing boats and attack those who fall overboard.</p><p>Once a reefclaw has decided upon a course of action, it follows through even if doing so spells its own end. More than one reefclaw survivor has said that the creature released its bone-crushing grasp only after its brains were leaking from its broken skull, and even then the reefclaw was able to perform a terrible last slash as part of its dying breath. During mating season, female reefclaws are often a little more pragmatic and release their prey before endangering themselves and their offspring.</p><p>Despite their intelligence and the accompanying moral quandaries, reefclaws frequently find their way onto the dinner plates of land-dwelling hunters such as humans and hobgoblins. According to those who have a taste for reefclaw flesh, the meat is either delectably sweet or slightly tangy (in the case of warm-water reefclaws). Most civilized people who know of reefclaws' intellect find the act of eating them distasteful, but this does not dissuade unscrupulous nobles in coastal regions, for whom reefclaw meat is a delicacy well worth the expense. Likewise, fisherfolk whose focus is on the bottom line of their ledgers are more than willing to hunt the dangerous creatures-or, even better, hire out the task to naive adventurers.</p>",
-                    "languagesDetails": "(can't speak any language)",
-                    "items": {
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Death Frenzy": {
-                            "name": "Death Frenzy",
-                            "description": "<p><strong>Trigger</strong> The reefclaw is reduced to 0 Hit Points.</p><hr /><p><strong>Effect</strong> The reefclaw makes a claw Strike before dying.</p>"
-                        },
-                        "Reefclaw Venom": {
-                            "name": "Reefclaw Venom",
-                            "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:17]</p><hr /><p><strong>Maximum Duration</strong> 4 rounds</p><p><strong>Stage 1</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 round)</p><p><strong>Stage 2</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] (1 round)</p>"
-                        }
-                    }
+                    "languagesDetails": "(can't speak any language)"
                 },
                 "Beacon Shot Barrel": {
                     "name": "Beacon Shot Barrel",
@@ -1760,59 +1234,12 @@
                     "name": "Vloriak",
                     "tokenName": "Vloriak",
                     "publicNotes": "<p>Vloriaks rise from the sinful souls of those whose acts of sabotage resulted in despair and terror, and they delight in the destruction of mortal artifice. Often called despoiler demons, vloriaks were the followers of Xar-Azmak. Their numbers have dwindled over the eons since the Lord of Rust's death; those that exist now are scattered throughout the Abyss. Their chitinous bodies and faceted eyes give them an insectile appearance.</p><h2>Vlorian Influence</h2><p>Vloriaks hail from the otherworldly realm of Vlorus, and as such carry within themselves the potential for decay and rusting ruin. Other creatures that dwell in Vlorus—particularly fiends who rise to power there—can gain similar powers over rust as well. The Vlorian cythnigot encountered earlier in this adventure is an example, but fiends of any type can become infested with unique rust-themed abilities if they hail from this otherworldly realm.</p>",
-                    "languagesDetails": "telepathy 100 feet",
-                    "items": {
-                        "Divine Innate Spells": {
-                            "name": "Divine Innate Spells"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Tongue": {
-                            "name": "Tongue"
-                        },
-                        "Restoration Vulnerability": {
-                            "name": "Restoration Vulnerability",
-                            "description": "<p>A vloriak suffers agonizing pain when a creature or object recovers from a debilitating effect in its proximity. The first time in a round in which a creature who is affected by a negative condition and is within sight of the demon reduces that condition's value, the demon takes @Damage[3d6[mental]] damage and cannot Lick Rust on its next turn.</p>"
-                        },
-                        "Lick Rust": {
-                            "name": "Lick Rust",
-                            "description": "<p><strong>Requirements</strong> The vloriak rusted a metal item with its tongue this turn</p><hr /><p><strong>Effect</strong> The vloriak attempts a tongue Strike on the same target it just attacked. If it hits, it deals no damage as it licks away the rust and heals [[/r 2d6[healing]]] Hit Points (or [[/r 4d6[healing]]] Hit Points if the Strike was a critical hit). It can't Lick Rust on its next turn.</p>"
-                        },
-                        "Rust": {
-                            "name": "Rust",
-                            "description": "<p>A vloriak's saliva causes metal to rust rapidly. If it succeeds at a tongue Strike or @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9] attempt, the vloriak deals @Damage[2d6[untyped]] damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the vloriak hits an unattended metal item, the item takes this damage automatically. If a creature uses the Shield Block reaction with a metal shield against a tongue attack, the shield is automatically broken, but no other item is rusted on that attack.</p>"
-                        },
-                        "Spew Rusted Shards": {
-                            "name": "Spew Rusted Shards",
-                            "description": "<p>The vloriak spews a @Template[type:cone|distance:15] of acid and rusted metal. Creatures in the area take 3d6 acid and @Damage[3d6[piercing]] damage (@Check[type:reflex|dc:22|basic:true] save). A creature that takes any piercing damage is exposed to tetanus. The vloriak can't Spew Rusted Shards for [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
-                        },
-                        "Tetanus": {
-                            "name": "Tetanus",
-                            "description": "<p>An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:14]</p><p><strong>Onset</strong> 10 days</p><p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm] (1 week)</p><p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm] and can't speak (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF] with spasms (1 day)</p><p><strong>Stage 4</strong> death</p>"
-                        }
-                    }
+                    "languagesDetails": "telepathy 100 feet"
                 },
                 "Ostovite": {
                     "name": "Ostovite",
                     "tokenName": "Ostovite",
-                    "publicNotes": "<p>Skittering scavenger vermin common throughout the Abyss, ostovites roam battlefields to harvest flesh and bones. After the ostovites dissolve and slurp up the flesh for sustenance, they craft the bones into elaborate shells they refer to as \"bone chariots.\"</p><p>These bone chariots move under the ostovites' command and serve as an important marker of rank in ostovite nests. To the tiny ostovites, bigger is better, and building large skeletal conveyances is the only way for them to increase their standing in life. Although they feel deeply inferior to creatures larger than themselves, this fear can be overwhelmed by the ostovites' visceral desire to harvest those creatures' bones to increase their own status. When confronted with a particularly massive skeleton, ostovites generally fight among themselves and end up splitting the haul. However, there are rare instances of the selfish creatures working together to puppeteer a much larger bone chariot.</p><p>Ostovites' faint understanding of anatomy results in bone chariots that look more like a nightmarish attempt at art than any creature the bones were pulled from. Some powerful fiends and their admirers collect this strange art by bribing ostovites with skeletons or finding ways to kill ostovites without disrupting the chariot around them.</p><p>Despite ostovites' origins in the Abyss, they are neither demons nor qlippoth. Without the protection of the major fiends, they find their homes in nooks and crannies along the corners of their home plane. Though they have no innate ability to cross the planar boundaries, flaws in the Abyss's fabric often lead them to worlds across the planes. Ostovites that have thus migrated are often much happier. Away from demonic abuse, they usually can be found near mortal crypts and battlefields. On the Material Plane, they rarely have to face any threats other than the undead, clerics of Pharasma, and families of the deceased.</p>",
-                    "items": {
-                        "Mandibles": {
-                            "name": "Mandibles"
-                        },
-                        "Bone Spike": {
-                            "name": "Bone Spike"
-                        },
-                        "Bone Chariot": {
-                            "name": "Bone Chariot",
-                            "description": "<p>Ostovites build and inhabit moving shells of bone. The ostovite's base statistics, particularly its immunities, assume the ostovite is safely inside its bone chariot. The bone chariot is destroyed when the ostovite is reduced to less than half its Hit Points or immediately after it takes damage from a critical hit. Damage that can specifically affect the ostovite controlling the chariot even while it's inside (such as the spell <em>spirit blast</em>) doesn't destroy the bone chariot, and it bypasses the ostovite's immunities.</p><p>Without the bone chariot, the ostovite loses its immunities and bone spike Strike, and it is reduced to Tiny size. It also gains weakness 5 to mental and physical damage as well as damage with the holy trait. Building a new bone chariot requires the skeleton of a Small or larger creature and 10 minutes. An ostovite in a bone chariot is normally Small, though larger bone chariots are possible, especially when ostovites work together.</p>"
-                        },
-                        "Scuttle Away": {
-                            "name": "Scuttle Away",
-                            "description": "<p><strong>Trigger</strong> The ostovite's bone chariot is destroyed</p><hr /><p><strong>Effect</strong> The ostovite within Steps or Strides.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Skittering scavenger vermin common throughout the Abyss, ostovites roam battlefields to harvest flesh and bones. After the ostovites dissolve and slurp up the flesh for sustenance, they craft the bones into elaborate shells they refer to as \"bone chariots.\"</p><p>These bone chariots move under the ostovites' command and serve as an important marker of rank in ostovite nests. To the tiny ostovites, bigger is better, and building large skeletal conveyances is the only way for them to increase their standing in life. Although they feel deeply inferior to creatures larger than themselves, this fear can be overwhelmed by the ostovites' visceral desire to harvest those creatures' bones to increase their own status. When confronted with a particularly massive skeleton, ostovites generally fight among themselves and end up splitting the haul. However, there are rare instances of the selfish creatures working together to puppeteer a much larger bone chariot.</p><p>Ostovites' faint understanding of anatomy results in bone chariots that look more like a nightmarish attempt at art than any creature the bones were pulled from. Some powerful fiends and their admirers collect this strange art by bribing ostovites with skeletons or finding ways to kill ostovites without disrupting the chariot around them.</p><p>Despite ostovites' origins in the Abyss, they are neither demons nor qlippoth. Without the protection of the major fiends, they find their homes in nooks and crannies along the corners of their home plane. Though they have no innate ability to cross the planar boundaries, flaws in the Abyss's fabric often lead them to worlds across the planes. Ostovites that have thus migrated are often much happier. Away from demonic abuse, they usually can be found near mortal crypts and battlefields. On the Material Plane, they rarely have to face any threats other than the undead, clerics of Pharasma, and families of the deceased.</p>"
                 },
                 "West Guard Station": {
                     "name": "West Guard Station",
@@ -1820,41 +1247,12 @@
                 },
                 "Fallen Acolyte": {
                     "name": "Fallen Acolyte",
-                    "tokenName": "Fallen Acolyte",
-                    "items": {
-                        "Sickle": {
-                            "name": "Sickle"
-                        },
-                        "Warfare Lore": {
-                            "name": "Warfare Lore"
-                        }
-                    }
+                    "tokenName": "Fallen Acolyte"
                 },
                 "Clockwork Serpent Spy": {
                     "name": "Clockwork Serpent Spy",
                     "tokenName": "Clockwork Serpent Spy",
-                    "publicNotes": "<p>Engineers, technologists, and mechanically gifted wizards employ clockwork spies-tiny, spiderlike constructs capable of recording and playing back audio-to surreptitiously surveil their enemies or steal secrets from competitors. Their spindly bodies and delicate components make them unsuitable for combat; in fact, most builders construct clockwork spies with a self-destruct mechanism to ensure the spies' meddling can't be traced back to them.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
-                    "items": {
-                        "Sharpened Gear": {
-                            "name": "Sharpened Gear"
-                        },
-                        "Record Audio": {
-                            "name": "Record Audio",
-                            "description": "<p>The clockwork spy records all sounds within @Template[type:emanation|distance:25]{25 feet} onto a small gemstone worth 1 gp embedded in its body. The clockwork spy can record up to 1 hour of sound on a single gemstone. Once it begins recording, it can't cease recording early, nor can it record onto a gemstone that already contains a recording.</p><p>Some clockwork spies contain multiple gemstones to allow for a series of recordings. Since clockwork spies are not intelligent, they must be given simple commands regarding when to start recording sounds. A clockwork spy can differentiate between different kinds of creatures but not between specific individuals.</p><p>The spy can start or stop playback of recorded sound by spending a single action. Removing a gemstone from or installing a gemstone into a clockwork spy requires a successful @Check[type:thievery|dc:14|traits:action:disable-a-device] check to @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]; on a failure, the gemstone is undamaged, but any recorded sounds are erased and the gemstone still can't be used to make another recording.</p>"
-                        },
-                        "Wind-Up": {
-                            "name": "Wind-Up",
-                            "description": "<p>24 hours, @Check[type:thievery|dc:17|traits:action:disable-a-device], standby</p><hr /><p>For a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.</p><p>A clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).</p><p>A creature can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode.</p>"
-                        },
-                        "Self-Destruct": {
-                            "name": "Self-Destruct",
-                            "description": "<p>A clockwork spy must use this reaction unless specifically programmed otherwise by its creator.</p><p><strong>Trigger</strong> The clockwork spy is reduced to 0 Hit Points.</p><hr /><p><strong>Effect</strong> The spy thrashes around and emits a tinny scream followed by a steady ticking sound. At the beginning of what would have been its next turn, the clockwork spy explodes, dealing @Damage[1d12[piercing]] damage in a @Template[type:emanation|distance:5]{5-foot radius} (@Check[type:reflex|dc:17|basic:true] save). Its gemstone is destroyed, along with any information contained inside it.</p><p>An adjacent creature can cancel the self-destruct sequence by succeeding at a @Check[type:thievery|dc:17|traits:action:disable-a-device] check to @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6].</p>"
-                        },
-                        "Bleeding Gash": {
-                            "name": "Bleeding Gash",
-                            "description": "<p>On a critical hit with a sharpened gear Strike, the clockwork serpent spy also inflicts @Damage[1d4[persistent,bleed]] damage (@Check[type:fortitude|dc:17] save negates the additional bleed damage).</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Engineers, technologists, and mechanically gifted wizards employ clockwork spies-tiny, spiderlike constructs capable of recording and playing back audio-to surreptitiously surveil their enemies or steal secrets from competitors. Their spindly bodies and delicate components make them unsuitable for combat; in fact, most builders construct clockwork spies with a self-destruct mechanism to ensure the spies' meddling can't be traced back to them.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>"
                 },
                 "West Arrows": {
                     "name": "West Arrows",
@@ -1863,39 +1261,11 @@
                 "Zaiox": {
                     "name": "Zaiox",
                     "tokenName": "Zaiox",
-                    "publicNotes": "<p>Dero magisters are leaders among dero society. They perform the bulk of the cruel operations and memory-altering procedures inflicted upon their victims.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
-                    "items": {
-                        "Occult Spontaneous Spells": {
-                            "name": "Occult Spontaneous Spells"
-                        },
-                        "Occult Innate Spells": {
-                            "name": "Occult Innate Spells"
-                        },
-                        "Aklys": {
-                            "name": "Aklys"
-                        },
-                        "Vulnerable to Sunlight": {
-                            "name": "Vulnerable to Sunlight",
-                            "description": "<p>A dero magister takes [[/r {10}]]{10 damage} for every hour they're exposed to sunlight.</p>"
-                        },
-                        "Cytillesh Stare": {
-                            "name": "Cytillesh Stare",
-                            "description": "<p><strong>Frequency</strong> once per round</p><hr /><p><strong>Effect</strong> Zaiox glares at a creature he can see within 30 feet. The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] for 1 round and must succeed at a @Check[type:will|dc:21] save or be @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg] for 1 round.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Dero magisters are leaders among dero society. They perform the bulk of the cruel operations and memory-altering procedures inflicted upon their victims.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
                 },
                 "Knurr Ragnulf": {
                     "name": "Knurr Ragnulf",
-                    "tokenName": "Knurr Ragnulf",
-                    "items": {
-                        "Warhammer": {
-                            "name": "Warhammer"
-                        },
-                        "Intimidating Strike": {
-                            "name": "Intimidating Strike",
-                            "description": "<p>Knurr makes a melee Strike while roaring Xar-Azmak's name. If he hits and deals damage, the target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL], or @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] on a critical hit.</p>"
-                        }
-                    }
+                    "tokenName": "Knurr Ragnulf"
                 },
                 "Mushrooms": {
                     "name": "Mushrooms",
@@ -1910,37 +1280,7 @@
                     "name": "Dretch",
                     "tokenName": "Dretch",
                     "publicNotes": "<p>Among the lowest and least powerful of all demons, dretches are just as vicious and cruel as their more powerful brethren. They happily vent their frustrations on anything weaker than themselves.</p><p>Born from the souls of the slothful, these demons appear vaguely humanoid in appearance with awkward limbs and slack lumps of skin hanging from their frames. Supposedly, a single slothful soul of sufficient depravity and strength can spawn an entire horde of these creatures. However, as weaker demons, their lot in life is to suffer at the hands of more powerful Abyssal predators, and only a tiny number of dretches ever manage to become something more. For this reason, dretches are quite accommodating when summoned by mortals. They're usually content to work under conditions few other outsiders would accept, although they'll still gladly turn on even the kindest of masters who show even the slightest hint of weakness.</p><hr /><p>Mortal souls that have been twisted and corrupted by sin sometimes arise in the afterlife as demons. These powerful and destructive fiends seek to spread their particular sin to warp more souls, thereby bolstering their numbers and continuing the cycle.</p>",
-                    "languagesDetails": "telepathy 100 feet",
-                    "items": {
-                        "Divine Innate Spells": {
-                            "name": "Divine Innate Spells"
-                        },
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Heated Light Mace": {
-                            "name": "Heated Light Mace"
-                        },
-                        "Sloth": {
-                            "name": "Sloth",
-                            "description": "<p>At the start of each of the dretch's turns, roll [[/br 1d4 #Actions Regained]]{1d4}. The result is the number of actions the dretch regains that turn (maximum 3).</p><p>Effects like the @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] condition can further reduce their number of actions.</p>"
-                        },
-                        "Cower": {
-                            "name": "Cower",
-                            "description": "<p>The dretch makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a -2 penalty to attack rolls. This lasts until the dretch moves from its current space, falls @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf], or ends the effect as a free action.</p>"
-                        },
-                        "Frenzied Slashes": {
-                            "name": "Frenzied Slashes",
-                            "description": "<p>The dretch makes three claw Strikes, each at a -2 penalty, all targeting the same creature. The dretch's multiple attack penalty doesn't increase until after it has made all three attacks.</p><p>The dretch gains the @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm] condition until the beginning of its next turn.</p>"
-                        },
-                        "Vicious Criticals": {
-                            "name": "Vicious Criticals",
-                            "description": "<p>A dretch makes the most of any weakness it finds. Whenever a dretch scores a critical hit with its claw Strike, the target takes an additional @Damage[1d6[bleed]].</p>"
-                        }
-                    }
+                    "languagesDetails": "telepathy 100 feet"
                 },
                 "Crystals": {
                     "name": "Crystals",
@@ -1958,20 +1298,6 @@
                     "items": {
                         "Scroll Case with Ship's Charts": {
                             "name": "Scroll Case with Ship's Charts"
-                        },
-                        "Dagger": {
-                            "name": "Dagger"
-                        },
-                        "Chart a Course": {
-                            "name": "Chart a Course",
-                            "description": "<p>By spending 10 minutes of work and succeeding at a @Check[type:sailing-lore|dc:22]{Sailing Lore} check, the navigator plots an optimal course.</p><p>The severity of environmental conditions other than temperature are reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create greater difficult terrain cause only difficult terrain, and so on.</p>"
-                        },
-                        "Navigator's Edge": {
-                            "name": "Navigator's Edge",
-                            "description": "<p>The navigator deals an additional [[/r {1d6}]]{1d6 weapon damage} when on a ship.</p>"
-                        },
-                        "Sailing Lore": {
-                            "name": "Sailing Lore"
                         }
                     }
                 },
@@ -1982,13 +1308,7 @@
                 "Rusted Cage Trap": {
                     "name": "Rusted Cage Trap",
                     "tokenName": "Rusted Cage Trap",
-                    "description": "<p>A rusty cage embedded in the ceiling drops down with a clang to try to entrap a creature that steps onto the pressure plate in the middle of the room.</p>",
-                    "items": {
-                        "Slam Down": {
-                            "name": "Slam Down",
-                            "description": "<p><strong>Trigger</strong> A creature walks under the cage and steps on the pressure plate</p><hr /><p><strong>Effect</strong> The cage drops from the ceiling to trap the triggering creature, who must attempt a @Check[type:reflex|dc:17|traits:damaging-effect] save.</p><hr /><p><strong>Critical Success</strong> The creature avoids the trap, and returns to the space it just left rather than entering the trap's space.</p><p><strong>Success</strong> As Critical Success, but the falling trap delivers a glancing blow and @Damage[(1d6+3)[bludgeoning]] damage to the creature as it stumbles back.</p><p><strong>Failure</strong> The falling trap lands on the triggering creature. A Medium or smaller creature becomes trapped inside the cage (@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9] DC 20). A Large or larger creature takes @Damage[(2d6+5)[bludgeoning]] damage and is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] as the cage bounces off the creature's body, becoming destroyed in the process.</p><p><strong>Critical Failure</strong> As Failure, but a Medium or smaller creature is also struck by the cage, knocked prone, and then takes @Damage[(2d6+5)[bludgeoning]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe] by the cage as it lands on a limb.</p>"
-                        }
-                    }
+                    "description": "<p>A rusty cage embedded in the ceiling drops down with a clang to try to entrap a creature that steps onto the pressure plate in the middle of the room.</p>"
                 },
                 "North Roof Barrel": {
                     "name": "North Roof Barrel",
@@ -1997,44 +1317,12 @@
                 "Gnork": {
                     "name": "Gnork",
                     "tokenName": "Gnork",
-                    "publicNotes": "<p>Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
-                    "items": {
-                        "Club": {
-                            "name": "Club"
-                        },
-                        "Tongue": {
-                            "name": "Tongue"
-                        },
-                        "Javelin": {
-                            "name": "Javelin"
-                        },
-                        "Swamp Stride": {
-                            "name": "Swamp Stride",
-                            "description": "<p>A boggard warrior ignores difficult terrain caused by swamp terrain features.</p>"
-                        },
-                        "Terrifying Croak": {
-                            "name": "Terrifying Croak",
-                            "description": "<p>The boggard warrior unleashes a terrifying croak. Any non-boggard within @Template[type:emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] unless they succeed at a @Check[type:will|dc:18] save.</p><p>Those who critically succeed are temporarily immune for 1 minute.</p>"
-                        },
-                        "Tongue Grab": {
-                            "name": "Tongue Grab",
-                            "description": "<p>If the boggard warrior hits a creature with its tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] by the boggard. Unlike with a normal grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe], but it can't move beyond the reach of the boggard's tongue.</p><p>A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
                 },
                 "Spiky Pit Trap": {
                     "name": "Spiky Pit Trap",
                     "tokenName": "Spiky Pit Trap",
-                    "description": "<p>A piece of hide covered with a layer of dirt and gravel is suspended over a 20-foot pit filled with spikes.</p>",
-                    "items": {
-                        "Pitfall": {
-                            "name": "Pitfall",
-                            "description": "<p><strong>Trigger</strong> A creature or other large weight (such as the rushing waters of the previous trap) moves onto the gravel-covered hide</p><hr /><p><strong>Effect</strong> The triggering creature or object falls in and takes falling damage (@Damage[10[bludgeoning]] damage) and is targeted by a spike's Strike. A falling creature can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY] with a @Check[type:reflex|dc:20] save (this becomes a @Check[type:reflex|dc:22] save if rushing waters are pouring into the pit).</p>"
-                        },
-                        "Spike": {
-                            "name": "Spike"
-                        }
-                    }
+                    "description": "<p>A piece of hide covered with a layer of dirt and gravel is suspended over a 20-foot pit filled with spikes.</p>"
                 },
                 "Desk": {
                     "name": "Desk",
@@ -2060,56 +1348,12 @@
                 "Clockwork Belimarius": {
                     "name": "Clockwork Belimarius",
                     "tokenName": "Clockwork Belimarius",
-                    "publicNotes": "<p>A clockwork mage is a lethal blend of magic and machinery. Each of these clockworks is imbued with an arcane stone at its core that powers spells through the wand embedded in its chest.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
-                    "items": {
-                        "Arcane Innate Spells": {
-                            "name": "Arcane Innate Spells"
-                        },
-                        "Halberd": {
-                            "name": "Halberd"
-                        },
-                        "Wind-Up": {
-                            "name": "Wind-Up",
-                            "description": "<p>24 hours, @Check[type:thievery|dc:21|traits:action:disable-a-device], standby</p><hr /><p>For a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.</p><p>A clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).</p><p>A creature can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode.</p>"
-                        },
-                        "Clockwork Wand": {
-                            "name": "Clockwork Wand",
-                            "description": "<p>The clockwork mage uses a mechanical wand as a focus to channel magical energy. This wand is built into the clockwork mage's chest, with only the crystal at the end exposed. The mage can Interact to the remove the wand, or someone else can remove it with a @Check[type:thievery|dc:25|traits:action:disable-a-device] check to @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]. The clockwork mage becomes unable to cast any spells except cantrips while the wand is removed.</p><p>When removed, the clockwork wand is a <em>@UUID[Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD]</em> containing the last 1st-level innate spell the clockwork mage cast (<em>@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]</em>, if the clockwork Belimarius hasn't yet cast a 1st-level spell in this adventure). The spells are placed within the wand while the mage is created, and the creator can substitute other arcane spells of the appropriate level.</p>"
-                        },
-                        "Dispelling Critical": {
-                            "name": "Dispelling Critical",
-                            "description": "<p>On a critical hit with a halberd Strike, shards of noqual built into the clockwork Belimarius glow green for a moment. Instead of inflicting additional damage with the critical hit, the clockwork Belimarius instead attempts a counteract check with a [[/r 1d20+18 #Counteract]]{+18} bonus against one magical effect active on the target.</p>"
-                        },
-                        "Energize Clockwork Wand": {
-                            "name": "Energize Clockwork Wand",
-                            "description": "<p><strong>Frequency</strong> once per 10 minutes.</p><hr /><p><strong>Effect</strong> The clockwork mage regains a spell it has already cast that day. It must spend 1 hour of its operational time, or 2 hours if the spell is 3rd level or higher.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>A clockwork mage is a lethal blend of magic and machinery. Each of these clockworks is imbued with an arcane stone at its core that powers spells through the wand embedded in its chest.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>"
                 },
                 "Ida": {
                     "name": "Ida",
                     "tokenName": "Ida",
-                    "publicNotes": "<p>These hardy mountain dwellers surpass their lowlander cousins in stubbornness and agility. Rosethorn rams sport distinctive, twisted horns that measure up to 4 feet in length and bear thorny growths, which they use to damage enemies in combat and strip the bark from trees during harsh winters when other food is scarce.</p><p>Though hardly a domesticated species, rosethorn rams' shaggy outer coats cover fine hair that makes a yarn prized for both its softness and rarity. Their milk also provides nourishment during severe seasons.</p><hr /><p>Rams are sturdy, stubborn herd animals suited to rugged terrain and cold weather. Regardless of their territory, all share a stubborn nature and surefootedness, navigating uncertain terrain with ease and weathering all seasons in scattered herds.</p>",
-                    "items": {
-                        "Hoof": {
-                            "name": "Hoof"
-                        },
-                        "Horn": {
-                            "name": "Horn"
-                        },
-                        "Broken Thorns": {
-                            "name": "Broken Thorns",
-                            "description": "<p><strong>Requirements</strong> The rosethorn ram damaged a creature with its horns on its most recent action this turn</p><hr /><p><strong>Effect</strong> The ram breaks off one of the thorny protrusions of its horns and leaves it in the wound, dealing @Damage[1d6[bleed]].</p>"
-                        },
-                        "Mountain Stride": {
-                            "name": "Mountain Stride",
-                            "description": "<p>The Rosethorn ram ignores difficult terrain caused by narrow ledges and icy terrain, and reduces the effects it suffers from cold environments by one step.</p>"
-                        },
-                        "Ram Charge": {
-                            "name": "Ram Charge",
-                            "description": "<p>The ram Strides twice in a straight line and then makes a horn Strike with a +1 circumstance bonus to its attack roll.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>These hardy mountain dwellers surpass their lowlander cousins in stubbornness and agility. Rosethorn rams sport distinctive, twisted horns that measure up to 4 feet in length and bear thorny growths, which they use to damage enemies in combat and strip the bark from trees during harsh winters when other food is scarce.</p><p>Though hardly a domesticated species, rosethorn rams' shaggy outer coats cover fine hair that makes a yarn prized for both its softness and rarity. Their milk also provides nourishment during severe seasons.</p><hr /><p>Rams are sturdy, stubborn herd animals suited to rugged terrain and cold weather. Regardless of their territory, all share a stubborn nature and surefootedness, navigating uncertain terrain with ease and weathering all seasons in scattered herds.</p>"
                 },
                 "Treasure Pile": {
                     "name": "Treasure Pile",
@@ -2118,37 +1362,12 @@
                 "Dero Strangler": {
                     "name": "Dero Strangler",
                     "tokenName": "Dero Strangler",
-                    "publicNotes": "<p>Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
-                    "items": {
-                        "Occult Innate Spells": {
-                            "name": "Occult Innate Spells"
-                        },
-                        "Aklys": {
-                            "name": "Aklys"
-                        },
-                        "Hand Crossbow": {
-                            "name": "Hand Crossbow"
-                        },
-                        "Vulnerable to Sunlight": {
-                            "name": "Vulnerable to Sunlight",
-                            "description": "<p>A dero strangler takes [[/r {8}]]{8 damage} for every hour they're exposed to sunlight.</p>"
-                        },
-                        "Strangle": {
-                            "name": "Strangle",
-                            "description": "<p><strong>Requirements</strong> The dero must have two free hands, or be wielding an aklys and have one hand free.</p><hr /><p><strong>Effect</strong> The dero attempts an @Check[type:athletics|traits:action:grapple,action:strangle] check to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD] with a +2 circumstance bonus. On a success, the target takes @Damage[(1d6+6)[bludgeoning]] damage. Double the damage on a critical success.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
                 },
                 "Rushing Waters": {
                     "name": "Rushing Waters",
                     "tokenName": "Rushing Waters",
-                    "description": "<p>Rivulets of water begin to run from the circle of stones to gather in a growing puddle at the center.</p>",
-                    "items": {
-                        "Spherical Deluge": {
-                            "name": "Spherical Deluge",
-                            "description": "<p><strong>Trigger</strong> A creature enters the area south of the ring of stones marked on the map</p><hr /><p><strong>Effect</strong> A deluge of water rises up from the ring of stones, then flows forcefully down the passageway to drain into the pit at area <strong>F1b</strong>. Large and smaller creatures in the water's path must attempt a @Check[type:fortitude|dc:20|traits:damaging-effect] save. The rushing waters vanish instantly upon striking the pit floor, but do leave everything down there sopping wet.</p><hr /><p><strong>Critical Success</strong> The creature withstands the force of the rushing waters and is unaffected.</p><p><strong>Success</strong> The creature takes @Damage[1d10[bludgeoning]] damage as the rushing waters slam them into a cave wall.</p><p><strong>Failure</strong> The creature is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] by the rushing waters, takes @Damage[(1d10+6)[bludgeoning]] damage, and is pushed by the water to the spiky pit trap and triggers the trap.</p><p><strong>Critical Failure</strong> As failure, but the creature can't attempt to @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY] if they fall into the spiky pit trap.</p>"
-                        }
-                    }
+                    "description": "<p>Rivulets of water begin to run from the circle of stones to gather in a growing puddle at the center.</p>"
                 },
                 "Small Coffer": {
                     "name": "Small Coffer",
@@ -2157,18 +1376,7 @@
                 "Skeleton Guard": {
                     "name": "Skeleton Guard",
                     "tokenName": "Skeleton Guard",
-                    "publicNotes": "<p>The most common skeletal minions are mere guardians.</p><hr /><p>Made from bones held together by foul necromancy, skeletons are among the most common types of undead, found haunting old dungeons and forgotten cemeteries.</p>",
-                    "items": {
-                        "Scimitar": {
-                            "name": "Scimitar"
-                        },
-                        "Claw": {
-                            "name": "Claw"
-                        },
-                        "Shortbow": {
-                            "name": "Shortbow"
-                        }
-                    }
+                    "publicNotes": "<p>The most common skeletal minions are mere guardians.</p><hr /><p>Made from bones held together by foul necromancy, skeletons are among the most common types of undead, found haunting old dungeons and forgotten cemeteries.</p>"
                 },
                 "Barrel": {
                     "name": "Barrel",
@@ -2181,23 +1389,6 @@
                     "items": {
                         "Empty Bottle": {
                             "name": "Empty Bottle"
-                        },
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Bottle": {
-                            "name": "Bottle"
-                        },
-                        "Heft Crate": {
-                            "name": "Heft Crate",
-                            "description": "<p><strong>Requirements</strong> The dockhand is adjacent to a crate</p><hr /><p><strong>Effect</strong> The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[type:burst|distance:5]. Each creature within the area takes @Damage[2d6[bludgeoning]] damage (@Check[type:reflex|dc:13|basic:true] save), and the area becomes difficult terrain until cleared.</p>"
-                        },
-                        "Swig": {
-                            "name": "Swig",
-                            "description": "<p>The dockhand Interacts to either draw a bottle of @UUID[Compendium.pf2e.equipment-srd.Item.UMAXLDpI6YLSfYX1] or pick up a nearby unattended bottle of @UUID[Compendium.pf2e.equipment-srd.Item.UMAXLDpI6YLSfYX1] and drink the whole thing.</p><p>For 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm].</p><p>@UUID[Compendium.pf2e.bestiary-effects.Item.HArljmKc2IR7rtfc]</p>"
-                        },
-                        "Labor Lore": {
-                            "name": "Labor Lore"
                         }
                     }
                 },
@@ -2218,23 +1409,7 @@
                 "Yeth Hound": {
                     "name": "Yeth Hound",
                     "tokenName": "Yeth Hound",
-                    "publicNotes": "<p>Wicked canine creatures who live for the thrill of the hunt, yeth hounds often serve evil masters as guardians and trackers. Yeth hounds resemble lean, sleek dogs with overlarge ears and narrow paws that can tread on air as easily as the ground. Despite their canine appearance, yeth hounds are remarkably intelligent, although they rarely display this intelligence except when devising intricate tactics to ensnare their quarry. Their eerie bays echo across the countryside when they are engaged in a hunt, and they particularly enjoy baying to frighten and disorient intelligent creatures. Yeth hound packs can number as many as a dozen members, each working in uncanny communion with its packmates to corner and kill their prey. Yeth hounds like to drag their victims back to their lairs to eat at their leisure, so these lairs often contain discarded treasures from the hounds' previous meals.</p><p>Yeth hounds despise two things: sunlight and other canines. They hunt only at night if they can, often breaking off their hunt at dawn to retreat to a subterranean lair or den, no matter how close they had come to catching their prey. Yeth hounds usually attack wargs, wolves, and similar creatures on sight, working to drive larger or more powerful canines from their hunting areas when then can't simply overpower and kill them.</p><p>Evil rangers, bestial demons, and wicked cults are frequently gifted yeth hound servants by fiendish patrons. Such hounds often serve as spies and are quick to turn against those who fail to advance the patrons' wicked aims. The cult of Lamashtu, in particular, is fond of using yeth hounds as temple guardians.</p>",
-                    "items": {
-                        "Divine Innate Spells": {
-                            "name": "Divine Innate Spells"
-                        },
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Bay": {
-                            "name": "Bay",
-                            "description": "<p>The yeth hound emits an unearthly howl audible up to 300 feet away. Any non-fiend creature that hears the howl must succeed at a @Check[type:will|dc:20] save or become @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]. Any creature that critically fails and is within 60 feet of the yeth hound is instead @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] and @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D] for [[/br 1d4 #rounds]]{1d4 rounds} (or until it recovers from its frightened condition).</p><p>Whether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours.</p>"
-                        },
-                        "Sinister Bite": {
-                            "name": "Sinister Bite",
-                            "description": "<p>A good creature bitten by a yeth hound must attempt a @Check[type:will|dc:20] save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL], or increases the value of its frightened condition by 1 if already frightened.</p>"
-                        }
-                    }
+                    "publicNotes": "<p>Wicked canine creatures who live for the thrill of the hunt, yeth hounds often serve evil masters as guardians and trackers. Yeth hounds resemble lean, sleek dogs with overlarge ears and narrow paws that can tread on air as easily as the ground. Despite their canine appearance, yeth hounds are remarkably intelligent, although they rarely display this intelligence except when devising intricate tactics to ensnare their quarry. Their eerie bays echo across the countryside when they are engaged in a hunt, and they particularly enjoy baying to frighten and disorient intelligent creatures. Yeth hound packs can number as many as a dozen members, each working in uncanny communion with its packmates to corner and kill their prey. Yeth hounds like to drag their victims back to their lairs to eat at their leisure, so these lairs often contain discarded treasures from the hounds' previous meals.</p><p>Yeth hounds despise two things: sunlight and other canines. They hunt only at night if they can, often breaking off their hunt at dawn to retreat to a subterranean lair or den, no matter how close they had come to catching their prey. Yeth hounds usually attack wargs, wolves, and similar creatures on sight, working to drive larger or more powerful canines from their hunting areas when then can't simply overpower and kill them.</p><p>Evil rangers, bestial demons, and wicked cults are frequently gifted yeth hound servants by fiendish patrons. Such hounds often serve as spies and are quick to turn against those who fail to advance the patrons' wicked aims. The cult of Lamashtu, in particular, is fond of using yeth hounds as temple guardians.</p>"
                 },
                 "Small Bedroom": {
                     "name": "Small Bedroom",
@@ -2283,19 +1458,7 @@
                 "Larva": {
                     "name": "Larva",
                     "tokenName": "Larva",
-                    "publicNotes": "<p>When a mortal dies, their soul travels to the Boneyard in the Outer Planes where they are judged by Pharasma, the goddess of the dead. Once they have been judged, their soul is sent on to their final reward or punishment in the afterlife, and in the process is transformed into a creature known as a petitioner. This process grants the soul a new body, one whose shape is the result of the prevailing philosophical forces of the plane to which it is sent. The petitioner's memories from their life are typically wiped nearly clean, allowing them to retain only a few hazy fragments akin to half-remembered dreams. Regardless of the petitioner's size, power, or nature in life, they're a Medium creature in their afterlife.</p><p>Existence as a petitioner can last for eons, but this state is not necessarily eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes themselves can further change the petitioner's nature by transforming them into raw quintessence, spiritual essence that is then used to expand a plane's physical manifestation, or by transforming the petitioner into a new form of supernatural life such as a celestial, monitor, or fiend. Should a petitioner die, their body breaks down in a process akin to decay, their nature reverting back to the quintessence or elements that make up their plane. This represents the true end of a soul's journey: their associated life essence travels back to the heart of the Great Beyond to be recycled into the Positive Energy plane, fueling the creation of entirely new souls.</p><p>The larvae appear as maggot-like grubs with the face the petitioners had in life.</p>",
-                    "items": {
-                        "Jaws": {
-                            "name": "Jaws"
-                        },
-                        "Planar Incarnation - Abyss": {
-                            "name": "Planar Incarnation - Abyss",
-                            "description": "<p>All petitioners are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane.</p><p><strong>Abyss</strong> The larvae appear as maggot-like grubs with the face the petitioners had in life</p><ul><li><strong>Alignment</strong> CE;</li><li><strong>Language</strong> Abyssal;</li><li><strong>Additional Ability</strong> immune to disease and poison;</li><li><strong>Melee</strong> jaws +7, <strong>Damage</strong> 1d8+2 piercing </li></ul>"
-                        },
-                        "Planar Lore": {
-                            "name": "Planar Lore"
-                        }
-                    }
+                    "publicNotes": "<p>When a mortal dies, their soul travels to the Boneyard in the Outer Planes where they are judged by Pharasma, the goddess of the dead. Once they have been judged, their soul is sent on to their final reward or punishment in the afterlife, and in the process is transformed into a creature known as a petitioner. This process grants the soul a new body, one whose shape is the result of the prevailing philosophical forces of the plane to which it is sent. The petitioner's memories from their life are typically wiped nearly clean, allowing them to retain only a few hazy fragments akin to half-remembered dreams. Regardless of the petitioner's size, power, or nature in life, they're a Medium creature in their afterlife.</p><p>Existence as a petitioner can last for eons, but this state is not necessarily eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes themselves can further change the petitioner's nature by transforming them into raw quintessence, spiritual essence that is then used to expand a plane's physical manifestation, or by transforming the petitioner into a new form of supernatural life such as a celestial, monitor, or fiend. Should a petitioner die, their body breaks down in a process akin to decay, their nature reverting back to the quintessence or elements that make up their plane. This represents the true end of a soul's journey: their associated life essence travels back to the heart of the Great Beyond to be recycled into the Positive Energy plane, fueling the creation of entirely new souls.</p><p>The larvae appear as maggot-like grubs with the face the petitioners had in life.</p>"
                 },
                 "Bottle of “Carpenden”": {
                     "name": "Bottle of “Carpenden”",
@@ -2311,65 +1474,24 @@
                 },
                 "Ordwi": {
                     "name": "Ordwi",
-                    "tokenName": "Ordwi",
-                    "items": {
-                        "Divine Prepared Spells": {
-                            "name": "Divine Prepared Spells"
-                        },
-                        "Divine Focus Spells": {
-                            "name": "Divine Focus Spells"
-                        },
-                        "Rapier": {
-                            "name": "Rapier"
-                        },
-                        "Divine Font": {
-                            "name": "Divine Font",
-                            "description": "<p><em>@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]</em></p>"
-                        },
-                        "Healing Hands": {
-                            "name": "Healing Hands",
-                            "description": "<p>When Ordwi casts heal, she rolls 1d10s instead of d8s.</p>"
-                        }
-                    }
+                    "tokenName": "Ordwi"
                 },
                 "Deadly Fungus Leshy": {
                     "name": "Deadly Fungus Leshy",
                     "tokenName": "Deadly Fungus Leshy",
                     "publicNotes": "<p>Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works.</p><hr /><p>Leshys are intelligent plant creatures that guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic-typically a druid-combines a nature spirit with a body carefully grown from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>",
-                    "languagesDetails": "speak with plants (fungi only)",
-                    "items": {
-                        "Primal Innate Spells": {
-                            "name": "Primal Innate Spells"
-                        },
-                        "Fist": {
-                            "name": "Fist"
-                        },
-                        "Spore Pod": {
-                            "name": "Spore Pod"
-                        },
-                        "Verdant Burst": {
-                            "name": "Verdant Burst",
-                            "description": "<p>When a fungus leshy dies, a burst of primal energy explodes from its body, restoring [[/r 2d8[healing]]] Hit Points to each fungi creature in a @Template[type:emanation|distance:30]. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungi, they wither after 24 hours.</p>"
-                        },
-                        "Spore Cloud": {
-                            "name": "Spore Cloud",
-                            "description": "<p>A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a @Template[type:emanation|distance:15]. Each creature must succeed at a @Check[type:fortitude|dc:16|traits:damaging-effect] save or take @Damage[1[persistent,poison]] damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure).</p>"
-                        },
-                        "Spores": {
-                            "name": "Spores",
-                            "description": "<p>A creature that takes damage from a fungus leshy's spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability.</p>"
-                        }
-                    }
+                    "languagesDetails": "speak with plants (fungi only)"
                 }
-            },
-            "description": "<p>The ruins of Rusthenge have stood silent vigil over the southern coastline of Chakikoth Isle for eons, dating back to the era of the runelords of ancient Thassilon. The town of Iron Harbor was built in Rusthenge's shadow, but now that New Thassilon has risen from the depths of the distant past, the old ruins are coming under unexpected scrutiny. Something sinister is afoot in Rusthenge, and it falls to a brand new band of adventurers to learn the truth of the ancient evil that stirs deep within its long-abandoned halls! This adventure also includes new items and character backgrounds, as well as a pair of new monsters tied to the region's notorious history.</p>"
+            }
         }
     },
     "mapping": {
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
-            "languagesDetails": "system.details.languages.details"
+            "languagesDetails": "system.details.languages.details",
+            "unidentified": "system.identification.unidentified.name",
+            "unidentified_desc": "system.identification.unidentified.data.description.value"
         }
     }
 }

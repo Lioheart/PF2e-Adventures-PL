@@ -3,6 +3,7 @@
     "entries": {
         "Season of Ghosts - Player's Guide": {
             "name": "Season of Ghosts - Player's Guide",
+            "description": "Contains the Player's guide and common dependencies for the Season of Ghosts Adventure Path modules.",
             "folders": {
                 "Season of Ghosts": "Season of Ghosts",
                 "Player's Guide": "Player's Guide"
@@ -261,8 +262,7 @@
                 "Willowshore Hinterlands (Player's Guide)": {
                     "name": "Willowshore Hinterlands (Player's Guide)"
                 }
-            },
-            "description": "Contains the Player's guide and common dependencies for the Season of Ghosts Adventure Path modules."
+            }
         }
     },
     "mapping": {
