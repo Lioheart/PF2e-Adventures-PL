@@ -7190,7 +7190,7 @@
                             "name": "Niepokój 1"
                         },
                         "Rule Of Evil": {
-                            "name": "Rządy zła"
+                            "name": "Reguła zła"
                         }
                     }
                 },
@@ -8298,7 +8298,7 @@
                             "name": "20 Koronacja"
                         },
                         "21 Rule Of Chaos": {
-                            "name": "21 Rządy zła"
+                            "name": "21 Reguła zła"
                         },
                         "22 Rule Of Balance": {
                             "name": "22 Rządy równowagi"
@@ -8337,7 +8337,7 @@
                             "name": "33 Odważny pies głośno szczeka"
                         },
                         "34 Skylark": {
-                            "name": "34 Skowronek"
+                            "name": "34Skowronek"
                         },
                         "35 Who Rules Your Heart": {
                             "name": "35 Kto rządzi twoim sercem"
@@ -8688,13 +8688,13 @@
                             "name": "Rządy chaosu"
                         },
                         "Rule Of Evil": {
-                            "name": "Rządy zła"
+                            "name": "Reguła zła"
                         },
                         "Rule Of Good": {
-                            "name": "Rządy dobra"
+                            "name": "Reguła dobra"
                         },
                         "Rule Of Order": {
-                            "name": "Rządy porządku"
+                            "name": "Reguła porządku"
                         },
                         "Skylark (Content)": {
                             "name": "Skowronek (Zadowolony)"
@@ -9309,7 +9309,7 @@
                     "name": "Heroiczne wyzwanie (Ilthuliak)",
                     "sounds": {
                         "Rule Of Order": {
-                            "name": "Rządy porządku"
+                            "name": "Reguła porządku"
                         },
                         "Throne Room With Visitors": {
                             "name": "Sala tronowa z gośćmi"
@@ -10074,7 +10074,7 @@
                             "name": "Królestwo Latarni"
                         },
                         "Rule Of Evil": {
-                            "name": "Rządy zła"
+                            "name": "Reguła zła"
                         }
                     }
                 },
@@ -10349,7 +10349,7 @@
                             "name": "Królestwo Latarni"
                         },
                         "Rule Of Evil": {
-                            "name": "Rządy zła"
+                            "name": "Reguła zła"
                         }
                     }
                 },
@@ -10834,7 +10834,7 @@
                             "name": "Leśny spokój z rzeką za dnia"
                         },
                         "Rule Of Good": {
-                            "name": "Rządy dobra"
+                            "name": "Reguła dobra"
                         }
                     }
                 },
