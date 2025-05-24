@@ -1292,6 +1292,7 @@
                     "name": "Widmowy Gekon",
                     "tokenName": "Widmowy Gekon",
                     "publicNotes": "<p>Według większości teologów typowa trajektoria dusz przechodzących do zaświatów jest dość prosta. Kiedy śmiertelnik umiera, jego dusza wchodzi do Rzeki Dusz i ostatecznie dociera do Cmentarzyska, gdzie zostaje osądzona przez Pharasmę. Osądzona dusza przenosi się do odpowiedniej domeny ostatecznego odpoczynku - Nieba, Piekła, Abaddona i tak dalej - gdzie staje się petentem.</p>\\n<p>Komplikacje pojawiają się jednak, gdy dusza w kolejce do osądu przedwcześnie opuszcza Rzekę Dusz i zostaje przeniesiona do Planu Eterycznego. Czy to w wyniku działania nikczemnych intruzów, takich jak nocne wiedźmy, złośliwej magii planarnej, czy nawet przeznaczenia, dusze te zostają wytrącone z naturalnego porządku życia i śmierci i pozostają w swego rodzaju czyśćcu. W przeciwieństwie do petentów, te eteryczne zjawy zachowują wspomnienia z życia przed śmiercią i w przeciwieństwie do duchów, takich jak upiory, zjawy nie są zabarwione złymi wpływami niedożywienia - przynajmniej nie na początku, choć groźba zepsucia wisi nad egzystencją zjawy. Niektórzy w końcu ulegają temu losowi, podczas gdy inni ostatecznie dołączają do Rzeki Dusz. Do tego czasu te błąkające się dusze są swego rodzaju same dla siebie - bez prawdziwego domu, planu lub celu.</p>\\n<p>Wiele widm nie chce pozostać w swoim dziwnym stanie czyśćca, albo dlatego, że chcą kontynuować swoją podróż przez Rzekę Dusz, albo dlatego, że obawiają się zepsucia nieśmiertelności. Aby zakończyć naturalny cykl duchowy i zostać osądzonym, aby móc kontynuować życie pozagrobowe, zjawa musi po prostu znaleźć drogę powrotną do Rzeki Dusz. Takie zadanie nie jest jednak łatwe - mgliste opary Planu Eterycznego mogą wprawić w zakłopotanie nawet najbardziej doświadczonego podróżnika, a liczne drapieżniki grasują po królestwie w poszukiwaniu zbłąkanych dusz, które mogą związać lub pożreć.</p>",
+                    "blurb": "Wariant fantomu",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Okultystyczne Zaklęcia Wrodzone"
@@ -1319,6 +1320,7 @@
                     "name": "Puszyste Wąsy",
                     "tokenName": "Puszyste Wąsy",
                     "publicNotes": "<p>Pomimo niewielkiego wzrostu, łasice są wykwalifikowanymi myśliwymi. Niemal nieustraszone w pogoni za pożywieniem, często zabijają stworzenia do pięciu razy większe od siebie. Ich preferowaną taktyką jest zaczepienie się na karku ofiary i zaciskanie szczęk, aż cel umrze. Aby dobrze się odżywiać, łasice zabijają więcej stworzeń niż potrzebują i upychają swoje ofiary w wydrążonych kłodach lub pustych norach, aby zjeść je później.</p><p>Uczeni zaobserwowali, że łasice, zarówno na wolności, jak i w niewoli, zachowują się dziwacznie przed swoją ofiarą. Pędzą w nieprzewidywalny sposób, rzucają się na ziemię, wiją się w norach i ogólnie wydają się zachowywać całkowicie irracjonalnie. W odpowiedzi ich ofiara staje się zdezorientowana lub pozornie zahipnotyzowana, co daje łasicy możliwość skoku do przodu i zadania zabójczego ataku.</p><p>Typowa łasica ma 12 cali (30 cm) długości i waży mniej niż kilogram.</p><hr /><p>Łasice to smukłe, sprytne drapieżniki znane zarówno z pięknego, gładkiego futra, jak i zdolności do wpełzania w ciasne przestrzenie. Niewiele zwierząt jest tak żarłocznych jak łasice. Nienasycone głodem, zjadają prawie połowę swojej wagi każdego dnia, co prowadzi je do ciągłego polowania na nowe ofiary, aby zaspokoić swój głód.</p>",
+                    "blurb": "Łasica",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -1376,6 +1378,7 @@
                 "Reverent Mother Otis": {
                     "name": "Czcigodna Matka Otis",
                     "tokenName": "Czcigodna Matka Otis",
+                    "blurb": "właścicielka pensjonatu o płynnej tożsamości płciowej",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thriceblesse00]{Gospoda Trzykroć Błogosławiona}</p>",
                     "items": {
                         "Diplomacy": {
@@ -1393,6 +1396,7 @@
                     "name": "Kum Meng-sung",
                     "tokenName": "Kum Meng-sung",
                     "publicNotes": "<p>Pracujący na polach, w winnicach i sadach na całym świecie, rolnicy znani są ze swojej wytrzymałości i umiejętności pracy zarówno z roślinami, jak i zwierzętami.</p><hr /><p>Każdego dnia robotnicy wykonują katorżniczą pracę fizyczną.</p>",
+                    "blurb": "Rolnik mężczyzna",
                     "items": {
                         "Pitchfork": {
                             "name": "Widły"
@@ -1425,6 +1429,7 @@
                 "Kum Soon-chong": {
                     "name": "Kum Soon-chong",
                     "tokenName": "Kum Soon-chong",
+                    "blurb": "mężczyzna weterynarz",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]{Stajnie Willowshore}</p>",
                     "items": {
                         "Nature": {
@@ -1462,6 +1467,7 @@
                     "name": "Kohoshi",
                     "tokenName": "Kohoshi",
                     "publicNotes": "<p>Shikigami są najmniej potężnymi ze wszystkich kami i najbardziej powszechnymi. W przeciwieństwie do większości innych kami, którzy są związani ze swoimi strażnikami przez potężniejszego ducha lub bóstwo, shikigami są pomniejszymi duchami, które nawet śmiertelni praktykujący mogą czasami związać w maleńką papierową postać i powierzyć im zadanie strzeżenia małych dzieł, takich jak posągi ogrodowe i wazony. Właściciele ziemscy cieszą się, że shikigami chronią ich ogrody, niezależnie od tego, czy zapłacili wędrownemu zaklinaczowi, aby błagał shikigami, czy po prostu mieli szczęście, że inny duch przydzielił shikigami do ich ziemi. Podróżni, którzy natkną się na kamień milowy lub drogowskaz oznaczony shikigami, wierzą, że takie spotkania są dobrymi znakami na nadchodzącą podróż.</p><p>Ze swojej strony, shikigami mają mieszane opinie na temat cywilizacji i zamieszkujących ją humanoidów. Podczas gdy shikigami będą walczyć w obronie swoich podopiecznych przed najeźdźcami i bezczeszczycielami, kami te są równie skłonne do opuszczenia swoich podopiecznych, jeśli miejscowi zaczną niszczyć okolicę lub okazywać lekceważenie naturze. Większość praktykujących zdolnych do związania się z shikigami nie zaangażowałaby się w tego rodzaju brak szacunku, ale jeśli kami dowiedzą się o takich praktykach, shikigami w całej krainie mogą masowo porzucić swoje umowy, pozostawiając niewygodną próżnię wraz z ich nieoczekiwanym odejściem. W ten sposób shikigami stanowią przykład niepewnej równowagi między ekspansją cywilizacji a ochroną świata przyrody.</p><p>Nie wszyscy shikigami chronią ogrody, więc możesz zastąpić szpadel shikigami dowolnym przyziemnym narzędziem, które jest przydatne do zadania shikigami i ich oddziału. Kami posługuje się taką bronią z tymi samymi kośćmi obrażeń, modyfikatorami i cechami, co w przypadku Ataku szpadlem, ale zmienia typ obrażeń odpowiednio do nowej broni.</p><hr /><p>Kami są boskimi duchami natury pochodzącymi z ziem Tian Xia, daleko na wschód od regionu Morza Wewnętrznego. Służą jako strażnicy naturalnych obiektów i miejsc, które chronią - ich „podopiecznych” - i są starożytnymi wrogami oni. Kami mogą łączyć się ze swoimi strażnikami, pozwalając im ukradkiem obserwować każdego, kto stąpa po ich świętych terenach. Kami pozostawiają w spokoju tych, których uważają za nieszkodliwych, ale duchy walczą czujnie, aby odstraszyć każdego, kto jest postrzegany jako zagrożenie.</p><p>Kami wybierają swoje własne strażnice, choć wielu śmiertelników stara się przyciągnąć je do miejsc, które mogą wymagać ochrony, co prowadzi do rozprzestrzeniania się pewnych drzew, posągów, bram i innych symbolicznych elementów w obszarach, o których wiadomo, że zamieszkują je kami.</p>",
+                    "blurb": "Shikigami",
                     "items": {
                         "Divine Innate Spells": {
                             "name": "Boskie Zaklęcia Wrodzone"
@@ -1518,6 +1524,7 @@
                 "Shou Matsuki": {
                     "name": "Shou Matsuki",
                     "tokenName": "Shou Matsuki",
+                    "blurb": "stolarz mężczyzna",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06matsukiestat00]{Osiedle Matsuki}</p>",
                     "items": {
                         "Crafting": {
@@ -1639,6 +1646,7 @@
                     "name": "Zoudou Gorliwości",
                     "tokenName": "Zoudou Gorliwości",
                     "publicNotes": "<p>Te noppera-bos opanowały sztukę kamuflażu.</p>\n<hr />\n<p>Noppera-bo wyglądają z tyłu jak zwykli ludzie i mogą nawet przypominać kogoś znajomego, dopóki nie odwrócą się, by odsłonić pozbawioną rysów twarz.</p>\n<h2>Doskonali Profesjonaliści</h2>\n<p>Podczas gdy typowy noppera-bo jest okrutny i rozkoszuje się straszeniem lub dręczeniem humanoidalnych stworzeń, nie wszyscy z nich pogrążają się w złu. Neutralne noppera-bo są zwykle żartownisiami, którzy wykorzystują swoje zdolności do oszukiwania i dokuczania, podczas gdy rzadkie dobre noppera-bo wykorzystują swoje zdolności do honorowania i ubóstwiania tych, których podziwiają, jednocześnie skupiając swój czas na rozwijaniu swoich umiejętności w sztuce lub rzemiośle.</p>\n<h2>Pochodzenie Noppera-bo</h2>\n<p>Istnieje wiele teorii na temat pochodzenia noppera-bo - od tanuki, których zdolność zmiany kształtu zawiodła, przez humanoidy, które zostały wypaczone przez klątwy, po naturalnie rodzące się yokai. Niektórzy nawet teoretyzują, że stan ten jest przenoszoną klątwą, taką jak likantropia. Większość noppera-bo nie pamięta swojego pochodzenia i często są bardziej zainteresowani udawaniem kogoś zupełnie innego.</p>",
+                    "blurb": "Kobieta noppera-bo",
                     "languagesDetails": "telepatia 30 stóp",
                     "items": {
                         "Divine Prepared Spells": {
@@ -1705,6 +1713,7 @@
                 "Huo Tian-Zhe": {
                     "name": "Huo Tian-Zhe",
                     "tokenName": "Huo Tian-Zhe",
+                    "blurb": "mężczyzna wynalazca",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]{Drugi Najlepszy}</p>",
                     "items": {
                         "Crafting": {
@@ -1726,6 +1735,7 @@
                     "name": "Animowany Rój Naczyń Kuchennych",
                     "tokenName": "Animowany Rój Naczyń Kuchennych",
                     "publicNotes": "<p>Wiadomo, że szlachta płaci duże sumy za ożywianie swoich srebrnych sztućców, zarówno w celu ułatwienia czyszczenia, jak i służenia jako nowości podczas przyjęć obiadowych.</p>\n<hr />\n<p>Wiele ożywionych obiektów ma przydatne funkcje, ale stają się one niebezpieczne, gdy nie są kontrolowane.</p>",
+                    "blurb": "Wariant animowanego roju sztućców",
                     "items": {
                         "Construct Armor (Hardness 3)": {
                             "name": "Pancerz Konstruktu (Twardość 3)",
@@ -1758,6 +1768,7 @@
                     "name": "Mo Douqiu hedonista",
                     "tokenName": "Mo Douqiu",
                     "publicNotes": "<p>Rokurokubi powstają, gdy śmiertelnicy zostają przeklęci za jakiś występek, choć często osoba, na której ciąży klątwa, nie jest tym, który popełnił przestępstwo, ale zamiast tego jego dzieckiem lub małżonkiem. Klątwa powoli przekształca osobę w rokrokubi podczas snu. Początkowo jego szyja wydłuża się, a nawet całkowicie odrywa, pozwalając głowie swobodnie wędrować i angażować się w zwykłe psoty, takie jak straszenie sąsiadów lub zwierząt. Śpiący może obudzić się następnego ranka z mglistego snu o piciu oleju z pobliskich latarni, tylko po to, by odkryć, że są one rzeczywiście puste.</p>\n<p>Z biegiem czasu dziwaczne czyny przeradzają się w coraz bardziej złośliwe, a nawet brutalne przestępstwa. Istnieje tylko krótki okres, w którym rodzące się rokrokubi mogą jeszcze zostać uratowane przez rozproszenie klątwy, ale wkrótce zostają w pełni pochłonięte i nigdy więcej nie zasną.</p>\n<p>Większość rokrokubi rozpacza nad swoim stanem, starając się utopić smutki w alkoholu lub po prostu pozostać poza zasięgiem wzroku. Kilku nikczemnych rokrokubi przyjmuje swój los i stara się wzmocnić swoją moc, całkowicie poddając się klątwie. Daje im to możliwość rzucania potężnych zaklęć okultystycznych, ale nieuchronnie kieruje ich jeszcze bardziej w stronę zła.</p>",
+                    "blurb": "mężczyzna Rokurokubi",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -1800,6 +1811,7 @@
                 "Rajul Samudra": {
                     "name": "Rajul Samudra",
                     "tokenName": "Rajul Samudra",
+                    "blurb": "mężczyzna szkutnik",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]{Dok Willowshore}</p>",
                     "items": {
                         "Crafting": {
@@ -1851,6 +1863,7 @@
                 "Yong Wu-Xiu": {
                     "name": "Yong Wu-Xiu",
                     "tokenName": "Yong Wu-Xiu",
+                    "blurb": "kobieta kowal",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]{Huta Eternal Blaze}</p>",
                     "items": {
                         "Crafting": {
@@ -1890,6 +1903,7 @@
                     "name": "Midori",
                     "tokenName": "Midori",
                     "publicNotes": "<p>Jinkiny to sadystyczni majsterkowicze, którzy kradną i sabotują przedmioty oraz są dumni ze swojej mocy przeklinania cennych przedmiotów. Żywią urazę i tworzą zawiłe plany zemsty, gdy tylko poczują się urażeni, na przykład gdy jakaś istota ośmieli się usunąć jedną z ich klątw. Rzadko zadowalając się zwykłym chaosem, jinkiny czerpią również ogromną przyjemność z tortur i morderstw, choć wolą prowadzić ofiary w pułapki zaprojektowane w celu schwytania lub obezwładnienia, a nie bezpośredniego zabicia. Głębokie doły są ulubionymi miejscami, ponieważ ofiary, które przeżyją upadek, czeka powolna śmierć z głodu i pragnienia. Jinkiny lubią gromadzić się na skraju dołów, aby kpić, dokuczać i dręczyć.</p>\n<hr />\n<p>Gremliny to okrutni fey'owi oszuści i sabotażyści, którzy w pełni zaaklimatyzowali się do życia na Planie Materialnym, znajdując odrębne nisze dla swojej pomysłowej destrukcyjności. Wszystkie gremliny rozkoszują się rujnowaniem lub niszczeniem rzeczy, niezależnie od tego, czy jest to coś fizycznego, jak urządzenie lub pojazd, czy też coś niematerialnego, jak sojusz lub związek. Największą radością dla gremlinów jest obserwowanie upadku złożonych kreacji, najlepiej po najlżejszym i najmniejszym, starannie ukierunkowanym pchnięciu ze strony gremlina. Gremliny mają tendencję do oczerniania, zastraszania, a nawet zabijania swoich mniejszych krewnych, zwłaszcza mitfitów, których gremliny (i wielu innych) drwiąco nazywają „roztoczami”.</p>",
+                    "blurb": "Kobieta Jinkin",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Pierwotne Zaklęcia Wrodzone"
@@ -1974,6 +1988,7 @@
                     "name": "Zheng Peng",
                     "tokenName": "Zheng Peng",
                     "publicNotes": "<p>Oficerowie straży są przypisani do określonego obszaru w mieście lub społeczności. Często przewodzą niewielkiemu zespołowi niższych rangą strażników, patrolując te obszary w celu utrzymania porządku i egzekwowania prawa. Strażnicy wykonują swoją pracę, choć ich metody nie zawsze są łagodne i uprzejme. Ponieważ oficer straży jest odpowiedzialny przed przełożonymi za swój obszar, czasami musi podejmować trudne decyzje między sprawiedliwością a skutecznością.</p>\n<hr />\n<p>Większe społeczeństwa polegają na tych, którzy mają władzę i zdolność do interpretowania i egzekwowania prawa. W społeczeństwach o dobrym nastawieniu urzędnicy ci wykonują swoje obowiązki sprawiedliwie. W społeczeństwach neutralnych i złych urzędnicy ci mogą być surowi i okrutni (ze zmienionym charakterem, aby to odzwierciedlić), nakładając surowe kary na tych, którzy nie są w stanie zapłacić za litość.</p>",
+                    "blurb": "Mężczyzna, oficer straży",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#willowshore-barracks-barracks-3]</p>",
                     "items": {
                         "Warhammer": {
@@ -2018,6 +2033,7 @@
                     "name": "Uwięziony wieśniak",
                     "tokenName": "Uwięziony wieśniak",
                     "publicNotes": "<p>Choć nie każdy plebejusz jest uciskany, wielu z nich wiedzie ciężkie życie, pracując, by utrzymać swoje rodziny we względnym komforcie. Podczas gdy większość pospólstwa to zwykli ludzie, którzy trzymają się na uboczu, czasami buntują się oni, powstając, by stawić czoła swoim ciemiężycielom lub przekonani, a nawet oszukani, by dołączyć do nikczemnych planów i spisków przestępczych. Zwykli ludzie czerpią korzyści z siły liczebnej, a tłum zwykłych ludzi może osiągnąć znacznie więcej, niż ich władcy często się spodziewają.</p>\n<hr />\n<p>Niestety, każde społeczeństwo ma ludzi żyjących na jego obrzeżach. Podczas gdy dobre społeczności starają się zapewnić wsparcie i wytchnienie swoim uciśnionym, czasami - z powodu spowolnienia gospodarczego, głodu lub wojny - szeregi mniej szczęśliwych przekraczają zdolność społeczności do ich wspierania. W bezdusznych, neutralnych i złych społeczeństwach ubóstwo jest postrzegane jako nieuchronność, której nigdy nie da się naprawdę wyeliminować, a co gorsza, jako narzędzie, którym można manipulować w celu osiągnięcia korzyści politycznych.</p>",
+                    "blurb": "Zwykły obywatel",
                     "items": {
                         "Sickle": {
                             "name": "Sierp"
@@ -2044,6 +2060,7 @@
                     "name": "Jerky",
                     "tokenName": "Jerky",
                     "publicNotes": "<p>Typowy pies stróżujący jest lojalny i uwielbiany przez wiele społeczności. Często uwielbiane jako zwierzęta domowe, wyróżniają się jako obrońcy i tropiciele i mogą być nieustraszone, gdy bronią ukochanego pana lub członka rodziny. Przedstawione poniżej statystyki sprawdzają się w przypadku wielu ras psów o wadze od 20 do 50 funtów. Dzikie psy również mogą korzystać z tych statystyk, ale ich nieokiełznana natura czyni je znacznie bardziej nieprzewidywalnymi. Zdziczałe psy są być może nawet bardziej niebezpieczne, ponieważ w przeciwieństwie do swoich naturalnych kuzynów, zdziczałe psy często nie mają instynktownego strachu przed ludźmi, który powstrzymuje dzikie stworzenia przed interakcją z ludźmi.</p>\n<hr />\n<p>Psy to zaufani i lojalni towarzysze, którzy służą jako stróże, zwierzęta tropiące i zwierzęta domowe. Ich zdolność do wykrywania zdobyczy lub drapieżników za pomocą zapachu i upodobanie do towarzyszenia humanoidom sprawiają, że są idealnymi zwierzętami domowymi dla większości poszukiwaczy przygód. Na świecie istnieją setki ras psów - od malutkich piesków na kolanach, które obsypują swoich panów czułościami, po potężne psy gończe, które mają prawie 4 stopy wysokości na ramieniu - i można je znaleźć w prawie każdym miejscu, w którym mieszkają ludzie. Większe rasy mogą być nawet używane jako wierzchowce dla mniejszych poszukiwaczy przygód, a niektóre kultury wykorzystują psy jako zwierzęta juczne zdolne do ciągnięcia sań załadowanych zapasami przez lodową tundrę. Niezależnie od tego, wielu poszukiwaczy przygód znajduje wartość w posiadaniu psa.</p>",
+                    "blurb": "Pies stróżujący",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -2070,6 +2087,7 @@
                     "name": "Widmowy Wilk",
                     "tokenName": "Widmowy Wilk",
                     "publicNotes": "<p>Według większości teologów typowa trajektoria dusz przechodzących do zaświatów jest dość prosta. Kiedy śmiertelnik umiera, jego dusza wchodzi do Rzeki Dusz i ostatecznie dociera do Cmentarzyska, gdzie zostaje osądzona przez Pharasmę. Osądzona dusza przenosi się do odpowiedniej domeny ostatecznego odpoczynku - Nieba, Piekła, Abaddona i tak dalej - gdzie staje się petentem.</p>\\n<p>Komplikacje pojawiają się jednak, gdy dusza w kolejce do osądu przedwcześnie opuszcza Rzekę Dusz i zostaje przeniesiona do Planu Eterycznego. Czy to w wyniku działania nikczemnych intruzów, takich jak nocne wiedźmy, złośliwej magii planarnej, czy nawet przeznaczenia, dusze te zostają wytrącone z naturalnego porządku życia i śmierci i pozostają w swego rodzaju czyśćcu. W przeciwieństwie do petentów, te eteryczne zjawy zachowują wspomnienia z życia przed śmiercią i w przeciwieństwie do duchów, takich jak upiory, zjawy nie są zabarwione złymi wpływami niedożywienia - przynajmniej nie na początku, choć groźba zepsucia wisi nad egzystencją zjawy. Niektórzy w końcu ulegają temu losowi, podczas gdy inni ostatecznie dołączają do Rzeki Dusz. Do tego czasu te błąkające się dusze są swego rodzaju same dla siebie - bez prawdziwego domu, planu lub celu.</p>\\n<p>Wiele widm nie chce pozostać w swoim dziwnym stanie czyśćca, albo dlatego, że chcą kontynuować swoją podróż przez Rzekę Dusz, albo dlatego, że obawiają się zepsucia nieśmiertelności. Aby zakończyć naturalny cykl duchowy i zostać osądzonym, aby móc kontynuować życie pozagrobowe, zjawa musi po prostu znaleźć drogę powrotną do Rzeki Dusz. Takie zadanie nie jest jednak łatwe - mgliste opary Planu Eterycznego mogą wprawić w zakłopotanie nawet najbardziej doświadczonego podróżnika, a liczne drapieżniki grasują po królestwie w poszukiwaniu zbłąkanych dusz, które mogą związać lub pożreć.</p>",
+                    "blurb": "Wariant fantomu",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Okultystyczne Zaklęcia Wrodzone"
@@ -2200,6 +2218,7 @@
                 "Luda Bama": {
                     "name": "Luda Bama",
                     "tokenName": "Luda Bama",
+                    "blurb": "kobieta przemytnik",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]{Grzybowy Dom}</p>",
                     "items": {
                         "Crafting": {
@@ -2241,6 +2260,7 @@
                     "name": "Straż miejska",
                     "tokenName": "Straż miejska",
                     "publicNotes": "<p>Strażnicy to szeregowi członkowie straży miejskiej, wyszkoleni do szukania kłopotów, likwidowania przestępców i wykonywania rozkazów. Są oni w stanie stawić czoła tylko najbardziej początkującym poszukiwaczom przygód i przestępcom, ale z czasem osada jest w stanie zebrać ich wystarczającą liczbę, by zneutralizować większość zagrożeń.</p><hr /><p>Większe społeczeństwa polegają na tych, którzy mają władzę i zdolność do interpretowania i egzekwowania prawa. W społeczeństwach o dobrym nastawieniu urzędnicy ci wykonują swoje obowiązki sprawiedliwie. W społeczeństwach neutralnych i złych urzędnicy ci mogą być surowi i okrutni (ze zmienionym charakterem, aby to odzwierciedlić), nakładając surowe kary na tych, którzy nie są w stanie zapłacić za litość.</p>",
+                    "blurb": "Strażnik",
                     "items": {
                         "Club": {
                             "name": "Maczuga"
@@ -2347,6 +2367,7 @@
                     "name": "Sumika",
                     "tokenName": "Sumika",
                     "publicNotes": "<p>Niektóre lasy są chronione przez królów, inne tylko przez dzikie zwierzęta. Prawa zakazujące polowań mogą chronić prywatne rezerwaty szlachty lub strzec żywotności populacji zwierząt we wspólnych lasach w określonych porach roku. Kłusownicy naruszają te prawa - czasem z chciwości, czasem z desperacji, a czasem dla sportu. Chociaż kary za kłusownictwo często obejmują publiczne zawstydzanie, w chudych czasach skuteczny kłusownik jest lokalnym bohaterem.</p>\n<hr />\n<p>Od zarządzanych i uprawianych lasów, które wspierają wioski, po pokryte drzewami ziemie korony, gdzie tylko szlachta i jej służba mogą polować, lasy są źródłem zaopatrzenia. Lasy zapewniają społecznościom opał, żywność, lekarstwa i surowce, podczas gdy lasy chronione przez króla dostarczają pożywienia na stół szlachty i źródło rozrywki w postaci organizowanych polowań. Nawet starożytne lasy nietknięte ręką lub ostrzem śmiertelnika zapewniają bardom scenerię, w której legendy się wydarzyły i mogą się powtórzyć. Wielu uważa leśne głębiny za niepokojące, ale inni żyją wśród drzew i obok stworzeń, które zamieszkują te tereny.</p>",
+                    "blurb": "kobieta kłusownik",
                     "items": {
                         "Club": {
                             "name": "Maczuga"
@@ -2458,6 +2479,7 @@
                     "name": "Widmowy Dzik",
                     "tokenName": "Widmowy Dzik",
                     "publicNotes": "<p>Według większości teologów typowa trajektoria dusz przechodzących do zaświatów jest dość prosta. Kiedy śmiertelnik umiera, jego dusza wchodzi do Rzeki Dusz i ostatecznie dociera do Cmentarzyska, gdzie zostaje osądzona przez Pharasmę. Osądzona dusza przenosi się do odpowiedniej domeny ostatecznego odpoczynku - Nieba, Piekła, Abaddona i tak dalej - gdzie staje się petentem.</p>\\n<p>Komplikacje pojawiają się jednak, gdy dusza w kolejce do osądu przedwcześnie opuszcza Rzekę Dusz i zostaje przeniesiona do Planu Eterycznego. Czy to w wyniku działania nikczemnych intruzów, takich jak nocne wiedźmy, złośliwej magii planarnej, czy nawet przeznaczenia, dusze te zostają wytrącone z naturalnego porządku życia i śmierci i pozostają w swego rodzaju czyśćcu. W przeciwieństwie do petentów, te eteryczne zjawy zachowują wspomnienia z życia przed śmiercią i w przeciwieństwie do duchów, takich jak upiory, zjawy nie są zabarwione złymi wpływami niedożywienia - przynajmniej nie na początku, choć groźba zepsucia wisi nad egzystencją zjawy. Niektórzy w końcu ulegają temu losowi, podczas gdy inni ostatecznie dołączają do Rzeki Dusz. Do tego czasu te błąkające się dusze są swego rodzaju same dla siebie - bez prawdziwego domu, planu lub celu.</p>\\n<p>Wiele widm nie chce pozostać w swoim dziwnym stanie czyśćca, albo dlatego, że chcą kontynuować swoją podróż przez Rzekę Dusz, albo dlatego, że obawiają się zepsucia nieśmiertelności. Aby zakończyć naturalny cykl duchowy i zostać osądzonym, aby móc kontynuować życie pozagrobowe, zjawa musi po prostu znaleźć drogę powrotną do Rzeki Dusz. Takie zadanie nie jest jednak łatwe - mgliste opary Planu Eterycznego mogą wprawić w zakłopotanie nawet najbardziej doświadczonego podróżnika, a liczne drapieżniki grasują po królestwie w poszukiwaniu zbłąkanych dusz, które mogą związać lub pożreć.</p>",
+                    "blurb": "Wariant fantomu",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Okultystyczne Zaklęcia Wrodzone"
@@ -2493,6 +2515,7 @@
                     "name": "Zagrożeni biesiadnicy",
                     "tokenName": "Zagrożeni biesiadnicy",
                     "publicNotes": "<p>Choć nie każdy plebejusz jest uciskany, wielu z nich wiedzie ciężkie życie, pracując, by utrzymać swoje rodziny we względnym komforcie. Podczas gdy większość pospólstwa to zwykli ludzie, którzy trzymają się na uboczu, czasami buntują się oni, powstając, by stawić czoła swoim ciemiężycielom lub przekonani, a nawet oszukani, by dołączyć do nikczemnych planów i spisków przestępczych. Zwykli ludzie czerpią korzyści z siły liczebnej, a tłum zwykłych ludzi może osiągnąć znacznie więcej, niż ich władcy często się spodziewają.</p>\n<hr />\n<p>Niestety, każde społeczeństwo ma ludzi żyjących na jego obrzeżach. Podczas gdy dobre społeczności starają się zapewnić wsparcie i wytchnienie swoim uciśnionym, czasami - z powodu spowolnienia gospodarczego, głodu lub wojny - szeregi mniej szczęśliwych przekraczają zdolność społeczności do ich wspierania. W bezdusznych, neutralnych i złych społeczeństwach ubóstwo jest postrzegane jako nieuchronność, której nigdy nie da się naprawdę wyeliminować, a co gorsza, jako narzędzie, którym można manipulować w celu osiągnięcia korzyści politycznych.</p>",
+                    "blurb": "Zwykły obywatel",
                     "items": {
                         "Sickle": {
                             "name": "Sierp"
@@ -2522,6 +2545,7 @@
                 "Kawaka Myna": {
                     "name": "Kawaka Myna",
                     "tokenName": "Kawaka Myna",
+                    "blurb": "mężczyzna przywódca gildii",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]{Dom z papieru w chmurze}</p>",
                     "items": {
                         "Crafting": {
@@ -2532,6 +2556,7 @@
                 "Mountain Summit Grass": {
                     "name": "Trawa Górska",
                     "tokenName": "Trawa Górska",
+                    "blurb": "bezpłciowy producent herbaty",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]{Saloon Leszych}</p>",
                     "items": {
                         "Crafting": {
@@ -2553,6 +2578,7 @@
                     "name": "Pojmany rolnik",
                     "tokenName": "Pojmany rolnik",
                     "publicNotes": "<p>Pracujący na polach, w winnicach i sadach na całym świecie, rolnicy znani są ze swojej wytrzymałości i umiejętności pracy zarówno z roślinami, jak i zwierzętami.</p><hr /><p>Każdego dnia robotnicy wykonują katorżniczą pracę fizyczną.</p>",
+                    "blurb": "Rolnik",
                     "items": {
                         "Pitchfork": {
                             "name": "Widły"
@@ -2596,6 +2622,7 @@
                     "name": "Fan Hongrui",
                     "tokenName": "Fan Hongrui",
                     "publicNotes": "<p>Kiedy dusza skazana na stanie się strzechą umiera w ferworze wielkiej udręki, może powrócić po śmierci jako strzecha w czerwonym kapturze. Te mściwe strzechy wydają się nosić czerwone kaptury, gdy patrzy się na nie z daleka, ale z bliska ujawnia się makabryczna prawda - ich głowy są przesiąknięte krwią. W przeciwieństwie do innych strzech, czerwonokrwiste strzechy są zręczne w podstępach, a ich zdolność do pojawiania się jako żywy humanoid za pomocą magii iluzji pozwala im znacznie łatwiej zwabić nieoczekiwanych w zasadzki.</p>\n<hr />\n<p>W wiejskim Shenmen, niektóre gałęzie Sangpotshi ostrzegają przed tym, co może się stać, jeśli dusza przeznaczona do reinkarnacji zostanie powstrzymana przed wejściem do Rzeki Dusz i ponownym przyłączeniem się do cyklu. Dusze te stają się sfrustrowane, zdezorientowane, a następnie wściekłe z powodu tego, co uważają za odmowę ciała, na które zasługują, i z kolei zmuszają roślinność do służenia jako ich nowe ciało. Inni teoretyzują, że gdy ciało jest pochowane w płytkim grobie, korzenie trawy rosnące w szczątkach mogą splątać duszę i ją schwytać.</p>\n<p>Strzechy są inteligentne i zdolne do mówienia, ale rzadko to robią - generalnie nie mają wiele do powiedzenia tym, których życia pożądają. Rzadko można próbować zwabić kogoś w obszar wysokiej trawy lub gęstego zarośla, wołając go o wsparcie, ale mają one niewielkie umiejętności oszukiwania, więc taka taktyka nie jest szczególnie skuteczna w sprawianiu, że wydają się prawdziwymi żywymi istotami potrzebującymi pomocy.</p>\n<h2>Starzy Znajomi</h2>\n<p>Źródłem strzechy w Willowshore jest prosty fakt, że dusze, które normalnie reinkarnowałyby się po śmierci, nie mogą tego zrobić, przez co powstają jako strzecha. Oczywiście, ponieważ każdy rok „resetuje” rzeczy, ci, którzy umarli w ciągu roku i stali się strzechami, odradzają się ponownie każdego pierwszego dnia lata, bez wspomnień o ich poprzedniej potępionej egzystencji. Choć nadal instynktownie atakują żywych, strzechy z Willowshore odczuwają wyrzuty sumienia - jeśli MG uzna to za szczególnie stosowne, mogą otrzymać karę -2 do rzutów ataku i rzutów obronnych przeciwko istotom, które znały za życia.</p>\n<h2>Na zawsze Bezsensowny</h2>\n<p>Klątwa strzechy odbiera poczucie kierunku tym, na których spada, co prowadzi do całej kategorii obelg w Shenmen, które porównują czyjąś zdolność do zrobienia czegoś do „zmysłu strzechy”. Na przykład o kimś, kto ma trudności z nawiązywaniem przyjaźni, można powiedzieć, że ma „zmysł przyjaźni strzechy”, a o kimś, kto nieustannie rujnuje posiłki, można powiedzieć, że ma „zmysł kuchenny strzechy”.</p>",
+                    "blurb": "Wariant kobiety strzechy czerwonokapturowej",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Okultystyczne Zaklęcia Wrodzone"
@@ -2645,6 +2672,7 @@
                     "name": "Klusek",
                     "tokenName": "Klusek",
                     "publicNotes": "<p>Pomimo niewielkiego wzrostu, łasice są wykwalifikowanymi myśliwymi. Niemal nieustraszone w pogoni za pożywieniem, często zabijają stworzenia do pięciu razy większe od siebie. Ich preferowaną taktyką jest zaczepienie się na karku ofiary i zaciskanie szczęk, aż cel umrze. Aby dobrze się odżywiać, łasice zabijają więcej stworzeń niż potrzebują i upychają swoje ofiary w wydrążonych kłodach lub pustych norach, aby zjeść je później.</p><p>Uczeni zaobserwowali, że łasice, zarówno na wolności, jak i w niewoli, zachowują się dziwacznie przed swoją ofiarą. Pędzą w nieprzewidywalny sposób, rzucają się na ziemię, wiją się w norach i ogólnie wydają się zachowywać całkowicie irracjonalnie. W odpowiedzi ich ofiara staje się zdezorientowana lub pozornie zahipnotyzowana, co daje łasicy możliwość skoku do przodu i zadania zabójczego ataku.</p><p>Typowa łasica ma 12 cali (30 cm) długości i waży mniej niż kilogram.</p><hr /><p>Łasice to smukłe, sprytne drapieżniki znane zarówno z pięknego, gładkiego futra, jak i zdolności do wpełzania w ciasne przestrzenie. Niewiele zwierząt jest tak żarłocznych jak łasice. Nienasycone głodem, zjadają prawie połowę swojej wagi każdego dnia, co prowadzi je do ciągłego polowania na nowe ofiary, aby zaspokoić swój głód.</p>",
+                    "blurb": "Łasica",
                     "items": {
                         "Jaws": {
                             "name": "Szczęki"
@@ -2694,6 +2722,7 @@
                     "name": "Asahina Shinzo",
                     "tokenName": "Shinzo",
                     "publicNotes": "<p>Nawet nieśmiertelni, tacy jak kami, nie mają niewrażliwości na śmierć. Gdy kami lub równie potężna istota odmawia wezwania Cmentarzyska, wzywany jest shinigami, który sprowadza te uparte dusze na ziemię. Dokładni i szybcy shinigami są znani z tego, że wydają wyrok śmierci skutecznie i beznamiętnie.</p>\n<h2>Strażnicy Cyklu</h2>\n<p>Shinigami są odpowiedzialni za badanie i radzenie sobie z powszechnymi zjawiskami, które zakłócają naturalny przepływ życia. Mogą otrzymać zadanie rozwiązania problemu lub zostać poproszeni o czekanie, obserwowanie i zapewnienie minimalnej pomocy. Podczas gdy większość shinigami potrafi zachować bezstronność podczas tak długiego czuwania, niektórzy są dalecy od braku emocji i ostatecznie wahają się w kierunku miłosierdzia lub okrucieństwa.</p>",
+                    "blurb": "Mężczyzna Shinigami",
                     "languagesDetails": "prawdomówność",
                     "items": {
                         "Divine Innate Spells": {
@@ -2755,6 +2784,7 @@
                     "name": "Warty",
                     "tokenName": "Warty",
                     "publicNotes": "<p>Większość olbrzymich ropuch żyje w suchych środowiskach, zwłaszcza na pustyniach, i chętnie zjada prawie wszystkie stworzenia mniejsze od siebie. Znane są z tego, że zjadają olbrzymie szczury, a następnie przejmują ich nory jako domy. Ropuchy olbrzymie mają duże gruczoły jadowe za oczami, które umożliwiają im pokrycie skóry trucizną. Prowadzi to do tego, że mają bardzo niewiele naturalnych drapieżników, a ich populacje mogą szybko eksplodować, jeśli pozostaną niekontrolowane. Podczas gdy większość uważa ropuchy olbrzymie za niebezpieczne szkodniki, niektóre grupy ogrów i górskich olbrzymów hodują je, aby zbierać ich truciznę do celów rekreacyjnych.</p>",
+                    "blurb": "Olbrzymia Ropucha",
                     "items": {
                         "Bite": {
                             "name": "Ugryzienie"
@@ -2786,6 +2816,7 @@
                     "name": "Hu Lelong",
                     "tokenName": "Hu Lelong",
                     "publicNotes": "<p>Zarówno pokojówki, lokaje, jak i majordomusy, służący są wykwalifikowani w utrzymywaniu domu w porządku i ochronie interesów swoich pracodawców.</p>\n<hr />\n<p>Każdego dnia robotnicy wykonują katorżniczą pracę fizyczną.</p>",
+                    "blurb": "młody wieśniak",
                     "items": {
                         "Cutlery": {
                             "name": "Sztućce"
@@ -2812,6 +2843,7 @@
                     "name": "Murasaki",
                     "tokenName": "Murasaki",
                     "publicNotes": "<p>Jinkiny to sadystyczni majsterkowicze, którzy kradną i sabotują przedmioty oraz są dumni ze swojej mocy przeklinania cennych przedmiotów. Żywią urazę i tworzą zawiłe plany zemsty, gdy tylko poczują się urażeni, na przykład gdy jakaś istota ośmieli się usunąć jedną z ich klątw. Rzadko zadowalając się zwykłym chaosem, jinkiny czerpią również ogromną przyjemność z tortur i morderstw, choć wolą prowadzić ofiary w pułapki zaprojektowane w celu schwytania lub obezwładnienia, a nie bezpośredniego zabicia. Głębokie doły są ulubionymi miejscami, ponieważ ofiary, które przeżyją upadek, czeka powolna śmierć z głodu i pragnienia. Jinkiny lubią gromadzić się na skraju dołów, aby kpić, dokuczać i dręczyć.</p>\n<hr />\n<p>Gremliny to okrutni fey'owi oszuści i sabotażyści, którzy w pełni zaaklimatyzowali się do życia na Planie Materialnym, znajdując odrębne nisze dla swojej pomysłowej destrukcyjności. Wszystkie gremliny rozkoszują się rujnowaniem lub niszczeniem rzeczy, niezależnie od tego, czy jest to coś fizycznego, jak urządzenie lub pojazd, czy też coś niematerialnego, jak sojusz lub związek. Największą radością dla gremlinów jest obserwowanie upadku złożonych kreacji, najlepiej po najlżejszym i najmniejszym, starannie ukierunkowanym pchnięciu ze strony gremlina. Gremliny mają tendencję do oczerniania, zastraszania, a nawet zabijania swoich mniejszych krewnych, zwłaszcza mitfitów, których gremliny (i wielu innych) drwiąco nazywają „roztoczami”.</p>",
+                    "blurb": "Jinkin",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Pierwotne Zaklęcia Wrodzone"
@@ -2864,6 +2896,7 @@
                     "name": "Xungu",
                     "tokenName": "Xungu",
                     "publicNotes": "<p>Ambulatoryjne stworzenia grzybowe zwane myceloidami są znane z rozprzestrzeniania śmiertelnej fioletowej ospy, kontrolowania umysłów stworzeń i pożerania humanoidalnego mięsa. Dla kolonii myceloidów każda bitwa z humanoidami jest powodem do ekscytacji, ponieważ ta nowa pasza daje tak wiele pysznych możliwości.</p>\n<p>Myceloidy uważają, że humanoidy mają idealny cykl życia składający się z czterech prostych kroków. W dzieciństwie wędrują naiwni i przestraszeni, nieświadomi istnienia kolonii myceloidów. W wieku dorosłym humanoidy odkrywają swój prawdziwy cel, gdy próbują fioletowej ospy i zostają zniewolone przez zarodniki myceloidów. Następnie umierają, dając początek nowemu myceloidowi. Następnie zostają wysłani w zaświaty, stając się posiłkiem dla myceloidów. Jedzenie humanoidalnego mięsa nie jest koniecznością - grzybnia może przetrwać na każdej rozkładającej się materii - ale z pewnością jest przyjemnością.</p>\n<p>Myceloidy rzadko zawierają sojusze, ale kiedy to robią, zapraszają swoich nowych sojuszników na wspólny posiłek, aby przypieczętować pakt. Niewiele osób z zewnątrz docenia tę gościnność.</p>\n<p>Większość myceloidów ma głęboko fioletowe kapelusze z białawymi grudkami. Ich szyje i ciała przypominają trzony twardych, skórzastych grzybów. Na ciele myceloidów często rosną mniejsze grzyby, które są dla nich ozdobą lub szczególnie wygodną przekąską. Wzrostem dorównują krasnoludom, a ich budowa jest porównywalnie mocna.</p>",
+                    "blurb": "Bezpłciowy Myceloid",
                     "languagesDetails": "telepatia 100 stóp (tylko myceloidy i osoby dotknięte fioletową ospą)",
                     "items": {
                         "Fist": {
@@ -2897,6 +2930,7 @@
                     "name": "Bardzo Pijany Jinkin",
                     "tokenName": "Bardzo Pijany Jinkin",
                     "publicNotes": "<p>Jinkiny to sadystyczni majsterkowicze, którzy kradną i sabotują przedmioty oraz są dumni ze swojej mocy przeklinania cennych przedmiotów. Żywią urazę i tworzą zawiłe plany zemsty, gdy tylko poczują się urażeni, na przykład gdy jakaś istota ośmieli się usunąć jedną z ich klątw. Rzadko zadowalając się zwykłym chaosem, jinkiny czerpią również ogromną przyjemność z tortur i morderstw, choć wolą prowadzić ofiary w pułapki zaprojektowane w celu schwytania lub obezwładnienia, a nie bezpośredniego zabicia. Głębokie doły są ulubionymi miejscami, ponieważ ofiary, które przeżyją upadek, czeka powolna śmierć z głodu i pragnienia. Jinkiny lubią gromadzić się na skraju dołów, aby kpić, dokuczać i dręczyć.</p>\n<hr />\n<p>Gremliny to okrutni fey'owi oszuści i sabotażyści, którzy w pełni zaaklimatyzowali się do życia na Planie Materialnym, znajdując odrębne nisze dla swojej pomysłowej destrukcyjności. Wszystkie gremliny rozkoszują się rujnowaniem lub niszczeniem rzeczy, niezależnie od tego, czy jest to coś fizycznego, jak urządzenie lub pojazd, czy też coś niematerialnego, jak sojusz lub związek. Największą radością dla gremlinów jest obserwowanie upadku złożonych kreacji, najlepiej po najlżejszym i najmniejszym, starannie ukierunkowanym pchnięciu ze strony gremlina. Gremliny mają tendencję do oczerniania, zastraszania, a nawet zabijania swoich mniejszych krewnych, zwłaszcza mitfitów, których gremliny (i wielu innych) drwiąco nazywają „roztoczami”.</p>",
+                    "blurb": "Wariant Jinkinsa",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Pierwotne Zaklęcia Wrodzone"
@@ -2931,6 +2965,7 @@
                 "Kim Gu-won": {
                     "name": "Kim Gu-won",
                     "tokenName": "Kim Gu-won",
+                    "blurb": "męski duchowny z Kofusachi",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]{Giełda Ceiba-Duyue}</p>",
                     "items": {
                         "Crafting": {
@@ -2946,6 +2981,7 @@
                     "name": "Skąpiec",
                     "tokenName": "Skąpiec",
                     "publicNotes": "<p>Skorpiony jaskiniowe wolą mieszkać w podziemnych legowiskach. Większość z nich straciła prawie całą pigmentację, przez co wyglądają upiornie, gdy czają się na granicy światła. Chociaż wolą jeść duże owady, skorpiony jaskiniowe mogą i będą atakować humanoidów. Niektóre społeczności z Mrocznych Krain opracowały techniki zaganiania lub zwabiania skorpionów do zarażonych szkodnikami tuneli i jaskiń na obrzeżach swoich osad, gdzie skorpiony prosperują w podwójnej roli eksterminatorów i strażników.</p>\n<hr />\n<p>Skorpiony są wystarczająco przerażające w swoim normalnym, niewielkim rozmiarze, ale kiedy osiągną lub przekroczą rozmiar człowieka, stają się absolutnie przerażające.</p>",
+                    "blurb": "Skorpion jaskiniowy",
                     "items": {
                         "Pincer": {
                             "name": "Szczypce"
@@ -2972,6 +3008,7 @@
                 "Luo Xi Yang": {
                     "name": "Luo Xi Yang",
                     "tokenName": "Luo Xi Yang",
+                    "blurb": "prawniczka",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06luoandlaws0000]{Luo i Prawa}</p>",
                     "items": {
                         "Diplomacy": {
@@ -3049,6 +3086,7 @@
                     "name": "Gurglegut",
                     "tokenName": "Gurglegut",
                     "publicNotes": "<p>Buso to zamieszkujący drzewa lud, który żywi gorące pragnienie spożywania mięsa innych. W dużym stopniu uzupełniają swoje pożywienie liśćmi i roślinami korzeniowymi, posiadają znaczną wiedzę na temat rolnictwa i szczycą się wrodzonymi mocami nad roślinami i ich wzrostem. Jeśli jednak chodzi o mięso, buso odrzucają mięso bestii; zamiast tego spożywają inne humanoidy. Nie tylko uważają, że smak innych stworzeń jest odrażający, ale ich ciała odrzucają mięso niehumanoidalne, ponieważ nie dostarcza im ono żadnych wartości odżywczych, a spożywanie go pozostawia ich chorymi i słabymi.</p>\n<p>Nietypowe potrzeby żywieniowe Buso oznaczają, że prawie zawsze są w konflikcie z sąsiednimi kulturami. Zazwyczaj utrzymują przyzwoite stosunki tylko z goblinami, które jako lud są mniej skłonne do oceniania innych na podstawie diety. Inne społeczności obawiają się busosów - z pewnym uzasadnieniem - chociaż poza okazjonalnymi wypadami w celu zebrania kogoś na następny posiłek, buso mają tendencję do trzymania się na uboczu. W niektórych zdesperowanych miejscach, społeczności stojące w obliczu głodu lub innych klęsk żywiołowych mogą nawet szukać pomocy buso, oferując ofiary w zamian za wiedzę lub magiczną pomoc, która może uratować ich społeczności przed powolną i straszliwą śmiercią głodową.</p>\n<p>Pojedyncze oko buso czasami prowadzi do porównywania ich do cyklopów. Jednak oba typy stworzeń zaprzeczają jakiemukolwiek wspólnemu pochodzeniu i po raz pierwszy pojawiły się niezależnie w zupełnie różnych częściach świata z zasadniczo odmiennymi zdolnościami. Ze swojej strony buso wierzą, że czyny ich przodków dały początek ich pojedynczym oczom. W obliczu głodu, który zagrażał ich istnieniu, każdy z tych przodków wyciął jedno ze swoich oczu jako ofiarę dla złowrogich duchów lasu, błagając o ich zbawienie. Buso twierdzą, że te duchy, które nazywają busaw, dały im wiedzę o rolnictwie, władzę nad roślinami i pragnienie czującego ciała. Odtąd czcili busaw jak bogów i nazywali siebie buso: ci, którzy czczą busaw.</p>",
+                    "blurb": "Mężczyzna Buso",
                     "items": {
                         "Kukri": {
                             "name": "Kukri"
@@ -3080,6 +3118,7 @@
                 "Yun Mong-un": {
                     "name": "Yun Mong-un",
                     "tokenName": "Yun Mong-un",
+                    "blurb": "kobieta, przywódczyni gildii",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]{Gildia snycerzy}</p>",
                     "items": {
                         "Crafting": {
@@ -3090,6 +3129,7 @@
                 "Choe Chung-hu": {
                     "name": "Choe Chung-hu",
                     "tokenName": "Choe Chung-hu",
+                    "blurb": "młynarz",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06millinghouse00]{Domy młyńskie}</p>",
                     "items": {
                         "Abadar Lore": {
@@ -3151,6 +3191,7 @@
                 "Kazuma Oono": {
                     "name": "Kazuma Oono",
                     "tokenName": "Kazuma Oono",
+                    "blurb": "reżyser",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-seven-colored-songbird-theater-5]{Siedmiokolorowy Śpiewak}</p>",
                     "items": {
                         "Diplomacy": {
@@ -3167,6 +3208,7 @@
                 "Zataku": {
                     "name": "Zataku",
                     "tokenName": "Zataku",
+                    "blurb": "kobieta rybak",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]{Farmy i doki rybackie}</p>",
                     "items": {
                         "Nature": {
@@ -3178,6 +3220,7 @@
                     "name": "Yix",
                     "tokenName": "Yix",
                     "publicNotes": "<p>Nosoi przypomina skowronka, wróbla lub innego małego ptaka ubranego w ciężką skórzaną maskę lekarza zarazy. Są urzędnikami, posłańcami i skrybami Cmentarzyska, świadkami wyroków, kierującymi duszami i ogólnie wykonującymi administracyjną pracę, która zapewnia funkcjonowanie Cmentarzyska. Większość nosoi jest szczególnie rozmowna i chętnie dyskutuje o tym, jak ważne są ich indywidualne zadania.</p>\n<hr />\n<p>Psychopompy są strażnikami i pasterzami zmarłych w Cmentarzysku, rozległej płaszczyźnie grobów, gdzie śmiertelne dusze są osądzane i wysyłane do wiecznej nagrody lub potępienia. Psychopompy zapewniają, że zmarli pogodzili się ze swoim przejściem ze świata doczesnego i zostali odpowiednio posortowani do odpowiedniego życia pozagrobowego. Chronią również dusze przed atakiem nadprzyrodzonych drapieżników. Prawie wszystkie psychopompy noszą maski, zwłaszcza gdy mogą wchodzić w interakcje ze śmiertelnikami, chociaż rodzaje masek, które noszą, są tak różnorodne, jak same psychopompy. Sądy Cmentarzyska sprawują władzę w języku Requian, ponurym, ale melodyjnym języku wypowiadanym powoli z różnymi zmianami tonalnymi.</p>\n<p>Wiele psychopomp jest ściśle związanych z ogromną biurokracją Cmentarzyska. Niewielu z nich kieruje się miłosierdziem, sprawiedliwością lub osobistymi korzyściami; ich obowiązki wobec Pharasmy i jej Cmentarzyska są nadrzędne. Niemniej jednak, poszczególne psychopompy interpretują swoje obowiązki na różne sposoby, co może stawiać je w konflikcie ze śmiertelnikami, a nawet ze sobą nawzajem.</p>",
+                    "blurb": "Nosoi",
                     "items": {
                         "Divine Innate Spells": {
                             "name": "Boskie Zaklęcia Wrodzone"
@@ -3220,6 +3263,7 @@
                     "name": "Wieśniak",
                     "tokenName": "Wieśniak",
                     "publicNotes": "<p>Choć nie każdy plebejusz jest uciskany, wielu z nich wiedzie ciężkie życie, pracując, by utrzymać swoje rodziny we względnym komforcie. Podczas gdy większość pospólstwa to zwykli ludzie, którzy trzymają się na uboczu, czasami buntują się oni, powstając, by stawić czoła swoim ciemiężycielom lub przekonani, a nawet oszukani, by dołączyć do nikczemnych planów i spisków przestępczych. Zwykli ludzie czerpią korzyści z siły liczebnej, a tłum zwykłych ludzi może osiągnąć znacznie więcej, niż ich władcy często się spodziewają.</p>\n<hr />\n<p>Niestety, każde społeczeństwo ma ludzi żyjących na jego obrzeżach. Podczas gdy dobre społeczności starają się zapewnić wsparcie i wytchnienie swoim uciśnionym, czasami - z powodu spowolnienia gospodarczego, głodu lub wojny - szeregi mniej szczęśliwych przekraczają zdolność społeczności do ich wspierania. W bezdusznych, neutralnych i złych społeczeństwach ubóstwo jest postrzegane jako nieuchronność, której nigdy nie da się naprawdę wyeliminować, a co gorsza, jako narzędzie, którym można manipulować w celu osiągnięcia korzyści politycznych.</p>",
+                    "blurb": "Zwykły obywatel",
                     "items": {
                         "Sickle": {
                             "name": "Sierp"
@@ -3285,6 +3329,7 @@
                     "name": "Brzydki Słodziak",
                     "tokenName": "Brzydki Słodziak",
                     "publicNotes": "<p>Tradycja czczenia pająków jako strażników przed robactwem, szkodnikami i ogólnie złem znacznie wyprzedza współczesne rządy jorogumo, a kamienne pająki pełnią rolę podobną do kamiennych lwów. Kamienne pająki-opiekunowie można znaleźć na cokołach w pobliżu wejść do miast i wiosek, stojące nieruchomo - w niektórych przypadkach od pokoleń - tak, że wielu mieszkańców zapomniało, że ich lokalny strażnik jest czymś więcej niż dekoracją.</p>",
+                    "blurb": "Bezpłciowy Kamienny pająk",
                     "languagesDetails": "telepatia 60 stóp",
                     "items": {
                         "Divine Innate Spells": {
@@ -3340,6 +3385,7 @@
                 "Nadoya Sanmi": {
                     "name": "Nadoya Sanmi",
                     "tokenName": "Nadoya Sanmi",
+                    "blurb": "matriarchini rodziny",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]{Odpoczynek Treesparrow}</p>",
                     "items": {
                         "Crafting": {
@@ -3363,6 +3409,7 @@
                     "name": "Widmowy Kruk",
                     "tokenName": "Widmowy Kruk",
                     "publicNotes": "<p>Według większości teologów typowa trajektoria dusz przechodzących do zaświatów jest dość prosta. Kiedy śmiertelnik umiera, jego dusza wchodzi do Rzeki Dusz i ostatecznie dociera do Cmentarzyska, gdzie zostaje osądzona przez Pharasmę. Osądzona dusza przenosi się do odpowiedniej domeny ostatecznego odpoczynku - Nieba, Piekła, Abaddona i tak dalej - gdzie staje się petentem.</p>\\n<p>Komplikacje pojawiają się jednak, gdy dusza w kolejce do osądu przedwcześnie opuszcza Rzekę Dusz i zostaje przeniesiona do Planu Eterycznego. Czy to w wyniku działania nikczemnych intruzów, takich jak nocne wiedźmy, złośliwej magii planarnej, czy nawet przeznaczenia, dusze te zostają wytrącone z naturalnego porządku życia i śmierci i pozostają w swego rodzaju czyśćcu. W przeciwieństwie do petentów, te eteryczne zjawy zachowują wspomnienia z życia przed śmiercią i w przeciwieństwie do duchów, takich jak upiory, zjawy nie są zabarwione złymi wpływami niedożywienia - przynajmniej nie na początku, choć groźba zepsucia wisi nad egzystencją zjawy. Niektórzy w końcu ulegają temu losowi, podczas gdy inni ostatecznie dołączają do Rzeki Dusz. Do tego czasu te błąkające się dusze są swego rodzaju same dla siebie - bez prawdziwego domu, planu lub celu.</p>\\n<p>Wiele widm nie chce pozostać w swoim dziwnym stanie czyśćca, albo dlatego, że chcą kontynuować swoją podróż przez Rzekę Dusz, albo dlatego, że obawiają się zepsucia nieśmiertelności. Aby zakończyć naturalny cykl duchowy i zostać osądzonym, aby móc kontynuować życie pozagrobowe, zjawa musi po prostu znaleźć drogę powrotną do Rzeki Dusz. Takie zadanie nie jest jednak łatwe - mgliste opary Planu Eterycznego mogą wprawić w zakłopotanie nawet najbardziej doświadczonego podróżnika, a liczne drapieżniki grasują po królestwie w poszukiwaniu zbłąkanych dusz, które mogą związać lub pożreć.</p>",
+                    "blurb": "Wariant fantomu",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Okultystyczne Zaklęcia Wrodzone"
@@ -3393,6 +3440,7 @@
                 "Ba-Ming Ouh": {
                     "name": "Ba-Ming Ouh",
                     "tokenName": "Ba-Ming Ouh",
+                    "blurb": "kapłanka",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]{Świątynia Dziewięciu Uszu}</p>",
                     "items": {
                         "Crafting": {
@@ -3451,6 +3499,7 @@
                     "name": "Wielka Wierzba",
                     "tokenName": "Wielka Wierzba",
                     "publicNotes": "<p>Kodama to rodzaj kami, który zamieszkuje drzewo. Kodama często pojawiają się w starych lasach Tian, zwłaszcza w lasach z dala od cywilizacji. Na przykład w Lesie Duchów w Minkai tak wiele drzew jest opętanych przez kodama, że podróżnik może minąć setki, jeśli nie tysiące, tych istot podczas podróży przez jeden akr lasu.</p>\n<p>Kodama starają się jak najlepiej chronić swoje święte drzewa, ale pojedynczy kodama jest niewielką przeszkodą dla większości oni lub innych, którzy nie mają skrupułów przed bezczeszczeniem lasów lub pozyskiwaniem z nich zasobów naturalnych. Podobnie jak drzewa w lesie, kodama są najpotężniejsze w dużych ilościach i wśród innych kami, których mogą wspierać magicznymi słomianymi linami, jednocześnie odwracając uwagę silnych wrogów swoją hipnotyzującą obecnością.</p>\n<p>Z drugiej strony, kodama nie mają złych zamiarów wobec tych, którzy szanują ich strażnice, pozwalając nawet druidom i innym pokornym stworzeniom mieszkać w ich granicach. Mogą nawet subtelnie poprowadzić zagubionych podróżników z lasu lub z powrotem w bezpieczne miejsce.</p>\n<hr />\n<p>Kami są boskimi duchami natury pochodzącymi z ziem Tian Xia, daleko na wschód od regionu Morza Wewnętrznego. Służą jako strażnicy naturalnych obiektów i miejsc, które chronią - ich „podopiecznych” - i są starożytnymi wrogami oni. Kami mogą łączyć się ze swoimi strażnikami, pozwalając im ukradkiem obserwować każdego, kto stąpa po ich świętych terenach. Kami pozostawiają w spokoju tych, których uważają za nieszkodliwych, ale duchy walczą czujnie, aby odstraszyć każdego, kto jest postrzegany jako zagrożenie. Kami wybierają swoje własne strażnice, choć wielu śmiertelników stara się przyciągnąć je do miejsc, które mogą wymagać ochrony, co prowadzi do rozprzestrzeniania się pewnych drzew, posągów, bram i innych symbolicznych elementów w obszarach, w których wiadomo, że mieszkają kami.</p>",
+                    "blurb": "Bezpłciowy Kodama",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thegreatwill00]</p>",
                     "languagesDetails": "rozmowa z roślinami, telepatia 50 stóp",
                     "items": {
@@ -3532,6 +3581,7 @@
                     "name": "De-ge Hua",
                     "tokenName": "De-ge",
                     "publicNotes": "<p>Widok karczmy jest mile widziany przez każdego zmęczonego podróżnika. Karczmarze często sprzątają wspólny pokój, nadzorują wieczorny posiłek lub wprowadzają nowych lokatorów. Karczmarze mają oko na poczynania swoich sąsiadów i często są doskonałym źródłem informacji.</p>\n<hr />\n<p>Niezliczone przygody rozpoczynają się w tawernie lub pubie. Może to dlatego, że takie miejsca przyciągają ryzykantów, a może dlatego, że każdy potrzebuje trochę płynnej odwagi, zanim zdecyduje się zmierzyć z grupą szalejących ogrów.</p>",
+                    "blurb": "Mężczyzna właściciel łaźni",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-happy-kappa-business-1]</p>",
                     "items": {
                         "Broom": {
@@ -3580,6 +3630,7 @@
                     "name": "Buntownik Mugirou",
                     "tokenName": "Buntownik Mugirou",
                     "publicNotes": "<p>Te noppera-bos opanowały sztukę kamuflażu.</p>\n<hr />\n<p>Noppera-bo wyglądają z tyłu jak zwykli ludzie i mogą nawet przypominać kogoś znajomego, dopóki nie odwrócą się, by odsłonić pozbawioną rysów twarz.</p>\n<h2>Doskonali Profesjonaliści</h2>\n<p>Podczas gdy typowy noppera-bo jest okrutny i rozkoszuje się straszeniem lub dręczeniem humanoidalnych stworzeń, nie wszyscy z nich pogrążają się w złu. Neutralne noppera-bo są zwykle żartownisiami, którzy wykorzystują swoje zdolności do oszukiwania i dokuczania, podczas gdy rzadkie dobre noppera-bo wykorzystują swoje zdolności do honorowania i ubóstwiania tych, których podziwiają, jednocześnie skupiając swój czas na rozwijaniu swoich umiejętności w sztuce lub rzemiośle.</p>\n<h2>Pochodzenie Noppera-bo</h2>\n<p>Istnieje wiele teorii na temat pochodzenia noppera-bo - od tanuki, których zdolność zmiany kształtu zawiodła, przez humanoidy, które zostały wypaczone przez klątwy, po naturalnie rodzące się yokai. Niektórzy nawet teoretyzują, że stan ten jest przenoszoną klątwą, taką jak likantropia. Większość noppera-bo nie pamięta swojego pochodzenia i często są bardziej zainteresowani udawaniem kogoś zupełnie innego.</p>",
+                    "blurb": "Noppera-bo Oszustwa",
                     "languagesDetails": "telepatia 30 stóp",
                     "items": {
                         "No Face": {
@@ -3632,6 +3683,7 @@
                 "You So-Jin": {
                     "name": "You So-Jin",
                     "tokenName": "You So-Jin",
+                    "blurb": "zielarka",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]{Cmentarz Graveside Manners}</p>",
                     "items": {
                         "Crafting": {
@@ -3651,6 +3703,7 @@
                     "name": "Yuli Sanmi",
                     "tokenName": "Yuli Sanmi",
                     "publicNotes": "<p>Zarówno pokojówki, lokaje, jak i majordomusy, służący są wykwalifikowani w utrzymywaniu domu w porządku i ochronie interesów swoich pracodawców.</p>\n<hr />\n<p>Każdego dnia robotnicy wykonują katorżniczą pracę fizyczną.</p>",
+                    "blurb": "młoda wieśniaczka",
                     "items": {
                         "Cutlery": {
                             "name": "Sztućce"
@@ -3677,6 +3730,7 @@
                     "name": "Wróbel",
                     "tokenName": "Wróbel",
                     "publicNotes": "<p>Te wszystkożerne ptaki są przebiegłymi i oportunistycznymi padlinożercami. Zdolne do rozwiązywania prostych zagadek w celu odzyskania pożądanych przedmiotów, kruki gromadzą się na obrzeżach cywilizacji, napadając na nią w razie potrzeby, gdy nie polują w dziczy. W pojedynkę, w parach lub jako stado, kruki żyją z resztek tak często, jak z padliny lub zdobyczy. Są również niezwykle towarzyskie wśród własnego gatunku, nawet ostrzegając inne kruki o dużych zwłokach głośnym, skrzeczącym krzykiem; krążą plotki, że rozciąga się to również między stadami.</p>\n<hr />\n<p>Niewiele ptaków jest tak przebiegłych i towarzyskich jak kruk.</p>",
+                    "blurb": "Kruk",
                     "items": {
                         "Beak": {
                             "name": "Dziób"
@@ -3720,6 +3774,7 @@
                 "Hu Ban-Niang": {
                     "name": "Hu Ban-Niang",
                     "tokenName": "Hu Ban-Niang",
+                    "blurb": "Kapitan straży, kobieta",
                     "items": {
                         "Smoking Pipe": {
                             "name": "Fajka do palenia"
@@ -3770,6 +3825,7 @@
                     "name": "Hai-er Ha",
                     "tokenName": "Hai-er Ha",
                     "publicNotes": "<p>Strażnicy to szeregowi członkowie straży miejskiej, wyszkoleni do szukania kłopotów, likwidowania przestępców i wykonywania rozkazów. Są oni w stanie stawić czoła tylko najbardziej początkującym poszukiwaczom przygód i przestępcom, ale z czasem osada jest w stanie zebrać ich wystarczającą liczbę, by zneutralizować większość zagrożeń.</p><hr /><p>Większe społeczeństwa polegają na tych, którzy mają władzę i zdolność do interpretowania i egzekwowania prawa. W społeczeństwach o dobrym nastawieniu urzędnicy ci wykonują swoje obowiązki sprawiedliwie. W społeczeństwach neutralnych i złych urzędnicy ci mogą być surowi i okrutni (ze zmienionym charakterem, aby to odzwierciedlić), nakładając surowe kary na tych, którzy nie są w stanie zapłacić za litość.</p>",
+                    "blurb": "kobieta strażniczka",
                     "items": {
                         "Club": {
                             "name": "Maczuga"
@@ -3794,6 +3850,7 @@
                 "Elizeth Candora": {
                     "name": "Elizeth Candora",
                     "tokenName": "Elizeth Candora",
+                    "blurb": "kapłanka Pharasmy",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]{Dama Dusz}</p>",
                     "items": {
                         "Crafting": {
@@ -3810,11 +3867,13 @@
                 "Heh Shan-Bao": {
                     "name": "Heh Shan-Bao",
                     "tokenName": "Heh Shan-Bao",
+                    "blurb": "mężczyzna, gubernator Tian-shu",
                     "privateNotes": "<p>mianowany zarządcą Willowshore; obecnie zaginiony</p>"
                 },
                 "Igawa Jubei": {
                     "name": "Igawa Jubei",
                     "tokenName": "Igawa Jubei",
+                    "blurb": "czarodziejka",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]{Krąg Matki}</p>",
                     "items": {
                         "Arcana": {
@@ -3828,6 +3887,7 @@
                 "Dr. Damihansig Mababangloob": {
                     "name": "Dr. Damihansig Mababangloob",
                     "tokenName": "Dami",
+                    "blurb": "mężczyzna lekarz",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]{Ręka Wiosny}</p>",
                     "items": {
                         "Crafting": {
@@ -3842,6 +3902,7 @@
                     "name": "Członek rodziny Sanmi",
                     "tokenName": "Członek rodziny Sanmi",
                     "publicNotes": "<p>Choć nie każdy plebejusz jest uciskany, wielu z nich wiedzie ciężkie życie, pracując, by utrzymać swoje rodziny we względnym komforcie. Podczas gdy większość pospólstwa to zwykli ludzie, którzy trzymają się na uboczu, czasami buntują się oni, powstając, by stawić czoła swoim ciemiężycielom lub przekonani, a nawet oszukani, by dołączyć do nikczemnych planów i spisków przestępczych. Zwykli ludzie czerpią korzyści z siły liczebnej, a tłum zwykłych ludzi może osiągnąć znacznie więcej, niż ich władcy często się spodziewają.</p>\n<hr />\n<p>Niestety, każde społeczeństwo ma ludzi żyjących na jego obrzeżach. Podczas gdy dobre społeczności starają się zapewnić wsparcie i wytchnienie swoim uciśnionym, czasami - z powodu spowolnienia gospodarczego, głodu lub wojny - szeregi mniej szczęśliwych przekraczają zdolność społeczności do ich wspierania. W bezdusznych, neutralnych i złych społeczeństwach ubóstwo jest postrzegane jako nieuchronność, której nigdy nie da się naprawdę wyeliminować, a co gorsza, jako narzędzie, którym można manipulować w celu osiągnięcia korzyści politycznych.</p>",
+                    "blurb": "Zwykły obywatel",
                     "items": {
                         "Sickle": {
                             "name": "Sierp"
@@ -3875,6 +3936,7 @@
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
+            "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details",
             "unidentified": "system.identification.unidentified.name",
             "unidentified_desc": "system.identification.unidentified.data.description.value"
