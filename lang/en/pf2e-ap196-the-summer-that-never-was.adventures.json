@@ -1292,6 +1292,7 @@
                     "name": "Phantom Gecko",
                     "tokenName": "Phantom Gecko",
                     "publicNotes": "<p>The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the Boneyard, where it is judged by Pharasma. The judged soul moves onto its appropriate domain of final rest-Heaven, Hell, Abaddon, and so forth-where it becomes a petitioner.</p><p>Complications arise, however, when a soul in queue for judgment prematurely departs from the River of Souls and is shunted into the Ethereal Plane. Whether as a result of nefarious interlopers like night hags, malignant planar magic, or even fate, these souls become dislodged from the natural order of life and death and linger in a sort of purgatory. Unlike petitioners, these ethereal phantoms retain memories of their life before death, and unlike spirits such as ghosts, phantoms aren't tinged with the foul influences of undeath-at least, not at first, though the threat of corruption hangs heavy over a phantom's existence. Some eventually succumb to that fate, while others eventually rejoin the River of Souls. Until then, these wandering souls are a kind unto themselves-one without a true home, agenda, or purpose.</p><p>Many phantoms have no desire to remain in their strange state of purgatory, either because they seek to continue their journey through the River of Souls or because they fear the corruption of undeath. In order to complete the natural spiritual cycle and become judged so they can continue to the afterlife, a phantom must simply find a way back into the River of Souls. Such a quest is no easy feat, however-the hazy mists of the Ethereal Plane can befuddle even the most experienced traveler, and numerous predators prowl the realm in search of stray souls to bind or devour.</p>",
+                    "blurb": "Variant phantom",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -1319,6 +1320,7 @@
                     "name": "Fluffy Whiskers",
                     "tokenName": "Fluffy Whiskers",
                     "publicNotes": "<p>Despite their small stature, weasels are skilled hunters. Nearly fearless in pursuit of food, they frequently kill creatures up to five times their own size. Their preferred tactic is to latch onto the back of their victim's neck and constrict with their jaws until the target dies. To keep themselves well fed, weasels kill more creatures than they need and stuff their victims into hollow logs or empty dens to eat later.</p><p>Scholars have observed weasels, both in the wild and captivity, perform a bizarre behavior in front of their prey. They rush about unpredictably, throw themselves to the ground, wriggle into and out of burrows, and generally appear to behave entirely irrationally. In response, their prey becomes confused or seemingly hypnotized, which gives the weasel an opportunity to dash forward and strike a killing blow.</p><p>A typical weasel is 12 inches long and weighs less than a pound.</p><hr /><p>Weasels are lithe, clever predators known for both their beautiful, sleek fur and their ability to crawl into tight spaces. Pound for pound, few animals are as voracious as weasels. Insatiably hungry, they eat almost half their own weight each day, leading them to constantly hunt for new prey to satisfy their hunger.</p>",
+                    "blurb": "Weasel",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1376,6 +1378,7 @@
                 "Reverent Mother Otis": {
                     "name": "Reverent Mother Otis",
                     "tokenName": "Reverent Mother Otis",
+                    "blurb": "genderfluid innkeeper",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thriceblesse00]</p>",
                     "items": {
                         "Diplomacy": {
@@ -1393,6 +1396,7 @@
                     "name": "Kum Meng-sung",
                     "tokenName": "Kum Meng-sung",
                     "publicNotes": "<p>Workers of the fields, vineyards, and orchards of the world, farmers are known for their rugged endurance and their skill with both plants and animals.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
+                    "blurb": "Male Farmer",
                     "items": {
                         "Pitchfork": {
                             "name": "Pitchfork"
@@ -1425,6 +1429,7 @@
                 "Kum Soon-chong": {
                     "name": "Kum Soon-chong",
                     "tokenName": "Kum Soon-chong",
+                    "blurb": "male veterinarian",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]</p>",
                     "items": {
                         "Nature": {
@@ -1462,6 +1467,7 @@
                     "name": "Kohoshi",
                     "tokenName": "Kohoshi",
                     "publicNotes": "<p>Shikigami are the least powerful of all kami and the most common. Unlike most other kami, which are bound to their wards by a more powerful spirit or deity, shikigami are minor spirits that even mortal practitioners can sometimes bind into a tiny paper form and task with guarding small works, such as garden statues and vases. Landowners delight in having shikigami protect their gardens, whether they paid a wandering spellcaster to entreat the shikigami or simply had the fortune of another spirit assigning a shikigami to their land. Travelers who come across a shikigami-graced milestone or waypost believe that such encounters are good omens for the journey ahead.</p><p>For their part, shikigami have mixed opinions on civilization and the humanoids who dwell therein. While shikigami will fight to protect their ward against invaders and desecrators, these kami are just as likely to leave-their ward in tow-if locals begin to despoil the area or show a disregard for nature. Most practitioners capable of binding a shikigami wouldn't engage in this type of disrespect, but should the kami catch wind of such practices, shikigami across the land might abandon their contracts en masse, leaving an uncomfortable vacuum with their unexpected exodus. In this way, shikigami exemplify the precarious balance between the expansion of civilization and the preservation of the natural world.</p><p>Not all shikigami protect gardens, so you can substitute the shikigami's spade for any sort of mundane tool that's useful to the shikigami's task and their ward. The kami wields any such weapon with the same damage dice, modifiers, and traits listed for their spade Strike, but change the damage type as appropriate for the new weapon.</p><hr /><p>Kami are divine nature spirits native to the lands of Tian Xia, far to the east of the Inner Sea region. They serve as guardians of natural objects and places they protect-their \"wards\"-and are ancient enemies of the oni. Kami can merge with their wards, allowing them to surreptitiously watch anyone who treads upon their sacred grounds. Kami leave those who they deem harmless alone, but the spirits fight vigilantly to scare away anyone perceived as a threat.</p><p>Kami choose their own wards, though many mortals seek to attract them to sites that might require protection, leading to a proliferation of certain trees, statues, gates, and other symbolic elements in areas where kami are known to dwell.</p>",
+                    "blurb": "Shikigami",
                     "items": {
                         "Divine Innate Spells": {
                             "name": "Divine Innate Spells"
@@ -1518,6 +1524,7 @@
                 "Shou Matsuki": {
                     "name": "Shou Matsuki",
                     "tokenName": "Shou Matsuki",
+                    "blurb": "male carpenter",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06matsukiestat00]</p>",
                     "items": {
                         "Crafting": {
@@ -1639,6 +1646,7 @@
                     "name": "Zoudou The Zealous",
                     "tokenName": "Zoudou The Zealous",
                     "publicNotes": "<p>These noppera-bos have mastered the art of disguise.</p><hr /><p>Noppera-bos appear to be regular humans from behind, and might even resemble someone you know, until they turn to reveal a featureless face.</p><h2>Consummate Professionals</h2><p>While the typical noppera-bo is cruel and revels in the act of frightening or tormenting humanoid creatures, not all of them wallow in evil. Neutral noppera-bos tend to be pranksters who use their abilities to trick and tease, while the rare good noppera- bos instead use their abilities to honor and idolize those they admire while focusing their own time on developing their skills at art or crafting.</p><h2>Noppera-bo Origins</h2><p>There are many theories on the origins of noppera-bos—from tanuki whose change shape ability went wrong, to humanoids who were warped by curses, to naturally spawning yokai. Some even theorize this condition is a transmissible curse like lycanthropy. Most noppera-bos don't recall their origins, and are often more interested in pretending to be someone else entirely.</p>",
+                    "blurb": "Female noppera-bo",
                     "languagesDetails": "telepathy 30 feet",
                     "items": {
                         "Divine Prepared Spells": {
@@ -1705,6 +1713,7 @@
                 "Huo Tian-Zhe": {
                     "name": "Huo Tian-Zhe",
                     "tokenName": "Huo Tian-Zhe",
+                    "blurb": "male inventor",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]</p>",
                     "items": {
                         "Crafting": {
@@ -1726,6 +1735,7 @@
                     "name": "Animated Cookware Swarm",
                     "tokenName": "Animated Cookware Swarm",
                     "publicNotes": "<p>Nobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.</p><hr /><p>Many animated objects have useful functions but become dangers when uncontrolled.</p>",
+                    "blurb": "Variant animated silverware swarm",
                     "items": {
                         "Construct Armor (Hardness 3)": {
                             "name": "Construct Armor (Hardness 3)",
@@ -1758,6 +1768,7 @@
                     "name": "Mo Douqiu the Hedonist",
                     "tokenName": "Mo Douqiu",
                     "publicNotes": "<p>Rokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the offense, but instead their child or spouse. The curse slowly transforms the individual into a rokurokubi as they sleep. At first, their neck extends, or even detaches altogether, to let their head roam freely and engage in simple mischief like scaring neighbors or animals. The sleeper may awaken the next morning from a hazy dream of drinking the oil from nearby lanterns, only to find them indeed empty.</p><p>Over time, the bizarre acts progress to increasingly mischievous or even violent crimes. There's only a brief period during which the nascent rokurokubi might still be saved by dispelling the curse, but before long, they are fully consumed, never to sleep again.</p><p>Most rokurokubi despair at their state, seeking to drown their sorrows in drink or simply stay out of sight. A nefarious few rokurokubi embrace their fate and seek to enhance their power by completely giving in to the curse. This grants them the ability to cast potent occult spells but inevitably twists them even more toward evil.</p>",
+                    "blurb": "male Rokurokubi",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1800,6 +1811,7 @@
                 "Rajul Samudra": {
                     "name": "Rajul Samudra",
                     "tokenName": "Rajul Samudra",
+                    "blurb": "male shipwright",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]</p>",
                     "items": {
                         "Crafting": {
@@ -1851,6 +1863,7 @@
                 "Yong Wu-Xiu": {
                     "name": "Yong Wu-Xiu",
                     "tokenName": "Yong Wu-Xiu",
+                    "blurb": "female blacksmith",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]</p>",
                     "items": {
                         "Crafting": {
@@ -1890,6 +1903,7 @@
                     "name": "Midori",
                     "tokenName": "Midori",
                     "publicNotes": "<p>Jinkins are sadistic tinkers who steal and sabotage items and take great pride in their power to curse precious objects. They hold grudges and create convoluted plans for revenge whenever they feel slighted, such as when a creature dares to remove one of their curses. Rarely content to wreak simple mayhem, jinkins also take immense pleasure in torture and murder, though they prefer to lead victims into traps designed to capture or incapacitate rather than kill outright. Deep pits are favorites, since victims who survive the fall face a slow death from starvation and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.</p><hr /><p>Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life on the Material Plane, finding distinct niches for their inventive destructiveness. All gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the lightest and slightest, carefully targeted push from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom gremlins (and many others) derisively call \"mites.\"</p>",
+                    "blurb": "Female Jinkin",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Primal Innate Spells"
@@ -1974,6 +1988,7 @@
                     "name": "Zheng Peng",
                     "tokenName": "Zheng Peng",
                     "publicNotes": "<p>Watch officers are assigned to a certain area within a city or community. Often leading a small team of lower-ranking guards, they patrol those areas to maintain order and enforce laws. Watch officers get the job done, though their methods are not always gentle or kind. Because the watch officer is responsible to their superiors for their area, they sometimes need to make tough decisions between justice and effectiveness.</p><hr /><p>Larger societies rely on those with the authority and the ability to interpret and enforce laws. In good-aligned societies, these officials carry out their duties fairly. In neutral and evil ones, these officials can be harsh and cruel (with an altered alignment to reflect this), imposing severe punishments on those who can't pay for mercy.</p>",
+                    "blurb": "Male Watch Officer",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#willowshore-barracks-barracks-3]</p>",
                     "items": {
                         "Warhammer": {
@@ -2018,6 +2033,7 @@
                     "name": "Imprisoned Villager",
                     "tokenName": "Imprisoned Villager",
                     "publicNotes": "<p>Though not every commoner is downtrodden, many live hard lives of toil as they work to keep their families fed and housed in relative comfort. While many commoners are just simple folks who keep to themselves, sometimes commoners rebel, either rising up to face their oppressors or persuaded or even duped into joining nefarious plans and criminal conspiracies. Commoners benefit from power in numbers, and a crowd of commoners can accomplish a great deal more than their rulers often expect.</p><hr /><p>Unfortunately, every society has people living on its fringes. While good communities work to grant aid and respite to their downtrodden, sometimes-due to economic downturn, famine, or war-the ranks of the less fortunate exceed the community's capacity to support them. In heartless neutral and evil societies, poverty is seen as an inevitability that can never be truly eradicated, or even worse, as a tool to be manipulated for political gain.</p>",
+                    "blurb": "Commoner",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -2044,6 +2060,7 @@
                     "name": "Jerky",
                     "tokenName": "Jerky",
                     "publicNotes": "<p>The typical guard dog is loyal to and beloved by many communities. Often adored as pets, they also excel as protectors and trackers, and can be fearless when defending a beloved master or family member. The statistics presented below work well for any number of breeds of dog ranging from 20 to 50 pounds in weight. Wild dogs can also use these statistics, but their untamed nature makes them far more unpredictable and threatening. Feral dogs are perhaps even more dangerous, for unlike their wild cousins, feral dogs often lack the instinctual fear of humanity that stops wild creatures from interacting with people.</p><hr /><p>Dogs are trusted and loyal companions that serve as guardians, protectors, and hunting companions. Their ability to detect prey or predators via scent and their predilection to accompany humanoids makes them ideal pets for most adventurers. There are hundreds of breeds of dogs in the world-from tiny lapdogs who shower their masters in affection to muscular dogs that stand nearly 4 feet high at the shoulder-and they can be found in nearly any place where people reside. Larger breeds might even be used as mounts for smaller adventurers, and some cultures use dogs as beasts of burden capable of pulling sleds loaded with supplies across the icy tundra. Regardless, many adventurers find value in having a dog.</p>",
+                    "blurb": "Guard Dog",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -2070,6 +2087,7 @@
                     "name": "Phantom Wolf",
                     "tokenName": "Phantom Wolf",
                     "publicNotes": "<p>The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the Boneyard, where it is judged by Pharasma. The judged soul moves onto its appropriate domain of final rest-Heaven, Hell, Abaddon, and so forth-where it becomes a petitioner.</p><p>Complications arise, however, when a soul in queue for judgment prematurely departs from the River of Souls and is shunted into the Ethereal Plane. Whether as a result of nefarious interlopers like night hags, malignant planar magic, or even fate, these souls become dislodged from the natural order of life and death and linger in a sort of purgatory. Unlike petitioners, these ethereal phantoms retain memories of their life before death, and unlike spirits such as ghosts, phantoms aren't tinged with the foul influences of undeath-at least, not at first, though the threat of corruption hangs heavy over a phantom's existence. Some eventually succumb to that fate, while others eventually rejoin the River of Souls. Until then, these wandering souls are a kind unto themselves-one without a true home, agenda, or purpose.</p><p>Many phantoms have no desire to remain in their strange state of purgatory, either because they seek to continue their journey through the River of Souls or because they fear the corruption of undeath. In order to complete the natural spiritual cycle and become judged so they can continue to the afterlife, a phantom must simply find a way back into the River of Souls. Such a quest is no easy feat, however-the hazy mists of the Ethereal Plane can befuddle even the most experienced traveler, and numerous predators prowl the realm in search of stray souls to bind or devour.</p>",
+                    "blurb": "Variant phantom",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -2200,6 +2218,7 @@
                 "Luda Bama": {
                     "name": "Luda Bama",
                     "tokenName": "Luda Bama",
+                    "blurb": "female smuggler",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]</p>",
                     "items": {
                         "Crafting": {
@@ -2241,6 +2260,7 @@
                     "name": "Town Guard",
                     "tokenName": "Town Guard",
                     "publicNotes": "<p>Guards are rank-and-file members of a town watch or city guard, trained to look for trouble, take down criminals, and follow orders. They are a match for only the most fledgling of adventurers and criminals, but, given time, the settlement can usually muster them in numbers sufficient to neutralize most threats.</p><hr /><p>Larger societies rely on those with the authority and the ability to interpret and enforce laws. In good-aligned societies, these officials carry out their duties fairly. In neutral and evil ones, these officials can be harsh and cruel (with an altered alignment to reflect this), imposing severe punishments on those who can't pay for mercy.</p>",
+                    "blurb": "Guard",
                     "items": {
                         "Club": {
                             "name": "Club"
@@ -2347,6 +2367,7 @@
                     "name": "Sumika",
                     "tokenName": "Sumika",
                     "publicNotes": "<p>Some forests are protected by kings, others only by wild things. Laws against hunting may protect the private reserves of nobles or guard the viability of animal populations of shared forests during specific seasons. Poachers violate those laws- sometimes out of greed, sometimes out of desperation, and sometimes for sport. Although penalties against poaching often include public shaming, in lean times a successful poacher is a local hero.</p><hr /><p>From the managed and cultivated forests that support villages to the tree-covered crown lands where only nobles and their servants are permitted to hunt, forests provide. To communities, forests provide fuel, food, medicine, and raw materials, while royally protected forests provide food for the nobles' table and a source of entertainment in the form of organized hunts. Even the ancient woods untouched by mortal hand or blade provide bards with settings where legends happened and could happen again. Many find the forest depths unsettling, but others live their lives among the trees and alongside the creatures that make their homes there.</p>",
+                    "blurb": "female Poacher",
                     "items": {
                         "Club": {
                             "name": "Club"
@@ -2458,6 +2479,7 @@
                     "name": "Phantom Boar",
                     "tokenName": "Phantom Boar",
                     "publicNotes": "<p>The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the Boneyard, where it is judged by Pharasma. The judged soul moves onto its appropriate domain of final rest-Heaven, Hell, Abaddon, and so forth-where it becomes a petitioner.</p><p>Complications arise, however, when a soul in queue for judgment prematurely departs from the River of Souls and is shunted into the Ethereal Plane. Whether as a result of nefarious interlopers like night hags, malignant planar magic, or even fate, these souls become dislodged from the natural order of life and death and linger in a sort of purgatory. Unlike petitioners, these ethereal phantoms retain memories of their life before death, and unlike spirits such as ghosts, phantoms aren't tinged with the foul influences of undeath-at least, not at first, though the threat of corruption hangs heavy over a phantom's existence. Some eventually succumb to that fate, while others eventually rejoin the River of Souls. Until then, these wandering souls are a kind unto themselves-one without a true home, agenda, or purpose.</p><p>Many phantoms have no desire to remain in their strange state of purgatory, either because they seek to continue their journey through the River of Souls or because they fear the corruption of undeath. In order to complete the natural spiritual cycle and become judged so they can continue to the afterlife, a phantom must simply find a way back into the River of Souls. Such a quest is no easy feat, however-the hazy mists of the Ethereal Plane can befuddle even the most experienced traveler, and numerous predators prowl the realm in search of stray souls to bind or devour.</p>",
+                    "blurb": "Variant phantom",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -2493,6 +2515,7 @@
                     "name": "Endangered Revelers",
                     "tokenName": "Endangered Revelers",
                     "publicNotes": "<p>Though not every commoner is downtrodden, many live hard lives of toil as they work to keep their families fed and housed in relative comfort. While many commoners are just simple folks who keep to themselves, sometimes commoners rebel, either rising up to face their oppressors or persuaded or even duped into joining nefarious plans and criminal conspiracies. Commoners benefit from power in numbers, and a crowd of commoners can accomplish a great deal more than their rulers often expect.</p><hr /><p>Unfortunately, every society has people living on its fringes. While good communities work to grant aid and respite to their downtrodden, sometimes-due to economic downturn, famine, or war-the ranks of the less fortunate exceed the community's capacity to support them. In heartless neutral and evil societies, poverty is seen as an inevitability that can never be truly eradicated, or even worse, as a tool to be manipulated for political gain.</p>",
+                    "blurb": "Commoner",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -2522,6 +2545,7 @@
                 "Kawaka Myna": {
                     "name": "Kawaka Myna",
                     "tokenName": "Kawaka Myna",
+                    "blurb": "male guild leader",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]</p>",
                     "items": {
                         "Crafting": {
@@ -2532,6 +2556,7 @@
                 "Mountain Summit Grass": {
                     "name": "Mountain Summit Grass",
                     "tokenName": "Mountain Summit Grass",
+                    "blurb": "agender teamaker",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]</p>",
                     "items": {
                         "Crafting": {
@@ -2553,6 +2578,7 @@
                     "name": "Captured Farmer",
                     "tokenName": "Captured Farmer",
                     "publicNotes": "<p>Workers of the fields, vineyards, and orchards of the world, farmers are known for their rugged endurance and their skill with both plants and animals.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
+                    "blurb": "Farmer",
                     "items": {
                         "Pitchfork": {
                             "name": "Pitchfork"
@@ -2596,6 +2622,7 @@
                     "name": "Fan Hongrui",
                     "tokenName": "Fan Hongrui",
                     "publicNotes": "<p>When a soul doomed to become a thatchling dies in the throes of great anguish, they can return after death as a red-hooded thatchling. These vengeful thatchlings appear to wear red hoods when viewed at a distance, but up close, the grisly truth—that their heads are blood-soaked—is revealed. Unlike other thatchlings, red-hooded thatchlings are skilled at trickery, and their ability to appear as a living humanoid through illusion magic allows them to lure the unexpected into ambushes much more easily.</p><hr /><p>In rural Shenmen, some branches of Sangpotshi warn of what can happen if a soul bound for reincarnation is prevented from entering the River of Souls and rejoining the cycle. These souls become frustrated, confused, and then furious at what they feel is a denial of the body they deserve, and in turn, they force vegetation to serve as their new body. Others theorize that when a body is buried in a shallow grave, the roots of grass growing down into the remains can tangle the soul and capture it.</p><p>Thatchlings are intelligent and capable of speaking but rarely do so—they generally have little to say to those whose lives they covet. Rarely, one might attempt to lure someone into an area of tall grass or dense undergrowth by calling out to them for aid, but they have little skill at deception, so such tactics aren't particularly effective at making them seem like actual living creatures in need of help.</p><h2>Old Friends</h2><p>The source of Willowshore's thatchlings is the simple fact that the souls who would normally have been reincarnated upon death can't do so, thus rising as thatchlings. Of course, since each year \"resets\" things, those who died during the year and became thatchlings are reborn alive once more on every first day of summer, with no memories of their previous doomed existence. While still driven by instinct to attack the living, Willowshore's thatchlings do feel a sense of remorse—if the GM judges it especially appropriate, they might take a –2 circumstance penalty to attack rolls and saving throws against creatures they knew in life.</p><h2>Forever Senseless</h2><p>The thatchling's curse robs the sense of direction from those it falls upon, leading to a whole category of insults in Shenmen that compare someone's ability to get something done to \"a thatchling's sense.\" For example, someone who has a hard time making friends might be said to have \"a thatchling's sense of friendship,\" while someone who constantly ruins meals might be said to have \"a thatchling's kitchen sense.\"</p>",
+                    "blurb": "Variant female red-hooded thatchling",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -2645,6 +2672,7 @@
                     "name": "Noodles",
                     "tokenName": "Noodles",
                     "publicNotes": "<p>Despite their small stature, weasels are skilled hunters. Nearly fearless in pursuit of food, they frequently kill creatures up to five times their own size. Their preferred tactic is to latch onto the back of their victim's neck and constrict with their jaws until the target dies. To keep themselves well fed, weasels kill more creatures than they need and stuff their victims into hollow logs or empty dens to eat later.</p><p>Scholars have observed weasels, both in the wild and captivity, perform a bizarre behavior in front of their prey. They rush about unpredictably, throw themselves to the ground, wriggle into and out of burrows, and generally appear to behave entirely irrationally. In response, their prey becomes confused or seemingly hypnotized, which gives the weasel an opportunity to dash forward and strike a killing blow.</p><p>A typical weasel is 12 inches long and weighs less than a pound.</p><hr /><p>Weasels are lithe, clever predators known for both their beautiful, sleek fur and their ability to crawl into tight spaces. Pound for pound, few animals are as voracious as weasels. Insatiably hungry, they eat almost half their own weight each day, leading them to constantly hunt for new prey to satisfy their hunger.</p>",
+                    "blurb": "Weasel",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -2694,6 +2722,7 @@
                     "name": "Asahina Shinzo",
                     "tokenName": "Shinzo",
                     "publicNotes": "<p>Even immortals such as kami aren't immune to death. When a kami or equally powerful entity refuses the call of the Boneyard, a shinigami is summoned to bring these stubborn souls to heel. Exact and swift, shinigami are known to dispense the judgment of death efficiently and dispassionately.</p><h2>Guardians Of The Cycle</h2><p>Shinigami are responsible for investigating and dealing with widespread phenomena that disrupt the natural flow of life. They might be tasked with solving the issue or be told to wait, observe, and provide minimal assistance. While most shinigami can retain their impartiality during such long vigils, some are far from emotionless and end up wavering toward mercy or cruelty.</p>",
+                    "blurb": "Male Shinigami",
                     "languagesDetails": "truespeech",
                     "items": {
                         "Divine Innate Spells": {
@@ -2755,6 +2784,7 @@
                     "name": "Warty",
                     "tokenName": "Warty",
                     "publicNotes": "<p>Most giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat giant rats, then take over the rats' burrows as homes. Giant toads have large poison glands behind their eyes that enable them to coat their skin with poison. This leads to them having very few natural predators, and populations can quickly explode if left unchecked. While most consider giant toads dangerous pests, some groups of ogres and hill giants cultivate them to collect their poison for recreational use.</p>",
+                    "blurb": "Giant Toad",
                     "items": {
                         "Bite": {
                             "name": "Bite"
@@ -2786,6 +2816,7 @@
                     "name": "Hu Lelong",
                     "tokenName": "Hu Lelong",
                     "publicNotes": "<p>Maids, butlers, and majordomos alike, servants are skilled at keeping a home in working order and protecting the interests of their employers.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
+                    "blurb": "male young villager",
                     "items": {
                         "Cutlery": {
                             "name": "Cutlery"
@@ -2812,6 +2843,7 @@
                     "name": "Murasaki",
                     "tokenName": "Murasaki",
                     "publicNotes": "<p>Jinkins are sadistic tinkers who steal and sabotage items and take great pride in their power to curse precious objects. They hold grudges and create convoluted plans for revenge whenever they feel slighted, such as when a creature dares to remove one of their curses. Rarely content to wreak simple mayhem, jinkins also take immense pleasure in torture and murder, though they prefer to lead victims into traps designed to capture or incapacitate rather than kill outright. Deep pits are favorites, since victims who survive the fall face a slow death from starvation and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.</p><hr /><p>Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life on the Material Plane, finding distinct niches for their inventive destructiveness. All gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the lightest and slightest, carefully targeted push from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom gremlins (and many others) derisively call \"mites.\"</p>",
+                    "blurb": "Jinkin",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Primal Innate Spells"
@@ -2864,6 +2896,7 @@
                     "name": "Xungu",
                     "tokenName": "Xungu",
                     "publicNotes": "<p>The ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring humanoid flesh. For a myceloid colony, any battle with humanoids is cause for excitement, as this new fodder presents so many delicious possibilities.</p><p>Myceloids consider humanoids to have an ideal life cycle of four simple steps. During childhood, they wander naive and afraid, unaware of myceloid colonies. In adulthood, humanoids discover their true purpose as they taste purple pox and become enslaved by the myceloids' spores. Next, they die, giving rise to a new myceloid. They're then sent on to the afterlife upon becoming a myceloid meal. Eating humanoid flesh is not a necessity-a myceloid can survive on any decaying matter-but it's certainly a pleasure.</p><p>Myceloids rarely make alliances, but when they do, they invite their new allies to share a meal to seal the pact. Few outsiders appreciate this hospitality.</p><p>Most myceloids have deep purple caps studded with off-white lumps. Their necks and bodies bear resemblance to the stipes of tough, leathery fungi. Smaller mushrooms often grow on a myceloid's body, which the creatures view as either adornments or particularly convenient snacks. They stand roughly as tall as a dwarf, with comparably stout builds.</p>",
+                    "blurb": "Agender Myceloid",
                     "languagesDetails": "telepathy 100 feet (myceloids and those afflicted by purple pox only)",
                     "items": {
                         "Fist": {
@@ -2897,6 +2930,7 @@
                     "name": "Very Drunken Jinkin",
                     "tokenName": "Very Drunken Jinkin",
                     "publicNotes": "<p>Jinkins are sadistic tinkers who steal and sabotage items and take great pride in their power to curse precious objects. They hold grudges and create convoluted plans for revenge whenever they feel slighted, such as when a creature dares to remove one of their curses. Rarely content to wreak simple mayhem, jinkins also take immense pleasure in torture and murder, though they prefer to lead victims into traps designed to capture or incapacitate rather than kill outright. Deep pits are favorites, since victims who survive the fall face a slow death from starvation and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.</p><hr /><p>Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life on the Material Plane, finding distinct niches for their inventive destructiveness. All gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the lightest and slightest, carefully targeted push from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom gremlins (and many others) derisively call \"mites.\"</p>",
+                    "blurb": "Variant jinkins",
                     "items": {
                         "Primal Innate Spells": {
                             "name": "Primal Innate Spells"
@@ -2931,6 +2965,7 @@
                 "Kim Gu-won": {
                     "name": "Kim Gu-won",
                     "tokenName": "Kim Gu-won",
+                    "blurb": "male cleric of Kofusachi",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]</p>",
                     "items": {
                         "Crafting": {
@@ -2946,6 +2981,7 @@
                     "name": "Stingy",
                     "tokenName": "Stingy",
                     "publicNotes": "<p>Cave scorpions prefer to reside in underground lairs. Most have lost nearly all of their pigmentation, making them appear ghostly when they lurk at the edge of the light. While they prefer to eat large insects, cave scorpions can and will attack humanoids. Some Darklands societies have developed techniques to herd or lure scorpions into pest-infested tunnels and warrens at the edge of their settlements, where the scorpions thrive in a dual role of exterminators and guardians.</p><hr /><p>Scorpions are frightening enough at their normal diminutive size, but when they grow to reach or surpass the size of a human, they become absolutely terrifying.</p>",
+                    "blurb": "Cave Scorpion",
                     "items": {
                         "Pincer": {
                             "name": "Pincer"
@@ -2972,6 +3008,7 @@
                 "Luo Xi Yang": {
                     "name": "Luo Xi Yang",
                     "tokenName": "Luo Xi Yang",
+                    "blurb": "female lawyer",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06luoandlaws0000]</p>",
                     "items": {
                         "Diplomacy": {
@@ -3049,6 +3086,7 @@
                     "name": "Gurglegut",
                     "tokenName": "Gurglegut",
                     "publicNotes": "<p>Busos are tree-dwelling folk with a simmering desire to consume the flesh of others. They to heavily supplement their food with leaves and root crops, possess significant knowledge of agriculture, and boast innate powers over plants and their growth. In regards to meat, however, busos reject the flesh of beasts; they instead consume other humanoids. Not only do they find the taste of other creatures repulsive, but their bodies reject non-humanoid meat since it provides them no nutritional value and consuming it leaves them sickened and weak.</p><p>Busos' unusual dietary needs mean they're almost always at odds with neighboring cultures. They typically maintain decent relations only with goblins, who are as a people less prone to judging others based on diet. Other communities fear busos-with some justification-though aside from the occasional forays to harvest someone for their next meal, busos tend to keep to themselves. In some desperate locations, communities faced with famine or other natural disasters might even seek out busos' aid, offering victims in exchange for knowledge or magical assistance that might save their communities from slow and terrible deaths through starvation.</p><p>A buso's single eye sometimes leads to them being compared to cyclopes. However, both types of creatures deny any common ancestry, and they first appeared independently in entirely different parts of the world with substantially divergent abilities. For their part, busos believe that their ancestors' deeds gave rise to their single eyes. When faced with a famine that threatened their existence, these ancestors each cut out one of their eyes as an offering to the malevolent spirits of the forest, imploring for their salvation. Busos say that these spirits, whom they call the busaw, gave them their knowledge of agriculture, power over plants, and craving for sentient flesh. Henceforth, they revered the busaw as gods and called themselves buso: those who worship the busaw.</p>",
+                    "blurb": "Male Buso",
                     "items": {
                         "Kukri": {
                             "name": "Kukri"
@@ -3080,6 +3118,7 @@
                 "Yun Mong-un": {
                     "name": "Yun Mong-un",
                     "tokenName": "Yun Mong-un",
+                    "blurb": "female human guild leader",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]</p>",
                     "items": {
                         "Crafting": {
@@ -3090,6 +3129,7 @@
                 "Choe Chung-hu": {
                     "name": "Choe Chung-hu",
                     "tokenName": "Choe Chung-hu",
+                    "blurb": "male miller",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06millinghouse00]</p>",
                     "items": {
                         "Abadar Lore": {
@@ -3151,6 +3191,7 @@
                 "Kazuma Oono": {
                     "name": "Kazuma Oono",
                     "tokenName": "Kazuma Oono",
+                    "blurb": "male director",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-seven-colored-songbird-theater-5]</p>",
                     "items": {
                         "Diplomacy": {
@@ -3167,6 +3208,7 @@
                 "Zataku": {
                     "name": "Zataku",
                     "tokenName": "Zataku",
+                    "blurb": "female fisher",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]</p>",
                     "items": {
                         "Nature": {
@@ -3178,6 +3220,7 @@
                     "name": "Yix",
                     "tokenName": "Yix",
                     "publicNotes": "<p>A nosoi resembles a whippoorwill, sparrow, or other small bird wearing a heavy leather plague doctor's mask. They are the clerks, messengers, and scribes of the Boneyard, witnessing judgments, directing souls, and generally performing the administrative grunt work that keeps the Boneyard functioning. Most nosois are particularly chatty and eager to discuss how important they consider their individual assignments to be.</p><hr /><p>Psychopomps are guardians and shepherds of the dead native to the Boneyard, the vast plane of graves where mortal souls are judged and sent on to their eternal rewards or damnations. Psychopomps ensure that the dead come to terms with their transition from mortality and are properly sorted into the appropriate afterlife. They also protect souls from being preyed upon by supernatural predators. Nearly all psychopomps wear masks, especially when they're likely to be interacting with mortals, although the types of masks they wear are as varied as the psychopomps themselves. The courts of the Boneyard preside in Requian, a somber yet melodic language spoken slowly with various tonal shifts.</p>",
+                    "blurb": "Nosoi",
                     "items": {
                         "Divine Innate Spells": {
                             "name": "Divine Innate Spells"
@@ -3220,6 +3263,7 @@
                     "name": "Villager",
                     "tokenName": "Villager",
                     "publicNotes": "<p>Though not every commoner is downtrodden, many live hard lives of toil as they work to keep their families fed and housed in relative comfort. While many commoners are just simple folks who keep to themselves, sometimes commoners rebel, either rising up to face their oppressors or persuaded or even duped into joining nefarious plans and criminal conspiracies. Commoners benefit from power in numbers, and a crowd of commoners can accomplish a great deal more than their rulers often expect.</p><hr /><p>Unfortunately, every society has people living on its fringes. While good communities work to grant aid and respite to their downtrodden, sometimes-due to economic downturn, famine, or war-the ranks of the less fortunate exceed the community's capacity to support them. In heartless neutral and evil societies, poverty is seen as an inevitability that can never be truly eradicated, or even worse, as a tool to be manipulated for political gain.</p>",
+                    "blurb": "Commoner",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -3285,6 +3329,7 @@
                     "name": "Ugly Cute",
                     "tokenName": "Ugly Cute",
                     "publicNotes": "<p>The tradition of venerating spiders as wards against vermin, pests, and evil in general far predates the modern jorogumo rule, with stone spiders filling a role similar to stone lions. Stone spider guardian beasts can be found perched on plinths near town and village entrances, standing motionless—for generations in some cases—so that many locals have forgotten their local guardian is anything more than a decoration.</p>",
+                    "blurb": "Agender Stone Spider",
                     "languagesDetails": "telepathy 60 feet",
                     "items": {
                         "Divine Innate Spells": {
@@ -3340,6 +3385,7 @@
                 "Nadoya Sanmi": {
                     "name": "Nadoya Sanmi",
                     "tokenName": "Nadoya Sanmi",
+                    "blurb": "female family matriarch",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]</p>",
                     "items": {
                         "Crafting": {
@@ -3363,6 +3409,7 @@
                     "name": "Phantom Raven",
                     "tokenName": "Phantom Raven",
                     "publicNotes": "<p>The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the Boneyard, where it is judged by Pharasma. The judged soul moves onto its appropriate domain of final rest-Heaven, Hell, Abaddon, and so forth-where it becomes a petitioner.</p><p>Complications arise, however, when a soul in queue for judgment prematurely departs from the River of Souls and is shunted into the Ethereal Plane. Whether as a result of nefarious interlopers like night hags, malignant planar magic, or even fate, these souls become dislodged from the natural order of life and death and linger in a sort of purgatory. Unlike petitioners, these ethereal phantoms retain memories of their life before death, and unlike spirits such as ghosts, phantoms aren't tinged with the foul influences of undeath-at least, not at first, though the threat of corruption hangs heavy over a phantom's existence. Some eventually succumb to that fate, while others eventually rejoin the River of Souls. Until then, these wandering souls are a kind unto themselves-one without a true home, agenda, or purpose.</p><p>Many phantoms have no desire to remain in their strange state of purgatory, either because they seek to continue their journey through the River of Souls or because they fear the corruption of undeath. In order to complete the natural spiritual cycle and become judged so they can continue to the afterlife, a phantom must simply find a way back into the River of Souls. Such a quest is no easy feat, however-the hazy mists of the Ethereal Plane can befuddle even the most experienced traveler, and numerous predators prowl the realm in search of stray souls to bind or devour.</p>",
+                    "blurb": "Variant phantom",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -3393,6 +3440,7 @@
                 "Ba-Ming Ouh": {
                     "name": "Ba-Ming Ouh",
                     "tokenName": "Ba-Ming Ouh",
+                    "blurb": "female priest",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]</p>",
                     "items": {
                         "Crafting": {
@@ -3451,6 +3499,7 @@
                     "name": "Great Willow",
                     "tokenName": "Great Willow",
                     "publicNotes": "<p>A kodama is a type of kami who inhabits a tree. Kodama commonly appear in old Tian forests, especially old-growth forests far removed from civilization. In the Forest of Spirits in Minkai, for example, so many trees are possessed by kodama that a traveler might pass by hundreds, if not thousands, of these beings while journeying through a single acre of woodland.</p><p>Kodama try their utmost to protect their sacred trees, but a single kodama is a minor obstacle to most oni or others who have no qualms about desecrating forests or harvesting them for natural resources. Like trees in a forest, kodama are most powerful in great numbers and among other kami, whom they can bolster with their magical straw ropes while distracting strong enemies with their mesmerizing presence.</p><p>On the other hand, kodama bear no ill will toward those who respect their wards, even allowing druids and other deferential creatures to dwell within their bounds. They might even subtly guide lost travelers out of the forest or back to safety.</p><hr /><p>Kami are divine nature spirits native to the lands of Tian Xia, far to the east of the Inner Sea region. They serve as guardians of natural objects and places they protect-their \"wards\"-and are ancient enemies of the oni. Kami can merge with their wards, allowing them to surreptitiously watch anyone who treads upon their sacred grounds. Kami leave those who they deem harmless alone, but the spirits fight vigilantly to scare away anyone perceived as a threat. Kami choose their own wards, though many mortals seek to attract them to sites that might require protection, leading to a proliferation of certain trees, statues, gates, and other symbolic elements in areas where kami are known to dwell.</p>",
+                    "blurb": "Agender Kodama",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thegreatwill00]</p>",
                     "languagesDetails": "speak with plants, telepathy 50 feet",
                     "items": {
@@ -3532,6 +3581,7 @@
                     "name": "De-ge Hua",
                     "tokenName": "De-ge",
                     "publicNotes": "<p>The sight of an inn is a welcome one to any weary traveler. Innkeepers can often be found cleaning the common room, overseeing the evening meal, or settling in new lodgers. Innkeepers keep an eye on their neighbors' doings and are often excellent sources of information.</p><hr /><p>Countless adventures begin in a tavern or a pub. Maybe it's because such places attract the risk-prone, or maybe it's because everyone needs a little liquid courage before they decide to take on a group of rampaging ogres.</p>",
+                    "blurb": "Male bathhouse owner",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-happy-kappa-business-1]</p>",
                     "items": {
                         "Broom": {
@@ -3580,6 +3630,7 @@
                     "name": "Mugirou the Rebel",
                     "tokenName": "Mugirou the Rebel",
                     "publicNotes": "<p>These noppera-bos have mastered the art of disguise.</p><hr /><p>Noppera-bos appear to be regular humans from behind, and might even resemble someone you know, until they turn to reveal a featureless face.</p><h2>Consummate Professionals</h2><p>While the typical noppera-bo is cruel and revels in the act of frightening or tormenting humanoid creatures, not all of them wallow in evil. Neutral noppera-bos tend to be pranksters who use their abilities to trick and tease, while the rare good noppera- bos instead use their abilities to honor and idolize those they admire while focusing their own time on developing their skills at art or crafting.</p><h2>Noppera-bo Origins</h2><p>There are many theories on the origins of noppera-bos—from tanuki whose change shape ability went wrong, to humanoids who were warped by curses, to naturally spawning yokai. Some even theorize this condition is a transmissible curse like lycanthropy. Most noppera-bos don't recall their origins, and are often more interested in pretending to be someone else entirely.</p>",
+                    "blurb": "Noppera-bo Trickster",
                     "languagesDetails": "telepathy 30 feet",
                     "items": {
                         "No Face": {
@@ -3632,6 +3683,7 @@
                 "You So-Jin": {
                     "name": "You So-Jin",
                     "tokenName": "You So-Jin",
+                    "blurb": "female herbalist",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]</p>",
                     "items": {
                         "Crafting": {
@@ -3651,6 +3703,7 @@
                     "name": "Yuli Sanmi",
                     "tokenName": "Yuli Sanmi",
                     "publicNotes": "<p>Maids, butlers, and majordomos alike, servants are skilled at keeping a home in working order and protecting the interests of their employers.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
+                    "blurb": "female young villager",
                     "items": {
                         "Cutlery": {
                             "name": "Cutlery"
@@ -3677,6 +3730,7 @@
                     "name": "Sparrow",
                     "tokenName": "Sparrow",
                     "publicNotes": "<p>These omnivorous birds are cunning and opportunistic scavengers. Capable of solving simple puzzles in order to retrieve desired items, ravens gather at the periphery of civilization, raiding it as needed when they are not hunting in the wilds. Whether singularly, in pairs, or as a flock, ravens live off scraps as often as they do carrion or prey. They are also unusually social among their own kind, even alerting other ravens to large carcasses with loud, croaking cries; it is rumored that this extends between flocks as well.</p><hr /><p>Few birds are as cunning and social as the raven.</p>",
+                    "blurb": "Raven",
                     "items": {
                         "Beak": {
                             "name": "Beak"
@@ -3720,6 +3774,7 @@
                 "Hu Ban-Niang": {
                     "name": "Hu Ban-Niang",
                     "tokenName": "Hu Ban-Niang",
+                    "blurb": "Female human guard captain",
                     "items": {
                         "Smoking Pipe": {
                             "name": "Smoking Pipe"
@@ -3770,6 +3825,7 @@
                     "name": "Hai-er Ha",
                     "tokenName": "Hai-er Ha",
                     "publicNotes": "<p>Guards are rank-and-file members of a town watch or city guard, trained to look for trouble, take down criminals, and follow orders. They are a match for only the most fledgling of adventurers and criminals, but, given time, the settlement can usually muster them in numbers sufficient to neutralize most threats.</p><hr /><p>Larger societies rely on those with the authority and the ability to interpret and enforce laws. In good-aligned societies, these officials carry out their duties fairly. In neutral and evil ones, these officials can be harsh and cruel (with an altered alignment to reflect this), imposing severe punishments on those who can't pay for mercy.</p>",
+                    "blurb": "female Guard",
                     "items": {
                         "Club": {
                             "name": "Club"
@@ -3794,6 +3850,7 @@
                 "Elizeth Candora": {
                     "name": "Elizeth Candora",
                     "tokenName": "Elizeth Candora",
+                    "blurb": "female cleric of Pharasma",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]</p>",
                     "items": {
                         "Crafting": {
@@ -3810,11 +3867,13 @@
                 "Heh Shan-Bao": {
                     "name": "Heh Shan-Bao",
                     "tokenName": "Heh Shan-Bao",
+                    "blurb": "male Tian-shu governor",
                     "privateNotes": "<p>appointed administrator of Willowshore; currently missing</p>"
                 },
                 "Igawa Jubei": {
                     "name": "Igawa Jubei",
                     "tokenName": "Igawa Jubei",
+                    "blurb": "female wizard",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]</p>",
                     "items": {
                         "Arcana": {
@@ -3828,6 +3887,7 @@
                 "Dr. Damihansig Mababangloob": {
                     "name": "Dr. Damihansig Mababangloob",
                     "tokenName": "Dami",
+                    "blurb": "male doctor",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]</p>",
                     "items": {
                         "Crafting": {
@@ -3842,6 +3902,7 @@
                     "name": "Sanmi Family Member",
                     "tokenName": "Samni Family Member",
                     "publicNotes": "<p>Though not every commoner is downtrodden, many live hard lives of toil as they work to keep their families fed and housed in relative comfort. While many commoners are just simple folks who keep to themselves, sometimes commoners rebel, either rising up to face their oppressors or persuaded or even duped into joining nefarious plans and criminal conspiracies. Commoners benefit from power in numbers, and a crowd of commoners can accomplish a great deal more than their rulers often expect.</p><hr /><p>Unfortunately, every society has people living on its fringes. While good communities work to grant aid and respite to their downtrodden, sometimes-due to economic downturn, famine, or war-the ranks of the less fortunate exceed the community's capacity to support them. In heartless neutral and evil societies, poverty is seen as an inevitability that can never be truly eradicated, or even worse, as a tool to be manipulated for political gain.</p>",
+                    "blurb": "Commoner",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -3875,6 +3936,7 @@
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
+            "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details",
             "unidentified": "system.identification.unidentified.name",
             "unidentified_desc": "system.identification.unidentified.data.description.value"

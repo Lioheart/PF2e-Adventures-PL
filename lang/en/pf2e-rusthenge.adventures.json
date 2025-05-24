@@ -920,6 +920,7 @@
                     "name": "Sydri",
                     "tokenName": "Sydri",
                     "publicNotes": "<p>Dero stalkers are those charged with exploring the surface world by night and seeking out new victims to abduct.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
+                    "blurb": "Female Dero Stalker",
                     "items": {
                         "Occult Innate Spells": {
                             "name": "Occult Innate Spells"
@@ -952,6 +953,7 @@
                     "name": "Rustsworn Cultist",
                     "tokenName": "Rustsworn Cultist",
                     "publicNotes": "<p>Excessively zealous, a cultist finds exalted purpose in their sect. Never questioning their leader, they devote themselves to achieving their most perfect spiritual form.</p><hr /><p>Those initiated into the hidden truths and forbidden secrets of the world are forever transformed-or so they claim. To the cynical, a mystic is nothing more than a charlatan or zealot. Others profess to sense an aura around such luminaries and treat them with reverence, lest they offend some harbinger of unspeakable doom.</p>",
+                    "blurb": "Cultist",
                     "items": {
                         "Dagger": {
                             "name": "Dagger"
@@ -990,6 +992,7 @@
                 "Rustsworn Initiate": {
                     "name": "Rustsworn Initiate",
                     "tokenName": "Rustsworn Initiate",
+                    "blurb": "Human cultist",
                     "items": {
                         "Dagger": {
                             "name": "Dagger"
@@ -1068,6 +1071,7 @@
                     "name": "Severed Head",
                     "tokenName": "Severed Head",
                     "publicNotes": "<p>The most common beheaded appears simply as a rotting head, barely preserved by the magic that created it.</p><hr /><p>Beheaded are the reanimated heads of decapitation victims. These mindless undead fly through the air or roll around to attack their prey.</p>",
+                    "blurb": "Variant severed head",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1090,6 +1094,7 @@
                     "name": "Azomi",
                     "tokenName": "Azomi",
                     "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p><hr /><p>Envyspawn tend to be shorter and thinner than other sinspawn.</p>",
+                    "blurb": "Male Envyspawn",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -1165,6 +1170,7 @@
                 "Elder Ordwi": {
                     "name": "Elder Ordwi",
                     "tokenName": "Elder Ordwi",
+                    "blurb": "Female human cleric of Cayden Cailean",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -1193,6 +1199,7 @@
                     "name": "Theiltemar",
                     "tokenName": "Theiltemar",
                     "publicNotes": "<p>Among the ranks of the dead, none are so numerous, nor so varied, as the skeleton. While most are almost entirely made from bone, some maintain a few scraps of flesh to aid them in movement, such as wing membranes.</p>",
+                    "blurb": "Male variant skeleton",
                     "items": {
                         "Divine Spontaneous Spells": {
                             "name": "Divine Spontaneous Spells"
@@ -1256,6 +1263,7 @@
                     "name": "Gurga",
                     "tokenName": "Gurga",
                     "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+                    "blurb": "Female Boggard Swampseer",
                     "items": {
                         "Primal Prepared Spells": {
                             "name": "Primal Prepared Spells"
@@ -1292,6 +1300,7 @@
                     "name": "Vlorian Cythnigot",
                     "tokenName": "Vlorian Cythnigot",
                     "publicNotes": "<p>The cythnigot is a foul fungal parasite that grows and thrives in the corpses of small creatures. It wears these bodies like a suit, but also adjusts and tailors the fleshy covering to suit its needs, and the body ends up looking as alien as anything else spawned from the Abyssal depths. The cythnigot's most identifying feature is the long stalk of fungal material that extends from creature's body, ending in a surprisingly strong set of fanged jaws.</p>",
+                    "blurb": "Variant cythnigot",
                     "languagesDetails": "telepathy (touch only)",
                     "items": {
                         "Occult Innate Spells": {
@@ -1339,6 +1348,7 @@
                     "name": "Starving Werebat",
                     "tokenName": "Werebat",
                     "publicNotes": "<p>Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate with elaborate social ceremonies and bloody hazing. The curse of the werebat gives them a strong urge to prey upon on weaker, lonely creatures. True werebats are often unusually tall and thin, with angular features. In combat, werebats favor their unarmed attacks because they can't fly while wielding weapons in their wings.</p><hr /><p>Werecreatures are humanoids who transform into animals and animal-humanoid hybrids under the light of the full moon. The fate of these shapechanging creatures derives from an ancient primal curse that they can, in turn, transmit through their own bites. The stat blocks in this section reflect werecreatures in their hybrid forms.</p>",
+                    "blurb": "Weak svirfneblin werebat",
                     "languagesDetails": "bat empathy",
                     "items": {
                         "Fangs": {
@@ -1393,11 +1403,13 @@
                 "Elder Vandous": {
                     "name": "Elder Vandous",
                     "tokenName": "Elder Vandous",
+                    "blurb": "male fisher",
                     "privateNotes": "<p>Is the oldest of the village elders, a record keeper and historian<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Elder Anlorgog": {
                     "name": "Elder Anlorgog",
                     "tokenName": "Elder Anlorgog",
+                    "blurb": "nonbinary ranger",
                     "privateNotes": "<p>Helps direct village fishing efforts<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Statue": {
@@ -1443,6 +1455,7 @@
                     "name": "Glutu",
                     "tokenName": "Glutu",
                     "publicNotes": "<p>The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+                    "blurb": "Male variant boggard swampseer",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -1475,6 +1488,7 @@
                     "name": "Rusted Animated Armor",
                     "tokenName": "Rusted Animated Armor",
                     "publicNotes": "<p>Suits of animated armor see use both as guardians and as training partners in high-end martial academies able to afford the extravagance. They are most often found in wizard laboratories and ancient dungeons.</p><hr /><p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>",
+                    "blurb": "Animated Armor",
                     "items": {
                         "Glaive": {
                             "name": "Glaive"
@@ -1499,6 +1513,7 @@
                 "Meitremar": {
                     "name": "Meitremar",
                     "tokenName": "Meitremar",
+                    "blurb": "Male human cultist of Xar-Azmak",
                     "items": {
                         "Divine Spontaneous Spells": {
                             "name": "Divine Spontaneous Spells"
@@ -1561,6 +1576,7 @@
                     "name": "Gorumite Acolyte",
                     "tokenName": "Gorumite Acolyte",
                     "publicNotes": "<p>Underling clerics are still learning the tenets of their faith and answer to a superior priest. Their days are spent in devotion and learning, sequestered in temples.</p><hr /><p>Religions inspire devout individuals to uphold their tenets. Many of these devotees seek to bring respite and hope, but others have darker motives.</p>",
+                    "blurb": "Variant Acolyte of Nethys",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -1659,6 +1675,7 @@
                 "Trygve": {
                     "name": "Trygve",
                     "tokenName": "Trygve",
+                    "blurb": "Human smith",
                     "items": {
                         "Key": {
                             "name": "Key"
@@ -1701,6 +1718,7 @@
                     "name": "Droxur",
                     "tokenName": "Droxur",
                     "publicNotes": "<p>Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as such. An abrikandilu forms from the souls mortals who were vandals, misanthropes, or defacers of artwork, particularly if their destructive actions stemmed from feelings of powerful envy.</p><p>An abrikandilu loathes only one thing more than beauty: their own visage. The mere sight of their face-reflected in a mirror, a shield, or even a pool of water- can send a wrecker demon into a rage. Many demon slayers leverage tactic to their advantage, venturing into battle with polished steel shields and cold iron blades at the ready.</p><hr /><p>Mortal souls that have been twisted and corrupted by sin sometimes arise in the afterlife as demons. These powerful and destructive fiends seek to spread their particular sin to warp more souls, thereby bolstering their numbers and continuing the cycle.</p>",
+                    "blurb": "Male Abrikandilu",
                     "languagesDetails": "telepathy 100 feet",
                     "items": {
                         "Divine Innate Spells": {
@@ -1732,6 +1750,7 @@
                 "Elder Johedia": {
                     "name": "Elder Johedia",
                     "tokenName": "Elder Johedia",
+                    "blurb": "female oracle",
                     "privateNotes": "<p>Serves as the primary healer of Osprey Cove<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Reefclaw": {
@@ -1822,6 +1841,7 @@
                 "Fallen Acolyte": {
                     "name": "Fallen Acolyte",
                     "tokenName": "Fallen Acolyte",
+                    "blurb": "Human ex-clerics",
                     "items": {
                         "Sickle": {
                             "name": "Sickle"
@@ -1835,6 +1855,7 @@
                     "name": "Clockwork Serpent Spy",
                     "tokenName": "Clockwork Serpent Spy",
                     "publicNotes": "<p>Engineers, technologists, and mechanically gifted wizards employ clockwork spies-tiny, spiderlike constructs capable of recording and playing back audio-to surreptitiously surveil their enemies or steal secrets from competitors. Their spindly bodies and delicate components make them unsuitable for combat; in fact, most builders construct clockwork spies with a self-destruct mechanism to ensure the spies' meddling can't be traced back to them.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
+                    "blurb": "Variant clockwork spy",
                     "items": {
                         "Sharpened Gear": {
                             "name": "Sharpened Gear"
@@ -1865,6 +1886,7 @@
                     "name": "Zaiox",
                     "tokenName": "Zaiox",
                     "publicNotes": "<p>Dero magisters are leaders among dero society. They perform the bulk of the cruel operations and memory-altering procedures inflicted upon their victims.</p><hr /><p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>",
+                    "blurb": "Variant male dero magister",
                     "items": {
                         "Occult Spontaneous Spells": {
                             "name": "Occult Spontaneous Spells"
@@ -1956,6 +1978,7 @@
                     "name": "Janis",
                     "tokenName": "Janis",
                     "publicNotes": "<p>A navigator uses celestial bodies and shipping lanes to determine routes. For noncombat tasks involving navigation or sailing, the navigator is a 4th-level challenge.</p><hr /><p>Adventurers may need passage on a swift vessel, or they might face danger from raiders at sea or in coastal settlements.</p>",
+                    "blurb": "Navigator",
                     "items": {
                         "Scroll Case with Ship's Charts": {
                             "name": "Scroll Case with Ship's Charts"
@@ -1999,6 +2022,7 @@
                     "name": "Gnork",
                     "tokenName": "Gnork",
                     "publicNotes": "<p>Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.</p><hr /><p>Boggards are aggressive humanoid amphibians that thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develops arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare-everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+                    "blurb": "Boggard Warrior",
                     "items": {
                         "Club": {
                             "name": "Club"
@@ -2056,12 +2080,14 @@
                 "Elder Bo-Mel": {
                     "name": "Elder Bo-Mel",
                     "tokenName": "Elder Bo-Mel",
+                    "blurb": "female farmer",
                     "privateNotes": "<p>Helps direct village farming and construction efforts<br />@UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02optionalstar00#osprey-covesettlement-2]</p>"
                 },
                 "Clockwork Belimarius": {
                     "name": "Clockwork Belimarius",
                     "tokenName": "Clockwork Belimarius",
                     "publicNotes": "<p>A clockwork mage is a lethal blend of magic and machinery. Each of these clockworks is imbued with an arcane stone at its core that powers spells through the wand embedded in its chest.</p><hr /><p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p><p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>",
+                    "blurb": "Variant clockwork mage",
                     "items": {
                         "Arcane Innate Spells": {
                             "name": "Arcane Innate Spells"
@@ -2091,6 +2117,7 @@
                     "name": "Ida",
                     "tokenName": "Ida",
                     "publicNotes": "<p>These hardy mountain dwellers surpass their lowlander cousins in stubbornness and agility. Rosethorn rams sport distinctive, twisted horns that measure up to 4 feet in length and bear thorny growths, which they use to damage enemies in combat and strip the bark from trees during harsh winters when other food is scarce.</p><p>Though hardly a domesticated species, rosethorn rams' shaggy outer coats cover fine hair that makes a yarn prized for both its softness and rarity. Their milk also provides nourishment during severe seasons.</p><hr /><p>Rams are sturdy, stubborn herd animals suited to rugged terrain and cold weather. Regardless of their territory, all share a stubborn nature and surefootedness, navigating uncertain terrain with ease and weathering all seasons in scattered herds.</p>",
+                    "blurb": "Rosethorn Ram",
                     "items": {
                         "Hoof": {
                             "name": "Hoof"
@@ -2179,6 +2206,7 @@
                     "name": "Deck Hand",
                     "tokenName": "Deck Hand",
                     "publicNotes": "<p>Working to load and unload cargo from ships, dockhands are considered unruly, but many stay focused and work hard until the job is done. Some do celebrate the end of their work day with rowdy drinking.</p><hr /><p>Every day, laborers perform backbreaking physical work.</p>",
+                    "blurb": "Dockhand",
                     "items": {
                         "Empty Bottle": {
                             "name": "Empty Bottle"
@@ -2285,6 +2313,7 @@
                     "name": "Larva",
                     "tokenName": "Larva",
                     "publicNotes": "<p>When a mortal dies, their soul travels to the Boneyard in the Outer Planes where they are judged by Pharasma, the goddess of the dead. Once they have been judged, their soul is sent on to their final reward or punishment in the afterlife, and in the process is transformed into a creature known as a petitioner. This process grants the soul a new body, one whose shape is the result of the prevailing philosophical forces of the plane to which it is sent. The petitioner's memories from their life are typically wiped nearly clean, allowing them to retain only a few hazy fragments akin to half-remembered dreams. Regardless of the petitioner's size, power, or nature in life, they're a Medium creature in their afterlife.</p><p>Existence as a petitioner can last for eons, but this state is not necessarily eternal. Deities, powerful denizens of the Great Beyond, or even the outer planes themselves can further change the petitioner's nature by transforming them into raw quintessence, spiritual essence that is then used to expand a plane's physical manifestation, or by transforming the petitioner into a new form of supernatural life such as a celestial, monitor, or fiend. Should a petitioner die, their body breaks down in a process akin to decay, their nature reverting back to the quintessence or elements that make up their plane. This represents the true end of a soul's journey: their associated life essence travels back to the heart of the Great Beyond to be recycled into the Positive Energy plane, fueling the creation of entirely new souls.</p><p>The larvae appear as maggot-like grubs with the face the petitioners had in life.</p>",
+                    "blurb": "CE Abyssal Petitioner",
                     "items": {
                         "Jaws": {
                             "name": "Jaws"
@@ -2313,6 +2342,7 @@
                 "Ordwi": {
                     "name": "Ordwi",
                     "tokenName": "Ordwi",
+                    "blurb": "Female human cleric of Cayden Cailean",
                     "items": {
                         "Divine Prepared Spells": {
                             "name": "Divine Prepared Spells"
@@ -2337,6 +2367,7 @@
                     "name": "Deadly Fungus Leshy",
                     "tokenName": "Deadly Fungus Leshy",
                     "publicNotes": "<p>Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works.</p><hr /><p>Leshys are intelligent plant creatures that guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic-typically a druid-combines a nature spirit with a body carefully grown from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>",
+                    "blurb": "Fungus Leshy",
                     "languagesDetails": "speak with plants (fungi only)",
                     "items": {
                         "Primal Innate Spells": {
@@ -2369,6 +2400,7 @@
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
+            "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details",
             "unidentified": "system.identification.unidentified.name",
             "unidentified_desc": "system.identification.unidentified.data.description.value"
