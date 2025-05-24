@@ -1083,7 +1083,14 @@
                 },
                 "Trunk": {
                     "name": "Trunk",
-                    "tokenName": "Trunk"
+                    "tokenName": "Trunk",
+                    "items": {
+                        "Battle Axe": {
+                            "name": "Battle Axe",
+                            "description": "<p>Bane: Fiend</p><hr /><p>These axes are designed explicitly as weapons, rather than tools. They typically weigh less, with a shaft reinforced with metal bands or bolts, and have a sharper blade, making them ideal for chopping limbs rather than wood.</p>",
+                            "gmNote": "<p>Until Xin Yue is defeated in Kugaptee’s grave below, this weapon bears an unsettling quirk—each time it’s drawn, unsettling urges to bury the axe in the skull of a friend invade the user’s mind, causing the user to become frightened 1 unless they succeed at a DC 20 Will save (this quirk has the emotion, fear, and mental traits and vanishes as soon as Xin Yue is defeated).</p>"
+                        }
+                    }
                 },
                 "Skull": {
                     "name": "Skull",
@@ -1091,7 +1098,8 @@
                     "items": {
                         "Yen Rui’s Notes": {
                             "name": "Yen Rui’s Notes",
-                            "description": "<p>The open book under the skull contains Yen Rui’s notes.</p>"
+                            "description": "<p>The open book under the skull contains Yen Rui’s notes.</p>",
+                            "gmNote": "<p>The open book under the skull contains Yen Rui’s notes, giving the PCs access to the @UUID[JournalEntry.pf2ap19704inther.JournalEntryPage.04e11hiddenlib00] if, instead of speaking to her, they decide to destroy the poltergeists.</p>"
                         }
                     }
                 },
@@ -1633,7 +1641,14 @@
                 },
                 "Shrine": {
                     "name": "Shrine",
-                    "tokenName": "Shrine"
+                    "tokenName": "Shrine",
+                    "items": {
+                        "Thurible of Revelation (Lesser)": {
+                            "name": "Thurible of Revelation (Lesser)",
+                            "description": "<p>This thurible of revelation decorated with images of sugi trees.</p><hr /><p>This brass censer dangles on a length of chain. Most <em>thuribles of revelation</em> are adorned with swirling Celestial text, though some are iron and feature Infernal or Abyssal text.</p><p><strong>Activate</strong> <span class=\"action-glyph\">D</span> Interact</p><p><strong>Cost</strong> incense worth at least 5 gp</p><hr /><p><strong>Effect</strong> You light the incense inside the censer, and it burns for 1 hour. During that time, as long you are holding the thurible, you gain a +1 item bonus to Religion checks, and any critical failure you roll when you Decipher Writing of a religious nature is a failure instead.</p><p>@UUID[Compendium.pf2e.equipment-effects.Item.lO95TwgihBdTilAB]</p>",
+                            "gmNote": "<p>Iogaka has filled the thurible with mud and dead fish, so it must be cleaned out before it can be used.</p>"
+                        }
+                    }
                 },
                 "Enko": {
                     "name": "Enko",
@@ -2521,6 +2536,7 @@
             "privateNotes": "system.details.privateNotes",
             "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details",
+            "gmNote": "system.description.gm",
             "unidentified": "system.identification.unidentified.name",
             "unidentified_desc": "system.identification.unidentified.data.description.value"
         },

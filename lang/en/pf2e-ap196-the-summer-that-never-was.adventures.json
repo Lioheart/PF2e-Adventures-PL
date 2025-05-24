@@ -1727,7 +1727,8 @@
                     "items": {
                         "Love Letters": {
                             "name": "Love Letters",
-                            "description": "<p>Reading the letters reveals a secret and blossoming relationship between the youngest generation of the Sanmi and Hu families, Yuli Sanmi and Hu Lelong.</p>"
+                            "description": "<p>Reading the letters reveals a secret and blossoming relationship between the youngest generation of the Sanmi and Hu families, Yuli Sanmi and Hu Lelong.</p>",
+                            "gmNote": "<p>Once the PCs discover these notes, allow them to attempt a @Check[willowshore-lore|dc:10|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check or @Check[society|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check to Recall Knowledge that the highly traditional Sanmi family wouldn’t approve of this relationship. These notes might prove useful in resolving the situation in area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03mudwallhouse00].</p>"
                         }
                     }
                 },
@@ -2570,7 +2571,8 @@
                     "items": {
                         "Zoudou's Tattered Leather-bound Ledger": {
                             "name": "Zoudou's Tattered Leather-bound Ledger",
-                            "description": "<p>The tattered leather-bound ledger that Zoudou carries was once used by the lumber camp boss to track profits and expenditures, but only the first quarter of the pages contain these mundane annotations. The rest of the journal is filled with Zoudou’s dense notes and theories about the nature of Kugaptee, the Wall of Ghosts, and the “paradise” she has come to believe lies beyond the wall. These notes are all written in a mix of Abyssal and Aklo, so a character must be able to read both languages to study the contents. A character who can read both Abyssal and Aklo can use the journal to learn the <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Consecrate}</em> ritual.</p>"
+                            "description": "<p>The tattered leather-bound ledger that Zoudou carries was once used by the lumber camp boss to track profits and expenditures, but only the first quarter of the pages contain these mundane annotations. The rest of the journal is filled with Zoudou’s dense notes and theories about the nature of Kugaptee, the Wall of Ghosts, and the “paradise” she has come to believe lies beyond the wall. These notes are all written in a mix of Abyssal and Aklo, so a character must be able to read both languages to study the contents. A character who can read both Abyssal and Aklo can use the journal to learn the <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Consecrate}</em> ritual.</p>",
+                            "gmNote": "<p>An even greater use for the information is explored in the next adventure, where clues within Zoudou’s notes can help the PCs open a doorway through the Wall of Ghosts.</p>"
                         }
                     }
                 },
@@ -3068,7 +3070,8 @@
                             "name": "Silver Scepter set with Semi-precious Stones"
                         },
                         "Ancient Copper Coins": {
-                            "name": "Ancient Copper Coins"
+                            "name": "Ancient Copper Coins",
+                            "gmNote": "<p>A character who succeeds at a @Check[willowshore-lore|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check to Recall Knowledge correctly identifies these three coins as those that, for so long, kept the Eternal Lantern lit. These three coins no longer bear blessings and are worth precisely that—3 cp.</p>"
                         }
                     }
                 },
@@ -3078,7 +3081,8 @@
                     "items": {
                         "Financial Paperwork": {
                             "name": "Financial Paperwork",
-                            "description": "<p>Paperwork that lays bare the fact that the teahouse’s financial troubles began long before Lung Wa collapsed. The papers also include a document titled “The Last Will and Testament of Qing Mai-Lai”.</p>"
+                            "description": "<p>Paperwork that lays bare the fact that the teahouse’s financial troubles began long before Lung Wa collapsed. The papers also include a document titled “The Last Will and Testament of Qing Mai-Lai”.</p>",
+                            "gmNote": "<p>the PCs know Mai-Lai was the last proprietor of the Cerulean Teahouse. This document is key to the PCs legitimizing their claim over the teahouse if they want to run it as a business. See @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04opportunitie00#the-teahouse-owners-will] for more information.</p>"
                         }
                     }
                 },
@@ -3569,7 +3573,8 @@
                     "items": {
                         "Recognizable Necklace": {
                             "name": "Recognizable Necklace",
-                            "description": "<p>A familiar necklace.</p>"
+                            "description": "<p>A familiar necklace.</p>",
+                            "gmNote": "<p>Among the stolen jewelry, one of the PCs discovers a recognizable necklace that belongs to their family, and they can reclaim it. This necklace is worth 10 gp, but the jinkins cursed it before they got too drunk to remember how to Tinker. As long as the necklace is worn or carried, it makes a person stink of rotting garlic, imparting a –1 item penalty to Diplomacy and Stealth checks.</p>"
                         },
                         "Stolen Jewelry": {
                             "name": "Stolen Jewelry",
@@ -3938,6 +3943,7 @@
             "privateNotes": "system.details.privateNotes",
             "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details",
+            "gmNote": "system.description.gm",
             "unidentified": "system.identification.unidentified.name",
             "unidentified_desc": "system.identification.unidentified.data.description.value"
         },
