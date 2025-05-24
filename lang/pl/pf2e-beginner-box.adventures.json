@@ -1415,7 +1415,6 @@
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
-            "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details"
         },
         "gmNote": "system.description.gm"
