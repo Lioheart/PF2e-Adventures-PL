@@ -2034,7 +2034,7 @@
                     "name": "Uwięziony wieśniak",
                     "tokenName": "Uwięziony wieśniak",
                     "publicNotes": "<p>Choć nie każdy plebejusz jest uciskany, wielu z nich wiedzie ciężkie życie, pracując, by utrzymać swoje rodziny we względnym komforcie. Podczas gdy większość pospólstwa to zwykli ludzie, którzy trzymają się na uboczu, czasami buntują się oni, powstając, by stawić czoła swoim ciemiężycielom lub przekonani, a nawet oszukani, by dołączyć do nikczemnych planów i spisków przestępczych. Zwykli ludzie czerpią korzyści z siły liczebnej, a tłum zwykłych ludzi może osiągnąć znacznie więcej, niż ich władcy często się spodziewają.</p>\n<hr />\n<p>Niestety, każde społeczeństwo ma ludzi żyjących na jego obrzeżach. Podczas gdy dobre społeczności starają się zapewnić wsparcie i wytchnienie swoim uciśnionym, czasami - z powodu spowolnienia gospodarczego, głodu lub wojny - szeregi mniej szczęśliwych przekraczają zdolność społeczności do ich wspierania. W bezdusznych, neutralnych i złych społeczeństwach ubóstwo jest postrzegane jako nieuchronność, której nigdy nie da się naprawdę wyeliminować, a co gorsza, jako narzędzie, którym można manipulować w celu osiągnięcia korzyści politycznych.</p>",
-                    "blurb": "Zwykły obywatel",
+                    "blurb": "Plebejusz",
                     "items": {
                         "Sickle": {
                             "name": "Sierp"
