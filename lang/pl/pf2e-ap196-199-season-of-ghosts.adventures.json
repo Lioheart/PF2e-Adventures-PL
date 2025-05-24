@@ -3,6 +3,7 @@
     "entries": {
         "Season of Ghosts - Player's Guide": {
             "name": "Season of Ghosts - Przewodnik gracza",
+            "description": "Zawiera przewodnik gracza i wspólne zależności dla modułów ścieżki przygody Season of Ghosts.",
             "folders": {
                 "Season of Ghosts": "Season of Ghosts",
                 "Player's Guide": "Przewodnik gracza"
@@ -261,14 +262,14 @@
                 "Willowshore Hinterlands (Player's Guide)": {
                     "name": "Okoliczne tereny Willowshore (Przewodnik gracza)"
                 }
-            },
-            "description": "Zawiera przewodnik gracza i wspólne zależności dla modułów ścieżki przygody Season of Ghosts."
+            }
         }
     },
     "mapping": {
         "actors": {
             "publicNotes": "system.details.publicNotes",
             "privateNotes": "system.details.privateNotes",
+            "blurb": "system.details.blurb",
             "languagesDetails": "system.details.languages.details"
         }
     }
