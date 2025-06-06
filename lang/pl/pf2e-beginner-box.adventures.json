@@ -710,7 +710,7 @@
             "items": {
                 "Elemental Aid": {
                     "name": "Wsparcie żywiołów",
-                    "description": "<p>To błogosławieństwo zapewnia specjalną zdolność, której bohater może użyć raz w ciągu następnych 24 godzin. Po użyciu to błogosławieństwo wygasa.</p><p>Poświęcając jedną akcję na wezwanie wiatru, bohater może latać w ramach swojej następnej akcji, poruszając się na odległość do 40 stóp. Muszą zakończyć ruch na twardym gruncie - jeśli tego nie zrobią, spadną i otrzymają obrażenia od uderzenia równe połowie odległości, na jaką spadli.</p>"
+                    "description": "<p>To błogosławieństwo zapewnia specjalną zdolność, której bohater może użyć raz w ciągu następnych 24 godzin. Po użyciu to błogosławieństwo wygasa.</p><p>Poświęcając jedną akcję na wezwanie wiatru, bohater może latać w ramach swojej następnej akcji, poruszając się na odległość do 40 stóp. Muszą zakończyć ruch na twardym gruncie - jeśli tego nie zrobią, spadną i otrzymają obrażenia od uderzenia równe połowie odległości, na jaką spadli.</p>\n<p>Jeśli bohater poświęci akcję na wezwanie ziemi, wszystkie jego ataki w zwarciu zadadzą 2 dodatkowe obrażenia wynikające z nagłego przypływu siły. Premia ta działa do początku następnej tury bohatera.</p>"
                 },
                 "Ocean's Might": {
                     "name": "Potęga Oceanu"
