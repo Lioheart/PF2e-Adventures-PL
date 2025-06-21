@@ -45,11 +45,11 @@
                     "pages": {
                         "Landing": {
                             "name": "Landing",
-                            "text": "<section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/PZO90196 great willow-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Change Landing Pages</span><span class=\"keepme\">Macro</span></h2> <span class=\"link\">@UUID[Macro.sORPzLerYztDERI6]</span> </div> <p><strong>You can change the Scene Background with this Macro.</strong></p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Warty 3-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">MODULE SUPPORT</span><span class=\"keepme\">Contact</span></h2> <span class=\"link\"><a href=\"https://support.metamorphic-digital.com/\">https://support.metamorphic-digital.com/</a></span> </div> <p> <strong >To report bugs or other issues with this product, please fill out a support request with our service desk.</strong > </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.0)\" src=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/CombinedToken.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Token Border</span><span class=\"keepme\">Asset</span></h2> <span class=\"link\" ><a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBorder.webp\">Blank Token Border</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenMist.webp\">Token Mist</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBackground.webp\">Token Background</a></span > </div> <p> <strong >The blank token border used in the module is included to enable you to make your own tokens in the same style.</strong > </p> </section>"
+                            "text": "<section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/PZO90196 great willow-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Change Landing Pages</span><span class=\"keepme\">Macro</span></h2> <span class=\"link\">@UUID[Macro.sORPzLerYztDERI6]</span> </div> <p><strong>You can change the Scene Background with this Macro.</strong></p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Warty 3-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">MODULE SUPPORT</span><span class=\"keepme\">Contact</span></h2> <span class=\"link\"><a href=\"https://support.metamorphic-digital.com/\">https://support.metamorphic-digital.com/</a></span> </div> <p> <strong >To report bugs or other issues with this product, please fill out a support request with our service desk.</strong > </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/CombinedToken.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Token Border</span><span class=\"keepme\">Asset</span></h2> <span class=\"link\" ><a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBorder.webp\">Blank Token Border</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenMist.webp\">Token Mist</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBackground.webp\">Token Background</a></span > </div> <p> <strong >The blank token border used in the module is included to enable you to make your own tokens in the same style.</strong > </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/tokens/Phantom%20Raven.webp\" alt=\"\" /> <h2 class=\"split no-toc\"> <span class=\"keepme\">Roof Control</span> <span class=\"keepme\">Macro</span> </h2> <span class=\"link\">@UUID[Macro.tn4nPBGWExCuFBMr]</span> </div> <p>You can toggle between different display modes for Overhead Roofs with this macro.</p> </section>"
                         },
                         "Changelog": {
                             "name": "Changelog",
-                            "text": "<h1><a href=\"https://support.metamorphic-digital.com/changelog/pf2e-ap196-the-summer-that-never-was\">The Summer That Never Was</a></h1> <h2>12.0.0 v12 Release</h2> <ul> <li>Updated to v12 compatibility</li> <li>added teleport regions</li> <li>adjusted ambient sounds</li> <li>updated roof tiles</li> <li>improved some macros</li> </ul> <h2>1.3.0</h2> <ul> <li>minor code update in preparation for the v12 update.</li> <li>add complete Lumber camp map</li> <li>fix damage roll in Private Banquet Hall journal</li> </ul> <h2>1.2.1</h2> <ul> <li>Actually added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.2.0</h2> <ul> <li>Added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.1.0</h2> <ul> <li>Added missing Art</li> </ul> <h2>1.0.0 Initial Release</h2> <ul> <li><strong>14</strong> completely remade, highly detailed, and immersive adventure maps with support for Foundry Virtual Tabletop's Overhead Tiles and Foreground Layer features, re-created by Sigil Entertainment using assets from Forgotten Adventures.</li> <li>Journal Entries for the entire contents of the book with additional encounter notes and Foundry VTT tips.</li> <li>Scenes pre-configured with walls, lights, sound, tokens, and hazards already placed to provide GMs the most convenient experience running the adventure.</li> <li>Soundscapes from the great Michael Ghelfi and Sigil Services, provided as ambient playlists and local sound sources to immerse your players.</li> <li>High-resolution character artwork and tokens for the unique horrors and NPCs in this AP</li> <li>High-resolution, upscaled versions of the original maps.</li> <li><strong>6</strong> Macros created to help run your adventure.</li> </ul>"
+                            "text": "<h1><a href=\"https://support.metamorphic-digital.com/changelog/pf2e-ap196-the-summer-that-never-was\">The Summer That Never Was</a></h1> <h2>13.0.1</h2> <ul> <li>fix a typo in the Text for B11</li> </ul> <h2>13.0.0</h2> <ul> <li>Updated to v13 compatibility</li> </ul> <h2>12.0.0 v12 Release</h2> <ul> <li>Updated to v12 compatibility</li> <li>added teleport regions</li> <li>adjusted ambient sounds</li> <li>updated roof tiles</li> <li>improved some macros</li> </ul> <h2>1.3.0</h2> <ul> <li>minor code update in preparation for the v12 update.</li> <li>add complete Lumber camp map</li> <li>fix damage roll in Private Banquet Hall journal</li> </ul> <h2>1.2.1</h2> <ul> <li>Actually added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.2.0</h2> <ul> <li>Added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.1.0</h2> <ul> <li>Added missing Art</li> </ul> <h2>1.0.0 Initial Release</h2> <ul> <li><strong>14</strong> completely remade, highly detailed, and immersive adventure maps with support for Foundry Virtual Tabletop's Overhead Tiles and Foreground Layer features, re-created by Sigil Entertainment using assets from Forgotten Adventures.</li> <li>Journal Entries for the entire contents of the book with additional encounter notes and Foundry VTT tips.</li> <li>Scenes pre-configured with walls, lights, sound, tokens, and hazards already placed to provide GMs the most convenient experience running the adventure.</li> <li>Soundscapes from the great Michael Ghelfi and Sigil Services, provided as ambient playlists and local sound sources to immerse your players.</li> <li>High-resolution character artwork and tokens for the unique horrors and NPCs in this AP</li> <li>High-resolution, upscaled versions of the original maps.</li> <li><strong>6</strong> Macros created to help run your adventure.</li> </ul>"
                         },
                         "The Summer That Never Was": {
                             "name": "The Summer That Never Was",
@@ -247,7 +247,7 @@
                         },
                         "Mudwall House": {
                             "name": "Mudwall House",
-                            "text": "<h2 class=\"no-toc\" data-split-here=\"B11. Mudwall HouseModerate 1\">B11. Mudwall House</h2> <p class=\"read-aloud\"> This house has a double-layered mud wall that regulates heat, cold, and sound—though it isn’t up to the task of dampening the rabble of high-pitched voices within. </p> <p> <strong>Creatures:</strong> Once home to the widowed Nadoya Sanmi, this house is now infested with gremlins. A group of six jinkins forced Nadoya and most of the Sanmi family to live in the backyard storage room (area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03backyardstor00]) while designating <strong>Yuli Sanmi</strong> (female NG human young villager) and <strong>Hu Lelong</strong> (male N human young villager) to be their personal attendants. The two secret lovers hatched a plan shortly before the PCs arrive to fight back against their captors, and now the jinkins here are quite drunk on the rice wine they’ve been plied with. Yuli and Lelong’s hopes that the gremlins would pass out and allow them the chance to escape (or rather, elope) are diminishing, for the gremlins only grow rowdier as they get drunker. Two jinkins in particular are playing a game of catch with a collection of stolen jewelry (more accurately, a game of “toss, drop, and then scramble to pick back up”). </p> <p> As the PCs enter, they find the jinkins making a mess of the place while Yuli and Lelong cower in a corner. The drunken jinkins mistake the PCs for oni when they arrive and immediately begin to vie for the attention of the party, crying out, “Ooh! The oni are here!” and then doing their best to up their destructive antics, crying out “Look at me!” or “Watch this!” </p> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Very%20Drunken%20Jinkin-MINI.webp\"> <h2 class=\"split no-toc\"><span class=\"keepme\">Mudwall House</span> <span class=\"keepme\">Moderate 1</span></h2> <span class=\"link\">@UUID[Actor.ZrHYgJN0ijzQoW1V] @UUID[Actor.uLcqqnOOU4X0JLBB] @UUID[Actor.XJVuYSIQ9uEGGefh]</span> </div> <p> The jinkins all have the weak creature adjustments as a result of their drunkenness. A character who succeeds at a @Check[intimidation|dc:17] check compels all six jinkins to flee the house. Otherwise, the only way to get the jinkins to stop wrecking the place is to either wait for them to pass out (which will take long enough for one of them to light the place on fire, thereby destroying the interior completely) or to attack them. Once a fight starts, the drunk jinkins howl in delight and, foolishly, fight to the death. </p> </section> <p> <strong>Star-Crossed Lovers:</strong> If the drunken jinkins are defeated, Lelong asks if the PCs would let him take one of the necklaces the gremlins were playing with. If the PCs inquires why, he clumsily lies, claiming that he wants to let his uncle (guard captain Zheng Peng) or Granny Hu sort out who the rightful owner is. The PCs can press the truth of out him with a successful @Check[diplomacy|dc:13] or @Check[intimidation|dc:13] check: he wants funds to support an elopement for himself and his lover. He refuses to reveal Yuli is the lover, though the PCs might already know from the letters in area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00] (as will anyone who succeeds at a @Check[perception|dc:13|traits:concentrate,secret,action:sense-motive|name:Sense Motive] check to Sense Motive with either Lelong or Yuli). </p> <p> This secret romance also explains why Lelong is downtown rather than at the rading Post: he was secretly visiting when monsters attacked, trapping him here. Regardless of whether they receive the funds, Yuli and Lelong are steadfast about running away, hoping their families will think they died during the monster invasion. Whether the PCs stop or allow the young couple to elope is up to them, but if they’re allowed to run away, the PCs can encounter them later at the Hunter’s Hut in the hinterlands (area @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04huntershut0000]). Yuli remembers to retrieve the letters from area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00] or asks the PCs to return the correspondences to them before they leave. </p> <p> <strong>Treasure:</strong> @UUID[Actor.qhTq5VAuRR17q3jI]<br> Among the stolen jewelry, one of the PCs discovers a recognizable necklace that belongs to their family, and they can reclaim it. This necklace is worth 10 gp, but the jinkins cursed it before they got too drunk to remember how to Tinker. As long as the necklace is worn or carried, it makes a person stink of rotting garlic, imparting a –1 item penalty to Diplomacy and Stealth checks. </p> <p> The rest of the stolen jewelry is worth a total of 75 gp, but these two dozen pieces belong to various citizens of Willowshore. </p> <p> <strong>Reward:</strong> Grant the PCs XP for defeating the jinkins or chasing them off normally, to a maximum total of 80 XP to account for the lesser threat they posed. If the PCs take steps to return the stolen jewelry, they gain 1 Reputation Point with Northridge. If the PCs actively encouraged or even aided the young couple in their elopement, they lose 1 Reputation Point with Southbank, and Nadoya’s attitude automatically becomes unfriendly at the start of Chapter 3 as she finds out about the relationship. </p>"
+                            "text": "<h2 class=\"no-toc\" data-split-here=\"B11. Mudwall HouseModerate 1\">B11. Mudwall House</h2> <p class=\"read-aloud\"> This house has a double-layered mud wall that regulates heat, cold, and sound—though it isn’t up to the task of dampening the rabble of high-pitched voices within. </p> <p> <strong>Creatures:</strong> Once home to the widowed Nadoya Sanmi, this house is now infested with gremlins. A group of six jinkins forced Nadoya and most of the Sanmi family to live in the backyard storage room (area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03backyardstor00]) while designating <strong>Yuli Sanmi</strong> (female NG human young villager) and <strong>Hu Lelong</strong> (male N human young villager) to be their personal attendants. The two secret lovers hatched a plan shortly before the PCs arrive to fight back against their captors, and now the jinkins here are quite drunk on the rice wine they’ve been plied with. Yuli and Lelong’s hopes that the gremlins would pass out and allow them the chance to escape (or rather, elope) are diminishing, for the gremlins only grow rowdier as they get drunker. Two jinkins in particular are playing a game of catch with a collection of stolen jewelry (more accurately, a game of “toss, drop, and then scramble to pick back up”). </p> <p> As the PCs enter, they find the jinkins making a mess of the place while Yuli and Lelong cower in a corner. The drunken jinkins mistake the PCs for oni when they arrive and immediately begin to vie for the attention of the party, crying out, “Ooh! The oni are here!” and then doing their best to up their destructive antics, crying out “Look at me!” or “Watch this!” </p> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Very%20Drunken%20Jinkin-MINI.webp\"> <h2 class=\"split no-toc\"><span class=\"keepme\">Mudwall House</span> <span class=\"keepme\">Moderate 1</span></h2> <span class=\"link\">@UUID[Actor.ZrHYgJN0ijzQoW1V] @UUID[Actor.uLcqqnOOU4X0JLBB] @UUID[Actor.XJVuYSIQ9uEGGefh]</span> </div> <p> The jinkins all have the weak creature adjustments as a result of their drunkenness. A character who succeeds at a @Check[intimidation|dc:17] check compels all six jinkins to flee the house. Otherwise, the only way to get the jinkins to stop wrecking the place is to either wait for them to pass out (which will take long enough for one of them to light the place on fire, thereby destroying the interior completely) or to attack them. Once a fight starts, the drunk jinkins howl in delight and, foolishly, fight to the death. </p> </section> <p> <strong>Star-Crossed Lovers:</strong> If the drunken jinkins are defeated, Lelong asks if the PCs would let him take one of the necklaces the gremlins were playing with. If the PCs inquires why, he clumsily lies, claiming that he wants to let his uncle (guard captain Zheng Peng) or Granny Hu sort out who the rightful owner is. The PCs can press the truth of out him with a successful @Check[diplomacy|dc:13] or @Check[intimidation|dc:13] check: he wants funds to support an elopement for himself and his lover. He refuses to reveal Yuli is the lover, though the PCs might already know from the letters in area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00] (as will anyone who succeeds at a @Check[perception|dc:13|traits:concentrate,secret,action:sense-motive|name:Sense Motive] check to Sense Motive with either Lelong or Yuli). </p> <p> This secret romance also explains why Lelong is downtown rather than at the Trading Post: he was secretly visiting when monsters attacked, trapping him here. Regardless of whether they receive the funds, Yuli and Lelong are steadfast about running away, hoping their families will think they died during the monster invasion. Whether the PCs stop or allow the young couple to elope is up to them, but if they’re allowed to run away, the PCs can encounter them later at the Hunter’s Hut in the hinterlands (area @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04huntershut0000]). Yuli remembers to retrieve the letters from area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00] or asks the PCs to return the correspondences to them before they leave. </p> <p> <strong>Treasure:</strong> @UUID[Actor.qhTq5VAuRR17q3jI]<br> Among the stolen jewelry, one of the PCs discovers a recognizable necklace that belongs to their family, and they can reclaim it. This necklace is worth 10 gp, but the jinkins cursed it before they got too drunk to remember how to Tinker. As long as the necklace is worn or carried, it makes a person stink of rotting garlic, imparting a –1 item penalty to Diplomacy and Stealth checks. </p> <p> The rest of the stolen jewelry is worth a total of 75 gp, but these two dozen pieces belong to various citizens of Willowshore. </p> <p> <strong>Reward:</strong> Grant the PCs XP for defeating the jinkins or chasing them off normally, to a maximum total of 80 XP to account for the lesser threat they posed. If the PCs take steps to return the stolen jewelry, they gain 1 Reputation Point with Northridge. If the PCs actively encouraged or even aided the young couple in their elopement, they lose 1 Reputation Point with Southbank, and Nadoya’s attitude automatically becomes unfriendly at the start of Chapter 3 as she finds out about the relationship. </p>"
                         },
                         "Backyard Storage": {
                             "name": "Backyard Storage",
@@ -1200,6 +1200,9 @@
                 },
                 "Reveal True Form": {
                     "name": "Reveal True Form"
+                },
+                "Roof Control": {
+                    "name": "Roof Control"
                 }
             },
             "items": {
@@ -1307,12 +1310,6 @@
                         "Susceptible to Death": {
                             "name": "Susceptible to Death",
                             "description": "<p>Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.</p><p>A phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like <em>@UUID[Compendium.pf2e.spells-srd.Item.Z9OrRXKgAPv6Hn5l]</em>) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         }
                     }
                 },
@@ -1328,15 +1325,6 @@
                         "Lithe": {
                             "name": "Lithe",
                             "description": "<p>A weasel treats any tight space it can barely fit its head in or wider as difficult terrain and doesn't need to @UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt] to move through it.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1360,14 +1348,8 @@
                             "name": "In Concert",
                             "description": "<p>When an air wisp rolls a critical failure on a check to @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW], they get a failure instead, and when they roll a success, they get a critical success instead.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
                         "Plane of Air Lore": {
                             "name": "Plane of Air Lore"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1381,9 +1363,6 @@
                     "blurb": "genderfluid innkeeper",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thriceblesse00]</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
                         "Calistria Lore": {
                             "name": "Calistria Lore"
                         },
@@ -1408,17 +1387,8 @@
                             "name": "Pitch Bale",
                             "description": "<p><strong>Requirements</strong> The farmer's last action was a successful pitchfork Strike</p><hr /><p><strong>Effect</strong> The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. The target can attempt a @Check[type:reflex|dc:13] save to avoid falling prone, and avoids being moved altogether on a critical success.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Farming Lore": {
                             "name": "Farming Lore"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -1430,12 +1400,7 @@
                     "name": "Kum Soon-chong",
                     "tokenName": "Kum Soon-chong",
                     "blurb": "male veterinarian",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]</p>",
-                    "items": {
-                        "Nature": {
-                            "name": "Nature"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]</p>"
                 },
                 "Wolf": {
                     "name": "Wolf",
@@ -1448,18 +1413,6 @@
                         "Pack Attack": {
                             "name": "Pack Attack",
                             "description": "<p>The wolf's Strikes deal 1d4 extra damage to creatures within reach of at least two of the wolf's allies.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -1481,21 +1434,6 @@
                         "Ward": {
                             "name": "Ward",
                             "description": "<p>Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting.</p><p>A shikigami's ward is typically a minor work of art or symbol of civilization, such as a milestone, trail sign, personal garden, or tiny statue.</p>"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Medicine": {
-                            "name": "Medicine"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Society": {
-                            "name": "Society"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1527,9 +1465,6 @@
                     "blurb": "male carpenter",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06matsukiestat00]</p>",
                     "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
                         "Willowshore Lore": {
                             "name": "Willowshore Lore"
                         }
@@ -1546,12 +1481,6 @@
                         "Scurry": {
                             "name": "Scurry",
                             "description": "<p><strong>Trigger</strong> The giant cockroach is targeted by a melee attack</p><hr /><p><strong>Effect</strong> The giant cockroach gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1578,12 +1507,6 @@
                         "Thicket Walker": {
                             "name": "Thicket Walker",
                             "description": "<p>Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1621,15 +1544,6 @@
                         "Web Trap": {
                             "name": "Web Trap",
                             "description": "<p>A creature hit by the hunting spider's web attack is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} and stuck to the nearest surface until it @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9] (DC 17).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1689,24 +1603,6 @@
                         "Steal Face": {
                             "name": "Steal Face",
                             "description": "<p><strong>Frequency</strong> once per day</p><p><strong>Requirements</strong> Zoudou is faceless</p><hr /><p><strong>Effect</strong> Zoudou targets one creature within 30 feet. The creature must attempt a @Check[type:fortitude|dc:20] save.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of its next turn.</p><p><strong>Failure</strong> The noppera-bo gains the target's face. The target's face vanishes until the end of its next turn. Until then, it is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}, can't speak or ingest, and can't smell. The target must also hold its breath or begin to suffocate.</p><p><strong>Critical Failure</strong> As failure, but the effect doesn't end automatically. The target can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such attempt.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Occultism": {
-                            "name": "Occultism"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -1714,12 +1610,7 @@
                     "name": "Huo Tian-Zhe",
                     "tokenName": "Huo Tian-Zhe",
                     "blurb": "male inventor",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]</p>"
                 },
                 "Hidden Compartment": {
                     "name": "Hidden Compartment",
@@ -1749,9 +1640,6 @@
                         "Stick a Fork in It": {
                             "name": "Stick a Fork in It",
                             "description": "<p>The animated silverware swarm attempts to pin a single creature.</p><p>The target must attempt a @Check[type:reflex|dc:17] save.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> Silverware pins portions of the target's clothing and gear. The target takes a -10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space.</p><p><strong>Failure</strong> As success, and the target also can't Step until it leaves the swarm's space.</p><p><strong>Critical Failure</strong> The target is thoroughly pinned by the silverware, becoming @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} until it @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9] (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.</p><p>@UUID[Compendium.pf2e.bestiary-effects.Item.K3r1lfbtCTf3dFhV]</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
                         }
                     }
                 },
@@ -1788,24 +1676,6 @@
                         "Threatening Lunge": {
                             "name": "Threatening Lunge",
                             "description": "<p><strong>Requirements</strong> The rokurokubi's neck is not currently extended</p><hr /><p><strong>Effect</strong> The rokurokubi's head comes within an inch of their target's face before striking. They Extend their Neck, attempt to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF] one opponent within 20 feet, and then make a jaws Strike against that opponent.</p><p>Their Demoralize check is a visual rather than auditory effect, and they don't take a penalty if the target doesn't understand their language.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
-                        "Society": {
-                            "name": "Society"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1813,12 +1683,7 @@
                     "name": "Rajul Samudra",
                     "tokenName": "Rajul Samudra",
                     "blurb": "male shipwright",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]</p>"
                 },
                 "Grasping Currents": {
                     "name": "Grasping Currents",
@@ -1846,18 +1711,6 @@
                         "Pull Arm": {
                             "name": "Pull Arm",
                             "description": "<p>The kappa pulls one of their arms, gaining 10-foot reach with that arm. The opposing arm shrinks to little more than a hand extending from their shell. The kappa can still use their shortened hand to hold things, but they can't use that hand to wield a shield or weapon.</p><p>By spending a single action to pull their opposing arm, the kappa can return their arms to their original length.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Medicine": {
-                            "name": "Medicine"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -1865,12 +1718,7 @@
                     "name": "Yong Wu-Xiu",
                     "tokenName": "Yong Wu-Xiu",
                     "blurb": "female blacksmith",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]</p>"
                 },
                 "Spider Swarm": {
                     "name": "Spider Swarm",
@@ -1888,15 +1736,6 @@
                         "Swarming Bites": {
                             "name": "Swarming Bites",
                             "description": "<p>Each enemy in the spider swarm's space takes @Damage[1d4[piercing]] damage with a @Check[type:reflex|dc:14|basic:true] save.</p><p>A creature that fails its save is exposed to spider swarm venom.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -1915,24 +1754,6 @@
                         "Tinker": {
                             "name": "Tinker",
                             "description": "<p>A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (@Check[type:flat|dc:5] check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Thievery": {
-                            "name": "Thievery"
                         }
                     }
                 },
@@ -1960,24 +1781,6 @@
                         "Steal Face": {
                             "name": "Steal Face",
                             "description": "<p><strong>Frequency</strong> once per day</p><p><strong>Requirements</strong> The noppera-bo occultist is faceless</p><hr /><p><strong>Effect</strong> The noppera-bo occultist targets one creature within 30 feet. The creature must attempt a @Check[type:fortitude|dc:18] save.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of its next turn.</p><p><strong>Failure</strong> The noppera-bo gains the target's face. The target's face vanishes until the end of its next turn. Until then, it is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}, can't speak or ingest, and can't smell. The target must also hold its breath or begin to suffocate.</p><p><strong>Critical Failure</strong> As failure, but the effect doesn't end automatically. The target can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such attempt.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Occultism": {
-                            "name": "Occultism"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         },
                         "Remove Face": {
                             "name": "Remove Face",
@@ -2013,20 +1816,8 @@
                             "name": "Sudden Charge",
                             "description": "<p><strong>Frequency</strong> once per round</p><hr /><p><strong>Effect</strong> The watch officer Strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
                         "Legal Lore": {
                             "name": "Legal Lore"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -2046,14 +1837,8 @@
                             "name": "Power of the Mob",
                             "description": "<p>When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731], attack rolls, and damage rolls.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Lore (any one related to their trade)"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -2069,18 +1854,6 @@
                         "Pack Attack": {
                             "name": "Pack Attack",
                             "description": "<p>The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2111,12 +1884,6 @@
                         "Pack Attack": {
                             "name": "Pack Attack",
                             "description": "<p>The phantom wolf's Strikes deal an additional 1d4 damage to creatures within reach of at least one of its allies.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         }
                     }
                 },
@@ -2134,24 +1901,6 @@
                         "Tinker": {
                             "name": "Tinker",
                             "description": "<p>A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (@Check[type:flat|dc:5] check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Thievery": {
-                            "name": "Thievery"
                         }
                     }
                 },
@@ -2177,12 +1926,6 @@
                         },
                         "Foot": {
                             "name": "Foot"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
                         }
                     }
                 },
@@ -2201,18 +1944,6 @@
                         "Pull Arm": {
                             "name": "Pull Arm",
                             "description": "<p>The kappa pulls one of their arms, gaining 10-foot reach with that arm. The opposing arm shrinks to little more than a hand extending from their shell. The kappa can still use their shortened hand to hold things, but they can't use that hand to wield a shield or weapon.</p><p>By spending a single action to pull their opposing arm, the kappa can return their arms to their original length.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Medicine": {
-                            "name": "Medicine"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2220,12 +1951,7 @@
                     "name": "Luda Bama",
                     "tokenName": "Luda Bama",
                     "blurb": "female smuggler",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]</p>"
                 },
                 "Viper": {
                     "name": "Viper",
@@ -2242,18 +1968,6 @@
                         "Viper Venom": {
                             "name": "Viper Venom",
                             "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:16]</p><hr /><p><strong>Maximum Duration</strong> 4 rounds</p><p><strong>Stage 1</strong> @Damage[1d8[poison]] (1 round).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2271,12 +1985,6 @@
                         },
                         "Crossbow": {
                             "name": "Crossbow"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         },
                         "Legal Lore": {
                             "name": "Legal Lore"
@@ -2308,12 +2016,6 @@
                         "Hungry Flurry": {
                             "name": "Hungry Flurry",
                             "description": "<p>The flytrap makes two leaf Strikes at a -2 penalty, each against a different target. These attacks count toward the flytrap's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2351,12 +2053,6 @@
                         "Pummeling Assault": {
                             "name": "Pummeling Assault",
                             "description": "<p>Each foe in the cobbleswarm's space takes @Damage[2d4[bludgeoning]] damage (@Check[type:reflex|dc:17|basic:true] save).</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2387,21 +2083,6 @@
                         "Hunt Prey": {
                             "name": "Hunt Prey",
                             "description": "<p>The poacher designates a single creature they can see and hear, or one they're Tracking, as their prey.</p><p>The poacher gains a +2 circumstance bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ] the prey and to Survival checks to @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD] the prey.</p><p>The first time the poacher hits the designated prey in a round, they deal an additional 1d8 precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment.</p><p>These effects last until the poacher uses Hunt Prey again.</p>"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2429,15 +2110,6 @@
                         "Filth Fever": {
                             "name": "Filth Fever",
                             "description": "<p>The @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} and @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} conditions from filth fever don't improve on their own until the disease is cured.</p><p><strong>Saving Throw</strong> @Check[type:fortitude|dc:14]</p><hr /><p><strong>Stage 1</strong> carrier with no ill effect ([[/br 1d4 #hours]]{1d4 hours})</p><p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (1 day)</p><p><strong>Stage 3</strong> Sickened 1 and @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} (1 day)</p><p><strong>Stage 4</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} (1 day)</p><p><strong>Stage 5</strong> dead</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2461,18 +2133,6 @@
                         "Impersonate Shape": {
                             "name": "Impersonate Shape",
                             "description": "<p>The noppera-bo grunt changes into a faceless version of a Small or Medium humanoid they've touched during the last 24 hours. While transformed and their face is covered, the grunt gains a +2 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE] that creature. The noppera-bo grunt can change back by using this ability again.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         }
                     }
                 },
@@ -2503,12 +2163,6 @@
                         "Boar Charge": {
                             "name": "Boar Charge",
                             "description": "<p>The phantom boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         }
                     }
                 },
@@ -2528,14 +2182,8 @@
                             "name": "Power of the Mob",
                             "description": "<p>When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731], attack rolls, and damage rolls.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Lore (any one related to their trade)"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -2547,23 +2195,13 @@
                     "name": "Kawaka Myna",
                     "tokenName": "Kawaka Myna",
                     "blurb": "male guild leader",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]</p>"
                 },
                 "Mountain Summit Grass": {
                     "name": "Mountain Summit Grass",
                     "tokenName": "Mountain Summit Grass",
                     "blurb": "agender teamaker",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]</p>"
                 },
                 "Zoudou": {
                     "name": "Zoudou",
@@ -2592,17 +2230,8 @@
                             "name": "Pitch Bale",
                             "description": "<p><strong>Requirements</strong> The farmer's last action was a successful pitchfork Strike</p><hr /><p><strong>Effect</strong> The farmer moves the creature they hit with their pitchfork up to 5 feet, and the target falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. The target can attempt a @Check[type:reflex|dc:13] save to avoid falling prone, and avoids being moved altogether on a critical success.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Farming Lore": {
                             "name": "Farming Lore"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2655,18 +2284,6 @@
                         "Thicket Walker": {
                             "name": "Thicket Walker",
                             "description": "<p>Thatchlings ignore difficult terrain caused by brambles, tangled grass, and undergrowth, even those manipulated by magic.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Performance": {
-                            "name": "Performance"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2682,15 +2299,6 @@
                         "Lithe": {
                             "name": "Lithe",
                             "description": "<p>A weasel treats any tight space it can barely fit its head in or wider as difficult terrain and doesn't need to @UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt] to move through it.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2745,32 +2353,8 @@
                             "name": "Spirit Touch",
                             "description": "<p>A shinigami's Strikes can affect incorporeal creatures with the effect of a <em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]</em> property rune.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Arcana": {
-                            "name": "Arcana"
-                        },
                         "Boneyard Lore": {
                             "name": "Boneyard Lore"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
-                        "Occultism": {
-                            "name": "Occultism"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        },
-                        "Society": {
-                            "name": "Society"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2805,12 +2389,6 @@
                         "Tongue Grab": {
                             "name": "Tongue Grab",
                             "description": "<p>A creature hit by the giant toad's tongue becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the giant toad. The creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage.</p><p>This deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -2827,17 +2405,8 @@
                             "name": "Raise a Shield",
                             "description": "<p>The serving platter has the same statistics as a @UUID[Compendium.pf2e.equipment-srd.Item.1k3AsSW7lpU0kEpY], but requires a hand to hold.</p><hr /><p><strong>Requirements</strong> You are wielding a shield</p><hr /><p>You position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.</p><p>@UUID[Compendium.pf2e.action-macros.Macro.4hfQEMiEOBbqelAh]</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
                         "Household Lore": {
                             "name": "Household Lore"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -2856,24 +2425,6 @@
                         "Tinker": {
                             "name": "Tinker",
                             "description": "<p>A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (@Check[type:flat|dc:5] check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Thievery": {
-                            "name": "Thievery"
                         }
                     }
                 },
@@ -2888,9 +2439,6 @@
                         "Slow": {
                             "name": "Slow",
                             "description": "<p>A zombie is permanently @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} and can't use reactions.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
                         }
                     }
                 },
@@ -2919,12 +2467,6 @@
                         "Spore Domination": {
                             "name": "Spore Domination",
                             "description": "<p>The myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a @Check[type:will|dc:22] save.</p><p>It is then temporarily immune to spore domination for 10 minutes.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> Until the end of its next turn, the target is @UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{Helpful} to myceloids and can't take hostile actions against them.</p><p><strong>Failure</strong> As success, but for 1 minute.</p><p><strong>Critical Failure</strong> As success, but until the purple pox is cured.</p>"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -2943,24 +2485,6 @@
                         "Far Too Drunk": {
                             "name": "Far Too Drunk",
                             "description": "<p>The jinkins are inefficient with their actions and always spend one action each round to cackle, stumble in place, or otherwise perform ineffective antics.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Thievery": {
-                            "name": "Thievery"
                         }
                     }
                 },
@@ -2968,12 +2492,7 @@
                     "name": "Kim Gu-won",
                     "tokenName": "Kim Gu-won",
                     "blurb": "male cleric of Kofusachi",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]</p>"
                 },
                 "Farmers' Gift": {
                     "name": "Farmers' Gift",
@@ -2994,12 +2513,6 @@
                         "Cave Scorpion Venom": {
                             "name": "Cave Scorpion Venom",
                             "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:17]</p><hr /><p><strong>Maximum Duration</strong> 6 rounds</p><p><strong>Stage 1</strong> @Damage[1d4[poison]] damage (1 round)</p><p><strong>Stage 2</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p><p><strong>Stage 3</strong> @Damage[1d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round).</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -3013,14 +2526,8 @@
                     "blurb": "female lawyer",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06luoandlaws0000]</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
                         "Law Lore": {
                             "name": "Law Lore"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -3035,15 +2542,6 @@
                         "Boar Charge": {
                             "name": "Boar Charge",
                             "description": "<p>The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -3102,20 +2600,11 @@
                             "name": "Resize Plant",
                             "description": "<p><strong>Frequency</strong> twice per day.</p><p><strong>Requirements</strong> The buso touches a Small, Medium, or Large plant.</p><hr /><p><strong>Effect</strong> The plant grows or shrinks by one size, remaining that size for the next 5 minutes. If used on a plant creature, this effect has the effects of <em>@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]</em> or <em>@UUID[Compendium.pf2e.spells-srd.Item.PjhUmyKnq6K5uDby]</em> (buso's choice). Unwilling plant creatures can attempt a @Check[type:fortitude|dc:18] saving throw to resist this effect.</p>"
                         },
-                        "Arcana": {
-                            "name": "Arcana"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Cooking Lore": {
                             "name": "Cooking Lore"
                         },
                         "Farming Lore": {
                             "name": "Farming Lore"
-                        },
-                        "Nature": {
-                            "name": "Nature"
                         }
                     }
                 },
@@ -3123,12 +2612,7 @@
                     "name": "Yun Mong-un",
                     "tokenName": "Yun Mong-un",
                     "blurb": "female human guild leader",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]</p>"
                 },
                 "Choe Chung-hu": {
                     "name": "Choe Chung-hu",
@@ -3138,9 +2622,6 @@
                     "items": {
                         "Abadar Lore": {
                             "name": "Abadar Lore"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
                         }
                     }
                 },
@@ -3170,15 +2651,6 @@
                         "Giant Centipede Venom": {
                             "name": "Giant Centipede Venom",
                             "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:14]</p><hr /><p><strong>Maximum Duration</strong> 6 rounds</p><p><strong>Stage 1</strong> @Damage[1d6[poison]] damage (1 round)</p><p><strong>Stage 2</strong> @Damage[1d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} (1 round)</p><p><strong>Stage 3</strong> @Damage[1d12[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, and off-guard (1 round)</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -3198,12 +2670,6 @@
                     "blurb": "male director",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-seven-colored-songbird-theater-5]</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Performance": {
-                            "name": "Performance"
-                        },
                         "Shelyn Lore": {
                             "name": "Shelyn Lore"
                         }
@@ -3213,12 +2679,7 @@
                     "name": "Zataku",
                     "tokenName": "Zataku",
                     "blurb": "female fisher",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]</p>",
-                    "items": {
-                        "Nature": {
-                            "name": "Nature"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]</p>"
                 },
                 "Yix": {
                     "name": "Yix",
@@ -3240,26 +2701,11 @@
                             "name": "Spirit Touch",
                             "description": "<p>A nosoi's Strikes affect incorporeal creatures as though etched with a @UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R] property rune and deal @Damage[1d6[void]] damage to living creatures or @Damage[1d6[vitality]] damage to undead.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
                         "Boneyard Lore": {
                             "name": "Boneyard Lore"
                         },
                         "Library Lore": {
                             "name": "Library Lore"
-                        },
-                        "Performance": {
-                            "name": "Performance"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        },
-                        "Society": {
-                            "name": "Society"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -3279,14 +2725,8 @@
                             "name": "Power of the Mob",
                             "description": "<p>When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731], attack rolls, and damage rolls.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Lore (any one related to their trade)"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -3307,18 +2747,6 @@
                         "Impersonate Shape": {
                             "name": "Impersonate Shape",
                             "description": "<p>The noppera-bo changes into a version of a Small or Medium humanoid they've touched during the last 24 hours, and gains the target creature's face and voice. While transformed, the noppera-bo gains a +2 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE] that creature and loses its no face ability and listed immunities. The noppera-bo can change back by using this ability again.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         },
                         "Shortbow": {
                             "name": "Shortbow"
@@ -3366,23 +2794,8 @@
                             "name": "Spirit Web Trap",
                             "description": "<p>A creature hit by the stone spider's web attack is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} and stuck to the nearest surface until it Escapes (DC 22).</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        },
                         "Settlement Lore (Regarding their Home Settlement)": {
                             "name": "Settlement Lore (Regarding their Home Settlement)"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -3390,12 +2803,7 @@
                     "name": "Nadoya Sanmi",
                     "tokenName": "Nadoya Sanmi",
                     "blurb": "female family matriarch",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]</p>"
                 },
                 "Shallow Grave": {
                     "name": "Shallow Grave",
@@ -3432,12 +2840,6 @@
                         "Vulnerable to Kindness": {
                             "name": "Vulnerable to Kindness",
                             "description": "<p>Any creature within 30 feet that the phantom can see and hear can issue a calm and friendly greeting to it as a two-action activity with the auditory, concentrate, linguistic, and mental traits. A creature greeting the phantom in this manner must attempt a @Check[type:diplomacy|dc:15] check.</p><hr /><p><strong>Critical Success</strong> The phantom takes @Damage[4d8[mental]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p><p><strong>Success</strong> The phantom takes @Damage[2d8[mental]] damage.</p><p><strong>Failure</strong> The phantom takes @Damage[1d8[mental]] damage.</p><p><strong>Critical Failure</strong> The phantom is unaffected, and is not affected by this weakness for 1 round.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
                         }
                     }
                 },
@@ -3445,15 +2847,7 @@
                     "name": "Ba-Ming Ouh",
                     "tokenName": "Ba-Ming Ouh",
                     "blurb": "female priest",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]</p>"
                 },
                 "Cockroach Swarm": {
                     "name": "Cockroach Swarm",
@@ -3467,12 +2861,6 @@
                         "Swarming Bites": {
                             "name": "Swarming Bites",
                             "description": "<p>Each enemy in the swarm's space takes @Damage[1d8[piercing]] damage (@Check[type:reflex|dc:18|basic:true] save).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -3490,12 +2878,6 @@
                         "Mauler": {
                             "name": "Mauler",
                             "description": "<p>The black bear gains a +1 circumstance bonus to damage rolls against creatures it has grabbed.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -3524,21 +2906,6 @@
                         "Distracting Gaze": {
                             "name": "Distracting Gaze",
                             "description": "<p>@Template[type:emanation|distance:30]{30 feet} @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.v61oEQaDdcRpaZ9X]</p><hr /><p>When a creature ends its turn in the aura, it must attempt a @Check[type:will|dc:23] save. The kodama can activate or deactivate this aura by using a single action, which has the concentrate trait.</p><hr /><p><strong>Success</strong> The creature is unaffected.</p><p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated}. This condition ends if the creature ends its turn outside the aura.</p><p><strong>Critical Failure</strong> As failure, plus the creature is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} as long as it remains fascinated.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Nature": {
-                            "name": "Nature"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
-                        "Survival": {
-                            "name": "Survival"
                         }
                     }
                 },
@@ -3611,15 +2978,6 @@
                         },
                         "Cooking Lore": {
                             "name": "Cooking Lore"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -3650,18 +3008,6 @@
                             "name": "Impersonate Shape",
                             "description": "<p>The noppera-bo changes into a version of a Small or Medium humanoid they've touched during the last 24 hours, and gains the target creature's face and voice. While transformed, the noppera-bo gains a +2 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE] that creature and loses its no face ability and listed immunities. The noppera-bo can change back by using this ability again.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
-                        },
                         "Shortbow": {
                             "name": "Shortbow"
                         },
@@ -3689,12 +3035,7 @@
                     "name": "You So-Jin",
                     "tokenName": "You So-Jin",
                     "blurb": "female herbalist",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]</p>"
                 },
                 "Hongrui’s Gratitude": {
                     "name": "Hongrui’s Gratitude",
@@ -3717,17 +3058,8 @@
                             "name": "Raise a Shield",
                             "description": "<p>The serving platter has the same statistics as a @UUID[Compendium.pf2e.equipment-srd.Item.1k3AsSW7lpU0kEpY], but requires a hand to hold.</p><hr /><p><strong>Requirements</strong> You are wielding a shield</p><hr /><p>You position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.</p><p>@UUID[Compendium.pf2e.action-macros.Macro.4hfQEMiEOBbqelAh]</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
                         "Household Lore": {
                             "name": "Household Lore"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
@@ -3743,12 +3075,6 @@
                         "Cunning": {
                             "name": "Cunning",
                             "description": "<p>A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They are also quite adept at stealing objects. A raven can't use Thievery to @UUID[Compendium.pf2e.actionspf2e.Item.ijZ0DDFpMkWqaShd], @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6], or @UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H], but it can use Thievery to @UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k] light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Acrobatics"
-                        },
-                        "Thievery": {
-                            "name": "Thievery"
                         }
                     }
                 },
@@ -3767,12 +3093,6 @@
                         "Slime Rot": {
                             "name": "Slime Rot",
                             "description": "<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:18]</p><p><strong>Onset</strong> [[/br 1d4 #days]]{1d4 days}</p><p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} and @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (1 day)</p><p><strong>Stage 2</strong> as stage 1 (1 day)</p><p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}, and @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} (1 day)</p><p><strong>Stage 4</strong> as stage 3 (1 day)</p><p><strong>Stage 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} plus @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} (no Perception check to wake up) (1 day)</p><p><strong>Stage 6</strong> dead, and the body erupts to release a new slime mold</p>"
-                        },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Stealth": {
-                            "name": "Stealth"
                         }
                     }
                 },
@@ -3803,24 +3123,6 @@
                             "name": "Want to Try Me?",
                             "description": "<p><strong>Trigger</strong> A creature within 30 feet attempts to @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd] or @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF] a creature</p><hr /><p><strong>Effect</strong> Granny Hu threatens to expose a secret of the triggering creature. She attempts an @Check[type:intimidation|defense:will] check against the triggering creature's Will DC. Her reputation means she can threaten a PC even if she doesn't actually know a secret, but if she does know an especially dangerous or shameful one, she gains a +2 circumstance bonus to her Intimidation check.</p><hr /><p><strong>Critical Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}, and the result of their Coerce or Demoralize attempt is reduced by one degree of success.</p><p><strong>Success</strong> As success, but @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p><p><strong>Failure</strong> The creature is unaffected.</p><p><strong>Critical Failure</strong> The creature is unaffected, gains a +1 circumstance bonus to their Coerce or Demoralize attempt, and is immune to Want to Try Me? for 24 hours.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Deception": {
-                            "name": "Deception"
-                        },
-                        "Diplomacy": {
-                            "name": "Diplomacy"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
-                        "Society": {
-                            "name": "Society"
-                        },
                         "Willowshore Lore": {
                             "name": "Willowshore Lore"
                         }
@@ -3841,12 +3143,6 @@
                         "Crossbow": {
                             "name": "Crossbow"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
-                        "Intimidation": {
-                            "name": "Intimidation"
-                        },
                         "Legal Lore": {
                             "name": "Legal Lore"
                         }
@@ -3856,18 +3152,7 @@
                     "name": "Elizeth Candora",
                     "tokenName": "Elizeth Candora",
                     "blurb": "female cleric of Pharasma",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Performance": {
-                            "name": "Performance"
-                        },
-                        "Religion": {
-                            "name": "Religion"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]</p>"
                 },
                 "Heh Shan-Bao": {
                     "name": "Heh Shan-Bao",
@@ -3879,29 +3164,13 @@
                     "name": "Igawa Jubei",
                     "tokenName": "Igawa Jubei",
                     "blurb": "female wizard",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]</p>",
-                    "items": {
-                        "Arcana": {
-                            "name": "Arcana"
-                        },
-                        "Crafting": {
-                            "name": "Crafting"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]</p>"
                 },
                 "Dr. Damihansig Mababangloob": {
                     "name": "Dr. Damihansig Mababangloob",
                     "tokenName": "Dami",
                     "blurb": "male doctor",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Crafting"
-                        },
-                        "Medicine": {
-                            "name": "Medicine"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]</p>"
                 },
                 "Sanmi Family Member": {
                     "name": "Sanmi Family Member",
@@ -3919,14 +3188,8 @@
                             "name": "Power of the Mob",
                             "description": "<p>When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731], attack rolls, and damage rolls.</p>"
                         },
-                        "Athletics": {
-                            "name": "Athletics"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Lore (any one related to their trade)"
-                        },
-                        "Society": {
-                            "name": "Society"
                         }
                     }
                 },
