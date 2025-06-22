@@ -45,11 +45,11 @@
                     "pages": {
                         "Landing": {
                             "name": "Strona Główna",
-                            "text": "<section class=\"encounter\"> <div class=\"header\"> <img style=\"transform:scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/PZO90196 great willow-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Zmiana Strony Głównej</span><span class=\"keepme\">Makro</span></h2> <span class=\"link\">@UUID[Macro.sORPzLerYztDERI6]{Wybierz stronę główną}</span> </div> <p><strong>Za pomocą tego makra można zmienić tło sceny.</strong></p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform:scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Warty 3-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">WSPARCIE MODUŁU</span><span class=\"keepme\">Kontakt</span></h2> <span class=\"link\"><a href=\"https://support.metamorphic-digital.com/\">https://support.metamorphic-digital.com/</a></span> </div> <p> <strong>Aby zgłosić błędy lub inne problemy z tym produktem, wypełnij zgłoszenie do naszego działu pomocy technicznej.</strong> </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform:scale(1.0)\" src=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/CombinedToken.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Obramowanie tokena</span><span class=\"keepme\">Asset</span></h2> <span class=\"link\"><a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBorder.webp\">Obramowanie pustego tokena</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenMist.webp\">Mgła tokena</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBackground.webp\">Tło tokena</a></span> </div> <p> <strong>Puste obramowanie tokena używane w module jest dołączone, aby umożliwić tworzenie własnych tokenów w tym samym stylu.</strong> </p> </section>"
+                            "text": "<section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/PZO90196 great willow-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Zmiana Strony Głównej</span><span class=\"keepme\">Makro</span></h2> <span class=\"link\">@UUID[Macro.sORPzLerYztDERI6]{Wybierz stronę główną}</span> </div> <p><strong>Za pomocą tego makra można zmienić tło sceny.</strong></p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Warty 3-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">WSPARCIE MODUŁU</span><span class=\"keepme\">Kontakt</span></h2> <span class=\"link\"><a href=\"https://support.metamorphic-digital.com/\">https://support.metamorphic-digital.com/</a></span> </div> <p> <strong >Aby zgłosić błędy lub inne problemy z tym produktem, wypełnij zgłoszenie do naszego działu pomocy technicznej.</strong > </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/CombinedToken.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Obramowanie tokena</span><span class=\"keepme\">Asset</span></h2> <span class=\"link\" ><a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBorder.webp\">Puste obramowanie tokena</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenMist.webp\">Mgła tokena</a> <a href=\"modules/pf2e-ap196-199-season-of-ghosts/assets/token/TokenBackground.webp\">Tło tokena</a></span > </div> <p> <strong >Puste obramowanie tokena używane w module jest dołączone, aby umożliwić tworzenie własnych tokenów w tym samym stylu.</strong > </p> </section> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/tokens/Phantom%20Raven.webp\" alt=\"\" /> <h2 class=\"split no-toc\"> <span class=\"keepme\">Kontrola dachu</span> <span class=\"keepme\">Makro</span> </h2> <span class=\"link\">@UUID[Macro.tn4nPBGWExCuFBMr]</span> </div> <p>Za pomocą tego makra można przełączać się między różnymi trybami wyświetlania dachów nad głową.</p> </section>"
                         },
                         "Changelog": {
                             "name": "Changelog",
-                            "text": "<h1><a href=\"https://support.metamorphic-digital.com/changelog/pf2e-ap196-the-summer-that-never-was\">The Summer That Never Was</a></h1> <h2>12.0.0 v12 Release</h2> <ul> <li>Updated to v12 compatibility</li> <li>added teleport regions</li> <li>adjusted ambient sounds</li> <li>updated roof tiles</li> <li>improved some macros</li> </ul> <h2>1.3.0</h2> <ul> <li>minor code update in preparation for the v12 update.</li> <li>add complete Lumber camp map</li> <li>fix damage roll in Private Banquet Hall journal</li> </ul> <h2>1.2.1</h2> <ul> <li>Actually added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.2.0</h2> <ul> <li>Added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.1.0</h2> <ul> <li>Added missing Art</li> </ul> <h2>1.0.0 Initial Release</h2> <ul> <li><strong>14</strong> completely remade, highly detailed, and immersive adventure maps with support for Foundry Virtual Tabletop's Overhead Tiles and Foreground Layer features, re-created by Sigil Entertainment using assets from Forgotten Adventures.</li> <li>Journal Entries for the entire contents of the book with additional encounter notes and Foundry VTT tips.</li> <li>Scenes pre-configured with walls, lights, sound, tokens, and hazards already placed to provide GMs the most convenient experience running the adventure.</li> <li>Soundscapes from the great Michael Ghelfi and Sigil Services, provided as ambient playlists and local sound sources to immerse your players.</li> <li>High-resolution character artwork and tokens for the unique horrors and NPCs in this AP</li> <li>High-resolution, upscaled versions of the original maps.</li> <li><strong>6</strong> Macros created to help run your adventure.</li> </ul>"
+                            "text": "<h1><a href=\"https://support.metamorphic-digital.com/changelog/pf2e-ap196-the-summer-that-never-was\">The Summer That Never Was</a></h1> <h2>13.0.1</h2> <ul> <li>fix a typo in the Text for B11</li> </ul> <h2>13.0.0</h2> <ul> <li>Updated to v13 compatibility</li> </ul> <h2>12.0.0 v12 Release</h2> <ul> <li>Updated to v12 compatibility</li> <li>added teleport regions</li> <li>adjusted ambient sounds</li> <li>updated roof tiles</li> <li>improved some macros</li> </ul> <h2>1.3.0</h2> <ul> <li>minor code update in preparation for the v12 update.</li> <li>add complete Lumber camp map</li> <li>fix damage roll in Private Banquet Hall journal</li> </ul> <h2>1.2.1</h2> <ul> <li>Actually added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.2.0</h2> <ul> <li>Added Actor and Effects to facilitate Reputation Point Tracking</li> </ul> <h2>1.1.0</h2> <ul> <li>Added missing Art</li> </ul> <h2>1.0.0 Initial Release</h2> <ul> <li><strong>14</strong> completely remade, highly detailed, and immersive adventure maps with support for Foundry Virtual Tabletop's Overhead Tiles and Foreground Layer features, re-created by Sigil Entertainment using assets from Forgotten Adventures.</li> <li>Journal Entries for the entire contents of the book with additional encounter notes and Foundry VTT tips.</li> <li>Scenes pre-configured with walls, lights, sound, tokens, and hazards already placed to provide GMs the most convenient experience running the adventure.</li> <li>Soundscapes from the great Michael Ghelfi and Sigil Services, provided as ambient playlists and local sound sources to immerse your players.</li> <li>High-resolution character artwork and tokens for the unique horrors and NPCs in this AP</li> <li>High-resolution, upscaled versions of the original maps.</li> <li><strong>6</strong> Macros created to help run your adventure.</li> </ul>"
                         },
                         "The Summer That Never Was": {
                             "name": "Lato, którego nigdy nie było",
@@ -247,7 +247,7 @@
                         },
                         "Mudwall House": {
                             "name": "Dom błotnisty",
-                            "text": "<h2 class=\"no-toc\" data-split-here=\"B11. Mudwall HouseModerate 1\">B11. Dom błotnisty</h2> <p class=\"read-aloud\"> Ten dom ma dwuwarstwową ścianę błotną, która reguluje ciepło, zimno i dźwięk - chociaż nie jest w stanie wytłumić tłumu wysokich głosów wewnątrz. </p> <p> <strong>Stworzenia:</strong> Ten dom, niegdyś należący do owdowiałej Nadoyi Sanmi, jest teraz opanowany przez gremliny. Grupa sześciu jinkinów zmusiła Nadoyę i większość rodziny Sanmi do zamieszkania w pomieszczeniu magazynowym na podwórku (obszar @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03backyardstor00]{B12}), wyznaczając jednocześnie <strong>Yuli Sanmi</strong> (kobieta ND, młody mieszkaniec wioski) i <strong>Hu Lelong</strong> (mężczyzna N człowiek młody wieśniak), aby być ich osobistymi opiekunami. Dwójka sekretnych kochanków opracowała plan na krótko przed przybyciem bohaterów, aby walczyć przeciwko swoim porywaczom, a teraz tutejsze gremliny są dość pijane ryżowym winem, którym zostały poczęstowane. Nadzieje Yuli i Lelonga na to, że gremliny zemdleją i dadzą im szansę na ucieczkę (a raczej wymknięcie się), maleją, ponieważ gremliny stają się coraz bardziej awanturnicze. W szczególności dwa jinkiny grają w grę w łapanie z kolekcją skradzionej biżuterii (a dokładniej w grę „podrzuć, upuść, a następnie walcz, aby podnieść z powrotem”). </p> <p> Gdy gracze wchodzą do środka, zastają jinkinów robiących bałagan, podczas gdy Yuli i Lelong chowają się w kącie. Pijani jinkinowie mylą graczy z oni po ich przybyciu i natychmiast zaczynają rywalizować o uwagę drużyny, wołając „Ooo! Oni tu są!”, a następnie robią wszystko, co w ich mocy, aby zwiększyć swoje niszczycielskie wybryki, wołając „Spójrz na mnie!” lub „Patrz na to!”. </p> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform:scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Very%20Drunken%20Jinkin-MINI.webp\" /> <h2 class=\"split no-toc\"><span class=\"keepme\">Błotnisty Dom</span> <span class=\"keepme\">Umiarkowany 1</span></h2> <span class=\"link\">@UUID[Actor.ZrHYgJN0ijzQoW1V]{Very Drunken Jinkins (6)} @UUID[Actor.uLcqqnOOU4X0JLBB]{Yuli} @UUID[Actor.XJVuYSIQ9uEGGefh]{Lelong}</span> </div> <p> Wszystkie jinkiny są osłabione stworzeń w wyniku ich pijaństwa. Postać, której powiedzie się test @Check[intimidation|dc:17] zmusza wszystkie sześć jinkinów do ucieczki z domu. W przeciwnym razie jedynym sposobem na powstrzymanie jinkinów przed zniszczeniem domu jest albo poczekanie, aż zemdleją (co potrwa wystarczająco długo, by jeden z nich podpalił dom, całkowicie niszcząc jego wnętrze), albo zaatakowanie ich. Gdy rozpocznie się walka, pijane jinkiny wyją z zachwytu i, głupio, walczą na śmierć i życie. </p> </section> <p> <strong>Kochankowie skrzyżowani gwiazdami:</strong> Po pokonaniu pijanych jinkinów Lelong pyta, czy gracze pozwolą mu zabrać jeden z naszyjników, którymi bawiły się gremliny. Jeśli gracze zapytają dlaczego, Lelong niezdarnie skłamie, twierdząc, że chce pozwolić swojemu wujowi (kapitanowi straży Zheng Pengowi) lub babci Hu ustalić, kto jest prawowitym właścicielem. Gracze mogą wyciągnąć z niego prawdę za pomocą udanego testu @Check[diplomacy|dc:13] lub @Check[intimidation|dc:13]: chce on funduszy na ucieczkę dla siebie i swojej kochanki. Odmawia ujawnienia, że Yuli jest jego kochanką, choć gracze mogą to już wiedzieć z listów w obszarze @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00]{B10} (podobnie jak każdy, komu powiedzie się test @Check[perception|dc:13|traits:concentrate,secret,action:sense-motive|name:Wyczucie Motywów] na Wyczucie Motywów z Lelongiem lub Yuli). </p> <p> Ten sekretny romans wyjaśnia również, dlaczego Lelong jest w centrum miasta, a nie na posterunku straży: odwiedził go potajemnie, gdy zaatakowały potwory, które go tu uwięziły. Bez względu na to, czy otrzymają fundusze, Yuli i Lelong chcą uciec, mając nadzieję, że ich rodziny pomyślą, że zginęli podczas inwazji potworów. To, czy gracze zatrzymają młodą parę, czy pozwolą im uciec, zależy od nich, ale jeśli pozwolą im uciec, mogą ich później spotkać w Chacie Łowcy w głębi lądu (obszar @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04huntershut0000]{D6}). Yuli pamięta o odzyskaniu listów z obszaru @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00]{B10} lub prosi bohaterów o zwrócenie im korespondencji przed odejściem. </p> <p> <strong>Skarb:</strong> @UUID[Actor.qhTq5VAuRR17q3jI]{Stolen Jewelry}<br /> Wśród skradzionej biżuterii jeden z graczy odkrywa rozpoznawalny naszyjnik należący do ich rodziny, który mogą odzyskać. Naszyjnik ten jest wart 10 sz, ale jinkinowie przeklęli go, zanim zbytnio się upili, by pamiętać, jak majsterkować. Dopóki naszyjnik jest noszony, sprawia, że dana osoba cuchnie gnijącym czosnkiem, co daje karę -1 do testów Dyplomacji i Skradania się. </p> <p> Reszta skradzionej biżuterii jest warta łącznie 75 sz, ale te dwa tuziny sztuk należą do różnych mieszkańców Willowshore. </p> <p> <strong>Nagroda:</strong> Przyznaj graczom PD za pokonanie jinkinów lub przegonienie ich w normalny sposób, do maksymalnej łącznej liczby 80 PD, aby uwzględnić mniejsze zagrożenie, jakie stwarzali. Jeśli gracze podejmą kroki w celu zwrotu skradzionej biżuterii, otrzymają 1 punkt reputacji w Northridge. Jeśli gracze aktywnie zachęcali lub nawet pomagali młodej parze w ucieczce, tracą 1 punkt reputacji w Southbank, a postawa Nadoyi automatycznie staje się nieprzyjazna na początku rozdziału 3, gdy dowiaduje się ona o ich związku. </p>"
+                            "text": "<h2 class=\"no-toc\" data-split-here=\"B11. Mudwall HouseModerate 1\">B11. Dom błotnisty</h2> <p class=\"read-aloud\"> Ten dom ma dwuwarstwową ścianę błotną, która reguluje ciepło, zimno i dźwięk - chociaż nie jest w stanie wytłumić tłumu wysokich głosów wewnątrz. </p> <p> <strong>Stworzenia:</strong> Ten dom, niegdyś należący do owdowiałej Nadoyi Sanmi, jest teraz opanowany przez gremliny. Grupa sześciu jinkinów zmusiła Nadoyę i większość rodziny Sanmi do zamieszkania w pomieszczeniu magazynowym na podwórku (obszar @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03backyardstor00]{B12}), wyznaczając jednocześnie <strong>Yuli Sanmi</strong> (kobieta ND, młody mieszkaniec wioski) i <strong>Hu Lelong</strong> (mężczyzna N człowiek młody wieśniak), aby być ich osobistymi opiekunami. Dwójka sekretnych kochanków opracowała plan na krótko przed przybyciem bohaterów, aby walczyć przeciwko swoim porywaczom, a teraz tutejsze gremliny są dość pijane ryżowym winem, którym zostały poczęstowane. Nadzieje Yuli i Lelonga na to, że gremliny zemdleją i dadzą im szansę na ucieczkę (a raczej wymknięcie się), maleją, ponieważ gremliny stają się coraz bardziej awanturnicze. W szczególności dwa jinkiny grają w grę w łapanie z kolekcją skradzionej biżuterii (a dokładniej w grę „podrzuć, upuść, a następnie walcz, aby podnieść z powrotem”). </p> <p> Gdy gracze wchodzą do środka, zastają jinkinów robiących bałagan, podczas gdy Yuli i Lelong chowają się w kącie. Pijani jinkinowie mylą graczy z oni po ich przybyciu i natychmiast zaczynają rywalizować o uwagę drużyny, wołając „Ooo! Oni tu są!”, a następnie robią wszystko, co w ich mocy, aby zwiększyć swoje niszczycielskie wybryki, wołając „Spójrz na mnie!” lub „Patrz na to!”. </p> <section class=\"encounter\"> <div class=\"header\"> <img style=\"transform: scale(1.5)\" src=\"modules/pf2e-ap196-the-summer-that-never-was/assets/mini/Very%20Drunken%20Jinkin-MINI.webp\"> <h2 class=\"split no-toc\"><span class=\"keepme\">Błotnisty Dom</span> <span class=\"keepme\">Umiarkowany 1</span></h2> <span class=\"link\">@UUID[Actor.ZrHYgJN0ijzQoW1V]{Bardzo pijane Jinkiny (6)} @UUID[Actor.uLcqqnOOU4X0JLBB]{Yuli} @UUID[Actor.XJVuYSIQ9uEGGefh]</span> </div> <p> Wszystkie jinkiny są osłabione stworzeń w wyniku ich pijaństwa. Postać, której powiedzie się test @Check[intimidation|dc:17] zmusza wszystkie sześć jinkinów do ucieczki z domu. W przeciwnym razie jedynym sposobem na powstrzymanie jinkinów przed zniszczeniem domu jest albo poczekanie, aż zemdleją (co potrwa wystarczająco długo, by jeden z nich podpalił dom, całkowicie niszcząc jego wnętrze), albo zaatakowanie ich. Gdy rozpocznie się walka, pijane jinkiny wyją z zachwytu i, głupio, walczą na śmierć i życie. </p> </section> <p> <strong>Kochankowie skrzyżowani gwiazdami:</strong> Po pokonaniu pijanych jinkinów Lelong pyta, czy gracze pozwolą mu zabrać jeden z naszyjników, którymi bawiły się gremliny. Jeśli gracze zapytają dlaczego, Lelong niezdarnie skłamie, twierdząc, że chce pozwolić swojemu wujowi (kapitanowi straży Zheng Pengowi) lub babci Hu ustalić, kto jest prawowitym właścicielem. Gracze mogą wyciągnąć z niego prawdę za pomocą udanego testu @Check[diplomacy|dc:13] lub @Check[intimidation|dc:13]: chce on funduszy na ucieczkę dla siebie i swojej kochanki. Odmawia ujawnienia, że Yuli jest jego kochanką, choć gracze mogą to już wiedzieć z listów w obszarze @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00]{B10} (podobnie jak każdy, komu powiedzie się test @Check[perception|dc:13|traits:concentrate,secret,action:sense-motive|name:Wyczucie Motywów] na Wyczucie Motywów z Lelongiem lub Yuli). </p> <p> Ten sekretny romans wyjaśnia również, dlaczego Lelong jest w centrum miasta, a nie na posterunku straży: odwiedził go potajemnie, gdy zaatakowały potwory, które go tu uwięziły. Bez względu na to, czy otrzymają fundusze, Yuli i Lelong chcą uciec, mając nadzieję, że ich rodziny pomyślą, że zginęli podczas inwazji potworów. To, czy gracze zatrzymają młodą parę, czy pozwolą im uciec, zależy od nich, ale jeśli pozwolą im uciec, mogą ich później spotkać w Chacie Łowcy w głębi lądu (obszar @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04huntershut0000]{D6}). Yuli pamięta o odzyskaniu listów z obszaru @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03sanmihouseho00]{B10} lub prosi bohaterów o zwrócenie im korespondencji przed odejściem. </p> <p> <strong>Skarb:</strong> @UUID[Actor.qhTq5VAuRR17q3jI]<br /> Wśród skradzionej biżuterii jeden z graczy odkrywa rozpoznawalny naszyjnik należący do ich rodziny, który mogą odzyskać. Naszyjnik ten jest wart 10 sz, ale jinkinowie przeklęli go, zanim zbytnio się upili, by pamiętać, jak majsterkować. Dopóki naszyjnik jest noszony, sprawia, że dana osoba cuchnie gnijącym czosnkiem, co daje karę -1 do testów Dyplomacji i Skradania się. </p> <p> Reszta skradzionej biżuterii jest warta łącznie 75 sz, ale te dwa tuziny sztuk należą do różnych mieszkańców Willowshore. </p> <p> <strong>Nagroda:</strong> Przyznaj graczom PD za pokonanie jinkinów lub przegonienie ich w normalny sposób, do maksymalnej łącznej liczby 80 PD, aby uwzględnić mniejsze zagrożenie, jakie stwarzali. Jeśli gracze podejmą kroki w celu zwrotu skradzionej biżuterii, otrzymają 1 punkt reputacji w Northridge. Jeśli gracze aktywnie zachęcali lub nawet pomagali młodej parze w ucieczce, tracą 1 punkt reputacji w Southbank, a postawa Nadoyi automatycznie staje się nieprzyjazna na początku rozdziału 3, gdy dowiaduje się ona o ich związku. </p>"
                         },
                         "Backyard Storage": {
                             "name": "Magazyn na podwórku",
@@ -1200,6 +1200,9 @@
                 },
                 "Reveal True Form": {
                     "name": "Ujawnienie prawdziwej postaci"
+                },
+                "Roof Control": {
+                    "name": "Sterowanie dachem"
                 }
             },
             "items": {
@@ -1307,12 +1310,6 @@
                         "Susceptible to Death": {
                             "name": "Podatność na Śmierć",
                             "description": "<p>Chociaż fantomy nie są żywe, nie są też nieumarłymi i są wyjątkowo podatne na skutki śmierci.</p><p>Fantom, którego Punkty Wytrzymałości zostały zredukowane do 0 w wyniku efektu śmierci (np. w wyniku zaklęcia @UUID[Compendium.pf2e.spells-srd.Item.Z9OrRXKgAPv6Hn5l]{Egzekucja}) zostaje natychmiast przeniesiony do Rzeki Dusz, gdzie jego dusza powraca na zwykłą ścieżkę do zaświatów.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         }
                     }
                 },
@@ -1328,15 +1325,6 @@
                         "Lithe": {
                             "name": "Gibki",
                             "description": "<p>Łasica traktuje każdą ciasną przestrzeń, w której ledwo mieści głowę lub szerszą, jako trudny teren i nie musi @UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{Przeciskać się}, aby się po nim poruszać.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1360,14 +1348,8 @@
                             "name": "W trakcie Koncertu",
                             "description": "<p>Kiedy powietrzny ognik wyrzuci krytyczną porażkę podczas testu @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Wsparcia}, otrzymuje zamiast tego porażkę, a kiedy wyrzuci sukces, otrzymuje zamiast tego krytyczny sukces.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
                         "Plane of Air Lore": {
                             "name": "Wiedza o Planie Powietrza"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1381,9 +1363,6 @@
                     "blurb": "właścicielka pensjonatu o płynnej tożsamości płciowej",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thriceblesse00]{Gospoda Trzykroć Błogosławiona}</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
                         "Calistria Lore": {
                             "name": "Wiedza o Calistrii"
                         },
@@ -1408,17 +1387,8 @@
                             "name": "Przesunięcie Widłami",
                             "description": "<p><strong>Wymagania</strong> Ostatnią akcją rolnika był udany atak widłami</p><hr /><p><strong>Efekt</strong> Rolnik przesuwa istotę trafioną widłami na odległość do 5 stóp, a cel @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Przewraca} się. Cel może wykonać rzut obronny @Check[reflex|dc:13], aby uniknąć upadku, a w przypadku sukcesu krytycznego uniknie całkowicie przesunięcia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Farming Lore": {
                             "name": "Wiedza o Rolnictwie"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -1430,12 +1400,7 @@
                     "name": "Kum Soon-chong",
                     "tokenName": "Kum Soon-chong",
                     "blurb": "mężczyzna weterynarz",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]{Stajnie Willowshore}</p>",
-                    "items": {
-                        "Nature": {
-                            "name": "Natura"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06willowshores00]{Stajnie Willowshore}</p>"
                 },
                 "Wolf": {
                     "name": "Wilk",
@@ -1448,18 +1413,6 @@
                         "Pack Attack": {
                             "name": "Grupowy Atak",
                             "description": "<p>Ataki wilka zadają 1k4 dodatkowych obrażeń istotom znajdującym się w zasięgu co najmniej dwóch sojuszników wilka.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -1481,21 +1434,6 @@
                         "Ward": {
                             "name": "Podopieczny",
                             "description": "<p>Każdy kami jest związany ze swoim podopiecznym: konkretnym zwierzęciem, rośliną, przedmiotem lub miejscem. Kami może połączyć się ze swoim podopiecznym lub wyłonić się z niego w ramach pojedynczej akcji, która ma cechę koncentracji. Podczas połączenia kami może obserwować otoczenie za pomocą swoich zwykłych zmysłów, a także zmysłów swojego podopiecznego, ale nie może się poruszać, komunikować ani kontrolować swojego podopiecznego. Dodatkowo, kami połączony ze swoim podopiecznym odzyskuje Punkty Wytrzymałości co minutę, tak jakby spędził cały dzień odpoczywając.</p><p>Podopiecznym kodamy jest konkretne drzewo.</p>"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Medicine": {
-                            "name": "Medycyna"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1527,9 +1465,6 @@
                     "blurb": "stolarz mężczyzna",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06matsukiestat00]{Osiedle Matsuki}</p>",
                     "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
                         "Willowshore Lore": {
                             "name": "Wiedza o Willowshore"
                         }
@@ -1546,12 +1481,6 @@
                         "Scurry": {
                             "name": "Mknąc przez pole",
                             "description": "<p><strong>Wyzwalacz</strong> Olbrzymi karaluch jest celem ataku w walce wręcz</p><hr /><p><strong>Efekt</strong> Olbrzymi karaluch zyskuje premię +2 do KP przeciwko atakowi wyzwalającemu. Po zakończeniu ataku karaluch biegnie, wspina się lub leci na odległość do 10 stóp.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1578,12 +1507,6 @@
                         "Thicket Walker": {
                             "name": "Wędrowiec wśród Zarośli",
                             "description": "<p>Strzecha ignoruje trudny teren spowodowany przez jeżyny, splątaną trawę i zarośla, nawet te manipulowane magią.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1621,15 +1544,6 @@
                         "Web Trap": {
                             "name": "Pułapka z pajęczyny",
                             "description": "<p>Istota trafiona atakiem sieci pająka myśliwskiego jest @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Unieruchomiona} i przykleja się do najbliższej powierzchni, dopóki nie @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Uwolni się} (ST 17).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1689,24 +1603,6 @@
                         "Steal Face": {
                             "name": "Kradzież Twarzy",
                             "description": "<p><strong>Częstotliwość</strong> raz na dzień</p>\n<p><strong>Wymagania</strong> Zoudou jest bez twarzy</p>\n<hr />\n<p><strong>Efekt</strong> Zoudou celuje w jedną istotę w promieniu 30 stóp. Istota musi spróbować rzutu obronnego @Check[fortitude|dc:20].</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Nie ma to wpływu na cel.</p>\n<p><strong>Sukces</strong> Cel jest @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Zamroczony} do początku swojej następnej tury.</p>\n<p><strong>Porażka</strong> Noppera-bo zyskuje twarz celu. Twarz celu znika do końca jego następnej tury. Do tego czasu jest @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Oślepiony}, nie może mówić ani połykać, ani czuć zapachów. Cel musi również wstrzymać oddech lub zacząć się dusić.</p>\n<p><strong>Krytyczna Porażka</strong> Jak porażka, ale efekt nie kończy się automatycznie. Cel może podjąć nową próbę rzutu obronnego na koniec każdej swojej tury, a ST kumulatywnie zmniejsza się o 1 przy każdej takiej próbie.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Occultism": {
-                            "name": "Okultyzm"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -1714,12 +1610,7 @@
                     "name": "Huo Tian-Zhe",
                     "tokenName": "Huo Tian-Zhe",
                     "blurb": "mężczyzna wynalazca",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]{Drugi Najlepszy}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06secondbest0000]{Drugi Najlepszy}</p>"
                 },
                 "Hidden Compartment": {
                     "name": "Ukryty schowek",
@@ -1749,9 +1640,6 @@
                         "Stick a Fork in It": {
                             "name": "Wbij w to Widelec",
                             "description": "<p>Ożywiony rój srebrnych sztućców próbuje przyszpilić pojedynczą istotę.</p>\n<p>Cel musi wykonać rzut obronny @Check[reflex|dc:17].</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Nie ma to wpływu na cel.</p>\n<p><strong>Sukces</strong> Srebrne sztućce przypinają części odzieży i ekwipunku celu. Cel otrzymuje karę okolicznościową -10 stóp do swojej Szybkości tak długo, jak pozostaje w przestrzeni roju.</p>\n<p><strong>Porażka</strong> Jako sukces, a cel nie może wykonać kroku, dopóki nie opuści przestrzeni roju.</p>\n<p><strong>Krytyczna Porażka</strong> Cel zostaje przygwożdżony przez srebrne sztućce, stając się @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Unieruchomiony} do czasu, aż @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Uwolni się} (ST 17) lub użyje 2 akcji Interakcji, aby usunąć wszystkie przygwożdżające go srebrne sztućce.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.K3r1lfbtCTf3dFhV]{Efekt: Wbij w to Widelec}</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
                         }
                     }
                 },
@@ -1788,24 +1676,6 @@
                         "Threatening Lunge": {
                             "name": "Groźny Zamach",
                             "description": "<p><strong>Wymagania</strong> Szyja rokrokubiego nie jest obecnie wyciągnięta</p>\n<hr />\n<p><strong>Efekt</strong> Głowa rokrokubiego zbliża się na centymetr do twarzy celu przed atakiem. Wyciągają szyję, próbują @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralizować} jednego przeciwnika w promieniu 20 stóp, a następnie wykonują atak szczękami w tego przeciwnika.</p>\n<p>Ich test Demoralizacji jest efektem wizualnym, a nie słuchowym, i nie otrzymują kary, jeśli cel nie rozumie ich języka.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1813,12 +1683,7 @@
                     "name": "Rajul Samudra",
                     "tokenName": "Rajul Samudra",
                     "blurb": "mężczyzna szkutnik",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]{Dok Willowshore}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06dock0000000000]{Dok Willowshore}</p>"
                 },
                 "Grasping Currents": {
                     "name": "Prądy Chwytające",
@@ -1846,18 +1711,6 @@
                         "Pull Arm": {
                             "name": "Pociągnięcie Ramienia",
                             "description": "<p>Kappa wyciąga jedno z ramion, zyskując zasięg 10 stóp. Przeciwne ramię kurczy się do niewiele więcej niż dłoni wystającej ze skorupy. Kappa może nadal używać skróconej ręki do trzymania przedmiotów, ale nie może jej używać do władania tarczą lub bronią.</p>\n<p>Wydając jedną akcję na pociągnięcie przeciwnego ramienia, kappa może przywrócić swoje ramiona do pierwotnej długości.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Medicine": {
-                            "name": "Medycyna"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -1865,12 +1718,7 @@
                     "name": "Yong Wu-Xiu",
                     "tokenName": "Yong Wu-Xiu",
                     "blurb": "kobieta kowal",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]{Huta Eternal Blaze}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06eternalblaze00]{Huta Eternal Blaze}</p>"
                 },
                 "Spider Swarm": {
                     "name": "Rój Pająków",
@@ -1888,15 +1736,6 @@
                         "Swarming Bites": {
                             "name": "Ukąszenie Roju",
                             "description": "<p>Każdy wróg w przestrzeni roju pająków otrzymuje @Damage[1d4[piercing]] obrażeń z rzutem obronnym @Check[reflex|dc:14|basic]].</p>\n<p>Istota, której nie uda się rzut obronny, zostaje wystawiona na działanie jadu roju pająków.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -1915,24 +1754,6 @@
                         "Tinker": {
                             "name": "Majsterkowicz",
                             "description": "<p>Grupa sześciu jinkinów może pracować razem przez godzinę, aby obłożyć przedmiot klątwą w zasięgu 60 stóp. Proces ten jest długotrwały, ale nie rzuca się w oczy i może zostać wykonany podczas @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Ukrycia}. Jinkinowie wolą używać tej umiejętności na magicznych przedmiotach. Klątwa sprawia, że przedmiot jest zawodny (@Check[flat|dc:5] test lub strata akcji na Interakcję lub Aktywację przedmiotu), dodaje dziwaczne wymagania do użycia przedmiotu lub nakłada inną klątwę podobnego kalibru.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Thievery": {
-                            "name": "Złodziejstwo"
                         }
                     }
                 },
@@ -1960,24 +1781,6 @@
                         "Steal Face": {
                             "name": "Kradzież Twarzy",
                             "description": "<p><strong>Częstotliwość</strong> raz na dzień</p>\n<p><strong>Wymagania</strong> Zoudou jest bez twarzy</p>\n<hr />\n<p><strong>Efekt</strong> Zoudou celuje w jedną istotę w promieniu 30 stóp. Istota musi spróbować rzutu obronnego @Check[fortitude|dc:18].</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Nie ma to wpływu na cel.</p>\n<p><strong>Sukces</strong> Cel jest @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Zamroczony} do początku swojej następnej tury.</p>\n<p><strong>Porażka</strong> Noppera-bo zyskuje twarz celu. Twarz celu znika do końca jego następnej tury. Do tego czasu jest @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Oślepiony}, nie może mówić ani połykać, ani czuć zapachów. Cel musi również wstrzymać oddech lub zacząć się dusić.</p>\n<p><strong>Krytyczna Porażka</strong> Jak porażka, ale efekt nie kończy się automatycznie. Cel może podjąć nową próbę rzutu obronnego na koniec każdej swojej tury, a ST kumulatywnie zmniejsza się o 1 przy każdej takiej próbie.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Occultism": {
-                            "name": "Okultyzm"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         },
                         "Remove Face": {
                             "name": "Usunięcie Twarzy",
@@ -2013,20 +1816,8 @@
                             "name": "Nagła Szarża",
                             "description": "<p><strong>Częstotliwość</strong> raz na rundę</p>\n<hr />\n<p><strong>Efekt</strong> Oficer straży wykonuje dwukrotny Bieg. Jeśli zakończy swój ruch w zasięgu co najmniej jednego wroga, może wykonać atak w walce wręcz przeciwko temu wrogowi.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
                         "Legal Lore": {
                             "name": "Wiedza o Prawie"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -2046,14 +1837,8 @@
                             "name": "Siła Tłumu",
                             "description": "<p>Kiedy trzech lub więcej plebejuszy sąsiaduje ze sobą, każdy z nich otrzymuje premię +1 do testów Atletyki do @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Pchnięcia}, rzutów ataku i rzutów na obrażenia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Wiedza (dowolna związana z ich zawodem)"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -2069,18 +1854,6 @@
                         "Pack Attack": {
                             "name": "Grupowy Atak",
                             "description": "<p>Ataki psa zadają 1k4 dodatkowych obrażeń istotom znajdującym się w zasięgu co najmniej dwóch sojuszników psa.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2111,12 +1884,6 @@
                         "Pack Attack": {
                             "name": "Grupowy Atak",
                             "description": "<p>Ataki widmowego wilka zadają dodatkowe 1k4 obrażeń istotom znajdującym się w zasięgu co najmniej jednego z jego sojuszników.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         }
                     }
                 },
@@ -2134,24 +1901,6 @@
                         "Tinker": {
                             "name": "Majsterkowicz",
                             "description": "<p>Grupa sześciu jinkinów może pracować razem przez godzinę, aby obłożyć przedmiot klątwą w zasięgu 60 stóp. Proces ten jest długotrwały, ale nie rzuca się w oczy i może zostać wykonany podczas @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Ukrycia}. Jinkinowie wolą używać tej umiejętności na magicznych przedmiotach. Klątwa sprawia, że przedmiot jest zawodny (@Check[flat|dc:5] test lub strata akcji na Interakcję lub Aktywację przedmiotu), dodaje dziwaczne wymagania do użycia przedmiotu lub nakłada inną klątwę podobnego kalibru.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Thievery": {
-                            "name": "Złodziejstwo"
                         }
                     }
                 },
@@ -2177,12 +1926,6 @@
                         },
                         "Foot": {
                             "name": "Stopa"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
                         }
                     }
                 },
@@ -2201,18 +1944,6 @@
                         "Pull Arm": {
                             "name": "Pociągnięcie Ramienia",
                             "description": "<p>Kappa wyciąga jedno z ramion, zyskując zasięg 10 stóp. Przeciwne ramię kurczy się do niewiele więcej niż dłoni wystającej ze skorupy. Kappa może nadal używać skróconej ręki do trzymania przedmiotów, ale nie może jej używać do władania tarczą lub bronią.</p>\n<p>Wydając jedną akcję na pociągnięcie przeciwnego ramienia, kappa może przywrócić swoje ramiona do pierwotnej długości.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Medicine": {
-                            "name": "Medycyna"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2220,12 +1951,7 @@
                     "name": "Luda Bama",
                     "tokenName": "Luda Bama",
                     "blurb": "kobieta przemytnik",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]{Grzybowy Dom}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06themushroomh00]{Grzybowy Dom}</p>"
                 },
                 "Viper": {
                     "name": "Żmija",
@@ -2242,18 +1968,6 @@
                         "Viper Venom": {
                             "name": "Jad Żmii",
                             "description": "<p><strong>Rzut obronny</strong> @Check[fortitude|dc:16]</p>\n<hr />\n<p><strong>Maksymalny czas trwania</strong> 4 rundy</p>\n<p><strong>Faza 1</strong> @Damage[1d8[poison]] (1 runda).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2271,12 +1985,6 @@
                         },
                         "Crossbow": {
                             "name": "Kusza"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         },
                         "Legal Lore": {
                             "name": "Wiedza o Prawie"
@@ -2308,12 +2016,6 @@
                         "Hungry Flurry": {
                             "name": "Nawałnica Głodu",
                             "description": "<p>Muchołówka wykonuje dwa ataki liśćmi z karą -2, każdy przeciwko innemu celowi. Ataki te wliczają się do kary za wielokrotny atak muchołówki, ale kara za wielokrotny atak wzrasta dopiero po wykonaniu wszystkich ataków.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2351,12 +2053,6 @@
                         "Pummeling Assault": {
                             "name": "Miażdżący Atak",
                             "description": "<p>Każdy wróg w przestrzeni roju otrzymuje @Damage[2d4[bludgeoning]] obrażeń (@Check[reflex|dc:17|basic] rzut obronny).</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2387,21 +2083,6 @@
                         "Hunt Prey": {
                             "name": "Naznaczona Ofiara",
                             "description": "<p>Kłusownik wyznacza jedno stworzenie, które widzi i słyszy lub które śledzi, jako swoją ofiarę.</p>\n<p>Kłusownik zyskuje premię +2 do testów Percepcji do @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Poszukiwania} ofiary oraz do testów Przetrwania do @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Śledzenia} ofiary.</p>\n<p>Za pierwszym razem, gdy kłusownik trafi wyznaczoną ofiarę w rundzie, zadaje dodatkowe 1k8 precyzyjnych obrażeń. Kłusownik ignoruje również karę za wykonywanie ataków dystansowych w ramach drugiego przyrostu zasięgu.</p>\n<p>Efekty te utrzymują się, dopóki kłusownik nie użyje ponownie Naznaczonej Ofiary.</p>"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2429,15 +2110,6 @@
                         "Filth Fever": {
                             "name": "Gorączka Brudu",
                             "description": "<p>Stany @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości} i @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} z gorączki brudu nie poprawiają się same, dopóki choroba nie zostanie wyleczona.</p>\n<p><strong>Rzut Obronny</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>Etap 1</strong> nosiciel bez żadnych negatywnych skutków ([[/br 1d4 #Inkubacja]]{1k4 godzin})</p>\n<p><strong>Etap 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1} (1 dzień)</p>\n<p><strong>Etap 3</strong> Mdłości 1 i @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Spowolnienie 1} tak długo, jak dotknięta nim istota pozostaje chora (1 dzień)</p>\n<p><strong>Etap 4</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (1 dzień)</p>\n<p><strong>Etap 5</strong> śmierć</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2461,18 +2133,6 @@
                         "Impersonate Shape": {
                             "name": "Kształt Naśladowania",
                             "description": "<p>Noppera-bo zmienia się w wersję małego lub średniego humanoida, którego dotknął w ciągu ostatnich 24 godzin, i zyskuje twarz i głos docelowej istoty. Podczas transformacji, noppera-bo zyskuje premię +2 do @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Nasladowania} tej istoty i traci swoją umiejętność braku twarzy oraz wymienione niewrażliwości. Noppera-bo może zmienić się z powrotem poprzez ponowne użycie tej zdolności.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         }
                     }
                 },
@@ -2503,12 +2163,6 @@
                         "Boar Charge": {
                             "name": "Szarża Dzika",
                             "description": "<p>Widmowy dzik podbiega dwukrotnie, a następnie wykonuje Atak kłem. Dopóki porusza się na odległość co najmniej 20 stóp, otrzymuje premię +2 do rzutu ataku.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         }
                     }
                 },
@@ -2528,14 +2182,8 @@
                             "name": "Siła Tłumu",
                             "description": "<p>Kiedy trzech lub więcej plebejuszy sąsiaduje ze sobą, każdy z nich otrzymuje premię +1 do testów Atletyki do @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Pchnięcia}, rzutów ataku i rzutów na obrażenia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Wiedza (dowolna związana z ich zawodem)"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -2547,23 +2195,13 @@
                     "name": "Kawaka Myna",
                     "tokenName": "Kawaka Myna",
                     "blurb": "mężczyzna przywódca gildii",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]{Dom z papieru w chmurze}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06industrialdi00#cloud-paper-house-paper-mill-3]{Dom z papieru w chmurze}</p>"
                 },
                 "Mountain Summit Grass": {
                     "name": "Trawa Górska",
                     "tokenName": "Trawa Górska",
                     "blurb": "bezpłciowy producent herbaty",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]{Saloon Leszych}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theleshyssal00]{Saloon Leszych}</p>"
                 },
                 "Zoudou": {
                     "name": "Zoudou",
@@ -2592,17 +2230,8 @@
                             "name": "Przesunięcie Widłami",
                             "description": "<p><strong>Wymagania</strong> Ostatnią akcją rolnika był udany atak widłami</p><hr /><p><strong>Efekt</strong> Rolnik przesuwa istotę trafioną widłami na odległość do 5 stóp, a cel @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Przewraca} się. Cel może wykonać rzut obronny @Check[reflex|dc:13], aby uniknąć upadku, a w przypadku sukcesu krytycznego uniknie całkowicie przesunięcia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Farming Lore": {
                             "name": "Wiedza o Rolnictwie"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2655,18 +2284,6 @@
                         "Thicket Walker": {
                             "name": "Wędrowiec wśród Zarośli",
                             "description": "<p>Strzecha ignoruje trudny teren spowodowany przez jeżyny, splątaną trawę i zarośla, nawet te manipulowane magią.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Performance": {
-                            "name": "Występy"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2682,15 +2299,6 @@
                         "Lithe": {
                             "name": "Gibki",
                             "description": "<p>Łasica traktuje każdą ciasną przestrzeń, w której ledwo mieści głowę lub szerszą, jako trudny teren i nie musi @UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{Przeciskać się}, aby się po nim poruszać.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2745,32 +2353,8 @@
                             "name": "Duchowy dotyk",
                             "description": "<p>Ataki shinigami mogą wpływać na bezcielesne istoty z efektem runy właściwości <em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Niematerialnego dotyku}</em>.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Arcana": {
-                            "name": "Arkana"
-                        },
                         "Boneyard Lore": {
                             "name": "Wiedza o Cmentarzysku"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
-                        "Occultism": {
-                            "name": "Okultyzm"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2805,12 +2389,6 @@
                         "Tongue Grab": {
                             "name": "Chwyt Językiem",
                             "description": "<p>Stworzenie trafione przez język olbrzymiej ropuchy zostaje @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Pochwycona} przez olbrzymią ropuchę. Stworzenie nie jest @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Unieruchomione}, ale nie może wyjść poza zasięg języka ropuchy. Stworzenie może odciąć język ropuchy udanym atakiem przeciwko KP 15, który zadaje co najmniej 6 obrażeń ciętych.</p>\n<p>Nie powoduje to żadnych obrażeń u ropuchy, ale uniemożliwia jej użycie ataku językiem do czasu odrośnięcia języka, co trwa tydzień.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -2827,17 +2405,8 @@
                             "name": "Podniesienie tarczy",
                             "description": "<p>Taca do serwowania ma takie same statystyki jak @UUID[Compendium.pf2e.equipment-srd.Item.1k3AsSW7lpU0kEpY]{Puklerz}, ale wymaga ręki do trzymania.</p>\n<hr />\n<p><strong>Wymagania</strong> Dzierżysz tarczę</p>\n<hr />\n<p>Ustawiasz tarczę, aby się chronić. Po podniesieniu tarczy zyskujesz wymienioną premię okolicznościową do KP. Tarcza pozostaje podniesiona do początku następnej tury.</p>\n<p>@UUID[Compendium.pf2e.action-macros.Macro.4hfQEMiEOBbqelAh]{Podniesienie tarczy}</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
                         "Household Lore": {
                             "name": "Wiedza o Gospodarstwie Domowym"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -2856,24 +2425,6 @@
                         "Tinker": {
                             "name": "Majsterkowicz",
                             "description": "<p>Grupa sześciu jinkinów może pracować razem przez godzinę, aby obłożyć przedmiot klątwą w zasięgu 60 stóp. Proces ten jest długotrwały, ale nie rzuca się w oczy i może zostać wykonany podczas @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Ukrycia}. Jinkinowie wolą używać tej umiejętności na magicznych przedmiotach. Klątwa sprawia, że przedmiot jest zawodny (@Check[flat|dc:5] test lub strata akcji na Interakcję lub Aktywację przedmiotu), dodaje dziwaczne wymagania do użycia przedmiotu lub nakłada inną klątwę podobnego kalibru.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Thievery": {
-                            "name": "Złodziejstwo"
                         }
                     }
                 },
@@ -2888,9 +2439,6 @@
                         "Slow": {
                             "name": "Spowolnienie",
                             "description": "<p>Zombie jest na stałe @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Spowolniony 1} i nie może używać reakcji.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
                         }
                     }
                 },
@@ -2919,12 +2467,6 @@
                         "Spore Domination": {
                             "name": "Dominacja Zarodników",
                             "description": "<p>Myceloid celuje w jedną istotę dotkniętą fioletową ospą w promieniu 60 stóp. Ta istota musi wykonać rzut obronny @Check[will|dc:22].</p>\n<p>Jest wtedy tymczasowo niewrażliwy na dominację zarodników przez 10 minut.</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Nie ma to wpływu na cel.</p>\n<p><strong>Sukces</strong> Do końca swojej następnej tury cel jest @UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{Pomocny} dla myceloidów i nie może podejmować wrogich działań przeciwko nim.</p>\n<p><strong>Porażka</strong> Jak sukces, ale przez 1 minutę.</p>\n<p><strong>Krytyczna Porażka</strong> Jako sukces, ale dopóki purpurowa ospa nie zostanie wyleczona.</p>"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -2943,24 +2485,6 @@
                         "Far Too Drunk": {
                             "name": "Zbyt Pijany",
                             "description": "<p>Jinkiny są nieefektywne w wykonywaniu swoich akcji i zawsze poświęcają jedną akcję w każdej rundzie na rechotanie, potykanie się w miejscu lub inne nieefektywne wybryki.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Thievery": {
-                            "name": "Złodziejstwo"
                         }
                     }
                 },
@@ -2968,12 +2492,7 @@
                     "name": "Kim Gu-won",
                     "tokenName": "Kim Gu-won",
                     "blurb": "męski duchowny z Kofusachi",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]{Giełda Ceiba-Duyue}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06theceibaduyu00]{Giełda Ceiba-Duyue}</p>"
                 },
                 "Farmers' Gift": {
                     "name": "Prezent od rolników",
@@ -2994,12 +2513,6 @@
                         "Cave Scorpion Venom": {
                             "name": "Jad Skorpiona Jaskiniowego",
                             "description": "<p><strong>Rzut Obronny</strong> @Check[fortitude|dc:17]</p>\n<hr />\n<p><strong>Maksymalny Czas Trwania</strong> 6 rund</p>\n<p><strong>Etap 1</strong> @Damage[1d4[poison]] obrażeń (1 runda)</p>\n<p><strong>Etap 2</strong> @Damage[1d6[poison]] obrażeń i @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} (1 runda)</p>\n<p><strong>Etap 3</strong> @Damage[1d8[poison]] obrażeń i @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 2} (1 runda).</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -3013,14 +2526,8 @@
                     "blurb": "prawniczka",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06luoandlaws0000]{Luo i Prawa}</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
                         "Law Lore": {
                             "name": "Wiedza Prawnicza"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -3035,15 +2542,6 @@
                         "Boar Charge": {
                             "name": "Szarża Dzika",
                             "description": "<p>Dzik podbiega dwukrotnie, a następnie wykonuje Atak kłem. Dopóki porusza się na odległość co najmniej 20 stóp, otrzymuje premię +2 do rzutu ataku.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -3102,20 +2600,11 @@
                             "name": "Zmiana Rozmiaru Rośliny",
                             "description": "<p><strong>Częstotliwość</strong> dwa razy dziennie.</p>\n<p><strong>Wymagania</strong> Buso dotyka małej, średniej lub dużej rośliny.</p>\n<hr />\n<p><strong>Efekt</strong> Roślina rośnie lub kurczy się o jeden rozmiar, pozostając w tym rozmiarze przez następne 5 minut. Jeśli użyty na stworzeniu roślinnym, efekt ten ma działanie @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Powiększenia} lub @UUID[Compendium.pf2e.spells-srd.Item.PjhUmyKnq6K5uDby]{Zmniejszenia} (do wyboru Buso). Niechętne stworzenia roślinne mogą wykonać rzut obronny @Check[fortitude|dc:18], aby oprzeć się temu efektowi.</p>"
                         },
-                        "Arcana": {
-                            "name": "Arkana"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Cooking Lore": {
                             "name": "Wiedza o Kucharstwie"
                         },
                         "Farming Lore": {
                             "name": "Wiedza o Rolnictwie"
-                        },
-                        "Nature": {
-                            "name": "Natura"
                         }
                     }
                 },
@@ -3123,12 +2612,7 @@
                     "name": "Yun Mong-un",
                     "tokenName": "Yun Mong-un",
                     "blurb": "kobieta, przywódczyni gildii",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]{Gildia snycerzy}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06mercantilest00]{Gildia snycerzy}</p>"
                 },
                 "Choe Chung-hu": {
                     "name": "Choe Chung-hu",
@@ -3138,9 +2622,6 @@
                     "items": {
                         "Abadar Lore": {
                             "name": "Wiedza o Abadarze"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
                         }
                     }
                 },
@@ -3170,15 +2651,6 @@
                         "Giant Centipede Venom": {
                             "name": "Jad Olbrzymiej Skolopendry",
                             "description": "<p><strong>Rzut Obronny</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>Maksymalny Czas Trwania</strong> 6 rund</p>\n<p><strong>Etap 1</strong> @Damage[1d6[poison]] obrażeń (1 runda)</p>\n<p><strong>Etap 2</strong> @Damage[1d8[poison]] obrażeń i @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Odsłonięty} (1 runda)</p>\n<p><strong>Etap 3</strong> @Damage[1d12[poison]] obrażeń, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Niezdarny 1}, i @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Zmęczony} (1 runda)</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -3198,12 +2670,6 @@
                     "blurb": "reżyser",
                     "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#the-seven-colored-songbird-theater-5]{Siedmiokolorowy Śpiewak}</p>",
                     "items": {
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Performance": {
-                            "name": "Występy"
-                        },
                         "Shelyn Lore": {
                             "name": "Wiedza o Shelyn"
                         }
@@ -3213,12 +2679,7 @@
                     "name": "Zataku",
                     "tokenName": "Zataku",
                     "blurb": "kobieta rybak",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]{Farmy i doki rybackie}</p>",
-                    "items": {
-                        "Nature": {
-                            "name": "Natura"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06fisheries00000#fishers-farms-and-docks-guild-3]{Farmy i doki rybackie}</p>"
                 },
                 "Yix": {
                     "name": "Yix",
@@ -3240,26 +2701,11 @@
                             "name": "Duchowy dotyk",
                             "description": "<p>Ataki nosoi korzystają z runy <em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Niematerialnego dotyku}</em> i zadają dodatkowe obrażenia @Damage[1d6[void]] żywym istotom lub @Damage[1d6[vitality]] nieumarłym.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
                         "Boneyard Lore": {
                             "name": "Wiedza o Cmentarzysku"
                         },
                         "Library Lore": {
                             "name": "Wiedza o Bibliotekarstwie"
-                        },
-                        "Performance": {
-                            "name": "Występy"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -3279,14 +2725,8 @@
                             "name": "Siła Tłumu",
                             "description": "<p>Kiedy trzech lub więcej plebejuszy sąsiaduje ze sobą, każdy z nich otrzymuje premię +1 do testów Atletyki do @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Pchnięcia}, rzutów ataku i rzutów na obrażenia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Wiedza (dowolna związana z ich zawodem)"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -3307,18 +2747,6 @@
                         "Impersonate Shape": {
                             "name": "Kształt Naśladowania",
                             "description": "<p>Noppera-bo zmienia się w wersję małego lub średniego humanoida, którego dotknął w ciągu ostatnich 24 godzin, i zyskuje twarz i głos docelowej istoty. Podczas transformacji, noppera-bo zyskuje premię +2 do @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Nasladowania} tej istoty i traci swoją umiejętność braku twarzy oraz wymienione niewrażliwości. Noppera-bo może zmienić się z powrotem poprzez ponowne użycie tej zdolności.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         },
                         "Shortbow": {
                             "name": "Krótki Łuk"
@@ -3366,23 +2794,8 @@
                             "name": "Duchowa Pułapka z pajęczyny",
                             "description": "<p>Istota trafiona pajęczyną kamiennego pająka zostaje @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Unieruchomiona} i przyklejona do najbliższej powierzchni, dopóki nie Uwolni się (ST 22).</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        },
                         "Settlement Lore (Regarding their Home Settlement)": {
                             "name": "Wiedza o Osadzie (W odniesieniu do ich domowego osiedla)"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -3390,12 +2803,7 @@
                     "name": "Nadoya Sanmi",
                     "tokenName": "Nadoya Sanmi",
                     "blurb": "matriarchini rodziny",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]{Odpoczynek Treesparrow}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06downtownwill00#treesparrows-rest-business-3]{Odpoczynek Treesparrow}</p>"
                 },
                 "Shallow Grave": {
                     "name": "Płytki grób",
@@ -3432,12 +2840,6 @@
                         "Vulnerable to Kindness": {
                             "name": "Wrażliwy na Życzliwość",
                             "description": "<p>Każda istota w promieniu 30 stóp, którą fantom widzi i słyszy, może pozdrowić go w spokojny i przyjazny sposób w ramach czynności dwóch akcji z cechami słuchu, koncentracji, lingwistyki i umysłu. Istota witająca fantoma w ten sposób musi wykonać test @Check[diplomacy|dc:15].</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Fantom otrzymuje @Damage[4d8[mental]] obrażeń i jest @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Ogłuszony 1}.</p>\n<p><strong>Sukces</strong> Fantom otrzymuje @Damage[2d8[mental]] obrażeń.</p>\n<p><strong>Porażka</strong> Fantom otrzymuje @Damage[1d8[mental]] obrażeń.</p>\n<p><strong>Krytyczna Porażka</strong> Fantom jest niewrażliwy na tę podatność i nie ma na niego wpływu przez 1 rundę.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
                         }
                     }
                 },
@@ -3445,15 +2847,7 @@
                     "name": "Ba-Ming Ouh",
                     "tokenName": "Ba-Ming Ouh",
                     "blurb": "kapłanka",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]{Świątynia Dziewięciu Uszu}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06nineearshrin00]{Świątynia Dziewięciu Uszu}</p>"
                 },
                 "Cockroach Swarm": {
                     "name": "Rój Karaluchów",
@@ -3467,12 +2861,6 @@
                         "Swarming Bites": {
                             "name": "Ukąszenie Roju",
                             "description": "<p>Każdy przeciwnik znajdujący się w przestrzeni roju otrzymuje obrażenia @Damage[1d8[piercing]] (z podstawowym rzutem obronnym @Check[reflex|dc:18|basic]).</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -3490,12 +2878,6 @@
                         "Mauler": {
                             "name": "Miażdżący Cios",
                             "description": "<p>Czarny niedźwiedź zyskuje premię okoliczności +1 do rzutów na obrażenia przeciwko istotom, które pochwycił.</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -3524,21 +2906,6 @@
                         "Distracting Gaze": {
                             "name": "Rozpraszające Spojrzenie",
                             "description": "<p>@Template[type:emanation|distance:30] @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.v61oEQaDdcRpaZ9X].</p>\n<hr />\n<p>Kiedy stworzenie kończy swoją turę w zasięgu aury, musi wykonać rzut obronny @Check[type:will|dc:23]. Kodama może aktywować lub dezaktywować tę aurę za pomocą pojedynczej akcji, która ma cechę koncentracji.</p>\n<p><strong>Sukces</strong> Nie ma to wpływu na stworzenie.</p><hr />\n<p><strong>Porażka</strong> Stworzenie jest @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Zafascynowane}. Ten stan kończy się, jeśli istota zakończy swoją turę poza aurą.</p>\n<p><strong>Krytyczna Porażka</strong> Jak porażka, plus stworzenie jest @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Spowolnione 1} tak długo, jak pozostaje zafascynowane.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Nature": {
-                            "name": "Natura"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
-                        "Survival": {
-                            "name": "Przetrwanie"
                         }
                     }
                 },
@@ -3611,15 +2978,6 @@
                         },
                         "Cooking Lore": {
                             "name": "Wiedza o Kucharstwie"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -3650,18 +3008,6 @@
                             "name": "Kształt Naśladowania",
                             "description": "<p>Noppera-bo zmienia się w wersję małego lub średniego humanoida, którego dotknął w ciągu ostatnich 24 godzin, i zyskuje twarz i głos docelowej istoty. Podczas transformacji, noppera-bo zyskuje premię +2 do @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Nasladowania} tej istoty i traci swoją umiejętność braku twarzy oraz wymienione niewrażliwości. Noppera-bo może zmienić się z powrotem poprzez ponowne użycie tej zdolności.</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
-                        },
                         "Shortbow": {
                             "name": "Krótki Łuk"
                         },
@@ -3689,12 +3035,7 @@
                     "name": "You So-Jin",
                     "tokenName": "You So-Jin",
                     "blurb": "zielarka",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]{Cmentarz Graveside Manners}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06gravesideman00]{Cmentarz Graveside Manners}</p>"
                 },
                 "Hongrui’s Gratitude": {
                     "name": "Wdzięczność Hongrui",
@@ -3717,17 +3058,8 @@
                             "name": "Podniesienie tarczy",
                             "description": "<p>Taca do serwowania ma takie same statystyki jak @UUID[Compendium.pf2e.equipment-srd.Item.1k3AsSW7lpU0kEpY]{Puklerz}, ale wymaga ręki do trzymania.</p>\n<hr />\n<p><strong>Wymagania</strong> Dzierżysz tarczę</p>\n<hr />\n<p>Ustawiasz tarczę, aby się chronić. Po podniesieniu tarczy zyskujesz wymienioną premię okolicznościową do KP. Tarcza pozostaje podniesiona do początku następnej tury.</p>\n<p>@UUID[Compendium.pf2e.action-macros.Macro.4hfQEMiEOBbqelAh]{Podniesienie tarczy}</p>"
                         },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
                         "Household Lore": {
                             "name": "Wiedza o Gospodarstwie Domowym"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
@@ -3743,12 +3075,6 @@
                         "Cunning": {
                             "name": "Przebiegłość",
                             "description": "<p>Kruk może używać prostych przedmiotów jako narzędzi, takich jak wbijanie patyka w otwór, aby wyrwać kawałek jedzenia. Są również dość biegłe w kradzieży przedmiotów. Kruk nie może używać Złodziejstwa do @UUID[Compendium.pf2e.actionspf2e.Item.ijZ0DDFpMkWqaShd], @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6] lub @UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H], ale może użyć Złodziejstwa do @UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Kradzieży} lekkich przedmiotów, które może przenosić w dziobie lub szponach lub wykonywać inne stosunkowo proste zadania.</p>"
-                        },
-                        "Acrobatics": {
-                            "name": "Akrobatyka"
-                        },
-                        "Thievery": {
-                            "name": "Złodziejstwo"
                         }
                     }
                 },
@@ -3767,12 +3093,6 @@
                         "Slime Rot": {
                             "name": "Zgnilizna Śluzu",
                             "description": "<p><strong>Rzut Obronny</strong> @Check[fortitude|dc:18]</p>\n<p><strong>Początek</strong> [[/br 1d4 #dni]]{1k4 dni}</p>\n<p><strong>Etap 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} i @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 1} (1 dzień)</p>\n<p><strong>Etap 2</strong> jak etap 1 (1 dzień)</p>\n<p><strong>Etap 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Wysączony 1}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 2}, i @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Mdłości 2} (1 dzień)</p>\n<p><strong>Etap 4</strong> jak etap 3 (1 dzień)</p>\n<p><strong>Etap 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Wysączony 2} plus @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (brak testu percepcji, aby się obudzić) (1 dzień)</p>\n<p><strong>Etap 6</strong> martwy, a ciało wybucha, uwalniając nowego śluzowca</p>"
-                        },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Stealth": {
-                            "name": "Ukrycie"
                         }
                     }
                 },
@@ -3803,24 +3123,6 @@
                             "name": "Chcesz mnie Wypróbować?",
                             "description": "<p><strong>Wyzwalacz</strong> Istota w promieniu 30 stóp próbuje @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Wymusić} lub @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Zdemoralizować} istotę.</p>\n<hr />\n<p><strong>Efekt</strong> Babcia Hu grozi ujawnieniem sekretu aktywującej się istoty. Wykonuje ona test @Check[intimidation|defense:will] przeciwko ST woli wyzwalającej istoty. Jej reputacja sprawia, że może grozić bohaterom, nawet jeśli nie zna żadnego sekretu, ale jeśli zna szczególnie niebezpieczny lub haniebny sekret, zyskuje premię +2 do testu Zastraszania.</p>\n<hr />\n<p><strong>Krytyczny Sukces</strong> Stworzenie otrzymuje @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Przestraszony 2}, a wynik jego próby Przymuszenia lub Demoralizacji zostaje obniżony o jeden stopień sukcesu.</p>\n<p><strong>Sukces</strong> Jak sukces, ale @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Przestraszony 1}.</p>\n<p><strong>Porażka</strong> Nie ma to wpływu na stworzenie.</p>\n<p><strong>Krytyczna Porażka</strong> Nie ma to wpływu na daną istotę, zyskuje ona premię +1 do okoliczności przy próbie Przymuszenia lub Demoralizacji i jest niewrażliwa na Chcesz mnie Wypróbować? przez 24 godziny.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Deception": {
-                            "name": "Oszustwo"
-                        },
-                        "Diplomacy": {
-                            "name": "Dyplomacja"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
-                        },
                         "Willowshore Lore": {
                             "name": "Wiedza o Willowshore"
                         }
@@ -3841,12 +3143,6 @@
                         "Crossbow": {
                             "name": "Kusza"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
-                        "Intimidation": {
-                            "name": "Zastraszanie"
-                        },
                         "Legal Lore": {
                             "name": "Wiedza o Prawie"
                         }
@@ -3856,18 +3152,7 @@
                     "name": "Elizeth Candora",
                     "tokenName": "Elizeth Candora",
                     "blurb": "kapłanka Pharasmy",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]{Dama Dusz}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Performance": {
-                            "name": "Występy"
-                        },
-                        "Religion": {
-                            "name": "Religia"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06ladyofsouls000]{Dama Dusz}</p>"
                 },
                 "Heh Shan-Bao": {
                     "name": "Heh Shan-Bao",
@@ -3879,29 +3164,13 @@
                     "name": "Igawa Jubei",
                     "tokenName": "Igawa Jubei",
                     "blurb": "czarodziejka",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]{Krąg Matki}</p>",
-                    "items": {
-                        "Arcana": {
-                            "name": "Arkana"
-                        },
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06motherscoil000]{Krąg Matki}</p>"
                 },
                 "Dr. Damihansig Mababangloob": {
                     "name": "Dr. Damihansig Mababangloob",
                     "tokenName": "Dami",
                     "blurb": "mężczyzna lekarz",
-                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]{Ręka Wiosny}</p>",
-                    "items": {
-                        "Crafting": {
-                            "name": "Rzemiosło"
-                        },
-                        "Medicine": {
-                            "name": "Medycyna"
-                        }
-                    }
+                    "privateNotes": "<p>@UUID[JournalEntry.pf2ap19606willow.JournalEntryPage.06thehandofspr00]{Ręka Wiosny}</p>"
                 },
                 "Sanmi Family Member": {
                     "name": "Członek rodziny Sanmi",
@@ -3919,14 +3188,8 @@
                             "name": "Siła Tłumu",
                             "description": "<p>Kiedy trzech lub więcej plebejuszy sąsiaduje ze sobą, każdy z nich otrzymuje premię +1 do testów Atletyki do @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Pchnięcia}, rzutów ataku i rzutów na obrażenia.</p>"
                         },
-                        "Athletics": {
-                            "name": "Atletyka"
-                        },
                         "Lore (any one related to their trade)": {
                             "name": "Wiedza (dowolna związana z ich zawodem)"
-                        },
-                        "Society": {
-                            "name": "Społeczeństwo"
                         }
                     }
                 },
