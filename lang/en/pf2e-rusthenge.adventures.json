@@ -1395,7 +1395,9 @@
                     "items": {
                         "Navigational Logs": {
                             "name": "Navigational Logs",
-                            "description": "<p>Navigational logs and notes that reveal the Swordfish to be a mercenary ship that traditionally hires out to Thassilonian nobility, not a merchant’s ship.</p>"
+                            "description": "<p>Navigational logs and notes that reveal the Swordfish to be a mercenary ship that traditionally hires out to Thassilonian nobility, not a merchant’s ship.</p>",
+                            "unidentified": "Documents",
+                            "unidentified_desc": "<p>Swordfish documents</p>"
                         }
                     }
                 },
@@ -2291,7 +2293,9 @@
                         },
                         "Key to E3": {
                             "name": "Key to E3",
-                            "description": "<p>The key to the bedroom prison.</p>"
+                            "description": "<p>The key to the bedroom prison.</p>",
+                            "unidentified": "Key",
+                            "unidentified_desc": "<p>The key&nbsp;sits on the desk under the journal.</p>"
                         }
                     }
                 },
