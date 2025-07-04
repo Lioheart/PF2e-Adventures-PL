@@ -1096,7 +1096,9 @@
                         "Yen Rui’s Notes": {
                             "name": "Notatki Yen Rui",
                             "description": "<p>Otwarta książka pod czaszką zawiera notatki Yen Rui.</p>",
-                            "gmNote": "<p>Otwarta książka pod czaszką zawiera notatki Yen Rui, które dają bohaterom dostęp do @UUID[JournalEntry.pf2ap19704inther.JournalEntryPage.04e11hiddenlib00], jeśli zamiast z nią rozmawiać, zdecydują się zniszczyć poltergeisty.</p>"
+                            "gmNote": "<p>Otwarta książka pod czaszką zawiera notatki Yen Rui, które dają bohaterom dostęp do @UUID[JournalEntry.pf2ap19704inther.JournalEntryPage.04e11hiddenlib00], jeśli zamiast z nią rozmawiać, zdecydują się zniszczyć poltergeisty.</p>",
+                            "unidentified": "Otwarta księga",
+                            "unidentified_desc": "<p>Otwarta księga.</p>"
                         }
                     }
                 },
