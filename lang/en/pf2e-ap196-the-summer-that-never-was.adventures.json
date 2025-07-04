@@ -1619,9 +1619,7 @@
                         "Love Letters": {
                             "name": "Love Letters",
                             "description": "<p>Reading the letters reveals a secret and blossoming relationship between the youngest generation of the Sanmi and Hu families, Yuli Sanmi and Hu Lelong.</p>",
-                            "gmNote": "<p>Once the PCs discover these notes, allow them to attempt a @Check[willowshore-lore|dc:10|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check or @Check[society|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check to Recall Knowledge that the highly traditional Sanmi family wouldn’t approve of this relationship. These notes might prove useful in resolving the situation in area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03mudwallhouse00].</p>",
-                            "unidentified": "Letters",
-                            "unidentified_desc": "<p>A stack of letters hidden in a compartment beneath a dresser drawer.&nbsp;</p>"
+                            "gmNote": "<p>Once the PCs discover these notes, allow them to attempt a @Check[willowshore-lore|dc:10|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check or @Check[society|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge] check to Recall Knowledge that the highly traditional Sanmi family wouldn’t approve of this relationship. These notes might prove useful in resolving the situation in area @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03mudwallhouse00].</p>"
                         }
                     }
                 },
@@ -1651,9 +1649,7 @@
                     "items": {
                         "Key to B6": {
                             "name": "Key to B6",
-                            "description": "<p>Zheng's key to the armory.</p>",
-                            "unidentified": "Armory Key",
-                            "unidentified_desc": "<p>Zheng's key to the armory.</p>"
+                            "description": "<p>Zheng's key to the armory.</p>"
                         }
                     }
                 },
@@ -2029,9 +2025,7 @@
                     "items": {
                         "Key to B4": {
                             "name": "Key to B4",
-                            "description": "<p>Key found in the corner of the Prison.</p>",
-                            "unidentified": "Prison Key",
-                            "unidentified_desc": "<p>Key found in the corner of the Prison.</p>"
+                            "description": "<p>Key found in the corner of the Prison.</p>"
                         }
                     }
                 },
@@ -2216,9 +2210,7 @@
                         "Zoudou's Tattered Leather-bound Ledger": {
                             "name": "Zoudou's Tattered Leather-bound Ledger",
                             "description": "<p>The tattered leather-bound ledger that Zoudou carries was once used by the lumber camp boss to track profits and expenditures, but only the first quarter of the pages contain these mundane annotations. The rest of the journal is filled with Zoudou’s dense notes and theories about the nature of Kugaptee, the Wall of Ghosts, and the “paradise” she has come to believe lies beyond the wall. These notes are all written in a mix of Abyssal and Aklo, so a character must be able to read both languages to study the contents. A character who can read both Abyssal and Aklo can use the journal to learn the <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Consecrate}</em> ritual.</p>",
-                            "gmNote": "<p>An even greater use for the information is explored in the next adventure, where clues within Zoudou’s notes can help the PCs open a doorway through the Wall of Ghosts.</p>",
-                            "unidentified": "Tattered Leather-bound Ledger",
-                            "unidentified_desc": "<p>The tattered leather-bound ledger that Zoudou carries was once used by the lumber camp boss to track profits and expenditures, but only the first quarter of the pages contain these mundane annotations. The rest of the journal is filled with Zoudou&rsquo;s dense notes.</p>"
+                            "gmNote": "<p>An even greater use for the information is explored in the next adventure, where clues within Zoudou’s notes can help the PCs open a doorway through the Wall of Ghosts.</p>"
                         }
                     }
                 },
@@ -2588,9 +2580,7 @@
                         "Financial Paperwork": {
                             "name": "Financial Paperwork",
                             "description": "<p>Paperwork that lays bare the fact that the teahouse’s financial troubles began long before Lung Wa collapsed. The papers also include a document titled “The Last Will and Testament of Qing Mai-Lai”.</p>",
-                            "gmNote": "<p>the PCs know Mai-Lai was the last proprietor of the Cerulean Teahouse. This document is key to the PCs legitimizing their claim over the teahouse if they want to run it as a business. See @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04opportunitie00#the-teahouse-owners-will] for more information.</p>",
-                            "unidentified": "Paperwork ",
-                            "unidentified_desc": "<p>Teahouse Paperwork</p>"
+                            "gmNote": "<p>the PCs know Mai-Lai was the last proprietor of the Cerulean Teahouse. This document is key to the PCs legitimizing their claim over the teahouse if they want to run it as a business. See @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04opportunitie00#the-teahouse-owners-will] for more information.</p>"
                         }
                     }
                 },
@@ -2670,9 +2660,7 @@
                     "items": {
                         "Keys to C2": {
                             "name": "Keys to C2",
-                            "description": "<p>Mo Douqiu's Keys</p>",
-                            "unidentified": "Mo Douqiu's Keys",
-                            "unidentified_desc": "<p>Mo Douqiu's Keys</p>"
+                            "description": "<p>Mo Douqiu's Keys</p>"
                         }
                     }
                 },
@@ -2942,9 +2930,7 @@
                     "items": {
                         "Desertation Documents": {
                             "name": "Desertation Documents",
-                            "description": "<p>The documents strewn about the room indicate that while the lumber camp was still producing in its final months, upheaval from the collapse of Lung Wa was resulting in discord and desertion that ultimately led to the site being abandoned.</p>",
-                            "unidentified": "Documents",
-                            "unidentified_desc": "<p>Camp office documents</p>"
+                            "description": "<p>The documents strewn about the room indicate that while the lumber camp was still producing in its final months, upheaval from the collapse of Lung Wa was resulting in discord and desertion that ultimately led to the site being abandoned.</p>"
                         }
                     }
                 },
