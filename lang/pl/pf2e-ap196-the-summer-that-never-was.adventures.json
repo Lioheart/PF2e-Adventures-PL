@@ -1619,7 +1619,9 @@
                         "Love Letters": {
                             "name": "Listy miłosne",
                             "description": "<p>Lektura listów ujawnia sekretną i kwitnącą relację między najmłodszym pokoleniem rodzin Sanmi i Hu, Yuli Sanmi i Hu Lelongiem.</p>",
-                            "gmNote": "<p>Gdy bohaterowie odkryją te notatki, pozwól im wykonać test @Check[wiedza-o-willowshore-lore|dc:10|traits:concentrate,secret,skill,action:recall-knowledge|name:Przywołanie Wiedzy] lub @Check[society|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Przywołanie Wiedzy], aby przywołać wiedzę, że bardzo tradycyjna rodzina Sanmi nie zaakceptowałaby tego związku. Notatki te mogą okazać się przydatne w rozwiązaniu sytuacji w obszarze @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03mudwallhouse00].</p>"
+                            "gmNote": "<p>Gdy bohaterowie odkryją te notatki, pozwól im wykonać test @Check[wiedza-o-willowshore-lore|dc:10|traits:concentrate,secret,skill,action:recall-knowledge|name:Przywołanie Wiedzy] lub @Check[society|dc:15|traits:concentrate,secret,skill,action:recall-knowledge|name:Przywołanie Wiedzy], aby przywołać wiedzę, że bardzo tradycyjna rodzina Sanmi nie zaakceptowałaby tego związku. Notatki te mogą okazać się przydatne w rozwiązaniu sytuacji w obszarze @UUID[JournalEntry.pf2ap19603reclai.JournalEntryPage.03mudwallhouse00].</p>",
+                            "unidentified": "Listy",
+                            "unidentified_desc": "<p>Stos listów ukrytych w schowku pod szufladą komody.</p>"
                         }
                     }
                 },
@@ -1649,7 +1651,9 @@
                     "items": {
                         "Key to B6": {
                             "name": "Klucz do B6",
-                            "description": "<p>Klucz Zhenga do zbrojowni.</p>"
+                            "description": "<p>Klucz Zhenga do zbrojowni.</p>",
+                            "unidentified": "Klucz do zbrojowni",
+                            "unidentified_desc": "<p>Klucz Zhenga do zbrojowni.</p>"
                         }
                     }
                 },
@@ -2025,7 +2029,9 @@
                     "items": {
                         "Key to B4": {
                             "name": "Klucz do B4",
-                            "description": "<p>Klucz znaleziony w rogu więzienia.</p>"
+                            "description": "<p>Klucz znaleziony w rogu więzienia.</p>",
+                            "unidentified": "Klucz więzienny",
+                            "unidentified_desc": "<p>Klucz znaleziony w rogu więzienia.</p>"
                         }
                     }
                 },
@@ -2210,7 +2216,9 @@
                         "Zoudou's Tattered Leather-bound Ledger": {
                             "name": "Poszarpana, oprawiona w skórę księga Zoudou",
                             "description": "<p>Podniszczona, oprawiona w skórę księga, którą nosi Zoudou, była kiedyś używana przez szefa obozu drwali do śledzenia zysków i wydatków, ale tylko pierwsza ćwiartka stron zawiera te przyziemne adnotacje. Reszta dziennika wypełniona jest gęstymi notatkami i teoriami Zoudou na temat natury Kugaptee, Ściany Duchów i „raju”, który według niej znajduje się za ścianą. Wszystkie te notatki są napisane w mieszaninie chtonicznym i aklo, więc postać musi być w stanie czytać w obu językach, aby przestudiować ich treść. Postać, która potrafi czytać zarówno w Chtoniczny, jak i Aklo, może użyć dziennika do nauczenia się rytuału <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Konsekracja}</em>.</p>",
-                            "gmNote": "<p>Jeszcze większe wykorzystanie tych informacji zostanie odkryte w kolejnej przygodzie, gdzie wskazówki zawarte w notatkach Zoudou pomogą bohaterom otworzyć przejście przez Ścianę Duchów.</p>"
+                            "gmNote": "<p>Jeszcze większe wykorzystanie tych informacji zostanie odkryte w kolejnej przygodzie, gdzie wskazówki zawarte w notatkach Zoudou pomogą bohaterom otworzyć przejście przez Ścianę Duchów.</p>",
+                            "unidentified": "Poszarpana księga oprawiona w skórę",
+                            "unidentified_desc": "<p>Podniszczona, oprawiona w skórę księga, którą nosi Zoudou, była kiedyś używana przez szefa obozu tartacznego do śledzenia zysków i wydatków, ale tylko pierwsza ćwiartka stron zawiera te przyziemne adnotacje. Reszta dziennika wypełniona jest gęstymi notatkami Zoudou.</p>"
                         }
                     }
                 },
@@ -2580,7 +2588,9 @@
                         "Financial Paperwork": {
                             "name": "Dokumentacja finansowa",
                             "description": "<p>Dokumenty, które ujawniają fakt, że kłopoty finansowe herbaciarni zaczęły się na długo przed upadkiem Lung Wa. Dokumenty zawierają również dokument zatytułowany „Ostatnia wola i testament Qing Mai-Lai”.</p>",
-                            "gmNote": "<p>Bohaterowie wiedzą, że Mai-Lai była ostatnią właścicielką Herbaciarni Cerulean. Dokument ten jest kluczem do legalizacji roszczeń bohaterów do herbaciarni, jeśli chcą prowadzić ją jako biznes. Więcej informacji można znaleźć w @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04opportunitie00#the-teahouse-owners-will].</p>"
+                            "gmNote": "<p>Bohaterowie wiedzą, że Mai-Lai była ostatnią właścicielką Herbaciarni Cerulean. Dokument ten jest kluczem do legalizacji roszczeń bohaterów do herbaciarni, jeśli chcą prowadzić ją jako biznes. Więcej informacji można znaleźć w @UUID[JournalEntry.pf2ap19604thewil.JournalEntryPage.04opportunitie00#the-teahouse-owners-will].</p>",
+                            "unidentified": "Dokumentacja",
+                            "unidentified_desc": "<p>Dokumentacja Herbaciarni</p>"
                         }
                     }
                 },
@@ -2660,7 +2670,9 @@
                     "items": {
                         "Keys to C2": {
                             "name": "Klucze do C2",
-                            "description": "<p>Klucze Mo Douqiu</p>"
+                            "description": "<p>Klucze Mo Douqiu</p>",
+                            "unidentified": "Klucze Mo Douqiu",
+                            "unidentified_desc": "<p>Klucze Mo Douqiu</p>"
                         }
                     }
                 },
@@ -2930,7 +2942,9 @@
                     "items": {
                         "Desertation Documents": {
                             "name": "Dokumenty dotyczące dezercji",
-                            "description": "<p>Dokumenty porozrzucane po pokoju wskazują, że podczas gdy obóz drwali nadal produkował w ostatnich miesiącach, wstrząsy spowodowane upadkiem Lung Wa doprowadziły do niezgody i dezercji, które ostatecznie doprowadziły do opuszczenia tego miejsca.</p>"
+                            "description": "<p>Dokumenty porozrzucane po pokoju wskazują, że podczas gdy obóz drwali nadal produkował w ostatnich miesiącach, wstrząsy spowodowane upadkiem Lung Wa doprowadziły do niezgody i dezercji, które ostatecznie doprowadziły do opuszczenia tego miejsca.</p>",
+                            "unidentified": "Dokumenty",
+                            "unidentified_desc": "<p>Dokumenty biura obozu</p>"
                         }
                     }
                 },
