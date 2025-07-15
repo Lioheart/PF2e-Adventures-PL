@@ -92,4 +92,25 @@ div.adventure-importer.window-app.pf2e-km .window-content table thead th p
     font-size: 1.3rem !important;
 }
 
+div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level1 span.page-title,
+div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level2 span.page-title
+div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level3 span.page-title,
+div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level4 span.page-title
+{
+    font-family: 'RobotoCond' !important;
+}
+
+div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level1 span.page-title
+{
+    font-weight: 700;
+}
+
+div.journal-sheet.pf2e-km.window-app.journal-entry-page .journal-page-header h2,
+div.journal-sheet.pf2e-km.window-app section.journal-entry-content .journal-page-header h2,
+div.journal-sheet.pf2e-km.window-app.journal-entry-page .journal-page-header h3,
+div.journal-sheet.pf2e-km.window-app section.journal-entry-content .journal-page-header h3 
+{
+    font-family: 'BebasNeue' !important;
+}
+
 /* ------------------------------------------------------------------------------------- */
