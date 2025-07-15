@@ -41,7 +41,9 @@ div.adventure-importer.window-app.pf2e-km .window-content .left > h3,
 div.journal-sheet.window-app.pf2e-km .journal-page-content .right > h3,
 div.adventure-importer.window-app.pf2e-km .window-content .right > h3,
 div.journal-sheet.pf2e-km.window-app.journal-entry-page .journal-header input,
-div.journal-sheet.pf2e-km.window-app section.journal-entry-content .journal-header input
+div.journal-sheet.pf2e-km.window-app section.journal-entry-content .journal-header input,
+.pf2e-km.adventure-importer .window-content h1
+.pf2e-km.adventure-importer .window-content h2
 {
     font-family: 'Cinzel' !important;
     font-weight: 900 !important;
@@ -62,7 +64,7 @@ div.adventure-importer.window-app.pf2e-km .window-content p a.content-link,
 div.journal-sheet.window-app.pf2e-km .journal-page-content p a.inline-roll, 
 div.adventure-importer.window-app.pf2e-km .window-content p a.inline-roll 
 {
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 div.journal-sheet.window-app.pf2e-km .journal-page-content h3,
@@ -102,7 +104,7 @@ div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directo
 
 div.journal-sheet.pf2e-km.window-app.journal-entry aside.sidebar.flexcol.directory.journal-sidebar ol.directory-list li.directory-item.level1 span.page-title
 {
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 div.journal-sheet.pf2e-km.window-app.journal-entry-page .journal-page-header h2,
@@ -111,6 +113,14 @@ div.journal-sheet.pf2e-km.window-app.journal-entry-page .journal-page-header h3,
 div.journal-sheet.pf2e-km.window-app section.journal-entry-content .journal-page-header h3 
 {
     font-family: 'BebasNeue' !important;
+}
+
+section.import-options {
+    flex: 1.2 !important;
+}
+
+.adventure-importer .adventure-contents {
+    gap: 1.3rem !important;
 }
 
 /* ------------------------------------------------------------------------------------- */
