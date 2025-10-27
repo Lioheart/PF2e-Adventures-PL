@@ -28,7 +28,11 @@
     font-weight: 400;
 }
 
-
+@font-face {
+    font-family: 'Caveat';
+    src: url('../fonts/Caveat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400;
+}
 
 /* Kingmaker specific styles */
 /* ------------------------------------------------------------------------------------- */
@@ -124,3 +128,6 @@ section.import-options {
 }
 
 /* ------------------------------------------------------------------------------------- */
+.rusthenge .handout {
+    font-family: 'Caveat';
+}
