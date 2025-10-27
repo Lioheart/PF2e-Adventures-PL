@@ -10,6 +10,7 @@
 - Season of Ghosts - The Summer That Never Was
 - Season of Ghosts - Let the Leaves Fall
 - Pathfinder: Kingmaker
+- Pathfinder: Rusthenge
 
 ----
 ## Jak użyć?
