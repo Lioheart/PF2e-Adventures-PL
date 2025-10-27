@@ -2357,7 +2357,13 @@
                 },
                 "Bottle of “Carpenden”": {
                     "name": "Bottle of “Carpenden”",
-                    "tokenName": "Bottle of “Carpenden”"
+                    "tokenName": "Bottle of “Carpenden”",
+                    "items": {
+                        "Carpenden": {
+                            "name": "Carpenden",
+                            "description": "<p>A bottle of “Carpenden”—a mid-quality Taldan bubble wine worth 10 gp.</p>"
+                        }
+                    }
                 },
                 "Magical Storage": {
                     "name": "Magical Storage",
