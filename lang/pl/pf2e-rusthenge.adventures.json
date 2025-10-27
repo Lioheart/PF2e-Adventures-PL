@@ -1166,7 +1166,7 @@
                         },
                         "Terrifying Croak": {
                             "name": "Przerażający Rechot",
-                            "description": "<p>Bagienny zwiadowca wydaje z siebie przerażający rechot. Każdy nie-boggard w zasięgu @Template[type:emanation|distance:30] staje się @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Przestraszony 1}, chyba że powiedzie mu się @Check[type:will|dc:17] rzut obronny.</p><p>Ci, którym krytycznie się powiedzie, otrzymują tymczasowo Niewrażliwość na 1 minutę.</p>"
+                            "description": "<p>Boggard bagnowidz wydaje z siebie przerażający rechot. Każdy, kto nie jest boggardem i znajduje się w zasięgu @Template[emanation|distance:30] staje się @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Przestraszony 1}, chyba że powiedzie mu się rzut obronny @Check[will|dc:17].</p><p>Ci, którzy odniosą krytyczny sukces są tymczasowo niewrażliwi przez 1 minutę.</p>"
                         },
                         "Tongue Grab": {
                             "name": "Chwyt Językiem",
