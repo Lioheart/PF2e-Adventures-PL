@@ -15,7 +15,7 @@
                 "The Swordfish": "Miecznik",
                 "Stonehome": "Kamienny Dom",
                 "Temple of Xar-Azmak": "Świątynia Xar-Azmaka",
-                "Despoiler’s Deep": "Głębia Despoilera",
+                "Despoiler’s Deep": "Głębia Profanatora",
                 "Treasure": "Skarb",
                 "Summon Fiend": "Przywołanie Demona"
             },
@@ -315,7 +315,7 @@
                         },
                         "Priest’s Quarters": {
                             "name": "Kwatera kapłana",
-                            "text": "<h2 class=\"no-toc\">D5. Kwatera kapłana</h2> <p class=\"read-aloud\"> Te skromne komnaty zawierają mały, zakurzony materac, komodę i biurko do pisania. Na biurku stoi zardzewiała żelazna rzeźba przedstawiająca górę z wbitym w bok sztyletem. Knurr Ragnulf zajął tą kwaterę, gdy podążył za Meitremarem do tego starożytnego warsztatu. </p> <p> Knurr Ragnulf took these ancient high priest’s quarters for himself when he followed Meitremar into this ancient workshop. </p> <p> <strong>Skarb:</strong> @UUID[Actor.ikYX0UyNmAavfr2h]{Biurko}<br /> Klucze do zabezpieczonego magazynu w Kamiennym Domu (obszar @UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02securestorag00]{C21}) oraz do przekształconej w więzienie sali treningowej (@UUID[JournalEntry.pf2sa06403therus.JournalEntryPage.03prison00000000]{D7}) leżą tutaj na biurku. Sztylet można wyjąć z rzeźby; choć rdza zniszczyła ostrze, <em>runa mocy broni +1</em> wciąż działa i może zostać przeniesiona na inną broń w normalny sposób. </p>"
+                            "text": "<h2 class=\"no-toc\">D5. Kwatera kapłana</h2> <p class=\"read-aloud\"> Te skromne komnaty zawierają mały, zakurzony materac, komodę i biurko do pisania. Na biurku stoi zardzewiała żelazna rzeźba przedstawiająca górę z wbitym w bok sztyletem. </p> <p> Knurr Ragnulf zajął tą kwaterę, gdy podążył za Meitremarem do tego starożytnego warsztatu. </p> <p> <strong>Skarb:</strong> @UUID[Actor.ikYX0UyNmAavfr2h]{Biurko}<br /> Klucze do zabezpieczonego magazynu w Kamiennym Domu (obszar @UUID[JournalEntry.pf2sa06402messag.JournalEntryPage.02securestorag00]{C21}) oraz do przekształconej w więzienie sali treningowej (@UUID[JournalEntry.pf2sa06403therus.JournalEntryPage.03prison00000000]{D7}) leżą tutaj na biurku. Sztylet można wyjąć z rzeźby; choć rdza zniszczyła ostrze, <em>runa mocy broni +1</em> wciąż działa i może zostać przeniesiona na inną broń w normalny sposób. </p>"
                         },
                         "Cultist Quarters": {
                             "name": "Kwatery Kultystów",
@@ -1643,7 +1643,7 @@
                         },
                         "Rust Creep": {
                             "name": "Rdzawa Entropia",
-                            "description": "<p>U osób dotkniętych rdzawą entropią rozwijają się dokuczliwe, rdzawe siniaki na skórze. Cierpią one na bóle całego ciała, podobne do tych, które można odczuwać po wyczerpującym treningu. W miarę postępu dolegliwości, ich ciała, a także odzież i przedmioty, które noszą lub ze sobą mają, ulegają coraz większemu rozpadowi. Choroba kończy się bolesną śmiercią. Jeśli postać skutecznie oprze się zarażeniu rdzawą entropią lub wyzdrowieje z jej przypadku, staje się tymczasowo niewrażliwa na przyszłe infekcje tej choroby na 24 godziny.</p><p><strong>Rzut Obronny</strong> @Check[type:fortitude|dc:15]</p><p><strong>Etap 1</strong> –1 kara statusu do testów Atletyki (1 dzień)</p><p><strong>Etap 2</strong> jak etap 1 (1 dzień)</p><p><strong>Etap 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} (1 dzień)</p><p><strong>Etap 4</strong> Osłabiony 1 i @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ogłupiony 1}, a także każda zbroja, odzież i przedmioty, które nosisz, a które mają poziom równy lub niższy od poziomu choroby, stają się Popsute, gdy rozkład się na nie przenosi (1 dzień; zniszczone przedmioty pozostają zniszczone)</p><p><strong>Etap 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (1 dzień)</p><p><strong>Etap 6</strong> Nieprzytomny (1 dzień)</p><p><strong>Etap 7</strong> śmierć</p>"
+                            "description": "<p>U osób dotkniętych rdzawą entropią rozwijają się dokuczliwe, rdzawe siniaki na skórze. Cierpią one na bóle całego ciała, podobne do tych, które można odczuwać po wyczerpującym treningu. W miarę postępu dolegliwości, ich ciała, a także odzież i przedmioty, które noszą lub ze sobą mają, ulegają coraz większemu rozpadowi. Choroba kończy się bolesną śmiercią. Jeśli postać skutecznie oprze się zarażeniu rdzawą entropią lub wyzdrowieje z jej przypadku, staje się tymczasowo niewrażliwa na przyszłe infekcje tej choroby na 24 godziny.</p><p><strong>Rzut Obronny</strong> @Check[type:fortitude|dc:15]</p><p><strong>Etap 1</strong> –1 kara statusu do testów Atletyki (1 dzień)</p><p><strong>Etap 2</strong> jak etap 1 (1 dzień)</p><p><strong>Etap 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} (1 dzień)</p><p><strong>Etap 4</strong> Osłabiony 1 i @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ogłupiony 1}, a także każda zbroja, odzież i przedmioty, które nosisz, a które mają poziom równy lub niższy od poziomu choroby, stają się Popsute, gdy rozkład się na nie przenosi (1 dzień; zniszczone przedmioty pozostają zniszczone)</p><p><strong>Etap 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (1 dzień)</p><p><strong>Etap 6</strong> Nieprzytomny (1 dzień)</p><p><strong>Etap 7</strong> Śmierć</p>"
                         }
                     }
                 },
@@ -1676,7 +1676,7 @@
                         },
                         "Rust Creep": {
                             "name": "Rdzawa Entropia",
-                            "description": "<p>U osób dotkniętych rdzawą entropią rozwijają się dokuczliwe, rdzawe siniaki na skórze. Cierpią one na bóle całego ciała, podobne do tych, które można odczuwać po wyczerpującym treningu. W miarę postępu dolegliwości, ich ciała, a także odzież i przedmioty, które noszą lub ze sobą mają, ulegają coraz większemu rozpadowi. Choroba kończy się bolesną śmiercią. Jeśli postać skutecznie oprze się zarażeniu rdzawą entropią lub wyzdrowieje z jej przypadku, staje się tymczasowo niewrażliwa na przyszłe infekcje tej choroby na 24 godziny.</p><p><strong>Rzut Obronny</strong> @Check[type:fortitude|dc:15]</p><p><strong>Etap 1</strong> –1 kara statusu do testów Atletyki (1 dzień)</p><p><strong>Etap 2</strong> jak etap 1 (1 dzień)</p><p><strong>Etap 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} (1 dzień)</p><p><strong>Etap 4</strong> Osłabiony 1 i @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ogłupiony 1}, a także każda zbroja, odzież i przedmioty, które nosisz, a które mają poziom równy lub niższy od poziomu choroby, stają się Popsute, gdy rozkład się na nie przenosi (1 dzień; zniszczone przedmioty pozostają zniszczone)</p><p><strong>Etap 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (1 dzień)</p><p><strong>Etap 6</strong> Nieprzytomny (1 dzień)</p><p><strong>Etap 7</strong> śmierć</p>"
+                            "description": "<p>U osób dotkniętych rdzawą entropią rozwijają się dokuczliwe, rdzawe siniaki na skórze. Cierpią one na bóle całego ciała, podobne do tych, które można odczuwać po wyczerpującym treningu. W miarę postępu dolegliwości, ich ciała, a także odzież i przedmioty, które noszą lub ze sobą mają, ulegają coraz większemu rozpadowi. Choroba kończy się bolesną śmiercią. Jeśli postać skutecznie oprze się zarażeniu rdzawą entropią lub wyzdrowieje z jej przypadku, staje się tymczasowo niewrażliwa na przyszłe infekcje tej choroby na 24 godziny.</p><p><strong>Rzut Obronny</strong> @Check[type:fortitude|dc:15]</p><p><strong>Etap 1</strong> –1 kara statusu do testów Atletyki (1 dzień)</p><p><strong>Etap 2</strong> jak etap 1 (1 dzień)</p><p><strong>Etap 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Osłabiony 1} (1 dzień)</p><p><strong>Etap 4</strong> Osłabiony 1 i @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ogłupiony 1}, a także każda zbroja, odzież i przedmioty, które nosisz, a które mają poziom równy lub niższy od poziomu choroby, stają się Popsute, gdy rozkład się na nie przenosi (1 dzień; zniszczone przedmioty pozostają zniszczone)</p><p><strong>Etap 5</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Nieprzytomny} (1 dzień)</p><p><strong>Etap 6</strong> Nieprzytomny (1 dzień)</p><p><strong>Etap 7</strong> Śmierć</p>"
                         }
                     }
                 },
@@ -2083,8 +2083,8 @@
                     "tokenName": "Biurko"
                 },
                 "Secret Lab": {
-                    "name": "Sekretne labolatorium",
-                    "tokenName": "Sekretne labolatorium"
+                    "name": "Sekretne laboratorium",
+                    "tokenName": "Sekretne laboratorium"
                 },
                 "Corpses": {
                     "name": "Zwłoki",
@@ -2357,11 +2357,17 @@
                 },
                 "Bottle of “Carpenden”": {
                     "name": "Butelka „Carpenden”",
-                    "tokenName": "Butelka „Carpenden”"
+                    "tokenName": "Butelka „Carpenden”",
+                    "items": {
+                        "Carpenden": {
+                            "name": "Carpenden",
+                            "description": "<p>Butelka „Carpenden” – średniej jakości bąbelkowe wino z Taldanu o wartości 10 sztuk złota.</p>"
+                        }
+                    }
                 },
                 "Magical Storage": {
-                    "name": "Magiczna Przechowalnia",
-                    "tokenName": "Magiczna Przechowalnia"
+                    "name": "Magiczny magazyn",
+                    "tokenName": "Magiczny magazyn"
                 },
                 "East Arrows": {
                     "name": "Wschodnie strzały",
