@@ -1579,7 +1579,7 @@
                         },
                         "Salt Water Vulnerability": {
                             "name": "Podatność na Słoną Wodę",
-                            "description": "<p>Słona woda działa jak niezwykle silny kwas na larwę akata wewnątrz zombie pustki. Całkowite zanurzenie w słonej wodzie powoduje obrażenia @Damage[4d6[acid]] na rundę. W każdej rundzie, w której zombie pustki otrzymuje obrażenia z powodu swojej podatności do słonej wody, larwa akata wycofuje się w głąb ciała zombie pustki, powodując, że zombie pustki staje się @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Spowolniony 1} do końca swojej następnej tury.</p>"
+                            "description": "<p>Słona woda działa jak niezwykle silny kwas na larwę akaty, będącą wewnątrz zombie pustki. Całkowite zanurzenie w słonej wodzie powoduje obrażenia @Damage[4d6[acid]] na rundę. W każdej rundzie, w której zombie pustki otrzymuje obrażenia z powodu swojej podatności na słoną wodę, larwa akaty wycofuje się w głąb jego ciała, co sprawia, że zombie pustki staje się @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Spowolniony 1} do końca swojej następnej tury.</p>"
                         },
                         "Feed on Blood": {
                             "name": "Żywienie się Krwią",
