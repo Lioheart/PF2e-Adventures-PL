@@ -2121,7 +2121,7 @@
                             "description": "<p>Mechaniczny mag używa mechanicznej różdżki jako skupiska energii magicznej. Różdżka ta jest wbudowana w klatkę piersiową mechanicznego maga, a widoczny jest tylko kryształ na jej końcu. Mag może usunąć różdżkę za pomocą Interakcji, lub ktoś inny może ją usunąć za pomocą testu @Check[thievery|dc:25|traits:action:disable-a-device] do @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{Unieszkodliwienia Urządzenia}. Jeżeli różdżka zostanie usunięta mechaniczny mag nie może rzucać żadnych zaklęć z wyjątkiem sztuczek.</p><p>Po wyjęciu mechaniczna różdżka jest <em>@UUID[Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD]{Magiczną Różdżką}</em> zawierającą ostatnie zaklęcie 1. rangi rzucone przez mechanicznego maga (<em>@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]</em>, jeśli mechaniczna Belimarius nie rzuciła jeszcze zaklęcia 1. rangi w tej przygodzie). Zaklęcia są umieszczane w różdżce podczas tworzenia maga, a twórca może zastąpić je innymi zaklęciami tajemnymi odpowiedniej rangi.</p>"
                         },
                         "Dispelling Critical": {
-                            "name": "Rozpraszający Krytyk",
+                            "name": "Krytyczne Rozproszenie",
                             "description": "<p>W przypadku krytycznego trafienia halabardą, odłamki noqualu wbudowane w mechanizm Belimariusa świecą przez chwilę na zielono. Zamiast zadawać dodatkowe obrażenia od trafienia krytycznego, mechaniczna Belimarius próbuje wykonać test przeciwdziałania z premią [[/r 1d20+18 #Przeciwdziałanie]]{+18} przeciwko jednemu efektowi magicznemu, który jest aktywny na celu.</p>"
                         },
                         "Energize Clockwork Wand": {
