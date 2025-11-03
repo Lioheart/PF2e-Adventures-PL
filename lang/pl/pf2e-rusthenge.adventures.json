@@ -1444,7 +1444,7 @@
                         },
                         "No Hearing": {
                             "name": "Brak Słuchu",
-                            "description": "<p>Akata nie posiada zmysłu słuchu. Jest niewrażliwa na efekty słuchowe, automatycznie ponosi krytyczną porażkę w testach Percepcji wymagających słuchu i otrzymuje karę -2 do testów Percepcji (ale nie do rzutów inicjatywy), które dotyczą dźwięku, ale opierają się również na innych zmysłach.</p>"
+                            "description": "<p>Akata nie posiada zmysłu słuchu. Jest niewrażliwa na efekty słuchowe, automatycznie ponosi krytyczną porażkę w testach Percepcji wymagających słuchu i otrzymuje karę statusu -2 do testów Percepcji (ale nie do rzutów inicjatywy), które dotyczą dźwięku, ale opierają się również na innych zmysłach.</p>"
                         },
                         "No Breath": {
                             "name": "Bez Oddechu",
