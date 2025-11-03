@@ -1748,7 +1748,7 @@
                             "name": "Szczęki"
                         },
                         "Hurled Debris": {
-                            "name": "Zrzucone Szczątki"
+                            "name": "Rzucane Szczątki"
                         },
                         "Hatred of Mirrors": {
                             "name": "Nienawiść do Luster",
@@ -1756,11 +1756,11 @@
                         },
                         "Mutilating Bite": {
                             "name": "Okaleczające Ugryzienie",
-                            "description": "<p>Kiedy abrikandilu uderza stworzenie Atakiem szczęką, stworzenie musi wykonać rzut obronny @Check[fortitude|dc:21] lub zostanie fizycznie okaleczone.</p>\n<p>Stworzenie otrzymuje wtedy karę -1 statusu do testów opartych na Charyzmie. Kara ta kumuluje się do -3 i pozostaje nawet po wyleczeniu ran.</p>\n<p>Kara jest zmniejszana o 1 co 24 godziny, aż osiągnie wartość 0.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.LgZx5xotO08JzhVc]{Efekt: Okaleczające Ugryzienie}</p>"
+                            "description": "<p>Kiedy abrikandilu trafia stworzenie Atakiem szczęką, stworzenie musi wykonać rzut obronny @Check[fortitude|dc:21] lub zostanie fizycznie okaleczone.</p>\n<p>Stworzenie otrzymuje wtedy karę statusu -1 do testów opartych na Charyzmie. Kara ta kumuluje się do -3 i pozostaje nawet po wyleczeniu ran.</p>\n<p>Kara jest zmniejszana o 1 co 24 godziny, aż osiągnie wartość 0.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.LgZx5xotO08JzhVc]{Efekt: Okaleczające Ugryzienie}</p>"
                         },
                         "Wreck": {
                             "name": "Zdewastowanie",
-                            "description": "<p>Abrikandilu wykonuje dwa Ataki Pazurem przeciwko niechronionemu obiektowi lub trzymanym lustrem. Trzymane lustra wykorzystują KP postaci trzymającej.</p>\n<p>Jeśli oba Ataki trafią, należy zsumować ich obrażenia w celu pokonania Wytrzymałości lub odporności.</p>\n<p>Te Ataki nie wliczają się do kary za wielokrotne ataki abrikandilu, ani też kara ta nie ma zastosowania do tych Ataków.</p>"
+                            "description": "<p>Abrikandilu wykonuje dwa Ataki Pazurem przeciwko niechronionemu obiektowi lub trzymanemu lustru. Trzymane lustra wykorzystują KP postaci trzymającej.</p>\n<p>Jeśli oba Ataki trafią, należy zsumować ich obrażenia w celu pokonania Twardości lub odporności.</p>\n<p>Te Ataki nie wliczają się do kary za wielokrotne ataki abrikandilu, ani też kara ta nie ma zastosowania do tych Ataków.</p>"
                         }
                     }
                 },
@@ -2118,11 +2118,11 @@
                         },
                         "Clockwork Wand": {
                             "name": "Mechaniczna Różdżka",
-                            "description": "<p>Mechaniczny mag używa mechanicznej różdżki jako skupiska energii magicznej. Różdżka ta jest wbudowana w klatkę piersiową mechanicznego maga, a widoczny jest tylko kryształ na jej końcu. Mag może usunąć różdżkę za pomocą Interakcji, lub ktoś inny może ją usunąć za pomocą testu @Check[thievery|dc:25|traits:action:disable-a-device] do @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{Unieszkodliwienia Urządzenia}. Mag mechaniczny nie może rzucać żadnych zaklęć z wyjątkiem sztuczek, dopóki różdżka nie zostanie usunięta.</p>\n<p>Po wyjęciu mechaniczna różdżka jest <em>@UUID[Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD]{Magiczną Różdżką}</em> zawierającą ostatnie zaklęcie 1. rangi rzucone przez mechanicznego maga (@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D], jeśli mechaniczny Belimarius nie rzucił jeszcze zaklęcia 1. rangi w tej przygodzie). Zaklęcia są umieszczane w różdżce podczas tworzenia maga, a twórca może zastąpić je innymi zaklęciami tajemnymi odpowiedniego rzędu.</p>"
+                            "description": "<p>Mechaniczny mag używa mechanicznej różdżki jako skupiska energii magicznej. Różdżka ta jest wbudowana w klatkę piersiową mechanicznego maga, a widoczny jest tylko kryształ na jej końcu. Mag może usunąć różdżkę za pomocą Interakcji, lub ktoś inny może ją usunąć za pomocą testu @Check[thievery|dc:25|traits:action:disable-a-device] do @UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{Unieszkodliwienia Urządzenia}. Jeżeli różdżka zostanie usunięta mechaniczny mag nie może rzucać żadnych zaklęć z wyjątkiem sztuczek.</p><p>Po wyjęciu mechaniczna różdżka jest <em>@UUID[Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD]{Magiczną Różdżką}</em> zawierającą ostatnie zaklęcie 1. rangi rzucone przez mechanicznego maga (<em>@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]</em>, jeśli mechaniczna Belimarius nie rzuciła jeszcze zaklęcia 1. rangi w tej przygodzie). Zaklęcia są umieszczane w różdżce podczas tworzenia maga, a twórca może zastąpić je innymi zaklęciami tajemnymi odpowiedniej rangi.</p>"
                         },
                         "Dispelling Critical": {
                             "name": "Rozpraszający Krytyk",
-                            "description": "<p>W przypadku ataku krytycznego halabardą, odłamki noqualu wbudowane w mechanizm Belimariusa świecą przez chwilę na zielono. Zamiast zadawać dodatkowe obrażenia atakiem krytycznym, mechaniczny Belimarius próbuje wykonać test przeciwdziałania z premią [[/r 1d20+18 #Przeciwdziałanie]]{+18} przeciwko jednemu efektowi magicznemu aktywnemu na celu.</p>"
+                            "description": "<p>W przypadku krytycznego trafienia halabardą, odłamki noqualu wbudowane w mechanizm Belimariusa świecą przez chwilę na zielono. Zamiast zadawać dodatkowe obrażenia od trafienia krytycznego, mechaniczna Belimarius próbuje wykonać test przeciwdziałania z premią [[/r 1d20+18 #Przeciwdziałanie]]{+18} przeciwko jednemu efektowi magicznemu, który jest aktywny na celu.</p>"
                         },
                         "Energize Clockwork Wand": {
                             "name": "Zasilenie Mechanicznej Różdżki",
