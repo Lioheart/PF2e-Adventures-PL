@@ -1583,7 +1583,7 @@
                         },
                         "Feed on Blood": {
                             "name": "Żywienie się Krwią",
-                            "description": "<p><strong>Wymagania</strong> Poprzednia akcja zombie pustki była udanym Atakiem żerującej macki przeciwko docelowej istocie.</p>\n<hr />\n<p><strong>Efekt</strong> Zombie pustki używa swoich macek, aby wyssać krew z stworzenia z ataku. Zombie pustki odzyskuje @Damage[4[healing]] Punktów Wytrzymałości, a stworzenie jest @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Wysączone 1} do momentu, aż otrzyma jakiekolwiek leczenie.</p>"
+                            "description": "<p><strong>Wymagania</strong> Poprzednia akcja zombie pustki była udanym Atakiem żerującej macki przeciwko docelowej istocie.</p>\n<hr />\n<p><strong>Efekt</strong> Zombie pustki używa swoich macek, aby wyssać krew z zaatakowanego stworzenia. Zombie pustki odzyskuje @Damage[4[healing]] Punktów Wytrzymałości, a stworzenie jest @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Wysączone 1} do momentu, aż otrzyma jakiekolwiek leczenie.</p>"
                         }
                     }
                 },
