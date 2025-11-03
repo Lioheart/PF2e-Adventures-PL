@@ -1452,7 +1452,7 @@
                         },
                         "Salt Water Vulnerability": {
                             "name": "Podatność na Słoną Wodę",
-                            "description": "<p>Słona woda działa na akata jak niezwykle silny kwas. Całkowite zanurzenie w słonej wodzie powoduje obrażenia @Damage[4d6[acid]] na rundę.</p>"
+                            "description": "<p>Słona woda działa na akatę jak niezwykle silny kwas. Całkowite zanurzenie w słonej wodzie powoduje @Damage[4d6[acid]] obrażeń na rundę.</p>"
                         },
                         "Void Death": {
                             "name": "Pustka Śmierci",
